@@ -6,11 +6,15 @@ import zip from "bestzip"
 
   const includes = Object.values(mod.files).flat()
 
-  zip({
+  console.log("Zipping...")
+
+  await zip({
     source: [
       "mod.json",
       ...includes
     ],
     destination: "./omori_de.zip"
   })
+
+  console.info("Wrote to omori_de.zip")
 })()
