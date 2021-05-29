@@ -1,0 +1,50 @@
+message_1:
+  text: A RECYCLING MACHINE.\!<br>Willst du etwas einfügen?
+message_2:
+  text: Die RECYCLING MACHINE hat [X] CLAMS ausgegeben.\!<br>Danke, dass du deinen Teil dazu beiträgst, die Umwelt sauber zu halten.
+message_3:
+  text: Du hast nichts, was recycelbar ist.
+message_4:
+  text: Du legst ein [X] in die RECYCLING MACHINE.
+message_20:
+  text: CAN
+message_21:
+  text: GLASFLASCHE
+message_22:
+  text: KARTON
+message_23:
+  text: TOTE BATTERIEN
+message_24:
+  text: COMPUTERTEILE
+message_25:
+  text: Eine RECYCLING-MASCHINE.<br>Was würdest du gerne recyceln?
+message_5:
+  text: Du legst ein \c[5]CAN\c[0] in die RECYCLING MACHINE.
+message_6:
+  text: Die RECYCLING MACHINE hat 5 CLAMS ausgegeben.\!<br>Danke, dass du deinen Teil dazu beiträgst, die Umwelt sauber zu halten.
+message_15:
+  text: Du hast kein \c[5]CAN\c[0] zum Recyceln.
+message_7:
+  text: Du legst eine \c[5]GLASFLASCHE\c[0] in die RECYCLING-MASCHINE.
+message_8:
+  text: Die RECYCLING MACHINE hat 10 CLAMS ausgegeben.\!<br>Danke, dass du deinen Teil dazu beiträgst, die Umwelt sauber zu halten.
+message_16:
+  text: Du hast keine \c[5]GLASFLASCHE\c[0] zum Recyceln.
+message_9:
+  text: Du legst \c[5]CARDBOARD\c[0] in die RECYCLING-MASCHINE.
+message_10:
+  text: Die RECYCLING MACHINE hat 15 CLAMS ausgegeben.\!<br>Danke, dass du deinen Teil dazu beiträgst, die Umwelt sauber zu halten.
+message_17:
+  text: Du hast kein \c[5]CARDBOARD\c[0] zum Recyceln.
+message_11:
+  text: Du legst \c[5]DEAD BATTERIES\c[0] in die RECYCLING MACHINE.
+message_12:
+  text: Die RECYCLING MACHINE hat 20 CLAMS ausgegeben.\!<br>Danke, dass du deinen Teil dazu beiträgst, die Umwelt sauber zu halten.
+message_18:
+  text: Du hast keine \c[5]DEAD BATTERIES\c[0] zum Recyceln.
+message_13:
+  text: Du legst \c[5]COMPUTERTEILE\c[0] in die RECYCLING-MASCHINE.
+message_14:
+  text: Die RECYCLING MACHINE hat 25 CLAMS ausgegeben.\!<br>Danke, dass du deinen Teil dazu beiträgst, die Umwelt sauber zu halten.
+message_19:
+  text: Du musst \c[5]COMPUTERTEILE\c[0] nicht recyceln.

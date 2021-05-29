@@ -1,0 +1,316 @@
+message_0:
+  text: Irgendjemand! Bitte, hilf mir!\! <br>Ich bin auf der Suche nach einem gutaussehenden jungen Herrn!\n<MUSTACHE MOLE>
+message_1:
+  text: Du... Ja!\n<MUSTACHE MOLE>
+message_2:
+  text: Du da, in der gestreiften Hose.\! Du \quake[1]herrliches Biest!<br>Ja... Ohohoho... Ja, du siehst aus, als würdest du es gut machen!\n<MUSTACHE MOLE>
+message_3:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 47
+  text: H-Huh?\! Wow... Äh...\! W-warum, danke! <br>Ich-ich weiß nicht, was ich sagen soll...\her
+message_4:
+  text: Bitte, freundlicher Herr. Wirst du einem armen, niederen Maulwurf helfen?\! <br>Ich bin verzweifelt auf deine Dienste angewiesen.<br><MUSTACHE MOLE>
+message_5:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 37
+  text: Nun, da du so nett gefragt hast... Wie kann ich da ablehnen?\her
+message_6:
+  text: Danke schön! Ich danke dir, junger Mann! Du bist zu großzügig.\! <br>Bitte, komm jetzt hier entlang. Chop-chop!\n<MUSTACHE MOLE>
+message_7:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 46
+  text: W-warte, warte mal! Können meine Freunde auch mitkommen?\her
+message_8:
+  text: Ah, ja! Deine Freunde!\n<MUSTACHE MOLE>
+message_9:
+  text: Ihr seid alle hier, um \"SWEETHEART'S QUEST\" zu sehen, ja?\!<br>Wenn das so ist, werdet ihr euch alle früh genug wiedersehen.\n<MUSTACHE MOLE>
+message_10:
+  text: Jetzt kommt, Herr! Wir müssen uns beeilen. Die Zeit ist knapp!\n<MUSTACHE MOLE>
+message_11:
+  text: HERO hat die Party verlassen.
+message_12:
+  text: Bist du bereit, deine Plätze in der ersten Reihe einzunehmen?
+message_30:
+  text: Grüße, SWEETHEART Fans.<br>Wir entschuldigen uns für die kurze Pause.\! <br>Willkommen zurück zu unserem regulären Programm!\smm
+message_31:
+  text: In der Pause müssen wir euch leider mitteilen, dass sich genau hier auf dieser Bühne ein tragischer Unfall ereignet hat.\smm
+message_32:
+  text: Zu diesem Zeitpunkt geben wir den plötzlichen Verlust von<br>CONTESTANT \#3...\smm
+message_33:
+  text: Wir werden ihn für die wenigen Sekunden, die wir ihn kennenlernen durften, in guter Erinnerung behalten.\! Er war wirklich eine einzigartige und unersetzliche Seele.\smm
+message_34:
+  text: \Com[2]\{\sinv[1]ABER DIE SHOW MUSS WEITERGEHEN!!\smm
+message_35:
+  text: Bitte heiße unseren neuen KONTESTANTEN \#3...\!<br>Er kommt den ganzen Weg aus dem \c[11]VAST FOREST\c[0]...\!<br>Es ist unser HERO in glänzender Rüstung!\smm
+message_36:
+  text: Hört euch das an, Leute!<br>Hero ist ein echter Brocken, er ist ganze 1,70m groß!
+message_37:
+  text: Seine Leidenschaften sind Backen, Kochen und Putzen...<br>Und wenn das nicht nach dem perfekten Mann klingt, dann sieh dir sein Killerlächeln und seine milde Persönlichkeit an!<br>
+message_38:
+  text: Und jetzt, wieder einmal...<br>ist es Zeit, den Star der Show vorzustellen!<br>
+message_39:
+  text: \DIMMEN SIE DIE LICHTER, BITTE!!!
+message_40:
+  text: \sinv[1]Sie strahlt...\|Schönheit... \|Sie strahlt...Anmut aus...<br>Sie hat wirklich...<br>das schönste Gesicht...<br>
+message_41:
+  text: Ja!\! Du weißt, von wem wir sprechen!<br>\!Sie ist all das, was erstaunlich und wunderbar ist, und sie ist gerade dabei, einen Fuß auf genau diese Bühne zu setzen!<br>
+message_42:
+  text: Sie ist die eine... \!die Einzige... \!die großartige...\smm
+message_43:
+  text: \Com[2]\sinv[2]OHOHO\{HOHOHO\{HOHOHO\{HOHO!!\swh
+message_44:
+  text: \Com[2]\sinv[2]\{OHOH\{OHOHOHOHO\{HOHOHOHOHO!!!\swh
+message_45:
+  text: \Com[2]\sinv[2]\{\{OH\Com[2]OHO\{HO\Com[2]HOHO\Com[2]\{HO\Com[2]HOHOHOHO!!!\swh
+message_46:
+  text: Ein exzellenter Auftritt, mein Lehnsherr!\smm
+message_47:
+  text: \sinv[2]\{\{AHHHHHHHH YES!!\! ICH BIN ES!!!\swh
+message_48:
+  text: Hallo, meine dummen, verehrenden Fans!\swh
+message_49:
+  text: \sinv[1]Wir lieben dich SWEETHEART!<br>Ja, du bist der Beste!\n<STUPID ADORING FANS>
+message_50:
+  text: \Com[2]\sinv[2]\{\{OH\Com[2]OHO\{HO\Com[2]HOHO\Com[2]\{HO\Com[2]HOHOHOHO~!!!\swh
+message_51:
+  text: SCHÄTZCHEN...\! Wir haben drei der besten Junggesellen der Welt auf diese Bühne gebracht.\! Wird heute der Tag sein, an dem einer von ihnen dein Herz stiehlt?\smm
+message_52:
+  text: Lass uns mit ein paar Fragen beginnen.\! <br>Eine Sache, die SWEETHEART bei einem Gefährten am meisten schätzt, ist vollständiger und absoluter Gehorsam!\smm
+message_106:
+  text: Bist du, WETTBEWERBER \#1, damit einverstanden...\! SWEETHEART für den Rest deines Lebens die Treue zu schwören?\!<br>WETTBEWERBER \#1! Wie lautet deine Antwort?\smm
+message_53:
+  text: Äh...\! Klar. \!Ich weiß nicht... \!Ich denke...\n<CONTESTANT \#1>
+message_54:
+  text: Du spielst mit dem Unnahbaren, wie ich sehe! Was denkst du über diese Antwort, SWEETHEART?\smm
+message_55:
+  text: Mmmmh... Nur einen Meter groß?\! Meine Güte, das ist viel zu kurz!\! <br>Schick ihn weg...\! \Com[2]to \c[11]THE DUNGEON\C[0]!\swh
+message_56:
+  text: Hey... W-Was hast du gesagt?\! \c[11]DER D-DUNGEON\c[0]?\n<CONTESTANT \#1>
+message_57:
+  text: \{\sinv[1]HEE\{LLLPPP\{PP ME!!!\sinv[0]\n<CONTESTANT \#1>
+message_58:
+  text: Nun zum WETTBEWERBER \#2.\! Wir stellen dir die gleiche Frage.\! <br>Es gibt keine richtige oder falsche Antwort. Antworte einfach wahrheitsgemäß!\smm
+message_59:
+  text: CONTESTANT \#2...\!<br>Willst du SWEETHEART für den Rest deines Lebens die Treue schwören?\smm
+message_60:
+  text: Naja, äh...\! klar!<br>Wenn das bedeutet, dass ich nicht zu \c[11]THE DUNGEON\C[0] geschickt werde...\n<CONTESTANT \#2>
+message_61:
+  text: Mein Wort! Dieser hier...\! Allein sein Dasein beleidigt mich.\! <br>Schafft ihn weg, Jungs!\swh
+message_62:
+  text: KANDIDAT \#3! Es sieht so aus, als wärst du der letzte, der noch steht.<br>Ich werde die gleiche Frage noch einmal stellen.<br>Noch einmal, ganz ohne Druck.<br>
+message_63:
+  text: Willst du, HERO, SWEETHEART für den Rest deines Lebens die Treue schwören?\smm
+message_64:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 43
+  text: ...\her
+message_65:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 39
+  text: Na ja... Nein, das scheint überhaupt nicht fair zu sein.\!<br>Warum sollte ich das tun?
+message_66:
+  text: Mein...\! Dieser hier.\! Er ist absolut makellos!\! <br>Kann das sein?\! Ist SWEETHEART...\! \sinv[1]verliebt?\swh
+message_67:
+  text: \{Com[2]WAS FÜR EINE AUFREGENDE WENDUNG DER EREIGNISSE!\!\}<br>Das muss Schicksal sein! Eine himmlische Verbindung!\smm
+message_68:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 46
+  text: W-Warte, aber ich habe doch gerade gesagt-\her
+message_69:
+  text: \sinv[1]\{AH, YES, YES! YOU'LL DO JUST FINE.\!\}<br>Nun, wie war noch mal dein Name?\swh
+message_70:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 47
+  text: H-Huh? \! I-It's uh...\! Es ist HERO, Ma'am...\her
+message_71:
+  text: HERO!\! \Com[2]Mein HERO!\! Wir müssen sofort in meine Gemächer gehen!\swh
+message_72:
+  text: Wachen! Ich habe meinen Verehrer gewählt!<br>\{Take HIM AWAY!}swh
+message_73:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 46
+  text: \{GUYS! BITTE... TUT ETWAS!!!\her
+message_74:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 19
+  text: Whoa! HERO wird SWEETHEART heiraten?<br>Das habe ich überhaupt nicht kommen sehen!<br>
+message_75:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 10
+  text: KEL, was sagst du da!? Wir müssen ihm helfen!\aub
+message_76:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 28
+  text: Was soll ich dagegen tun? <br>Ich will nicht zu \c[11]THE DUNGEON\c[0]!\kel
+message_77:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 11
+  text: Ugh... KEL. Du bist so nutzlos.\aub
+message_78:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 10
+  text: HERO!\! Du musst SWEETHEART ablehnen!\aub
+message_79:
+  text: \sinv[1]Es ist soweit, HERO! Deine Prinzessin wartet!\swh
+message_80:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 40
+  text: Uhh... ich glaube nicht, dass sie auf mich hören wird.\her
+message_81:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 10
+  text: \Com[2]\{JUST DO IT ALREADY!!!\aub
+message_82:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 42
+  text: ...\her
+message_83:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 44
+  text: Okay, ich werde es versuchen
+message_84:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 39
+  text: Entschuldigen Sie...\! SWEETHEART...\! ma'am?\her
+message_85:
+  text: \sinv[1]Ah, ja... Mein lieblicher HERO!<br>Wie sehr ich mich nach dem Klang deiner süßen Stimme sehne!<br>Sag meinen Namen noch einmal!<br>Sinv[0]\swh
+message_86:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 47
+  text: Wow, haha... Das ist so nett von dir...\! Ich meine...\her
+message_87:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 40
+  text: \}Seufz... Warum muss ich das tun?\her
+message_88:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 47
+  text: Ähm...\!<br>Es tut mir leid, SWEETHEART, aber...\! Ich bin...\! nicht...\! interessiert...\her
+message_89:
+  text: Warum... Was immer du meinst, mein Prinz?\swh
+message_90:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 40
+  text: Ich...\! äh...\! Das ist alles sehr schmeichelhaft und so, aber, weißt du...<br>Wir haben uns gerade erst kennengelernt...<br>und...\her
+message_91:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 47
+  text: Nun...\! Ich muss dein...\! ähm...\! Angebot ablehnen?\her
+message_92:
+  text: Oh, pish-posh! Oh, sei nicht albern, HERO! <br>Ich habe noch nie etwas Alberneres gehört!
+message_93:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 40
+  text: Es...\! Es ist wahr.\!<br>Es tut mir leid, SWEETHEART, aber...\her
+message_94:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 48
+  text: Ich...\! will...\! nicht...\! dich heiraten
+message_95:
+  text: ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... \swh
+message_96:
+  text: Das...\! Das ist lächerlich...\! ...\!<br>Nein...\! Das...\! \Com[2]Das ist Blasphemie!\swh
+message_97:
+  text: \WAGST DU ES, SWEETHEART ABZULEHNEN?!?
+message_98:
+  text: <br>JEDER LIEBT SWEETHEART!!!<br>HÖRST DU MICH!? JEDER!!!\swh
+message_99:
+  text: \{SENDEN SIE IHN IN DEN DUNGEON\C[0]!!!\swh
+message_100:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 10
+  text: Hey! Bleib sofort stehen!<br>Du kannst HERO nicht mitnehmen. Er gehört zu uns!\aub
+message_101:
+  text: Was ist das denn jetzt?<br>Was macht ein Nicht-SWEETHEART-Fan im Publikum?<br>
+message_102:
+  text: Ah...\! Ich verstehe...\! Ihr müsst die Fans von HERO sein!\swh
+message_103:
+  text: Ihr habt echt Nerven...<br>Erst macht ihr mich lächerlich... dann unterbrichst du mich während meiner eigenen Show!
+message_104:
+  text: Ich bin derjenige, der hier die Regeln macht!
+message_105:
+  text: \com[2]WÄCHTER! TAKE THEM AWAY!!\swh
+message_107:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 31
+  text: Jetzt hast du es geschafft, AUBREY...\kel
+message_130:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 20
+  text: Aww man...\! jetzt stecken wir alle in \c[11]THE DUNGEON\C[0]...\kel
+message_131:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 40
+  text: Sorry, Leute. Es ist meine Schuld, dass wir alle in diesem Schlamassel stecken.\her
+message_132:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 4
+  text: Nein, es ist nicht HERO...<br>Niemand hätte das vorhersehen können.<br>
+message_133:
+  text: Ohohohoho...\who
+message_134:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 39
+  text: Hey, ich erinnere mich an dich!<br>Du bist dieser SPROUT MOLE, der mich gefragt hat, ob ich bei der Show mitmache!<br>Du glaubst, dass du uns hier rausholen kannst?<br>
+message_135:
+  text: Ohohohoho...\n<MUSTACHE MOLE>
+message_136:
+  text: \sinv[2]OHOH\{OHOH\{OHOH\{OHOH\{OHOH~!!\n<MUSTACHE MOLE>
+message_137:
+  text: \{YOU FOOLS!\n<MUSTACHE MOLE>
+message_138:
+  text: Erkennst du mich nicht!?\n<MUSTACHE MOLE>
+message_139:
+  text: \{\Com[2]IT'S ME!\! ROSA!!!\!\}<br>Der \#1 SWEETHEART Fan der Welt!\ros
+message_140:
+  text: Ich habe euch gesagt, dass ihr alle dafür bezahlen werdet, wenn ihr mich verärgert!
+message_141:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 31
+  text: Verflucht! Wir wurden reingelegt! \kel
+message_142:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 30
+  text: Ich hätte wissen müssen, dass du dahinter steckst, ROSA!
+message_143:
+  text: Es ist wahr, was man sagt... <br>\{REVENGE IS SWEET!!!\ros
+message_144:
+  text: Nun verrottet, ihr Peons! Verrottet in \c[11]THE DUNGEON\C[0] für immer! \ros
+message_145:
+  text: \sinv[2]\{\Com[2]OHOH\{OHOH\{OHOH\{OHOH~!!\ros
+message_146:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 40
+  text: Dangit... Wie sollen wir hier jemals rauskommen?\her
+message_147:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 10
+  text: Wir finden einen Weg!\!<br>Kommt schon, Leute... Lasst uns darüber nachdenken.\aub
+message_148:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 40
+  text: Wo fangen wir überhaupt an?\! <br>Es ist ja nicht so, dass sie das Tor einfach unverschlossen lassen würden...<br>oder doch?\
+message_170:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 2
+  text: Schau, da!
+message_171:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 3
+  text: Wir sind endlich am Ausgang! \aub
+message_172:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 18
+  text: \{\sinv[1]WOO-HOO!! FREIHEIT ZUM ENDE!!!\sinv[0]\kel
+message_173:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 42
+  text: Lass uns hier verschwinden...<br>Ich will nie wieder in meinem Leben eine SPROUT MOLE sehen.<br>
+message_200:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 9
+  text: Wo gehst du hin, OMORI! Wir müssen uns die Show ansehen!\aub
+message_201:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 10
+  text: Halt dich fest, OMORI!\! Wir können nicht einfach ohne HERO!\aub gehen

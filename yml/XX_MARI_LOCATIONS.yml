@@ -1,0 +1,326 @@
+message_1:
+  faceset: MainCharacter_Mari
+  faceindex: 0
+  text: \marHey, OMORI! Wie geht es euch allen?
+message_2:
+  faceset: MainCharacter_Mari
+  faceindex: 4
+  text: \marNeulich hat NOSE mir von einem süßen kleinen Blatt erzählt, das sie getroffen hat...\! aber...\! als sie versuchte, seine Freundin zu sein, wollte es nur darüber reden, wie sehr es Häschen hasst...
+message_3:
+  faceset: MainCharacter_Mari
+  faceindex: 5
+  text: <br>Wie kann jemand Hasen hassen!!!<br>Ich verstehe manche Leute einfach nicht...
+message_10:
+  faceset: MainCharacter_Mari
+  faceindex: 0
+  text: \marHallo, ihr alle! Ihr seid alle gerade noch rechtzeitig für ein schönes Picknick gekommen!
+message_11:
+  faceset: MainCharacter_Mari
+  faceindex: 3
+  text: \marFühl dich frei, dich hier auszuruhen!\! Es ist schon alles vorbereitet,<br>und ich habe sogar etwas Obst mitgebracht!
+message_12:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 18
+  text: \kelMampf, mampf, mampf...\!<br>\Com[2]Woo-hoo! Danke, MARI! Du bist die Beste!
+message_13:
+  faceset: MainCharacter_Mari
+  faceindex: 0
+  text: \marOh, es ist nichts...\! Ich versuche nur, auf euch alle aufzupassen...
+message_14:
+  faceset: MainCharacter_Basil
+  faceindex: 1
+  text: \basAww, MARI... Ich wünschte, ich könnte mehr wie du sein!<br>Du scheinst immer alles unter Kontrolle zu haben.
+message_15:
+  faceset: MainCharacter_Mari
+  faceindex: 2
+  text: \marDas stimmt überhaupt nicht!\!<br>Es scheint nur von außen so zu sein!
+message_16:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 36
+  text: \her So oder so, du scheinst alles einfach aussehen zu lassen.
+message_17:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 1
+  text: \aubJa, ich stimme zu!\! MARI ist so mühelos anmutig...
+message_18:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 2
+  text: \aubDon't you think so, OMORI?
+message_19:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 9
+  text: \aubOMORI, hör auf rumzualbern!\!<br> Behandelt man so seine große Schwester?
+message_20:
+  faceset: MainCharacter_Mari
+  faceindex: 6
+  text: \mar\sinv[1]Awwwww...\sinv[1]\! Ich schätze, ich muss es ein bisschen glauben, wenn ihr alle so denkt!
+message_21:
+  faceset: MainCharacter_Basil
+  faceindex: 1
+  text: \basMein Haus ist gleich hier unten...\!<br>Sind wir alle bereit zu gehen?
+message_23:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 1
+  text: \aubIch bin bereit, wenn du es bist!
+message_24:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 18
+  text: \kel Wir sehen uns später, MARI!
+message_25:
+  faceset: MainCharacter_Mari
+  faceindex: 3
+  text: \marLass es mich wissen, wenn du etwas brauchst!\!<br>Bis bald!
+message_26:
+  faceset: MainCharacter_Mari
+  faceindex: 3
+  text: \marKomm schon, OMORI! Nimm etwas Obst!\! Obst ist gut für dich!
+message_27:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 9
+  text: \aubOMORI...\! MARI hat sich die Mühe gemacht, all diese köstlichen Früchte für uns zu sammeln und du gehst einfach so vorbei?
+message_30:
+  faceset: MainCharacter_Mari
+  faceindex: 0
+  text: \marOh, hey OMORI! Schön, dich hier oben zu sehen.
+message_31:
+  faceset: MainCharacter_Mari
+  faceindex: 2
+  text: \marDer Wind hier ist stärker als am Boden.<br>Ich frage mich, warum das so ist...
+message_32:
+  faceset: MainCharacter_Mari
+  faceindex: 3
+  text: \marScheint das perfekte Wetter zu sein, um einen Drachen steigen zu lassen!
+message_40:
+  faceset: MainCharacter_Mari
+  faceindex: 0
+  text: \marWillkommen in \c[11]OTHERWORLD\c[0]...\! Ein inoffizieller Boxenstopp für müde Weltraumreisende und ein beliebter familienfreundlicher Campingplatz!
+message_41:
+  faceset: MainCharacter_Mari
+  faceindex: 3
+  text: \mar\sinv[1]Ahhhhhhh...\!\sinv[0]<br>Liebst du nicht auch den Geruch von Feuerholz?\! Und das Geräusch von fließendem Wasser?\! Und die knackige Raumbrise?
+message_42:
+  faceset: MainCharacter_Mari
+  faceindex: 2
+  text: \Das alles macht die große Leere des Weltraums ein wenig erträglicher, meinst du nicht?
+message_50:
+  faceset: MainCharacter_Mari
+  faceindex: 0
+  text: \marHey, OMORI... Ist dieser Ort nicht hübsch?<br>Der Schnee kommt so langsam herunter, aber am Ende scheinen alle Teile genau an ihren Platz zu fallen.
+message_51:
+  faceset: MainCharacter_Mari
+  faceindex: 3
+  text: \marIt erinnert mich daran, geduldig zu sein.
+message_52:
+  faceset: MainCharacter_Mari
+  faceindex: 2
+  text: \marHey, ich weiß!\! Wir sollten einmal Schlittschuhlaufen gehen!<br>Hört sich das nicht lustig an, OMORI?
+message_60:
+  faceset: MainCharacter_Mari
+  faceindex: 0
+  text: \marHey, allerseits! Ich hoffe, ihr habt alle Spaß! <br>Ich habe das Gerümpel hier entrümpelt und ein perfektes Brathähnchen gefunden.
+message_61:
+  faceset: MainCharacter_Mari
+  faceindex: 6
+  text: \marSiehst du, OMORI? Putzen hat seine Vorteile!\!<br>Ja!\! Ich muss ein Vorbild sein für meinen manchmal unordentlichen<br>kleinen Bruder!
+message_70:
+  faceset: MainCharacter_Mari
+  faceindex: 2
+  text: \marOh, ich bin so erleichtert, dass ihr alle endlich aufgetaucht seid!
+message_71:
+  faceset: MainCharacter_Mari
+  faceindex: 5
+  text: <br>Dieser Wald ist voll von gruseligen Krabbeltieren...<br>Das macht mir echt Angst!
+message_72:
+  faceset: MainCharacter_Mari
+  faceindex: 4
+  text: <br>Nicht zu vergessen, dass ich immer wieder Geräusche von da vorne höre...<br>Es scheint, als könnte es etwas potentiell Gefährliches sein, also<br>solltet ihr euch wohl alle ausruhen.
+message_73:
+  faceset: MainCharacter_Mari
+  faceindex: 0
+  text: \marYup!\! Die große Schwester ist immer vorbereitet!<br>\!Du kannst auf mich zählen, OMORI!
+message_74:
+  faceset: MainCharacter_Mari
+  faceindex: 0
+  text: \marDieser Ort ist wirklich überwuchert, nicht wahr?\! Ihr seid alle so mutig, dass ihr durch diesen Wald geht!
+message_75:
+  faceset: MainCharacter_Mari
+  faceindex: 0
+  text: \marHier läuft sogar ein alter Minenkarren durch...\! Ich frage mich, wofür sie benutzt wurde?
+message_80:
+  faceset: MainCharacter_Mari
+  faceindex: 3
+  text: \marDiese SPROUT MOLES sind so lustige kleine Kreaturen...\!<br>Ich möchte einfach eine in die Hand nehmen und zerquetschen! Hehe!
+message_81:
+  faceset: MainCharacter_Mari
+  faceindex: 2
+  text: \marWusstest du das? SPROUT MOLES lieben wirklich \c[3]TOFU\c[0]!<br>Ich habe vorhin an einem \c[3]TOFU\c[0] Stand welche gekauft...<br>Du kannst gerne welche probieren!
+message_90:
+  faceset: MainCharacter_Mari
+  faceindex: 2
+  text: \marHey, Gang...\! Scheint so, als würdet ihr alle in einer kleinen Klemme stecken, also...
+message_91:
+  faceset: MainCharacter_Mari
+  faceindex: 6
+  text: \marIch habe ein paar Gurken reingeschmuggelt! Hehe...
+message_92:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 31
+  text: \kelAwww... Igitt!\! Ich hasse Essiggurken!<br> Kannst du das nächste Mal stattdessen etwas Marmelade reinschmuggeln?
+message_93:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 27
+  text: \kelAber...\! Ich mag keine Gurken...
+message_95:
+  faceset: MainCharacter_Mari
+  faceindex: 2
+  text: \marHey, OMORI! Rate mal!\!<br>Der Sand hier...\! ist gar kein Sand!\! Es ist brauner Zucker!
+message_96:
+  faceset: MainCharacter_Mari
+  faceindex: 0
+  text: \marNun, ist das nicht süß? Hehe!
+message_97:
+  faceset: MainCharacter_Mari
+  faceindex: 2
+  text: <br>Doch es ist wirklich heiß hier draußen...<br>Gedenkt alle daran, hydriert zu bleiben!
+message_100:
+  faceset: MainCharacter_Mari
+  faceindex: 0
+  text: \marHier in \c[11]RAIN TOWN\c[0], scheint es immer ein bisschen zu regnen...
+message_101:
+  faceset: MainCharacter_Mari
+  faceindex: 6
+  text: \marEs sind nicht die idealsten Wetterbedingungen für ein Picknick, aber das hat mich noch nie aufgehalten!
+message_102:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 18
+  text: \kelYeah! Jederzeit ist eine gute Zeit für ein Picknick!
+message_103:
+  faceset: MainCharacter_Mari
+  faceindex: 6
+  text: \marHehe... Das ist richtig, KEL!<br>!Jederzeit ist eine gute Zeit, besonders mit Freunden!
+message_110:
+  faceset: MainCharacter_Mari
+  faceindex: 2
+  text: \marHey, Gang...\! Scheint so, als ob ihr alle ein bisschen in der Klemme steckt, also...
+message_111:
+  faceset: MainCharacter_Mari
+  faceindex: 6
+  text: \marIch habe dir Marmelade mitgebracht!
+message_112:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 18
+  text: \kel\{Com[2]JAM!!! \Com[2]I LOVE JAM!!!\}
+message_113:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 10
+  text: \aub\Com[2]KEL, du Einfaltspinsel! Lass etwas für den Rest von uns übrig!
+message_114:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 26
+  text: \kel\sinv[1]Awwwwwww... Muss das sein? \sinv[0]
+message_120:
+  faceset: MainCharacter_Mari
+  faceindex: 6
+  text: \marHallo, kleiner Bruder!\! Geht es dir jetzt etwas besser?
+message_121:
+  faceset: MainCharacter_Mari
+  faceindex: 0
+  text: \marWarum genießt du nicht ein schönes Picknick mit mir?\!<br>Das scheint dich immer aufzuheitern.
+message_125:
+  faceset: MainCharacter_Mari
+  faceindex: 6
+  text: \marHallo, kleiner Bruder!\! Wir sehen uns in letzter Zeit sehr oft, was?
+message_126:
+  faceset: MainCharacter_Mari
+  faceindex: 6
+  text: \marAlso, komm, setz dich! \ Es sieht dir nicht ähnlich, ein Picknick abzulehnen.
+message_127:
+  faceset: MainCharacter_Mari
+  faceindex: 6
+  text: \marUnd siehe da!\! Du musst zugeben...\!<br>Die Aussicht \sinv[1]ist\sinv[0] ziemlich schön.
+message_130:
+  faceset: MainCharacter_Mari
+  faceindex: 6
+  text: \marHey OMORI, es sieht so aus, als ob wir das Ende der Straße erreicht haben... buchstäblich.
+message_131:
+  faceset: MainCharacter_Mari
+  faceindex: 0
+  text: \mar Es sieht so aus, als ob da vorne eine lange Brücke ist.
+message_132:
+  faceset: MainCharacter_Mari
+  faceindex: 2
+  text: \marWas auch immer du tust, schau nicht nach unten!
+message_133:
+  faceset: MainCharacter_Mari
+  faceindex: 5
+  text: \marOMORI! Hast du diese TOLL GATORS wirklich bezahlt?\! Du solltest ihre kriminellen Machenschaften nicht unterstützen!
+message_134:
+  faceset: MainCharacter_Mari
+  faceindex: 4
+  text: \marDein Vorrat an CLAMS muss knapp werden.\! Hier, nimm etwas von meinem Ersparten.\! Hoffentlich hilft dir das ein wenig.
+message_135:
+  text: Du hast 500 CLAMS.
+message_137:
+  faceset: MainCharacter_Mari
+  faceindex: 6
+  text: \marDie TOLL GATORS haben es dir nicht schwer gemacht, oder?
+message_140:
+  faceset: MainCharacter_Mari
+  faceindex: 0
+  text: \marNun, OMORI...\! Ich weiß was du denkst...\!<br>Du denkst zu dir selbst...\!<br>"Wow, Schwesterherz. Das ist ein seltsamer Ort, um ein Picknick zu veranstalten."
+message_141:
+  faceset: MainCharacter_Mari
+  faceindex: 2
+  text: \marTja...\! Lass mich dir sagen...\!
+message_142:
+  faceset: MainCharacter_Mari
+  faceindex: 3
+  text: \marEs wird zwar empfohlen, Picknicks nur an normalen Orten wie in Wäldern oder auf Campingplätzen aufzustellen...<br>Aber... wo bleibt der Spaß dabei?
+message_143:
+  faceset: MainCharacter_Mari
+  faceindex: 5
+  text: \marWas ist, wenn ich die Anatomie eines Wals studieren will, während ich esse?\! Was dann?
+message_144:
+  faceset: MainCharacter_Mari
+  faceindex: 6
+  text: \mar Erweitere deinen Geist, OMORI!\!<br>Ich muss meinem manchmal langweiligen<br>kleinen Bruder ein Vorbild sein!
+message_150:
+  faceset: MainCharacter_Mari
+  faceindex: 4
+  text: \mar\quake[1]Brrrr...\quake[0]\! Ist es hier oben ein wenig kühl oder liegt das nur an mir?<br>Es sieht nicht so aus, als ob dieser Ort viele Reisende sieht...
+message_151:
+  faceset: MainCharacter_Mari
+  faceindex: 2
+  text: \marScheint ein Ort zu sein, an den man nur geht, wenn man ganz allein sein will.
+message_155:
+  faceset: MainCharacter_Mari
+  faceindex: 3
+  text: \marEs gibt hier wirklich eine Menge SPROUT MOLES.<br>Und sie alle lieben SWEETHEART!
+message_156:
+  faceset: MainCharacter_Mari
+  faceindex: 4
+  text: \Ich habe vorhin versucht, einer etwas zu essen anzubieten, aber sie nannte mich einen Trottel und warf es zurück...
+message_157:
+  faceset: MainCharacter_Mari
+  faceindex: 3
+  text: \marSPROUT MOLES sind merkwürdige Kreaturen, nicht wahr?
+message_160:
+  faceset: MainCharacter_Mari
+  faceindex: 3
+  text: \mar Ich sehe, ihr haltet euch auf Trab! Ich hoffe ihr habt alle ein lustiges Abenteuer.
+message_161:
+  faceset: MainCharacter_Mari
+  faceindex: 3
+  text: \marWenn du dich jemals müde fühlst, vergiss nicht, dass du dich immer bei meinen Picknicks ausruhen kannst! Die große Schwester ist immer vorbereitet!
+message_170:
+  faceset: MainCharacter_Mari
+  faceindex: 3
+  text: \marHallo, kleiner Bruder.\! Heute ist wieder ein toller Tag zum Erkunden!
+message_171:
+  faceset: MainCharacter_Mari
+  faceindex: 2
+  text: \marEs gibt im Moment nichts Dringendes, aber fühlt sich das nicht gut an?\! Mach weiter und tu was immer du willst! Die Welt ist deine Auster.
+message_172:
+  faceset: MainCharacter_Mari
+  faceindex: 0
+  text: \marWann immer du mich brauchst, ich werde hier sein.

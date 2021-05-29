@@ -1,0 +1,30 @@
+message_0:
+  text: \n<OLD HOBO>\SINV[2]Ohohoho...\! Hallo...\! Husten...\! \QUAKE[1]A-hyeck!\! A-hyeck!
+message_1:
+  text: \n<OLD HOBO>Ahh...\! Heute ist so ein schöner Tag, findest du nicht auch?
+message_2:
+  text: \n<OLD HOBO>Ich habe vielleicht kein Geld, aber zumindest ist das Sonnenlicht kostenlos!
+message_3:
+  text: \n<OLD HOBO>\beben[1]Husten...\beben[0]\! Also wie auch immer, Jungs...\! Könnt ihr mir in dieser schweren Zeit etwas Kleingeld geben?
+message_4:
+  text: \n<OLD HOBO>Ah, ihr seid es, gute Jungs!\! Ich habe wunderbare Neuigkeiten!<br>Durch einen fantastischen Glücksfall scheint es so, als ob ich auf Gold gestoßen bin und in der Lotterie gewonnen habe!
+message_5:
+  text: \n<OLD HOBO>Du bist so gnädig zu mir gewesen...\! Bitte nimm dies als ein Zeichen meiner Wertschätzung.
+message_6:
+  text: OLD HOBO hat dir $\v[603].00 gegeben!
+message_7:
+  text: \n<OLD HOBO>Siehst du?\! Ich sagte doch, ich zahle es dir zurück!\!<br>\SINV[2]\QUAKE[1]A-hyeck!\! A-hyeck!
+message_8:
+  text: \n<OLD HOBO>Hm?\! Fragst du dich, warum ich noch hier bin, wenn ich reich bin?
+message_9:
+  text: \n<OLD HOBO>Ich genieße natürlich den Sonnenschein!<br>\sinv[1]Alles andere kann ich mir morgen überlegen!\sinv[0]
+message_20:
+  text: Du hast derzeit \v[603].00$ an OLD HOBO gespendet.
+message_21:
+  text: \n<OLD HOBO>Danke, gute Jungs! Ich werde mich bestimmt irgendwie revanchieren!\!<br>\SINV[2]\QUAKE[1]A-hyeck!\! A-hyeck!
+message_22:
+  text: Du hast $\v[603].00!
+message_25:
+  text: \n<OLD HOBO>Ahh...\! Heute Abend ist so eine schöne Nacht, findest du nicht auch?
+message_26:
+  text: \n<OLD HOBO>Ich mag kein Geld haben, aber zumindest ist Mondlicht kostenlos!

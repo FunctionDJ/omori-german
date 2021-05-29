@@ -1,0 +1,72 @@
+message_80:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 39
+  text: \herHey, da bist du ja wieder!
+message_81:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 25
+  text: \kelDu bist derjenige, der uns die \c[4]BLACKMAIL\c[0] für ROSA gegeben hat!
+message_82:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 10
+  text: \aubWas willst du jetzt...\! \Com[2]SHADY MOLE?\! Du führst wieder nichts Gutes im Schilde, nehme ich an?
+message_83:
+  text: \n<SHADY MOLE>\}Gasp!\! Du missverstehst mich, Kind!\!<br>Wenn überhaupt, bin ich eher ein barmherziger Samariter-Typ!
+message_84:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 11
+  text: \aubIch weiß nicht, ob das...
+message_85:
+  text: \n<SHADY MOLE>\}Hier, ich werde es dir sogar beweisen.\! Würde dir ein SHADY MOLE unglaublich hilfreiche und lebenswichtige Informationen erzählen, die dein Leben verändern könnten?\! Ich denke nicht!
+message_86:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 25
+  text: \kelHmm...\! Okay, wir hören zu...
+message_87:
+  text: \n<SHADY MOLE>\}Gut, dass ich deine Aufmerksamkeit habe!\! Nun...\! Man sagt hier, dass CLAMS bald veraltet sein werden und durch eine neue und bessere Währung ersetzt werden, die...\! CLEMS!
+message_88:
+  text: \n<SHADY MOLE>\}Nach meinen vertrauenswürdigen Quellen, \. kann diese Veränderung potentiell jederzeit passieren und wird alle deine CLAMS komplett wertlos machen! Du würdest nicht wollen, dass das passiert, oder?
+message_89:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 47
+  text: \herWell, ich...
+message_90:
+  text: \n<SHADY MOLE>\}Ja! Das wäre doch echt scheiße, oder?\! Aber hier ist der Knaller...
+message_91:
+  text: \n<SHADY MOLE>\}Seit ich davon gehört habe, habe ich mich heimlich mit der neuen und wertvollen Währung namens CLEMS eingedeckt!
+message_92:
+  text: \n<SHADY MOLE>\}Als der gute Samariter, der ich bin, würde ich sie dir gerne alle im Tausch gegen deine CLAMS geben!
+message_93:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 17
+  text: \kelWow, wirklich!?! Das würdest du für uns tun?
+message_94:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 10
+  text: \aubKEL! Hör nicht auf ihn.\!<br>Das ist...\! mehr als dubios...\! Das ist...\! kriminell...
+message_95:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 19
+  text: \kelAber AUBREY... hast du nicht gehört!?<br>Sie sind dabei, alle CLAMS durch CLEMS zu ersetzen!<br>Was werden wir tun, wenn wir kein Geld haben!?
+message_96:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 16
+  text: \kelWas denkst du, OMORI?\!<br>Sollen wir alle unsere CLAMS gegen CLEMS tauschen?
+message_97:
+  text: \n<SHADY MOLE>\}Exzellent...\! Du wirst es nicht bereuen.\!<br>Danke für all deine CLAMS...\!<br>Nun...\! hier sind ein paar CLEMS im Austausch...
+message_98:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 10
+  text: \aubOMORI! Warum hast du dich mit KEL geeinigt?<br>Ich bin mir ziemlich sicher, dass das nicht einmal echtes Geld ist...
+message_99:
+  text: \n<SHADY MOLE>\}Warum solltest du deine veralteten CLAMS behalten wollen?\!<br>CLEMS sind der Weg der Zukunft!\! Du musst umdenken!
+message_100:
+  text: \n<SHADY MOLE>\}Bitte genieße deine CLEMS!\! <br>Nun muss ich gehen und anderen helfen, die CLEMS brauchen! Toodles!
+message_102:
+  text: Du hast \c[4]CLEMS\c[0]...\! die Währung der Zukunft...
+message_103:
+  text: Du hast deine gestohlenen CLAMS gefunden!
+message_105:
+  text: \n<MAYOR MOLE>\Com[2]Egad! Vorsichtig, Kind!\! Du hättest ein unglaublich delikates Gebräu ruinieren können.
+message_106:
+  text: \n<MAYOR MOLE>Wenn die Messungen für dieses Experiment nicht 110% genau sind...\! kann die chemische Reaktion eine Explosion mit genug Kraft verursachen, um dieses ganze Dorf zu zerstören!

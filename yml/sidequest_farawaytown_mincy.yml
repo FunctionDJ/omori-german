@@ -1,0 +1,232 @@
+message_1:
+  faceset: MainCharacters_Faraway
+  faceindex: 13
+  text: \kel\com[2]Whoa! Das ist eine coole Zeichnung vom Park, die du da hast!
+message_2:
+  text: \who\Com[2]Ahh!\! O-Oh!\! Hi, du.\!<br>Danke... \!Ich übe nur...
+message_3:
+  faceset: MainCharacters_Faraway
+  faceindex: 17
+  text: \kelDas nennst du üben!?\! Aber es sieht so echt aus...\!<br>Ich wette, du könntest das sogar für Geld verkaufen!\!<br>Denkst du das nicht, \n[8]?
+message_4:
+  faceset: MainCharacters_Faraway
+  faceindex: 14
+  text: \kelSee?\! Sogar \n[8] stimmt mir zu!
+message_5:
+  text: \Wer...
+message_6:
+  faceset: MainCharacters_Faraway
+  faceindex: 16
+  text: \kelOh, \n[8]! Du bist so ein Witzbold!\! Er macht nur Witze.\!<br>Deine Zeichnung sieht wirklich toll aus!
+message_7:
+  faceset: MainCharacters_Faraway
+  faceindex: 24
+  text: \kelHeck, das würde ich dir sofort abkaufen.\!<br>Hey, \n[8], kannst du mir 20,00 $ leihen?
+message_8:
+  text: \whoHaha...\! Danke...\! Das ist so nett von dir, aber es ist nicht zu verkaufen.\!<br>Es ist für mein Portfolio...\! Ich versuche, nächstes Jahr auf die Kunstschule zu kommen.
+message_9:
+  faceset: MainCharacters_Faraway
+  faceindex: 14
+  text: \kelAww, verflixt. Das ist zu schade...\!<br>Das hätte an meiner Schlafzimmerwand toll ausgesehen.
+message_10:
+  text: \Glaubst du wirklich? <br>Mein Name ist MINCY. Und wie heißt du?
+message_11:
+  faceset: MainCharacters_Faraway
+  faceindex: 12
+  text: \kel Ich bin KEL und das ist \n[8]!
+message_12:
+  text: \minHallo, KEL und \n[8].\! Es ist schön euch beide kennenzulernen.
+message_13:
+  faceset: MainCharacters_Faraway
+  faceindex: 12
+  text: \kel Es ist auch schön, dich kennenzulernen, MINCY.
+message_14:
+  text: \min...\! Seufz...
+message_15:
+  faceset: MainCharacters_Faraway
+  faceindex: 17
+  text: \kelHuh? Was ist denn los?
+message_16:
+  text: \minOh, es ist nichts...\! Du bist die erste Person, die etwas Positives über meine Zeichnungen sagt.
+message_17:
+  text: \Manchmal, wenn ich mich niedergeschlagen fühle, stelle ich mich selbst in Frage und es fällt mir schwer, meinen Stift zu bewegen.
+message_18:
+  faceset: MainCharacters_Faraway
+  faceindex: 17
+  text: \Keinesfalls! Das glaube ich überhaupt nicht!\!<br>Ich finde deine Zeichnung wirklich toll.\!<br>Ich wäre nicht in der Lage, das in einer Million Jahren zu machen!
+message_19:
+  faceset: MainCharacters_Faraway
+  faceindex: 14
+  text: \kel Sei nicht so hart zu dir selbst, MINCY!\! Ich und \n[8] glauben an dich!
+message_20:
+  text: \minSeufz...\! J-Ja!\! Du hast Recht!\!<br>Ich muss nur diese schlechten Gefühle abschütteln!\!<br>Ich werde...\! Ich werde versuchen, mich zusammenzureißen und das zu beenden.
+message_21:
+  faceset: MainCharacters_Faraway
+  faceindex: 14
+  text: \kelDas ist die richtige Einstellung!\!<br>See you around MINCY. Du schaffst das!
+message_22:
+  faceset: MainCharacters_Faraway
+  faceindex: 12
+  text: \kelHey, Fremder! Was zeichnest du dieses Mal?
+message_23:
+  text: \minHallo...ähm...\! KEL!\! ...\! Und \n[8], war es? \! Sorry, ich bin nicht so gut mit Namen. \! Ich versuche nur...\! ein paar Früchte zu zeichnen...\! aber ich bin nicht so gut darin.
+message_24:
+  faceset: MainCharacters_Faraway
+  faceindex: 14
+  text: \kelJa, das bist du!\!<br>Ich mag Obst nicht besonders, aber die würde ich auf jeden Fall essen!\!<br>Du würdest es auch tun, oder, \n[8]?
+message_25:
+  faceset: MainCharacters_Faraway
+  faceindex: 16
+  text: \kelNatürlich würdest du das tun!\! Hör auf, Witze zu machen, \n[8]!
+message_26:
+  text: \minHehe... Würdet ihr das wirklich tun?\! Ich danke euch.
+message_27:
+  faceset: MainCharacters_Faraway
+  faceindex: 12
+  text: \kelYou're very welcome, MINCY.\!<br>Keep going! Du schaffst das!
+message_28:
+  faceset: MainCharacters_Faraway
+  faceindex: 12
+  text: \kelHey, Fremder! Wie läuft es mit deinem neuesten Meisterwerk?
+message_29:
+  text: \minKEL!\! \n[8]!\! Schön, euch wiederzusehen.\! Es läuft gut...\!<br>Ich zeichne gerade all die verschiedenen Arten von \c[3]CANDY\c[0] hier rein.
+message_30:
+  text: \minDie sehen alle so lecker aus.\! Ich glaube, ich werde nicht widerstehen können, mir eine Leckerei zu kaufen.
+message_31:
+  faceset: MainCharacters_Faraway
+  faceindex: 14
+  text: \kel Deine Zeichnung sieht toll aus!\!<br>Du solltest sie der Besitzerin, MISS CANDICE, zeigen.\!<br>Ich bin mir sicher, sie wird es zu schätzen wissen.
+message_32:
+  text: \minO-Oh, wirklich? \! Ich weiß nicht...\! soll ich?
+message_33:
+  faceset: MainCharacters_Faraway
+  faceindex: 14
+  text: \kelJa, auf jeden Fall!\! Findest du das nicht auch, \n[8]?
+message_34:
+  faceset: MainCharacters_Faraway
+  faceindex: 24
+  text: \kelHm, hm... Ja, \n[8]. Ich stimme zu!
+message_35:
+  faceset: MainCharacters_Faraway
+  faceindex: 16
+  text: \kelDu weißt, dass du das nicht so meinst, \n[8]!
+message_36:
+  faceset: MainCharacters_Faraway
+  faceindex: 12
+  text: \kelMINCY, du solltest es ihr auf jeden Fall zeigen...\! sonst mache ich es!
+message_37:
+  text: \min\Com[2]Oh, nein! P-Bitte nicht!
+message_38:
+  faceset: MainCharacters_Faraway
+  faceindex: 15
+  text: \kelNah, das würde ich dir nicht antun...<br>Aber ich denke wirklich, du solltest es tun, wenn du es fertig hast.
+message_39:
+  text: \minAh, okay...\! Ich werde...
+message_40:
+  faceset: MainCharacters_Faraway
+  faceindex: 14
+  text: \kelGo ahead, then! Du schaffst das, MINCY!
+message_41:
+  faceset: MainCharacters_Faraway
+  faceindex: 12
+  text: \kelTja, wer hätte das gedacht?<br>Es ist wieder diese MINCY, die wegzieht!
+message_42:
+  text: \minHey, Leute. Wie läuft's denn so?
+message_43:
+  faceset: MainCharacters_Faraway
+  faceindex: 12
+  text: \kelHey, MINCY!\!<br>Nicht viel... Nur abhängen, wie immer.\!<br>Ich sehe, dass du dieses Mal Blumen zeichnest!
+message_44:
+  text: \minJa! Es gibt so viele verschiedene Arten von Blumen, also versuche ich, von jeder eine zu zeichnen.
+message_45:
+  faceset: MainCharacters_Faraway
+  faceindex: 14
+  text: \kelAmazing work, as always, MINCY!\! Du solltest wissen, dass ich dein \#1 Fan bin!\! Und \n[8] ist dein \#2 Fan...\! wahrscheinlich!\!<br> Du schaffst das, MINCY! Wir feuern dich an!
+message_46:
+  text: \minJa! Ich kann es schaffen!\! Danke, KEL!\! Danke, \n[8]!
+message_47:
+  faceset: MainCharacters_Faraway
+  faceindex: 12
+  text: <br>Du hörst nie auf, oder, MINCY?
+message_48:
+  text: \minIch denke, ich weiß es nicht! Haha!\! Ich bin ganz aufgeregt... Das ist alles...\!<br>Ich versuche nur, die ganze künstlerische Energie rauszulassen, bevor sie verschwindet.
+message_49:
+  text: \minDiesmal zeichne ich die Buntglasfenster.\! Sie sind so schön, wenn ihr Licht so in den Raum flutet.
+message_50:
+  text: \min Einer von ihnen sieht allerdings nach einem etwas anderen Farbton aus.<br>Ich frage mich, warum das so ist...
+message_51:
+  faceset: MainCharacters_Faraway
+  faceindex: 17
+  text: \kelOh, ich weiß warum!!! Ich bin als Kind immer hierher gekommen, also war ich dabei, als sie sie ausgetauscht haben...
+message_52:
+  faceset: MainCharacters_Faraway
+  faceindex: 25
+  text: \kel Ich...\! äh...\! habe gehört, dass das alte Fenster kaputt gegangen ist, als ein Kind versehentlich einen Baseball hineingeworfen hat.<br>\}Das hätte man wohl besser gezielt...
+message_53:
+  faceset: MainCharacters_Faraway
+  faceindex: 16
+  text: \kelErr...\! Ich-ich meine...\! Ich rede von dem Kind!\!<br>Nicht von mir...\! Heh heh...
+message_54:
+  text: '\minHehe...\! Du bist so ein schlechter Lügner, KEL.\!<br>Keine Sorge. Ich werde es niemandem erzählen.\!<br>Ich würde meinen #1 Fan niemals verraten!'
+message_55:
+  text: <br>Ich mag es trotzdem irgendwie...<br>Es macht diesen Ort einzigartig.
+message_56:
+  faceset: MainCharacters_Faraway
+  faceindex: 15
+  text: \kelHaha, ja...\! Ich schätze, das tut es, hm?
+message_57:
+  faceset: MainCharacters_Faraway
+  faceindex: 13
+  text: <br>Was wirst du diesmal malen, MINCY?
+message_58:
+  text: \minHey, KEL und \n[8]!\! Ich zeichne dieses Mal nichts...\!<br>Ich sitze einfach hier und genieße die Brise.
+message_59:
+  faceset: MainCharacters_Faraway
+  faceindex: 12
+  text: \kelDas ist gut! Du hast das ganze Wochenende hart am Zeichnen gearbeitet.\! Es ist auch wichtig, sich zu entspannen.
+message_60:
+  text: \minY-Yeah...\! Ich bin aber immer noch sehr gespannt.\! Ich hoffe, dass meine Mappe gut genug sein wird, um in die Kunstschule zu kommen.
+message_61:
+  text: \minKünstlerin zu sein, war schon immer mein Traum, aber manchmal stehe ich mir selbst im Weg.
+message_62:
+  text: \minDanke für alles in den letzten Tagen.<br> Ich glaube, ich habe es wirklich gebraucht.
+message_63:
+  faceset: MainCharacters_Faraway
+  faceindex: 16
+  text: \kelHuh?\! Was habe ich getan?
+message_64:
+  text: \minHaha...\! Es ist eigentlich nichts, aber...\! Ich schätze...\! es sagt mir nur, dass ich weitermachen soll und so. \! Ich habe das Gefühl, dass ich manchmal einen kleinen Schubs brauche, weißt du, was ich meine?
+message_65:
+  faceset: MainCharacters_Faraway
+  faceindex: 12
+  text: \kelHmm...\! Nicht wirklich...
+message_66:
+  faceset: MainCharacters_Faraway
+  faceindex: 14
+  text: \kelAber ich bin trotzdem froh, dass ich dir irgendwie helfen konnte!
+message_67:
+  text: \minHaha...\! Ich dachte, du würdest nicht...\! aber das ist okay.\!<br>Umm... \!\!Hier ist eine Skizze, die ich von euch gemacht habe.\!<br>Es ist nicht viel, aber ich hoffe, es gefällt euch.
+message_68:
+  text: Du hast ein \c[4]KLEINES SKETCH\c[0].
+message_69:
+  faceset: MainCharacters_Faraway
+  faceindex: 14
+  text: \kel\Com[2]No way! Ist das wirklich für uns!?\! Wow, das ist so erstaunlich!\!<br>Ich sehe in dieser Zeichnung besser aus als im echten Leben!
+message_70:
+  faceset: MainCharacters_Faraway
+  faceindex: 15
+  text: \kelDanke, MINCY!\!<br>Du hast deine \#1 und \#2 Fans sehr glücklich gemacht!
+message_71:
+  text: \minKein Problem...\! Ihr zwei seid so ein lustiges Paar.\! Wenn jeder Freunde wie euch hätte, wäre die Welt bestimmt ein viel glücklicherer Ort.
+message_72:
+  faceset: MainCharacters_Faraway
+  faceindex: 13
+  text: \kelWow...\! Das ist das Netteste, was je jemand zu uns gesagt hat...<br>huh, \n[8]?
+message_73:
+  faceset: MainCharacters_Faraway
+  faceindex: 14
+  text: \kelWir hoffen, du kommst auf die Kunstschule, MINCY!<br>Vergiss uns nicht, wenn du ein berühmter Künstler wirst!
+message_74:
+  text: \minHaha...\! Darüber musst du dir keine Sorgen machen...\!<br> Ich werde euch definitiv nicht vergessen...\! Niemals...
+message_75:
+  text: \minDanke, dass ihr mir dieses Wochenende geholfen habt.\! Ich werde euch definitiv nicht vergessen.\! Niemals...

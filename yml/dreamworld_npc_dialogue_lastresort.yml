@@ -1,0 +1,256 @@
+message_0:
+  text: \n<PINKBEARD>Dieser Laden ist einfach nicht so gut, wie diese Leute ihn darstellen. \n \Com[2]Ich will meine CLAMS zurück, hörst du!?
+message_1:
+  text: \n<FISHBOY>Fische zu fangen und aufzuziehen ist ein Hobby von mir.\!<br>Es vertreibt die Zeit und ist mäßig lohnend.
+message_3:
+  text: \n<GOYLE THE CRAB>Sieh mich nicht an! Ich bin hässlich!
+message_4:
+  text: \n<HOT DOG GUY>\SINV[1]\c[3]HOT DOGS\c[0]...\! Hol'chur \c[3]HOT DOGS\c[0] hier...\SINV[0]
+message_5:
+  text: \$\n<HOT DOG GUY>Du willst ein \c[3]HOT DOG\c[0]? Es kostet dich nur 100 CLAMS...<br>Komm schon...sie sind lecker.\$
+message_6:
+  text: Du hast einen \c[3]HOT DOG\c[0].
+message_7:
+  text: \n<HOT DOG GUY>Richtig...\! aber sie sind lecker.
+message_36:
+  text: \n<HOT DOG GUY>Du hast nicht genug CLAMS für diese...
+message_8:
+  text: \n<LAMB>Wir haben uns entschieden, in unseren Flitterwochen hierher zu kommen, weil sie ein kostenloses Zimmer und ein Luxusresort-Erlebnis angeboten haben!
+message_9:
+  text: \n<LAMB>\Com[2]Luxus, von wegen! Dieser Ort ist so schäbig wie er nur sein kann.\!<br> Ich kann schon sehen, wie die Farbe von den Wänden kommt!
+message_10:
+  text: \n<WOLF>Gegen diesen Ort habe ich ehrlich gesagt überhaupt nichts einzuwenden.<br> Dafür, dass er kostenlos ist, ist er gar nicht schlecht...<br>auch wenn es im Kinderbecken draußen spukt.
+message_11:
+  text: \n<SADIE>Hallo, ich bin SADIE...\! Meine Schwestern und ich haben dieses Cafe zusammen gegründet...\! Aber da die CLAMS knapp waren, haben viele meiner Schwestern beschlossen, im \c[11]LAST RESORT\c[0] zu arbeiten.
+message_12:
+  text: \n<SADIE>Es sind nur noch ich und meine Schwester ELEANOR übrig...
+message_13:
+  text: \n<SADIE>\sinv[1]Sigh...\sinv[0]\! Ich wünschte, sie würden wieder hierher kommen.\!<br>Ich würde alles tun, um sie wieder singen zu hören!
+message_14:
+  text: \n<JULIA>Ich habe hier angefangen zu arbeiten, weil sie mir ein gutes Gehalt angeboten haben, aber ich habe noch nicht einmal meinen ersten Gehaltsscheck bekommen!
+message_15:
+  text: \n<LUCY>\}Ich vermisse meine Schwestern hinten im \c[11]MUSTARD SUB\c[0]...
+message_16:
+  text: \n<PAM>Sorry, ich kann \c[3]FRUIT JUICE\c[0] nicht an Minderjährige servieren.
+message_17:
+  text: \n<RITA>Meine Schwestern und ich besitzen ein kleines Cafe an der Autobahn östlich von hier.\! Du solltest es ausprobieren.\! Das Essen ist köstlich!
+message_18:
+  text: \n<SHARK PICKLE>Willst du einen Fakt über SHARKS und/oder PICKLES lernen?\!<br>Wenn du mir ein \c[3]COMBO MEAL\c[0] gibst, werde ich dir sagen, was ich weiß!
+message_19:
+  text: \n<SHARK PICKLE>Hey, vielen Dank! \!<br>Willst du etwas über SHARKS und/oder PICKLES lernen?
+message_20:
+  text: SHARKS
+message_21:
+  text: PICKLES
+message_22:
+  text: \n<SHARK PICKLE>Großartig!\! Hier ist, was ich weiß...
+message_23:
+  text: \n<SHARK PICKLE>Haie können nur vorwärts schwimmen.<br>\!Ist das nicht inspirierend?\! Ich denke schon...
+message_100:
+  text: \n<SHARK PICKLE>Haie haben mehrere Schichten von Zähnen...\! die wahrscheinlich nützlich sind, wenn sie Gurken essen!
+message_101:
+  text: \n<SHARK PICKLE>Haie haben keine Knochen!\! Wir sind eigentlich aus menschlichen Ohren und Nasen gemacht.
+message_102:
+  text: \n<SHARK PICKLE>Entgegen der landläufigen Meinung, fressen die meisten Haie nicht gerne Menschen...\! außer Tigerhaie...\! Diese Typen fressen alles...
+message_24:
+  text: \n<SHARK PICKLE>Am 14. November ist der National Pickle Day.<br>\!Vergiss nicht, deine alljährliche Gurke zu essen!
+message_104:
+  text: \n<SHARK PICKLE>Hast du zu viele Gurken?\! Du kannst sie in der Erde vergraben und sie später wieder holen! Vergiss nur nicht, wo du sie vergraben hast...
+message_105:
+  text: \n<SHARK PICKLE>Pickles werden in bestimmten Kulturen für Balzrituale verwendet.\! Das ist so ziemlich alles, was ich dazu sagen werde!
+message_106:
+  text: \n<SHARK PICKLE>Hältst du es für möglich, dass du Skorbut hast?\! Dann hättest du vielleicht eine Gurke essen sollen!
+message_25:
+  text: \n<SEACOW>Uhh... \!moo?
+message_26:
+  text: \n<GATOR GUY>Ich habe für jeden eine Pizza!
+message_27:
+  text: \n<GATOR GUY>Huff... \!Huff... \!Mein Rücken tut weh... \!Ich bin zu alt für so was.
+message_28:
+  text: \n<GATOR GUY>Unsere Aktien fallen... \!Ich meine, sie steigen, mit einer alarmierenden Geschwindigkeit!
+message_29:
+  text: \n<GATOR GUY>\}Nah... \!Meinst du das ernst?... \!Nicht schon wieder... \!<br>Mach dir keine Sorgen... \! Das wird kein Problem sein...
+message_30:
+  text: \Hey du, gut siehst du aus...
+message_31:
+  text: \n<GATOR GUY>\}Uh huh... \!Ja... \!Richtig... \!Wer?... \!Du hast es.
+message_32:
+  text: \n<GATOR GUY>\}Yessir... \!Yessir... \!Yessir... \!Yessir... \!Affirmativ... \!Roger that...
+message_33:
+  text: \n<LAMB>Wir haben versucht zum \c[11]LAST RESORT\c[0] für unsere Flitterwochen zu fahren...<br>aber das hat nicht wirklich funktioniert, also haben wir einen Zug hierher zur \c[11]ORANGE OASIS\c[0] genommen!
+message_34:
+  text: \n<LAMB>Ich bin mir nicht sicher, was ich erwartet habe...\! Es ist ähm...\!<br>Es ist ziemlich orange.
+message_35:
+  text: \n<WOLF>Huff... huff... \! Es ist so heiß.\! Gibt es hier überhaupt ein Hotel?
+message_80:
+  text: \n<SADIE>Hallo, ich bin SADIE!\! Meine Schwestern und ich haben dieses Cafe zusammen gegründet!
+message_81:
+  text: \n<SADIE>ELEANOR kümmert sich um die Kasse, also sprich bitte mit ihr, wenn du ein leckeres \c[3]COMBO MEAL\c[0] kaufen möchtest!
+message_82:
+  text: \n<SADIE>Auch das sind meine Schwestern, die singen!\!<br>Sind ihre Stimmen nicht so schön?
+message_85:
+  text: \n<JULIA>Ich habe die \c[11]LAST RESORT\c[0] verlassen und bin wieder hier!\! Sag nur meinen Schwestern nicht, dass ich sie vermisst habe!\! \SINV[1]Ufufu!\SINV[0]
+message_90:
+  text: \n<LUCY>\}Hallo...ich bin froh, wieder da zu sein...\! Ich hoffe es gefällt dir hier!
+message_95:
+  text: \n<PAM>Ich habe die \c[11]LAST RESORT\c[0] verlassen, weil ich SADIE und ELEANOR verpasst habe...\! aber es sieht so aus, als wären mir alle anderen zuvorgekommen.
+message_96:
+  text: \n<PAM>Ich schätze, ich sollte mir gerade Sorgen um CLAMS machen, aber...\!<br>Ich bin einfach nur glücklich, dass wir alle wieder zusammen sind.\! Wir werden es schon irgendwie schaffen!
+message_60:
+  text: \n<GATOR GUY>\SINV[1]Hop! \!\}And-a-\{Hop! \!\}And-a-\{Hop! \!\}And-a-\{Hop!\SINV[0]
+message_61:
+  text: \n<GATOR GUY>\}Uh huh...\! Drei Befehle...\! Äh huh...\! Äh huh...\! Ich weiß es nicht...\! Ich kann fragen...\!<br>Okay, also du willst jetzt vier Bestellungen...
+message_62:
+  text: \n<GATOR GUY>Der Boss hat in letzter Zeit nicht seine übliche Energie...<br>Ich frage mich, ob etwas los ist...
+message_63:
+  text: \n<GATOR GUY>\Com[2]Hallo, HERO, Sir!\! \Com[2]Schönen Tag noch, Sir!
+message_64:
+  text: \n<GATOR GUY>In der kurzen Zeit, die HERO als neuer Boss übernommen hat, ist unser Bruttoeinkommen exponentiell gewachsen!
+message_65:
+  text: \n<GATOR GUY>Bei diesem Tempo...\! eines Tages könnten wir sogar einen positiven Cash-Flow haben!
+message_66:
+  text: \n<GATOR GUY>Dank HEROs unglaublicher Führung ist unser Geschäftsmodell effizienter als je zuvor!\! Wir sind auf dem Weg an die Spitze, Baby!
+message_67:
+  text: \n<GATOR GUY>Sind Sie des Gehens müde, Boss?\!<br>Soll ich Sie tragen?
+message_68:
+  text: \n<GATOR GUY>\}So, du hast also gesagt...\! Mhmm...\! Nein, du verstehst den Punkt nicht...\! Aber das ist fiskalisch nicht möglich...\! Ich sagte fiskalisch, nicht physisch!
+message_69:
+  text: \n<GATOR GUY>Wie geht's, Boss?\! Willst du ein kostenloses \c[5]RUBBER BAND\c[0]?\!<br>Keine Sorge deswegen.\! Es geht auf mich!
+message_70:
+  text: \n<GATOR GUY>Hey, du willst noch ein \c[5]RUBBER BAND\c[0], nicht wahr?\!<br> Mach schon, nimm es!\! Für dich tue ich alles, Boss.
+message_71:
+  text: \n<GATOR GUY>Du und deine Freunde mögen sicher \c[5]RUBBER BANDS\c[0]...\!<br>Nicht, dass das ein Problem wäre.\! Ich habe alle \c[5]RUBBER BANDS\c[0] der Welt!
+message_72:
+  text: \n<GATOR GUY>Ich kenne diesen Blick!\! Das ist der Blick von jemandem, der noch ein \c[5]RUBBER BAND\c[0] will!\! Bitte sehr, Boss!\! Bei allem, was du für uns getan hast, ist das das Mindeste, was ich tun kann!
+message_73:
+  text: \n<GATOR GUY>Hey, Boss!\! Gefallen dir die Gummibänder, die ich dir gegeben habe?<br> Ziemlich schick, was?\! Ich kann dir mehr besorgen, wenn du willst...
+message_74:
+  text: \n<GATOR GUY>Hier, Boss!\! Nimm noch ein \c[5]RUBBER BAND\c[0]!\!<br>Geh weiter und genieße es!
+message_75:
+  text: Du hast ein \c[5]GUMMI-BAND\c[0]!
+message_120:
+  text: Möchtest du dir diese MUSICAL CLAM anhören?
+message_121:
+  text: Diese MUSICAL CLAM schließen?
+message_125:
+  text: \n<CITY SLICKER>Respektiere deine Gemeinschaft!
+message_126:
+  text: \n<JET SETTER>Liebe dich selbst!
+message_127:
+  text: \n<SKULL CRUSHER> Sei freundlich zu anderen!
+message_128:
+  text: \n<BRICK>Ich spende für wohltätige Zwecke!
+message_130:
+  text: \n<FROG>\}\quake[1]Ribbit...\quake[0]\! (Wartest du darauf, dass etwas passiert?)
+message_150:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 18
+  text: \kelLookin' good, OMORI!
+message_151:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 3
+  text: \aubWas für ein Brocken!
+message_152:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 39
+  text: \herOMORI, hast du trainiert?
+message_153:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 19
+  text: \kel\sinv[1]Oooh, AUBREY... Du bist so verträumt...
+message_154:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 37
+  text: \herWollen Sie etwas, Sir?\! Einen \c[3]FRUITTSAFT\c[0]?\! Eine \c[1]RÜCKENMASSAGE\c[0]?\! Ein paar Croutons?
+message_155:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 3
+  text: \aubWow!\! Daran könnte ich mich gewöhnen!
+message_156:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 17
+  text: \kelIch bin es, KEL der Zukunft!\! Ich werde so viele Muskeln haben, dass ich kaum noch laufen kann!
+message_158:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 18
+  text: \kelStrike a pose! Hoo-hah!\! Ich werde alle Mädchen kriegen. Warte nur ab.
+message_159:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 11
+  text: \aubNicht so, das wirst du nicht.
+message_160:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 49
+  text: Beruhigt euch, Ladies...\! Es gibt genug von mir für alle.\her
+message_161:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 10
+  text: \aub\sinv[1]Ewwwwwwwwww!\sinv[0] Hör auf, HERO.\! Sonst sage ich es MARI!
+message_162:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 47
+  text: \herS-Sorry.
+message_170:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 18
+  text: \kel\{\com[2]\{HELLO? DIES IST KEL!
+message_171:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 25
+  text: \kel\com[2]\{Wo ist mein Zimmerservice?
+message_172:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 33
+  text: \kel\[2]\{Es sind 45 Minuten vergangen!
+message_174:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 28
+  text: \kel\}...\! Ja...\! Uh huh...\! Äh huh...\! Oh, das ist...\! M-Mein Fehler.\! S-So sorry.\! Auf Wiedersehen.
+message_175:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 26
+  text: \kel...
+message_176:
+  text: \n<SPROUT MOLE>Hallo, wer ist da?
+message_177:
+  text: \n<SPROUT MOLE>Sorry, du hast die falsche Nummer.
+message_178:
+  text: \n<SPROUT MOLE>\com[2]Findest du das lustig, Junge!?
+message_179:
+  text: \n<SPROUT MOLE>Meine Mutter hat mich vor Leuten wie dir gewarnt!
+message_180:
+  text: \n<NOSE>\}Die Nase geht!\! \beben[1]Bzzt...
+message_200:
+  text: Guten Tag, Boss. Ich liebe deine Haare!\n<GATOR GUY>
+message_201:
+  text: Hey, Boss. Ich liebe den Anzug!\n<GATOR GUY>
+message_220:
+  text: \n<GATOR GUY>Geh weiter, geh weiter... Hier gibt es nichts zu sehen.
+message_221:
+  text: \n<GATOR GUY>Täglich neue Schlaglöcher...\! Ich hoffe, dass ich dafür Überstunden bezahlt bekomme.
+message_233:
+  text: \n<GATOR GUY>Ich fülle die Löcher immer wieder auf...\! aber sie kommen einfach immer wieder zurück!
+message_222:
+  text: \n<GATOR GUY>Wie geht's, Boss?\! Ich hoffe du arbeitest nicht zu hart.
+message_223:
+  text: \n<GATOR GUY>Kontrollierst du uns den ganzen Weg hierher, Boss?\! Das ist ein echter Anführer.
+message_234:
+  text: \n<GATOR GUY>Was ist los, Boss?\! Danke, dass du das Geschäft übernommen hast und so Ich habe gehört, dass du es da oben krachen lässt!
+message_224:
+  text: \n<GATOR GUY>So... Ich bin auf dem Weg hierher mit Mom zusammengestoßen und sie hört nicht auf, an mir herumzunörgeln...\! Eine Sonnenbrille drinnen zu tragen ist schlecht für deine Augen, sagt sie.
+message_225:
+  text: \n<GATOR GUY>Ich kann diese Schirme nicht einfach so abnehmen.\! Sie sind wie ein Teil von mir!
+message_226:
+  text: \n<GATOR GUY>Mann... Mom ist wieder zu Besuch?\! Sie muss schwer mit dem Nestbau beschäftigt sein.
+message_227:
+  text: \n<GATOR GUY>Was? Mom ist hier?\! Ich muss später Hallo sagen!
+message_228:
+  text: \n<GATOR GUY>Yay! Mama ist da!
+message_229:
+  text: \n<GATOR GUY>Ugh...\! Mom.
+message_230:
+  text: \n<GATOR GUY>Eine Sonnenbrille drinnen zu tragen ist cool.
+message_231:
+  text: \n<GATOR GUY>Touristen tauchen bereits auf, obwohl wir mit dem Bau noch nicht fertig sind.\! Ich weiß nicht, ob das eine gute oder eine schlechte Sache ist...
+message_232:
+  text: \n<GATOR GUY>Sachen zu reparieren macht Spaß!

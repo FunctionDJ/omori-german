@@ -1,0 +1,14 @@
+message_1:
+  faceset: MainCharacters_Faraway
+  faceindex: 14
+  text: \kelWow! Das Monster auf dem Poster sieht so realistisch aus!<br> Ich wette, das zu bekämpfen wäre ein harter Kampf!
+message_2:
+  faceset: MainCharacters_Faraway
+  faceindex: 16
+  text: \kel...\! Hallo?\! \n[8]?\!<br>... \!Erde an \n[8]...
+message_3:
+  faceset: MainCharacters_Faraway
+  faceindex: 17
+  text: \kel\com[2]Whoa! Ein \c[4]CD\c[0] ist hinter dem Plakat heruntergefallen...\!<br>Unheimlich...\! Ich frage mich, wer es dort versteckt hat?\!<br> Ich schätze...\! wir können es einfach mitnehmen?
+message_4:
+  text: Du hast eine \c[4]MERRY CD\c[0].

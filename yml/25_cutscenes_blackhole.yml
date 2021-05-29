@@ -1,0 +1,148 @@
+message_89:
+  faceset: MainCharacter_Basil
+  faceindex: 0
+  text: Ach, es kam irgendwie schief raus.\! Nun, das ist ok.\! <br>Es gibt ihm Charakter.\bas
+message_90:
+  faceset: MainCharacter_Basil
+  faceindex: 1
+  text: Hoffe das Foto stört dich nicht...\bas
+message_91:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 6
+  text: Natürlich stört uns das nicht!\! Kann ich es sehen?\aub
+message_92:
+  faceset: MainCharacter_Basil
+  faceindex: 0
+  text: O-Oh, klar doch.\bas
+message_93:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 2
+  text: Ooooooooh, wir sehen alle so niedlich aus!\aub
+message_94:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 39
+  text: Also, wie sehen meine Haare aus?\her
+message_95:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 17
+  text: Ich will auch sehen!\! Wow, ich sehe toll aus!\kel
+message_96:
+  faceset: MainCharacter_Basil
+  faceindex: 2
+  text: Oh hey, OMORI! Wolltest du auch das Foto sehen?<br>Hier, du kannst es halten.<br>
+message_97:
+  text: BASIL hat dir einen \c[4]GROUP PHOTO\c[0] gegeben.
+message_98:
+  faceset: MainCharacter_Basil
+  faceindex: 1
+  text: Es ist ein schönes, nicht wahr?\! Ihr seht alle so glücklich aus...\!<br>Ich sollte es zu meiner Sammlung hinzufügen!\bas
+message_99:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 18
+  text: \Com[2]\{Woo-hoo!\}<br>Ein weiterer perfekter Schuss für das Album!\kel
+message_100:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 3
+  text: Ich will mir alle Bilder ansehen! \!<br>Können wir, BASIL?\aub
+message_101:
+  faceset: MainCharacter_Basil
+  faceindex: 0
+  text: Ah, okay...\! aber es ist nichts erstaunliches...\bas
+message_102:
+  faceset: MainCharacter_Basil
+  faceindex: 2
+  text: Hey, ihr alle! Wie geht es euch allen?\!<br>Wollt ihr durch mein \c[4]FOTO ALBUM\c[0] schauen?\bas
+message_103:
+  faceset: MainCharacter_Basil
+  faceindex: 1
+  text: Alle sehen so glücklich aus!
+message_104:
+  faceset: MainCharacter_Basil
+  faceindex: 0
+  text: Aww... alles klar!\! Vielleicht beim nächsten Mal...\bas
+message_110:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 17
+  text: Basils Bilder sehen wie immer großartig aus, oder?
+message_111:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 37
+  text: Na gut, kommt schon! MARI vermisst euch jetzt schon.\her
+message_112:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 4
+  text: Warte, wir müssen MARI das Album zeigen! \aub
+message_120:
+  text: Du weißt schon...\! Walzer waren schon immer mein Favorit.\! <br>Deshalb habe ich dieses Lied für unseren letzten Auftritt gewählt.\mar
+message_121:
+  text: Aber du hast es immer gehasst, nicht wahr?<br>Wie ich mich am Klavier eingeschlossen habe...<br>
+message_122:
+  text: Das ganze Üben...\! Den gleichen Song immer und immer wieder zu spielen.\mar
+message_123:
+  text: Als du das erste Mal deine neue Geige abgeholt hast, warst du so begierig darauf, mit mir zu spielen
+message_124:
+  text: Aber es ist gar nicht so einfach, bei der Sache zu bleiben.\mar
+message_125:
+  text: ...\mar
+message_126:
+  text: Vielleicht habe ich dich zu sehr gedrängt.\mar
+message_127:
+  text: Es tut mir leid...\! Ich wollte nur, dass es perfekt ist.\mar
+message_128:
+  text: ...\mar
+message_129:
+  text: Wir sind nie dazu gekommen, auf dem letzten Konzert zu spielen.\mar
+message_130:
+  text: Willst du es jetzt mit mir spielen?\mar
+message_131:
+  faceset: MainCharacter_Basil_dark
+  faceindex: 31
+  text: \Com[2]Whoa, da hast du mich aber erschreckt, \n[8]!\her
+message_132:
+  faceset: MainCharacter_Basil_dark
+  faceindex: 30
+  text: Tut mir leid, dass ich so reingeplatzt bin.<br> Ich hätte schwören können, dass ich Musik gehört habe.<br>
+message_133:
+  faceset: MainCharacter_Basil_dark
+  faceindex: 15
+  text: ...\her
+message_134:
+  faceset: MainCharacter_Basil_dark
+  faceindex: 29
+  text: Du musst MARI sehr vermissen.\her
+message_135:
+  faceset: MainCharacter_Basil_dark
+  faceindex: 15
+  text: Es war auch für mich schwer.\! Ich denke immer noch jeden Tag an sie.\her
+message_136:
+  faceset: MainCharacter_Basil_dark
+  faceindex: 29
+  text: Ich... verstehe einfach nicht, warum sie sich entschieden hat, uns zu verlassen...<br>auf die Art und Weise, wie sie es getan hat.\her
+message_137:
+  faceset: MainCharacter_Basil_dark
+  faceindex: 30
+  text: Aber ich kannte sie als eine Person, die immer wollte, dass wir alle glücklich sind, auch wenn es ohne sie war
+message_138:
+  faceset: MainCharacter_Basil_dark
+  faceindex: 15
+  text: ...\her
+message_139:
+  faceset: MainCharacter_Basil
+  faceindex: 13
+  text: Du solltest dich wirklich etwas ausruhen.\!<br>Geh nach oben. Ich komme nachher zu dir
+message_140:
+  text: Du hörst jemanden weinen.
+message_141:
+  text: Oh...MARI...her
+message_145:
+  text: Es ist kein Platz für dich.
+message_146:
+  text: KEL und HEROs Bettfestung.<br>Es ist schon eine Weile her, dass du Besuch hattest.
+message_150:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 4
+  text: O-OMORI...\! Ich habe Angst...\aub
+message_151:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 4
+  text: Let's...\! Lass uns zurückgehen...\aub

@@ -1,0 +1,202 @@
+message_0:
+  text: \Com[2]Halt, Kinder!\!<br>Sie betreten jetzt die Umgebung von...\spg
+message_1:
+  text: Der Kapitän der SPACE PIRATES...\!<br>Der Meister des SOLAR SYSTEMS...\!<br>Der Prinz des Universums...\spg
+message_2:
+  text: Der einmalige CAPT. SPACEB-\! Ich meine...\! Err...\!<br>Sie betreten das Haus von... \!SPACE...\! BOYFRIEND.\spg
+message_3:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 19
+  text: Whoa, der Kapitän der SPACE PIRATES lebt hier?<br>Das ist AWESOME!
+message_4:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 18
+  text: Ich will auch ein SPACE PIRATE sein! \kel
+message_5:
+  text: Ja, nun...\! Ich auch...\! einmal.\spg
+message_6:
+  text: SPACE BOYFRIEND macht in diesen Tagen nicht viel, also hatten die meisten der SPACE PIRATES die Nase voll und sind mit dem Hauptschiff abgehauen.\spg
+message_7:
+  text: Es sind nur wir Nachzügler hier, die alle Aufgaben von SPACE BOYFRIEND erledigen und was auch immer.\spg
+message_8:
+  text: Gestern haben ich und die Jungs den Tag damit verbracht, seinen ganzen Müll wegzuschmeißen
+message_9:
+  text: Seufz...\! Dafür habe ich meinen alten Job nicht aufgegeben...\!<br>Ich bin kein Babysitter!\spg
+message_10:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 4
+  text: Awww, das tut mir leid... Das klingt furchtbar.<br>Vielleicht können wir ihn zur Vernunft bringen.<br>
+message_11:
+  text: Oh, das würde ich an deiner Stelle nicht tun...\! CAPT. SPACEBO-<br>Ich meine...\! SPACE BOYFRIEND hat zwei Seiten an sich, weißt du.\spg
+message_12:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 39
+  text: Wir sollten es zumindest versuchen!\! Man kann nie wissen...\!<br>Er könnte etwas darüber wissen, wie man BASIL findet!\her
+message_13:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 17
+  text: Oder vielleicht weiß er, wo mein Lieblingsstein zu finden ist, \c[13]HECTOR\c[0]!\kel
+message_14:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 47
+  text: Ja, sicher, das auch.\her
+message_15:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 19
+  text: Worauf warten wir noch? Lass uns schon mal zu ihm gehen!
+message_16:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 4
+  text: Tut mir leid um deinen Job, Sir
+message_17:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 0
+  text: Es wird bald besser werden, versprochen!
+message_18:
+  text: Seufz...\! Danke, kleine Lady.\! Das hoffe ich sehr.\spg
+message_51:
+  text: Husten...\! Husten, Husten...\sbf
+message_52:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 40
+  text: Oh-oh...\! CAPT. SPACE-\!<br>Ich meine, SPACE BOYFRIEND sieht nicht so gut aus.\her
+message_53:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 16
+  text: Keine Sorge, ich kümmere mich darum!\kel
+message_54:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 17
+  text: \HEY, KOM[2]SPACE BOYFRIEND!!\kel
+message_55:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 18
+  text: \WACH AUF!!!\kel
+message_56:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 43
+  text: KEL!\her
+message_57:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 16
+  text: Was? \kel
+message_58:
+  text: \}\quake[1]Cough...\! Ughhh...\! Husten, husten...\! Seufz...\!<br>Mein... Precious...\! SWEETHEART...\sbf\quake[0]
+message_59:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 4
+  text: Aww... Er klingt so traurig.<br>Es muss einen Weg geben, ihm zu helfen.<br>
+message_60:
+  text: \Beben[1]Husten, husten...\! Husten...\! Oh, mein SCHÖNES HERZ...\!<br>Wohin bist du jetzt abgehauen?\sbf\beben[0]
+message_61:
+  text: Oh nein... Nicht schon wieder...\!<br>SPACE BOYFRIEND spürt den schweren Blues.\spg
+message_62:
+  text: Hier, mein Junge. Das wird dich gleich aufmuntern.\spg
+message_63:
+  text: Huh?\! Warum spielt da nichts?\spg
+message_64:
+  text: Oh nein...\! Die Boombox...\! Sie ist leer!\!<br> Jetzt wird er nie mehr aufwachen!\! Oder noch schlimmer...\! <br>Er wird aufwachen...wütend.\spg
+message_65:
+  text: Oh, Mann... Oh, Mann...\!<br>Wo könnte das \c[4]SPECIAL MIXTAPE\c[0] sein?\spg
+message_66:
+  text: Jemand muss sein \c[4]SPECIAL MIXTAPE\c[0] weggeworfen haben, als wir aufgeräumt haben!\spg
+message_67:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 28
+  text: Was ist schon dabei? Es ist doch nur eine Kassette, oder?
+message_68:
+  text: Nun, du siehst...\! Immer wenn SPACE BOYFRIEND von SWEETHEART weg ist, wird er richtig traurig und liegt den ganzen Tag im Bett.\spg
+message_69:
+  text: Der einzige Weg, ihn daraus zu reißen, ist, sein \c[4]SPECIAL MIXTAPE\c[0].\ zu spielen! Es gibt nur einen im Universum wie ihn.\spg
+message_70:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 4
+  text: Oh, ich verstehe...\! SPACE BOYFRIEND ist nicht krank...\!<br>Er ist...liebeskrank...\aub
+message_71:
+  text: Seufz...\! Wenn SPACE BOYFRIEND so bleibt, wird die einst große Koalition der SPACE PIRATES für immer verloren sein...\spg
+message_72:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 28
+  text: Oh...\! Mann...\! Das ist scheiße.\kel
+message_73:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 16
+  text: Na dann... auf geht's!\kel
+message_74:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 10
+  text: Warte! Wo willst du hin? Wir sollten ihm helfen!<br>Du solltest wissen, dass es wirklich scheiße ist, etwas zu verlieren, was dir wichtig ist.\aub
+message_75:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 30
+  text: Wage es nicht, \c[13]HECTOR\c[0] ins Spiel zu bringen! \kel
+message_76:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 10
+  text: Ich rede davon, als du mein "STUFFED TOY" gestohlen hast!
+message_77:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 16
+  text: Huh? \! An so etwas kann ich mich nicht erinnern.\kel
+message_78:
+  text: Es gibt einen \c[11]JUNKYARD\c[0] nicht weit von hier, aber der Laden ist riesig! Es wird ziemlich schwer sein, dort etwas zu finden.\spg
+message_79:
+  text: \Com[2]Husten, husten!\sbf
+message_80:
+  text: \quake[1]\}Oh...SWEETHEART...\! Meine perfekte Göttin...\sbf\quake[0]
+message_81:
+  text: \quake[1]\}Cough...\! Mein süßer...\! mit Gelee gefüllter...Donut...\sbf\quake[0]
+message_82:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 5
+  text: Ich glaube, er wird immer schlimmer...\aub
+message_83:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 4
+  text: Was sollen wir tun, OMORI? Sollen wir ihm helfen?\aub
+message_84:
+  text: Danke, meine Jungs... Ich weiß das wirklich zu schätzen.\!<br>Hier, nimm das.\spg
+message_85:
+  text: Du hast \c[4]JUNKYARD KEY\c[0].
+message_86:
+  text: Dieser Schlüssel schaltet den \c[11]JUNKYARD\c[0] frei.<br>\!Das \c[4]SPECIAL MIXTAPE\c[0] sollte irgendwo da drin sein.\spg
+message_87:
+  text: Du kannst durch diesen geheimen Eingang in SPACE BOYFRIENDs Hinterhof dorthin gelangen Ziemlich praktisch, nicht wahr?\spg
+message_88:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 4
+  text: \aubOh, bitte \n[1]! Ich glaube, er braucht wirklich unsere Hilfe. \!Wenn du krank im Bett liegen würdest, würdest du auch wollen, dass dir jemand hilft, oder?
+message_89:
+  text: Ich hoffe dem CAPTAIN geht es bald besser...\spg
+message_110:
+  text: Seufz...\! Jetzt haben wir es wirklich geschafft, Kumpel...\spd
+message_111:
+  text: Ich hoffe, der CAPTAIN wird nicht allzu wütend sein, wenn wir ihm sagen, dass sein Lieblingsplanet fehlt.\! Du weißt, wie er wird, wenn er wütend ist.\spd
+message_112:
+  text: Kumpel, du darfst ihn nicht mehr CAPTAIN nennen.<br>Du musst ihn SPACE BOYFRIEND nennen, erinnerst du dich?<br>
+message_113:
+  text: Oh ja, das ist richtig...\spd
+message_114:
+  text: Urg... \!\{\quake[1]AAAA\{ARRRRR\{RRRRG!!!\spd\}
+message_115:
+  text: Weißt du, Kumpel...\! Manchmal frage ich mich, ob wir überhaupt noch SPACE PIRATES sind.\spd
+message_116:
+  text: Seitdem dieses SWEETHEART aufgetaucht ist, haben wir nichts Cooles mehr gemacht!\! Wir sollten einfach aufhören und uns richtige Jobs suchen.\spd
+message_117:
+  text: Rede keinen Unsinn, Kumpel!<br>Was ist das Leben für uns, wenn nicht das Leben der SPACE PIRATE?\spb
+message_118:
+  text: Ich bin mir sicher, dass der CAPTAIN eines Tages zur Vernunft kommen wird und wir alle wieder fliegen werden.\! Wir müssen nur an ihn glauben!\spb
+message_119:
+  text: Seufz...\! Danke, Kumpel.\! Du bist immer da, wenn ich dich brauche.\spd
+message_130:
+  text: Dieser Typ sieht ziemlich einschüchternd aus...<br>Willst du ihn stören?
+message_131:
+  text: \who...\! Hm.\! Nicht schlecht.
+message_150:
+  text: \beben[1]\}Husten...\! husten...\sbf\beben[0]
+message_160:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 4
+  text: Warte mal, OMORI! Wir sollten nach CAPT. SPACE-\!<br>Ich meine, SPACE BOYFRIEND zuerst.\aub
+message_161:
+  text: Du hast den \c[4]JUNKYARD KEY\c[0] benutzt.

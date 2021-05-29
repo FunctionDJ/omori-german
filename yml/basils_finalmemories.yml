@@ -1,0 +1,425 @@
+message_0:
+  text: \herJa! Ich habe genau das bekommen, was ich gebraucht habe!
+message_1:
+  text: \kelUh-oh... Meine Hand sieht nicht so gut aus.
+message_2:
+  text: \marDas kannst du den Leuten nicht einfach sagen, KEL!<br>Du musst ein gutes Pokerface bewahren.
+message_3:
+  text: \kel\[2]Ah! Wann bist du denn hinter mich gekommen, MARI?
+message_4:
+  text: \marIch bin gerade erst gekommen, Dummerchen.<br>Hier! Ich habe Kekse für alle mitgebracht.
+message_5:
+  text: \marBASIL...\! Machst du ein Foto?
+message_6:
+  text: \basOh! Y-Yeah...\! Hehe...
+message_7:
+  text: \kelAwww, Mann...\! Mach kein Foto, wenn ich mich so abmühe!
+message_8:
+  text: \marOh, sei nicht so dramatisch, KEL! Es ist nur ein Kartenspiel.
+message_9:
+  text: \basHehe...
+message_10:
+  text: \kelHuh?\! Noch ein Foto?\! Und was ist überhaupt so lustig?
+message_11:
+  text: \Gibt es etwas, das du uns nicht sagst, BASIL?
+message_12:
+  text: \basMach dir keine Sorgen. \! Du wirst es früh genug herausfinden.
+message_13:
+  text: Du schaust auf AUBREYs Hand.<br>Es ist eine Zwei, eine Fünf und eine Zehn.
+message_14:
+  text: \aubHmm, was denkst du, \n[8]? Was sollte ich tun?
+message_15:
+  text: \aubEntscheidungen, Entscheidungen...
+message_16:
+  text: Du schaust auf KELs Hand.<br>Es ist eine Vier, eine Sechs und eine Sechs.
+message_17:
+  text: \kelD-Don't look, \n[8]...\! Es ist...\! Es ist zu furchtbar!
+message_18:
+  text: \kelSeufz...\! Ich werde verlieren, nicht wahr?
+message_19:
+  text: Du schaust auf BASILs Hand.<br>Es ist ein Bube und ein Ass.
+message_20:
+  text: \bas\sinv[1]Shhhh...\sinv[0]\! Sag es niemandem, okay?
+message_21:
+  text: \herMARI's Kekse sind die besten... hm, \n[8]?
+message_22:
+  text: \marOh, HERO, sei nicht so bescheiden.<br>Du weißt, dass deine Kekse viel besser sind als meine!
+message_23:
+  text: \herHey, das ist subjektiv!\! MARI's Kekse...\!<br>MARI's Kekse haben viel mehr Liebe in sich eingebacken.<br>\!Ich könnte sie ewig essen!
+message_24:
+  text: \marOh! Hör auf, HERO... Du bringst mich in Verlegenheit.
+message_25:
+  text: \marEs ist so schön, unsere letzten Sommertage hier zu verbringen.\! Wir sollten das jedes Jahr machen. \ Hier! Nimm einen Keks!
+message_26:
+  text: Du hast \c[3]MARI's COOKIE\c[0].
+message_27:
+  text: Er war außen perfekt knusprig und innen süß und klebrig.
+message_28:
+  text: Du schaust dir die Hand von HERO an.<br>Es sind ein König, eine Dame und ein Ass.
+message_29:
+  text: \herHeh heh...\! Wo wir gerade von Glück reden... hm, \n[8]?
+message_30:
+  text: \basWas ist das, \n[8]?\! Wolltest du meine Fotos sehen?
+message_31:
+  text: \basOkay, hier hast du es...\! Aber behalte einen klaren Kopf, okay?
+message_32:
+  text: Du schaust auf deine Hand.\!<br>Es ist ein Ass und ein Ass.\! Pech gehabt, wie immer.
+message_40:
+  text: \hier und ... da! Die Wassermelone ist ganz aufgeschnitten.<br>Kommt alle her! Nehmt euch ein Stückchen.
+message_41:
+  text: \marYay! Danke, HERO!
+message_42:
+  text: \marSieh dich an... So ein großer, starker Mann.
+message_43:
+  text: \herAwww... Nicht jetzt, MARI... Haha...
+message_44:
+  text: \kel\sinv[1]\{WOO-HOOOO!!!\!\}\sinv[0]<br>Nichts geht über eine schöne, saftige Wassermelone an einem heißen Sommertag!
+message_45:
+  text: \kel\com[2]Munch! Mampfen! Mampfen! Mampfen! Mampfen! Mampfen!
+message_46:
+  text: \aubMunch...\|Munch...\|Munch...\|Munch...\
+message_47:
+  text: \aubHey, mach kein Foto von mir, während ich esse, BASIL!
+message_48:
+  text: \basAh! Es tut mir leid, AUBREY. Ich dachte nur, du siehst süß aus!\! Ich werde es dir zeigen, wenn es fertig ist.
+message_49:
+  text: \aubWell...\! Okay, gut...\! Ich vertraue dir, BASIL.
+message_50:
+  text: \kel...\! \sinv[2]P-P-P-P-\{P-PWWWWEHH\{HHHH\{HHH!!!
+message_51:
+  text: \aubEww! Ekelhaft!\! Hör auf, Samen auf mich zu spucken, KEL!
+message_52:
+  text: \kelHaha, du hast überall Samen im Gesicht!
+message_53:
+  text: \aubWell...\! Wie wäre es dann mit dem hier!?
+message_54:
+  text: \aub...\! \sinv[2]P-P-P-P-\{P-PWWWWEHH\{HHHH\{HHH!!!
+message_55:
+  text: \kelEwwww, hör auf, AUBREY...<br>Du wirst mir noch Läuse einhandeln!!!
+message_56:
+  text: \basHey, \n[8]! Wolltest du das Foto von AUBREY sehen?
+message_57:
+  text: \basAUBREY ist so süß, nicht wahr?
+message_58:
+  text: \herGuys...\! Kommt schon... Wir sind am Strand!\!<br>Wir sollen uns entspannen.
+message_59:
+  text: \marLass sie spielen, HERO. Sie necken sich nur gegenseitig.\!<br>Erinnerst du dich, wie wir waren, als wir jünger waren?
+message_60:
+  text: \marIch habe die ganze Zeit Käfer in deinem Schreibtisch versteckt, nur um deine Reaktion zu sehen! Du warst immer so lustig.
+message_61:
+  text: \herW-Wait, das warst du!?
+message_62:
+  text: \marOh hoppla...\! Bin ich jetzt in Schwierigkeiten, HERO? Hehe...
+message_63:
+  text: \marHey, \n[8]! Amüsierst du dich? \! Ich weiß, dass du die Hitze nicht wirklich magst, also danke, dass du mit uns rausgekommen bist.
+message_64:
+  text: \marMach dir keine Sorgen!\ Wenn du dich wirklich abkühlen willst, können wir dich später im Sand eingraben.
+message_65:
+  text: Willst du den Ball kicken?
+message_80:
+  text: \herHmm...\! Es sieht so aus, als wären alle eingeschlafen.
+message_81:
+  text: \basIch denke, jetzt sind es nur noch wir drei.
+message_82:
+  text: \marNach so einer großen Mahlzeit muss sich jeder müde fühlen.
+message_83:
+  text: \basDanke, dass du für uns alle gekocht hast, HERO.
+message_84:
+  text: \herAwww, das war nichts...\! Ich übe nur ein bisschen.\!<br>Ich bin froh, dass es euch allen gefallen hat.
+message_85:
+  text: \mar Eines Tages wirst du ein weltberühmter Koch sein und mir viele leckere Gerichte kochen!
+message_86:
+  text: \herHuh?\! Warte!\! Ich bin es!?
+message_87:
+  text: \marNatürlich bist du das! Ich glaube an dich, HERO!
+message_88:
+  text: \herWell...\! Wenn du das sagst.
+message_89:
+  text: <br>Es freut mich, dass du deine Kamera jetzt mehr benutzt, BASIL.<br>Du scheinst dein neues Hobby zu genießen.
+message_90:
+  text: \basYeah!\! Ich denke, es macht ziemlich viel Spaß, wenn man einmal den Dreh raus hat.
+message_91:
+  text: \basW-Warte eine Sekunde...\! Irgendetwas ist seltsam an diesem Foto...
+message_92:
+  text: \basSniff, sniff...
+message_93:
+  text: \basHECTOR!\! Wie konntest du nur!?
+message_94:
+  text: \marOh hey, kleiner Bruder!\! Sorry, haben wir dich geweckt?
+message_95:
+  text: <br>Du sahst so friedlich aus, als du dort schliefst...<br>Erinnert mich an die Zeit, als du noch ein Baby warst.
+message_96:
+  text: \herHey, \n[8]...\! Kann ich mal kurz in deinem Gehirn stochern?\!<br>Ich liebe es wirklich zu kochen und so und MARI sagt immer, dass ich wirklich gut bin, aber meine Eltern wollen, dass ich Arzt werde...
+message_97:
+  text: \herDenkst du, dass ich Chefkoch werden sollte?
+message_98:
+  text: \herHaha...\! Vielleicht...
+message_99:
+  text: \herHaha...\! Vielleicht...\! aber...
+message_100:
+  text: \her\com[2]Wir sind noch jung! Wir sollten große Träume haben, oder!?
+message_101:
+  text: \her...\! Hmm...aber ja...
+message_102:
+  text: \Meine Mutter wird dazu etwas zu sagen haben.
+message_110:
+  text: \herHmm... Was soll ich tun?
+message_103:
+  text: \kel\sinv[1]Schnarchen...
+message_104:
+  text: AUBREY macht kaum Geräusche, wenn sie schläft.\!<br>So süß...
+message_105:
+  text: \basHey, \n[8]!\!<br>Ich habe vorhin ein Foto von allen gemacht.\! <br>Willst du es sehen?
+message_106:
+  text: \basDas hätte so ein guter Schuss werden können...
+message_107:
+  text: \basAber HECTOR musste das Foto mit seiner Kacke ruinieren!
+message_108:
+  text: \basSigh...\! Vielleicht kann ich es später mit Klebeband abdecken.
+message_109:
+  text: \n<HECTOR>\Com[2]Bellen, bellen!
+message_130:
+  text: \kelHey, \n[8]! Hey, BASIL! Warum habt ihr so lange gebraucht!?
+message_131:
+  text: \basSorry...\! Wir haben uns dazu hinreißen lassen, dieses neue Spiel zu spielen, bei dem man sich gegenseitig mit diesen Dingern namens PET ROCKS bekämpft
+message_132:
+  text: \aub\com[2]BASIL, BASIL!\! Mach ein Foto von meinem neuen Regenmantel!
+message_133:
+  text: \basOh! Okay!\! Eine Sekunde...
+message_134:
+  text: \aubDie gefällt dir, \n[8]?\! Es ist meine Lieblingsfarbe... pink!
+message_135:
+  text: \kelEwww... rosa ist eine eklige Farbe.
+message_136:
+  text: \aubNein, ist es nicht, KEL!\Com[2] Du bist eine eklige Farbe!
+message_137:
+  text: \kelDas macht nicht einmal einen Sinn.
+message_138:
+  text: \aubOh, \n[8]! Das erinnert mich an etwas!
+message_139:
+  text: \aubMARI und ich haben darüber gesprochen, unsere Haare zusammen zu färben.
+message_140:
+  text: \aubMARI sagt, dass sie sich die Haare lila färben wird.
+message_141:
+  text: \kelP-P-Purple!?
+message_142:
+  text: \Willst du wissen, welche Farbe ich gewählt habe?
+message_143:
+  text: \kelWait...\! Willst du damit sagen, dass du deine Haare...rosa färben willst!?
+message_144:
+  text: \kelEwww...das ist seltsam...\! Warum solltest du das jemals tun?
+message_145:
+  text: \aubIch weiß es nicht... Ich dachte nur, es wäre süß!<br>MARI denkt das auch!
+message_146:
+  text: \kelHmph...\! Ich werde euch zwei und eure verrückten Ideen nie verstehen.
+message_147:
+  text: \basIch denke, Pink würde dir gut stehen, AUBREY.
+message_148:
+  text: \basWas denkst du, \n[8]?
+message_149:
+  text: \basHmm...\! Vielleicht sollten wir das AUBREY nicht sagen.
+message_150:
+  text: \bas\n[8] sagt, dass er denkt, dass Pink eine tolle Farbe ist!
+message_151:
+  text: \aubSiehst du, sogar BASIL und \n[8] stimmen zu...<br>Du bist derjenige, der komisch ist, KEL!
+message_152:
+  text: \kelPsh...\! Wie auch immer...
+message_153:
+  text: \aubYay! Damit ist die Sache erledigt.
+message_154:
+  text: \aubEinen Tag werde ich meine Haare rosa färben!
+message_155:
+  text: \aubAber...\! vielleicht nicht in nächster Zeit...\!<br>Mein Vater ist ziemlich streng in diesen Dingen.
+message_156:
+  text: \kelDu hast gesagt, dass du und BASIL dieses neue \c[13]PET ROCKS\c[0] Spiel gespielt habt?\! Hmmm...\! Vielleicht sollte ich da auch mitmachen.
+message_157:
+  text: \kelHey, ich weiß!\! Warum gehen wir nicht zu \c[11]HOBBEEZ\c[0] und schauen, ob sie neue Sachen haben?
+message_158:
+  text: \basWas ist das, \n[8]? Wolltest du das Foto sehen?
+message_159:
+  text: \bas Sie fragen immer nach meinem Foto, wenn ich irgendwelche Bilder von AUBREY mache.
+message_160:
+  text: \basDarf ich...\! vielleicht...\! einen kleinen Schwarm spüren?
+message_161:
+  text: Du spürst, wie deine Ohren rot werden...
+message_162:
+  text: \basHehe...\! Keine Sorge, ich werde nichts sagen!\!<br>Meine Lippen sind versiegelt.
+message_163:
+  text: \kelOh, gehst du voraus, \n[8]?\! Mach dir keine Sorgen um uns, wir holen dich gleich ein!
+message_177:
+  text: \aubSind Sie sicher, dass Sie nicht auf dem Foto sein wollen, \n[8]?
+message_178:
+  text: \mar\n[8] ist ein bisschen kamerascheu...\!<br>Wir alle haben solche Tage, nicht wahr?
+message_179:
+  text: \marEs ist okay, \n[8]!\! Du wirst dich früh genug daran gewöhnen! Hehe...
+message_180:
+  text: \aubWow! Dieser Kuchen sieht so fantastisch aus!<br>Du hast dich dieses Mal wirklich selbst übertroffen, HERO.
+message_181:
+  text: \basYay... Danke, HERO!\! Ich liebe Erdbeeren.
+message_182:
+  text: \aubBASIL, BASIL! Welchen Wunsch wirst du äußern?
+message_183:
+  text: \kelHey, das kannst du nicht fragen, AUBREY!
+message_184:
+  text: \kelOder sonst wird es nicht wahr...
+message_185:
+  text: \aubHuh? Funktioniert das so?
+message_186:
+  text: \aubDann, in diesem Fall...\!<br>Ich wünsche mir...\! dass KEL in der Schule nur Einsen bekommt!
+message_187:
+  text: \kelHey, das kannst du nicht machen!
+message_188:
+  text: \basHmm...\! ein Wunsch?\! Ahh...\! Aber was soll ich mir wünschen?\!<br>Ich habe alles, was ich mir wünschen könnte, genau hier!
+message_189:
+  text: \bas...
+message_190:
+  text: \basOh, ich weiß! Hehe...
+message_191:
+  text: \basIch denke...\! Ich wünsche mir...
+message_192:
+  text: \bas...
+message_193:
+  text: \basEin Scherz.
+message_194:
+  text: \basEs ist ein Geheimnis!
+message_195:
+  text: \aubAww...\! Ich will es aber wissen...
+message_196:
+  text: \herJungs, wenn wir uns nicht beeilen, werden die Kerzen schmelzen!\!<br>Sind wir alle bereit zu singen?
+message_197:
+  text: \kelYeah, you bet!
+message_198:
+  text: \herWolltest du uns den Anfang machen, MARI?
+message_199:
+  text: \marSichere Sache.
+message_200:
+  text: \marAhem...\! und eine eins, zwei, drei, vier...
+message_201:
+  text: \sinv[1]Happy Birthday to you!\! Happy Birthday to you!\n<EVERYONE>
+message_202:
+  text: \sinv[1]Happy Birthday, lieber BASIL!\! Happy Birthday to youuuuu!\n<EVERYONE>
+message_203:
+  text: \kel\sinv[1]\{WOOOOO-HOOOOOO!!\!\}\sinv[0]<br>Blas deine Kerzen aus, BASIL!
+message_204:
+  text: \aubMake a wish...
+message_220:
+  text: \kelWow...\! Ein neuer Basketball!!!\ Danke, Bruder!
+message_221:
+  text: \her Kein Problem, KEL...\!<br> Du kannst dich bei mir bedanken, indem du in der Schule etwas besser wirst.
+message_222:
+  text: \kelUh-huh... Darauf kannst du wetten!
+message_223:
+  text: \herOkay, \n[8]... Es ist Zeit für dich, dein Geschenk zu öffnen.
+message_224:
+  text: \marDieses Jahr bekommst du nur ein Geschenk...\! von uns allen.
+message_225:
+  text: \basiert Es sieht wahrscheinlich nicht nach viel aus...<br>aber wir mussten alle zusammen dafür sparen.
+message_226:
+  text: \aubYeah!\! Ich und BASIL haben im Sommer sogar angefangen, Kekse und Limonade zu verkaufen.
+message_227:
+  text: \Und MARI und ich haben für eine Weile einen Job in der Bäckerei angenommen,<br>wenn du dich erinnerst.
+message_228:
+  text: \kel Und ich?\! Ich musste jeden Morgen Zeitungen austragen, ungefähr drei Monate lang...
+message_229:
+  text: \kel\[2]Und du weißt, wie sehr ich Morgens hasse!
+message_230:
+  text: \marWir wissen, dass das vielleicht eine Menge Druck ist, aber...
+message_231:
+  text: \her Es ist schon eine Weile her, dass du mit dem Geigenspiel aufgehört hast.
+message_232:
+  text: \basMARI hat uns erzählt, dass du immer mit ihr im Zimmer sitzt, wenn sie Klavier übt.
+message_233:
+  text: \Und einmal habe ich dich sogar dabei erwischt, wie du versucht hast, auf deiner alten Mini-Geige zu spielen, obwohl sie zu klein für dich war.
+message_234:
+  text: \aubAlso...\! das war BASILs Idee...\! aber wir haben alle beschlossen, für einen wirklich schönen...\! also...\! yeah!
+message_235:
+  text: \marWir hoffen, dass es dir gefällt, \n[8].
+message_236:
+  text: \marThis ist von uns allen für dich.
+message_237:
+  text: Du hast den Geigenkasten geöffnet.
+message_238:
+  text: \kel\{\sinv[1]TA-DA!
+message_239:
+  text: \aubEs ist deine ganz eigene Geige!
+message_240:
+  text: \basWir hoffen, dass es dir gefällt, \n[8]...<br>\!Geh und probiere es aus!
+message_241:
+  text: ...
+message_242:
+  text: Du spürtest ein Kribbeln in deinen Fingern...<br>Wie von selbst...<br>Dein Körper bereitete die Geige zum Spielen vor.
+message_260:
+  text: Du hast dich erinnert...
+message_261:
+  text: Der Geruch von frisch gebackenen Keksen.
+message_262:
+  text: Es roch besser, weil ich wusste, dass MARI es von Grund auf neu gemacht hat.
+message_263:
+  text: Der \c[4]VIOLIN\c[0] hat seine Form wiedergefunden.
+message_270:
+  text: Der Geschmack der Wassermelone.
+message_271:
+  text: Es schmeckte noch leckerer, wenn man es im heißen Sommer mit allen zusammen aß.
+message_272:
+  text: Das \c[4]VIOLIN\c[0] hat einen Teil von sich selbst geflickt.
+message_280:
+  text: Das Gefühl, in MARI's Schoß zu schlafen.
+message_281:
+  text: Es fühlte sich angenehmer an, weil du wusstest, dass, egal was passiert... MARI würde dich immer beschützen.
+message_290:
+  text: Das Geräusch von fallendem Regen, wenn er auf deinen Schirm trifft.
+message_291:
+  text: Es klang beruhigender zu wissen, dass du neben deinen besten Freunden stehst.
+message_300:
+  text: BASILs Lächeln, als er gerade seine Geburtstagskerzen ausblasen wollte.
+message_301:
+  text: Aber du hast auch daran gedacht...
+message_302:
+  text: So wie BASIL seinen Wunsch geäußert hat, hast auch du einen geäußert.
+message_303:
+  text: Zu dieser Zeit...\! Du hast dir gewünscht, dass alle glücklich werden.
+message_304:
+  text: Das ängstliche Gefühl in deinem Herzen, als du den ersten Ton auf deiner neuen Geige gespielt hast.
+message_305:
+  text: Dass es dir Angst gemacht hat, aber es hat dir nichts ausgemacht...
+message_306:
+  text: Weil sie an dich geglaubt haben.
+message_307:
+  text: Und egal, was...
+message_308:
+  text: Du wolltest sie nicht enttäuschen.\!<br>Denn sie waren deine Freunde.
+message_309:
+  text: Das \c[4]VIOLIN\c[0] flickte einen Teil von sich selbst zusammen.
+message_310:
+  text: Du hast einen \c[4]VIOLIN\c[0].
+message_311:
+  text: Du hast \c[4]SHEET MUSIC\c[0].
+message_312:
+  text: Strähnen von langen schwarzen Haaren sind mit seinen Schnüren verwickelt.
+message_313:
+  text: Das Papier ist von Blut zerrissen und zerknittert...<br>aber es kann noch gelesen werden.
+message_319:
+  text: Ein leeres Notenpult.\!<br>Willst du dein \c[4]SHEET MUSIC\c[0] ablegen?
+message_320:
+  text: Du hast das \c[4]SHEET MUSIC\c[0] auf den Notenständer gelegt.
+message_400:
+  text: Die Bühne ist bereit für dich.\!<br>Willst du die \c[4]VIOLINE\c[0] spielen?
+message_420:
+  text: Willst du die Spielzeugkiste aufschließen?
+message_600:
+  text: \MARI's Kekse... In MARI's Kekse ist viel mehr Liebe eingebacken. Ich könnte sie ewig essen.
+message_601:
+  text: \Wassermelonen...sind mein Lieblingsteil des Sommers...
+message_602:
+  text: \Wir sind noch jung... Wir sollten groß träumen, richtig?
+message_603:
+  text: \Aber was soll ich mir wünschen? \|Ich habe alles was ich mir wünschen könnte genau hier.
+message_604:
+  text: \In diesem Jahr bekommst du nur ein Geschenk...von uns allen.
+message_605:
+  text: \Du sahst so friedlich aus, als du dort schliefst... Erinnert mich daran, als du noch ein Baby warst.
+message_607:
+  text: \Gehst du voraus? Mach dir keine Sorgen um uns...wir kommen gleich nach.
+message_608:
+  text: MARI's Kekse.
+message_609: {}

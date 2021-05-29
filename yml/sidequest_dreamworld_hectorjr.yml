@@ -1,0 +1,72 @@
+message_18:
+  text: Du hast \c[13]HECTOR\c[0] gefunden.
+message_0:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 23
+  text: \kelOh...\! \c[13]HECTOR\c[0]!\! Kann das sein?\! Du bist es wirklich!\!<br>Komm schon, \c[13]HECTOR\c[0]! Zurück in meine Tasche mit dir!\!<br>Es wird wie in alten Zeiten sein!
+message_1:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 35
+  text: \n<HECTOR>...\! Ah...\! KEL...\! Mein alter Freund...\! Es tut mir so leid.\! Ich fürchte, die Dinge haben sich geändert und ich kann dich nicht länger begleiten.\! Du siehst...
+message_2:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 35
+  text: \n<HECTOR>Ich habe jetzt eine Familie.
+message_3:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 35
+  text: \n<HECTOR>\Com[2]Wait!\! \c[13]HECTOR JR\c[0]!\! Was machst du da?\!<br>...\! Willst du sagen, dass du dich ihnen anschließen willst?\!<br>Dass es mehr im Leben gibt, als nur hier zu bleiben?
+message_4:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 35
+  text: \n<HECTOR>Oh, \c[13]HECTOR JR\c[0]...\! I...\! Ich verstehe dich gut...\!<br>Selbst dieser alte Stein wusste einst, wie man Spaß hat.\!<br>Möget ihr alle zusammen unvergessliche Abenteuer erleben!
+message_5:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 35
+  text: \n<HECTOR>Geh weiter und gesell dich zu ihm, \c[13]HECTOR JR\c[0]...\! In seine Tasche!
+message_6:
+  text: Du hast \c[13]HECTOR JR\c[0].
+message_7:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 35
+  text: \n<HECTOR>Ja...\! Genau so.\!<br>Schnüffel...\! Dann heißt es wohl Abschied nehmen.\!<br>Danke, dass du nie aufgegeben hast, mich zu finden, KEL.
+message_8:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 35
+  text: \n<HECTOR>\c[13]HECTOR JR\c[0]...\! Sei brav, okay?\!<br>Vergiss deine Familie nicht!\! Wir sind immer für dich da.
+message_9:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 35
+  text: \n<HECTOR>Ich hoffe, dass du beim nächsten Mal, wenn wir uns treffen, zu einem wundervoll polierten Felsen erblüht bist!
+message_10:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 17
+  text: \kelKeine Sorge, HECTOR!<br>Ich werde mich gut um \c[13]HECTOR JR\c[0] kümmern!
+message_11:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 35
+  text: \n<HECTOR>Ich weiß, dass du es tun wirst, KEL...\!<br>Verliere ihn nur dieses Mal nicht, in Ordnung?
+message_12:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 16
+  text: \kel Ich werde nicht...\! Ich verspreche es!
+message_13:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 35
+  text: \n<HECTOR>\c[13]HECTOR JR\c[0]...\! Sei brav, okay?\!<br>Vergiss deine Familie nicht!\! Wir sind immer für dich da.
+message_14:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 35
+  text: \n<HECTOR>Ich hoffe, dass du beim nächsten Mal, wenn wir uns treffen, zu einem wundervoll polierten Felsen erblüht bist!
+message_15:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 17
+  text: \Keine Sorge, \c[13]HECTOR\c[0]!<br>Ich werde mich gut um \c[13]HECTOR JR\c[0] kümmern!
+message_16:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 35
+  text: \n<HECTOR>Ich weiß, dass du es tun wirst, KEL...\!<br>Verliere ihn nur dieses Mal nicht, in Ordnung?
+message_17:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 16
+  text: \kel Ich werde nicht...\! Ich verspreche es!

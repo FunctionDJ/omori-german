@@ -1,0 +1,228 @@
+message_0:
+  faceset: MainCharacter_Mari
+  faceindex: 0
+  text: \marWell...\! Wir sind da.
+message_1:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 40
+  text: \herGuys...\! Ich weiß nicht so recht.
+message_2:
+  faceset: MainCharacter_Mari
+  faceindex: 2
+  text: \marOh, HERO! Sag mir nicht, dass du kalte Füße bekommst!
+message_3:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 28
+  text: \kelCome on, bro! Du hast dem schon zugestimmt...
+message_4:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 1
+  text: \aubWe can do this as long as we're together!<br>Sagt ihr das nicht immer?
+message_5:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 40
+  text: \herJa, ich weiß... aber...
+message_6:
+  faceset: MainCharacter_Mari
+  faceindex: 3
+  text: \marDu brauchst keine Angst zu haben, HERO.\! Wir sind alle für dich da.\!<br>Tue es zumindest für mich...\! bitte?
+message_7:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 42
+  text: \her...\! Oh...\! Also gut.
+message_8:
+  faceset: MainCharacter_Mari
+  faceindex: 6
+  text: \mar\sinv[1]Danke, HERO~ Hehe...
+message_9:
+  faceset: MainCharacter_Mari
+  faceindex: 3
+  text: Zeige den Weg, kleiner Bruder.\mar
+message_10:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 29
+  text: \kelWartet mal kurz, Leute. \! Wo ist HERO?
+message_11:
+  faceset: MainCharacter_Mari
+  faceindex: 5
+  text: \marGottverdammt... Ist er weggelaufen?\!<br>Und nach all der Überredungskunst, die wir geleistet haben?
+message_12:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 20
+  text: \kel...\! Das klingt nicht nach HERO.\!<br> Er hätte uns gesagt, wenn er gehen würde.
+message_13:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 10
+  text: \aubDas darfst du nicht sagen! Es macht mir Angst...\!<br> Er wartet wahrscheinlich schon beim Picknick.\!<br> Wir können ihn später einholen!
+message_14:
+  text: Willst du weiter durch den Nebel gehen?
+message_20:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 20
+  text: \kelHey, Leute... Ich weiß nicht so recht...<br>Ich mache mir langsam Sorgen.
+message_21:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 8
+  text: \aubKEL?\! Besorgt?\! Das hört sich überhaupt nicht nach dir an.
+message_24:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 29
+  text: \kel Es ist nur...\! HERO würde nicht einfach so abhauen.
+message_25:
+  faceset: MainCharacter_Mari
+  faceindex: 2
+  text: <br>Sind Sie sicher, dass Sie zurückgehen wollen, KEL?<br>Sie waren wirklich aufgeregt, als Sie vorhin das leere Haus sahen!
+message_26:
+  faceset: MainCharacter_Mari
+  faceindex: 3
+  text: \marHERO weiß, wie man auf sich aufpasst...\!<br>Du kannst ihm vertrauen!
+message_27:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 22
+  text: \kelYeah...\! Ich schätze, du hast recht.
+message_28:
+  text: Willst du weiter durch den Nebel gehen?
+message_15:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 4
+  text: \aubHmm...\! Sollen wir dann für HERO zurückgehen?
+message_16:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 3
+  text: \marOh, ich bin sicher, dass es ihm gut gehen wird...
+message_17:
+  faceset: MainCharacter_Mari
+  faceindex: 5
+  text: \marBesonders...\! Wenn er uns einfach so abserviert, dann verdient er es zu warten!
+message_18:
+  faceset: MainCharacter_Mari
+  faceindex: 0
+  text: \marCome on, OMORI.\! Lass uns weitergehen!
+message_40:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 10
+  text: \aub\com[2]Au... KEL! Du trittst mir auf den Fuß!
+message_41:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 4
+  text: \aubHuh?\! Wo ist KEL?
+message_42:
+  faceset: MainCharacter_Mari
+  faceindex: 4
+  text: \marHmm... Glaubst du, er ist für HERO zurückgegangen?
+message_43:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 4
+  text: \aubVielleicht...
+message_44:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 5
+  text: \aubYou know...\! Dieser Wald war viel weniger unheimlich, als wir noch mehr waren...
+message_45:
+  faceset: MainCharacter_Mari
+  faceindex: 1
+  text: \marWolltest du zurückgehen, AUBREY?
+message_46:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 5
+  text: \aubIch schon, aber...\! Ich will nicht ganz alleine zurückgehen.
+message_47:
+  text: Willst du weiter durch den Nebel gehen?
+message_48:
+  faceset: MainCharacter_Mari
+  faceindex: 4
+  text: \marAww...\! AUBREY, du brauchst keine Angst zu haben.\! Wir haben alle schon so viel zusammen durchgemacht.\! Wir können es mit allem aufnehmen!
+message_49:
+  faceset: MainCharacter_Mari
+  faceindex: 0
+  text: \marUnd wenn es zum Schlimmsten kommt...<br>Du weißt, dass OMORI und ich in der Lage sein werden, dich zu beschützen.
+message_50:
+  faceset: MainCharacter_Mari
+  faceindex: 3
+  text: \marIst das nicht richtig, OMORI?
+message_60:
+  faceset: MainCharacter_Mari
+  faceindex: 4
+  text: \marOh?\! Wo ist AUBREY?\!<br>Strange...\! Sie hat doch eben noch meine Hand gehalten.
+message_61:
+  faceset: MainCharacter_Mari
+  faceindex: 4
+  text: \marIch schätze, alle sind zurückgegangen...\!<br>Was sollen wir jetzt tun, OMORI?\!<br>Willst du immer noch weitergehen?
+message_62:
+  faceset: MainCharacter_Mari
+  faceindex: 3
+  text: Okay! Ich bin immer noch dabei, wenn du es bist, kleiner Bruder!\mar
+message_63:
+  faceset: MainCharacter_Mari
+  faceindex: 4
+  text: Aber OMORI...\! Wir sind schon fast da!\mar
+message_64:
+  faceset: MainCharacter_Mari
+  faceindex: 0
+  text: Alle werden auf uns warten, wenn wir zurückkommen.\mar
+message_65:
+  faceset: MainCharacter_Mari
+  faceindex: 3
+  text: Ich verspreche, dass ich dich beschützen werde!\mar
+message_70:
+  faceset: MainCharacter_Mari
+  faceindex: 3
+  text: \marWas ist los, OMORI?\! Wolltest du zurückgehen?
+message_80:
+  faceset: MainCharacter_Mari
+  faceindex: 0
+  text: \marWell...\! Wir sind endlich da.
+message_82:
+  faceset: MainCharacter_Mari
+  faceindex: 4
+  text: <br>Ich weiß nicht warum, aber das macht mich ein bisschen traurig.
+message_83:
+  faceset: MainCharacter_Mari
+  faceindex: 0
+  text: \marSetz dich zu mir, OMORI!
+message_84:
+  text: Willst du bei MARI sitzen?
+message_85:
+  faceset: MainCharacter_Mari
+  faceindex: 3
+  text: \marEs gibt jetzt nur noch uns beide.<br>Wir haben nicht mehr wirklich Zeit für so etwas, hm?
+message_86:
+  faceset: MainCharacter_Mari
+  faceindex: 0
+  text: <br>Es ist immer so hektisch, wenn alle um einen herum sind.<br>Manchmal vermisse ich die ruhigeren Momente.
+message_87:
+  faceset: MainCharacter_Mari
+  faceindex: 2
+  text: \marWas ist los, OMORI? Du scheinst abgelenkt zu sein...
+message_88:
+  text: Es ist ein langer Weg nach unten... Willst du springen?
+message_89:
+  faceset: MainCharacter_Mari
+  faceindex: 5
+  text: \marOMORI, pass auf!\! Du siehst aus, als würdest du gleich reinfallen.
+message_90:
+  faceset: MainCharacter_Mari
+  faceindex: 4
+  text: \marSei vorsichtig, okay?\! Ich kann dich nicht wieder verlieren...
+message_91:
+  faceset: MainCharacter_Mari
+  faceindex: 4
+  text: \marVielleicht ist es hier nicht so sicher.\!<br> Wir sollten zurück zu den anderen gehen.
+message_92:
+  faceset: MainCharacter_Mari
+  faceindex: 0
+  text: \mar Ich warte draußen auf dich!
+message_93:
+  faceset: MainCharacter_Mari
+  faceindex: 4
+  text: \Das sieht wirklich nach einem langen Weg nach unten aus...
+message_94:
+  faceset: MainCharacter_Mari
+  faceindex: 4
+  text: \marVielleicht ist es hier nicht so sicher.\! Wir sollten zurück zu den anderen gehen.
+message_95:
+  faceset: MainCharacter_Mari
+  faceindex: 0
+  text: \mar Ich warte draußen auf dich!
+message_100:
+  text: Du willst nicht springen.

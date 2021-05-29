@@ -1,0 +1,50 @@
+message_1:
+  text: \n<KLEINES MÄDCHEN>O-Oh, hi, MR. TUTOR...
+message_2:
+  text: \n<KLEINES MÄDCHEN>Ummm...\! Tut mir leid...\! Das mag vielleicht ein bisschen egoistisch von mir erscheinen, aber...
+message_3:
+  text: \n<KLEINES MÄDCHEN>Siehst du, mein Vater ist heute nicht zu Hause, weil er Besorgungen macht. \! Ich habe den ganzen Sommer über in meinem Zimmer gelernt und möchte nur einen Tag im Park spielen.
+message_4:
+  text: \n<KLEINES MÄDCHEN>Könntest du bitte mein Arbeitsblatt für heute fertig machen, damit er es nicht merkt?\! Ich verspreche, dass ich zu Hause bin, bevor es dunkel wird, also sag es ihm bitte nicht!
+message_5:
+  text: \n<SMALL GIRL>Ahh...\! Ich dachte so..
+message_6:
+  text: \n<KLEINES MÄDCHEN>W-Warte...\! Du meinst, du lässt mich gehen?\!<br>Oh, danke, Herr Tutor! Du bist der Beste!
+message_8:
+  text: \n<SMALL GIRL>Yay! Ich werde wirklich in den Park gehen!\! Ich frage mich, was ich zuerst tun soll...\! Ich weiß!\! Ich will im Sandkasten spielen!\!<br>\sinv[1]Hehe... Ich kann es kaum erwarten!
+message_9:
+  text: \n<KLEINES MÄDCHEN>Danke nochmal, Mister! Ich werde jetzt gehen und etwas Spaß haben!
+message_10:
+  text: \n<SMALL GIRL>Ahh...\! Dachte ich mir schon...\! Das ist okay!\!<br> Ich sollte wahrscheinlich sowieso härter lernen...
+message_1000:
+  text: \n<SMALL GIRL>Ein weiterer Tag des Lernens...<br>Seufz... Ich frage mich, was mein Bruder jetzt gerade macht...
+message_11:
+  text: JOYs Spracharbeitsblatt.\! Hast du es fertig?
+message_12:
+  text: In dem Satz "Dieses Glas Limonade ist __erfrischend", <br>welches Präfix ist richtig?
+message_13:
+  text: A) Dis
+message_14:
+  text: B) Un
+message_15:
+  text: C) Re
+message_16:
+  text: Was ist die richtige Abkürzung für das Wort "Gewicht"?
+message_17:
+  text: A) wgt.
+message_18:
+  text: B) wt.
+message_19:
+  text: C) W.
+message_20:
+  text: Welches Wort bedeutet "sich auf Händen und Knien vorwärts bewegen"?
+message_21:
+  text: A) Schlittern
+message_22:
+  text: B) Krabbeln
+message_23:
+  text: C) Gehen
+message_24:
+  text: Du hast das JOY Arbeitsblatt zur Sprache ausgefüllt.
+message_25:
+  text: Du solltest das Arbeitsblatt zuerst ausfüllen, bevor du gehst.

@@ -1,0 +1,502 @@
+message_0:
+  text: \pluAh. Das ist eine Überraschung, Kinder!<br>Willst du dich wieder mit mir anlegen?
+message_1:
+  text: \plu\Com[2]\sinv[2]\{GWAHA\{HAHA\{HAHAHAHA!!\}
+message_2:
+  text: <br>Ich verstehe dich gut...<br>Ich spüre immer noch die Nachwirkungen unseres hitzigen Kampfes.<br>Es war eine Erinnerung, die ich für immer in Ehren halten werde!
+message_3:
+  text: \plu Ihr seid alle unglaublich stark geworden, aber wie bei allem, gibt es noch Raum für Verbesserungen.
+message_4:
+  text: \plu\Com[2]\c[1]FLEX\c[0] für mich, KEL!<br>Zeige mir, was ich dir beigebracht habe!
+message_5:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 19
+  text: \kelJa, Herr! PLUTO, Herr!
+message_6:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 18
+  text: \kel\{\{\com[2]HOO-HA!!\}
+message_7:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 16
+  text: \kelKEL ist bereit für Action! Also, wen schlage ich jetzt!?
+message_8:
+  text: \plu...
+message_9:
+  text: \pluNein, ich fürchte, du irrst dich.
+message_10:
+  text: \pluIn dieser Herausforderung werde ich nicht deine Kraft testen.<br>Ich werde deine Ausdauer testen...<br>.
+message_11:
+  text: \pluBrace yourself, KEL! Ich werde mich nicht zurückhalten.
+message_12:
+  text: KEL hat 50 HERZEN gewonnen.<br>!...und einen Zahn verloren.
+message_13:
+  text: \plu\Com[2]\sinv[2]\{GWAHA\{HAHA\{HAHAHAHA!!\}
+message_20:
+  text: \n<BERLY>Grummeln... grummeln...
+message_21:
+  text: \n<BERLY>Hey, VAN! Komm her für mich!
+message_22:
+  text: \n<VAN>Huh? Wolltest du etwas, BERLY?
+message_23:
+  text: \n<BERLY>Ja, stell dich genau hier hin und schau in diese Richtung.
+message_24:
+  text: \n<VAN>Okie-dokes!
+message_25:
+  text: \n<BERLY>AUBREY, komm her!
+message_26:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 8
+  text: \aubWas willst du jetzt, BERLY?
+message_27:
+  text: \n<BERLY>AUBREY!\! \sinv[1]AUBREY, AUBREY, AUBREY...\sinv[0]\!<br>Was soll dieser freche Tonfall?\! Komm schon! Wir sind die besten Freunde!
+message_28:
+  text: \n<BERLY>Nun, siehst du den großen Kerl da drüben?
+message_29:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 8
+  text: \aubIch weiß wer VAN ist...
+message_30:
+  text: \n<BERLY>Großartig!\! Mach weiter und verpass ihm einen guten Schlag für mich!
+message_31:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 10
+  text: \aub\com[2]W-Was!? Warum!? Was ist, wenn er verletzt wird?
+message_32:
+  text: \n<BERLY>Immer diese Fragen! Kannst du nicht einmal etwas tun, ohne zu denken!?
+message_33:
+  text: \n<BERLY>Geh weiter! Smash!
+message_34:
+  text: \n<BERLY>Hey! Ich habe nach AUBREY gefragt! Nicht dich!
+message_35:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 8
+  text: \aubOkay, da. Ich habe es geschafft. Und was jetzt?
+message_36:
+  text: \n<BERLY>Tue es nochmal! Mach es, bis ich Stopp sage!
+message_37:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 11
+  text: \aubOkay...\! Aber...\! Was mache ich genau?
+message_38:
+  text: \n<BERLY>Keine Fragen! Nur zertrümmern!
+message_39:
+  text: \n<BERLY>Du kommst voran, denke ich!\!<br>Komm schon, du schaffst es!\! Ausdauer! Ausdauer!
+message_40:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 6
+  text: \aubHuff...huff...\!<br>Wie lange muss ich das noch machen!?
+message_41:
+  text: \n<BERLY>Bis ich Stopp sage! Werde jetzt nicht langsamer!
+message_42:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 7
+  text: \aubHuff... Huff...\! Hilfe! Meine Arme fühlen sich an wie Nudeln!
+message_43:
+  text: \n<BERLY>Schiebe weiter! Du bist fast am Ziel!
+message_44:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 11
+  text: \aubIch glaube...\! Ich werde ohnmächtig.
+message_45:
+  text: \n<BERLY>Bitte...\! Nur noch ein Smash...
+message_46:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 6
+  text: \aubHuff... Huff... Huff...
+message_47:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 10
+  text: \aub\sinv[2]\{HIII\{IIYAAAA\{AAHHHHHH!!!
+message_48:
+  text: AUBREY hat 50 JUICE gewonnen!
+message_49:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 7
+  text: \aubHuff...\! Was war...huff...\! das denn?
+message_50:
+  text: \n<BERLY>...
+message_51:
+  text: \n<BERLY>Nein, eigentlich nichts. Mir war nur langweilig.\!<br>Aber ehrlich gesagt...\! ist das auch ziemlich langweilig.
+message_52:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 10
+  text: \aub\Com[2]\{\quake[1]WHAT!?\! HUFF...\! THAT'S ALL!?\quake[0]
+message_53:
+  text: \n<BERLY>Hey, wenigstens hast du was davon!\!<br>Ich langweile mich hier immer noch!\! Grummel...grummel...
+message_54:
+  text: \n<BERLY>Komm schon, VAN...\! Lass uns ein bisschen Tetherball spielen.
+message_55:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 11
+  text: \aubHuff...\! Huff...\!<br>Ich...\! Huff...\! Ich versteh BERLY einfach überhaupt nicht...
+message_56:
+  text: \n<BERLY>Hey, komm wieder her! Ich habe nicht gesagt, dass du schon gehen darfst!
+message_70:
+  text: \n<MR. SCAREBRO>Hey, Bros.\!<br> Habt ihr alle Spaß hier im \c[11]CLUB SANDWICH\c[0]?<br>Ich weiß, ich bin...
+message_71:
+  text: \n<MR. SCAREBRO>Meine Freunde sagen mir, dass ich eine gute Menschenkenntnis habe.
+message_72:
+  text: \n<MR. SCAREBRO>Ah.\! Ja, ich kann es jetzt sehen...\! Du da, im gestreiften Anzug!\!<br>Weißt du, was dein Problem ist, Bruder?\!<br>Du bist einfach viel zu nett.
+message_73:
+  text: \n<MR. SCAREBRO>Ich könnte dich beleidigen, deine Freunde beleidigen und deine Mutter beleidigen und du würdest immer noch keinen Finger an mich legen.\! Stimmt's, Bruder?
+message_74:
+  text: \n<MR. SCAREBRO>So, was jetzt, Bruder? Nimmst du das einfach so hin?\!<br>Nein... Du kannst mich nicht einfach so fallen lassen, Bruder.
+message_75:
+  text: \n<MR. SCAREBRO>Gib mir einen guten Schlag, Bruder.\!<br> Mach schon. Tu es, Bruder.
+message_76:
+  text: \n<MR. SCAREBRO>Hey, nicht du, Bruder. Ich spreche mit dem Bruder im gestreiften Anzug!
+message_77:
+  text: Möchtest du SCAREBRO schlagen?
+message_78:
+  text: \n<MR. SCAREBRO>Was war das, Bro?\!<br>Du würdest dich doch nicht vor mir drücken, oder?
+message_79:
+  text: \n<MR. SCAREBRO>Ein Bruder würde so etwas nicht tun.<br>\!Versuch es noch einmal. Du kannst es schaffen, Bruder.
+message_80:
+  text: Möchtest du SCAREBRO schlagen?
+message_81:
+  text: HERO hat 20 ATTACK gewonnen.
+message_82:
+  text: \n<MR. SCAREBRO>Bro...
+message_83:
+  text: \n<MR. SCAREBRO>Ja, Bruder.\! Einfach so...
+message_84:
+  text: \n<MR. SCAREBRO>Ja, Bruder.\! Einfach so...
+message_85:
+  text: \n<MR. SCAREBRO>Komm schon, Bro!\! Ich will einen guten Schlag!
+message_100:
+  text: Ein verdächtig aussehender Pilz.\!<br>Willst du mal abbeißen?
+message_101:
+  text: Eine harte Birne.\! Du kannst hören, wie etwas im Inneren zappelt.
+message_102:
+  text: \n<J. SHROOM>Du!\! Zwiebelige!\!<br>Deine Augen... Sie sagen mir, dass du dich danach sehnst zu lernen!
+message_103:
+  text: \n<J. SHROOM>Exzellent!\! Exzellent, exzellent, exzellent...\!<br>Ich werde dich unterrichten.\! Komm!
+message_104:
+  text: \n<J. SHROOM>Hmm... Du hast nicht das gleiche Funkeln in den Augen wie der Knollige!\! Er ist der einzige, den ich unterrichten werde!
+message_105:
+  text: \n<J. SHROOM>Du bist gekommen!\! Ausgezeichnet!\!<br>Nun beobachte.\! Die harten Zwiebeln, wie die hinter mir, halten Kreaturen wie mich fest.<br>Allerdings sind wir nicht in der Lage, aus eigener Kraft zu entkommen.
+message_106:
+  text: \n<J. SHROOM>Mit einer sehr spezifischen und komplizierten Schnitttechnik wäre man in der Lage, uns von unserem Kumpel-Schicksal zu befreien.
+message_107:
+  text: \n<J. SHROOM>Doch diese Technik braucht Jahre, vielleicht sogar Jahrzehnte, um sie zu meistern!\! Wenn du zustimmst, sie zu lernen, kann man nicht sagen, wie lange das dauern wird!
+message_108:
+  text: \n<J. SHROOM>Doch mit der Zeit glaube ich, dass du große Dinge tun wirst!\! Bist du bereit, die Herausforderung anzunehmen und mein Jünger zu werden?
+message_109:
+  text: OMORI hat lange Zeit trainiert.
+message_110:
+  text: \n<MASTER J. SHROOM>Exzellent! Exzellent, exzellent, exzellent...\!<br>Du bist so sehr gewachsen! Anders als... diese Zwiebel hinter mir...<br><br>Nun schneide sie mit deiner perfektionierten Technik, damit sie leben kann!
+message_111:
+  text: \n<J. SHROOM>Exzellent! Ausgezeichnet, ausgezeichnet, ausgezeichnet...
+message_112:
+  text: \n<YOUNG SHROOM>Endlich bin ich frei!\! Ausgezeichnet, ausgezeichnet, ausgezeichnet...
+message_113:
+  text: \n<JUNGER SHROOM>Nimm das! Es ist ein Geschenk von mir!
+message_114:
+  text: Du hast einen \c[5]DANDELION\c[0]!
+message_115:
+  text: \n<YOUNG SHROOM>Exzellent! Ausgezeichnet, ausgezeichnet, ausgezeichnet...
+message_119:
+  text: Ein merkwürdiges Gesicht ist in die Wand eingedrückt.<br>Du bist dir nicht sicher, was es bedeutet.
+message_120:
+  text: \n<LARGE FACE>Diese...\! hohlen Räume markiere ich.\!<br>In ihnen...\! Habe ich meine wertvollsten Habseligkeiten versteckt...\! ja.
+message_121:
+  text: \n<LARGE FACE> Ich zerschlage mein Gesicht, um mich zu erinnern...\! aber leicht.\!<br>Noch härter und es würde brechen.
+message_122:
+  text: \n<LARGE FACE>Smash...\! noch härter...\! und es würde brechen.
+message_123:
+  text: \n<LARGE FACE>Meine wertvollsten Besitztümer...
+message_130:
+  text: \n<???>Wie lautet das Passwort?
+message_131:
+  text: \n<???>...
+message_132:
+  text: \n<???>Kein Passwort, kein Eintrag.
+message_133:
+  text: \n<???>Wie lautet das Passwort?
+message_134:
+  text: \n<???>...
+message_135:
+  text: \n<???>Kein Passwort, kein Eintrag.
+message_136:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 37
+  text: \herOh, hey! Es ist dieser Ort!\! Wollt ihr reinkommen?\!<br>MR. JAWSUM hat mir einmal das Passwort verraten, damit ich eine seiner Besorgungen erledigen konnte.
+message_137:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 38
+  text: \her Ich liebe diese Jungs! Sie sind sehr lustig.
+message_138:
+  text: \n<???>Wie lautet das Passwort?
+message_139:
+  text: \n<???>...
+message_140:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 37
+  text: \herHey, HOAGIE! Ich bin es, HERO!<br>Das Passwort lautet ☐☐☐☐☐☐☐.
+message_141:
+  text: \n<HOAGIE>HERO, mein Mann! Willkommen, willkommen!\!<br>Die Tür ist nicht verschlossen. Komm einfach rein!
+message_150:
+  text: \n<REUBEN>Me und HOAGIE sind die Besitzer dieser Bude..<br>Er ist der Muskel...und ich bin der Muskel.
+message_151:
+  text: \n<REUBEN>Der Ausschank von \c[3]FRUIT JUICE\c[0] an Minderjährige ist nicht erlaubt. Du kennst die Regeln!\!<br>Aber du bist immer willkommen zu bleiben und die Musik zu genießen.
+message_152:
+  text: \n<REUBEN>Wir haben alle unsere Probleme.\!<br>Wenn du jemals eine Last abwerfen musst, bin ich für dich da.\!<br>Hier, trink einen \c[3]GRAPE SODA\c[0] auf mich!
+message_153:
+  text: Du hast \c[3]GRAPE SODA\c[0]!
+message_154:
+  text: \n<REUBEN>Der Ausschank von \c[3]FRUIT JUICE\c[0] an Minderjährige ist nicht erlaubt. Du kennst die Regeln!\!<br>Aber du bist immer willkommen zu bleiben und die Musik zu genießen.
+message_155:
+  text: \n<REUBEN>Wir haben alle unsere Probleme.\!<br>Wenn du jemals eine Last abwerfen musst, bin ich für dich da.\!<br>Hier, trink einen \c[3]GRAPE SODA\c[0] auf mich!
+message_156:
+  text: Du hast einen \c[3]GRAPE SODA\c[0]!
+message_157:
+  text: \n<REUBEN>Me und HOAGIE sind die Besitzer dieser Bude..<br>Er ist der Muskel...und ich bin der Muskel.
+message_158:
+  text: \n<REUBEN>Me and HOAGIE started this place from the ground up.\!<br>Now we got patrons comin' in from all over the world!\!<br>Nichts übertrifft dieses Gefühl.
+message_159:
+  text: \n<REUBEN>Ab und zu bekommen wir ein paar interessante Charaktere, aber normalerweise ist es ein Ort zum Entspannen.<br><br>Fühlt sich die meiste Zeit gar nicht wie Arbeit an, har har!<br>Außer wenn sich das Geschirr stapelt...
+message_160:
+  text: \n<REUBEN>HOAGIE sagt immer, wir sind ein Paar, das im Himmel gemacht wurde.\! Er ist ein wenig rau, aber er versteht mich einfach, weißt du?
+message_161:
+  text: \n<REUBEN>Wir haben alle unsere Probleme.\!<br>Wenn du jemals eine Last abwerfen musst, bin ich für dich da.\!<br>Hier, trink einen \c[3]GRAPE SODA\c[0] auf mich!
+message_162:
+  text: Du hast einen \c[3]GRAPE SODA\c[0]!
+message_163:
+  text: <br>Fühlt euch wie zu Hause, Kinder.<br>Jeder Freund von HERO ist ein Freund von mir.
+message_164:
+  text: \n<HOAGIE>Hat REUBEN wieder über mich gesprochen?\! Ich habe ihm gesagt, dass er das nicht tun soll.\! ...\! Aber eh...\! Es ist egal...\! Ich kann nicht sauer auf den Kerl sein.
+message_175:
+  text: Du hast etwas in deiner Hand gespürt.
+message_176:
+  text: Du hast \itemget.
+message_185:
+  text: Die gefangenen Kreaturen sehen unruhig aus.
+message_186:
+  text: Die gefangenen Kreaturen sehen traurig aus.
+message_187:
+  text: Die gefangenen Kreaturen wollen frei sein.
+message_188:
+  text: Die gefangenen Kreaturen brauchen deine Hilfe.
+message_190:
+  text: Willst du die Kreaturen freilassen?
+message_191:
+  text: Bist du dir absolut sicher?
+message_199:
+  text: Ein Erdbeerkuchen.\!<br>Willst du mal reinbeißen?
+message_200:
+  text: Ein Erdbeerkuchen, der wie eine Rübe riecht.<br>Willst du mal reinbeißen?
+message_201:
+  text: Ein Erdbeerkuchen, der nach Rosmarin duftet.<br>Willst du mal reinbeißen?
+message_202:
+  text: Ein Erdbeerkuchen, der nach Müll riecht.\!<br>Willst du mal reinbeißen?
+message_203:
+  text: Ein Erdbeerkuchen, der nach Meer riecht.<br>Willst du mal reinbeißen?
+message_204:
+  text: \n<SCHLOSSHÜTER> Ihr seid mutig, mit mir zu sprechen, ihr Jungen.\!<br>Sagt mir. Gefällt dir das Schloss von SWEETHEART?
+message_205:
+  text: \n<SCHLOSSHÜTER>Das Mädchen.\! Sie war eine durchdachte.\!<br>Diese Behausung. Sie nimmt die Form der tiefsten Sehnsüchte an.\!<br>Ein Ort, an den man zurückkehren kann.\! Ein Ort, den man Zuhause nennen kann.
+message_206:
+  text: \n<KEEPER OF THE CASTLE>SWEETHEART kam vor langer Zeit zu mir, ein armes Mädchen aus der Wüste...\! und flehte mich auf ihren Knien an, diesen Ort zu ihrem zu machen.
+message_207:
+  text: \Ich habe ihr gegeben, was sie wollte Ein Schloss voller Reichtümer, Diener, die sie befehligen konnte, eine Bühne, auf der sie ihre Macht zur Schau stellen konnte.
+message_208:
+  text: \n<SCHLOSSHÜTER>Doch... sie will immer noch mehr.\! Es muss ein Fluch sein.
+message_209:
+  text: \n<SCHLOSSHÜTER>Sie wird bald gehen und nicht mehr zurückkehren.\! Ich weiß dies.
+message_210:
+  text: \Und wenn ich der Meinung bin, dass sie anderswo ihr Zuhause gefunden hat, werde ich nach einem neuen Besitzer suchen.
+message_211:
+  text: \n<Burghüter>Zu dieser Zeit kehrst du zu mir zurück.\! Du, mit den leeren Augen.\! Deine Seele ist gespalten, aber du kannst nur einen Weg wählen.\! Es wird interessant sein, zu sehen, was du aus dieser Behausung machen wirst.
+message_212:
+  text: '\n<SCHLOSSHÜTER: Ihr seid mutig, wieder mit mir zu sprechen, ihr jungen Leute.'
+message_213:
+  text: \n<Schlosshüter>Die Zeit ist vergangen.\!<br>SWEETHEART ist gegangen und wird nicht zurückkehren.\! Ich weiß das.\!<br>Und nun ist es Zeit für mich, einen neuen Besitzer zu suchen.
+message_214:
+  text: \n<SCHLOSSHÜTER>Du mit den leeren Augen.\! Du bist jetzt hier.\! Deine Seele ist gespalten, aber du kannst nur einen Weg wählen.\! Es wird interessant sein, zu sehen, was du aus dieser Behausung machen wirst.
+message_215:
+  text: \n<Schlosshüter>Willst du diese Macht?
+message_230:
+  text: \n<KEEPER OF THE CASTLE>\c[11]SWEETHEART'S CASTLE\c[0] wird nicht mehr existieren.\!<br>Sind Sie sicher, dass es das ist, was Sie wollen?
+message_231:
+  text: \n<SCHLOSSHÜTER>Dann werde ich dir den Besitz dieses Ortes gewähren.
+message_240:
+  text: \n<KEEPER OF THE CASTLE>Du wirst deine Meinung noch früh genug ändern.\!<br>Alle Seelen sehnen sich nach dem, was sie Heimat nennen.
+message_241:
+  text: \n<SCHLOSSHÜTER> Ihr seid mutig, mit mir zu sprechen, ihr Jungen.\!<br>Sagt mir. Gefällt dir das Schloss von SWEETHEART?
+message_242:
+  text: \n<SCHLOSSHÜTER>Das Mädchen.\! Sie war eine durchdachte.\!<br>Diese Behausung. Sie nimmt die Form der tiefsten Sehnsüchte an.\!<br>Ein Ort, an den man zurückkehren kann.\! Ein Ort, den man Zuhause nennen kann.
+message_243:
+  text: \n<KEEPER OF THE CASTLE>SWEETHEART kam vor langer Zeit zu mir, ein armes Mädchen aus der Wüste, und flehte mich auf ihren Knien an, diesen Ort zu ihrem zu machen.
+message_244:
+  text: \Ich habe ihr gegeben, was sie wollte Ein Schloss voller Reichtümer, Diener, die sie befehligen konnte, eine Bühne, auf der sie ihre Macht zur Schau stellen konnte.
+message_245:
+  text: \n<SCHLOSSHÜTER>Doch... sie will immer noch mehr.\! Es muss ein Fluch sein.
+message_246:
+  text: \n<SCHLOSSHÜTER>Sie ist gegangen und wird nicht zurückkehren.\! Ich weiß das.\! Und nun ist es an der Zeit für mich, einen neuen Besitzer zu suchen.
+message_247:
+  text: \n<SCHLOSSHÜTER>Du, mit den leeren Augen.\! Du bist jetzt hier.\! Deine Seele ist gespalten, aber du kannst nur einen Weg wählen.\! Es wird interessant sein, zu sehen, was du aus dieser Behausung machen wirst.
+message_248:
+  text: \n<Schlosshüter>Willst du diese Macht?
+message_255:
+  text: \n<KEEPER OF THE CASTLE>SWEETHEART's castle will no longer exist.\!<br>Sind Sie sicher, dass es das ist, was Sie wollen?
+message_256:
+  text: \n<Schlosshüter>Dann gewähre ich dir das Eigentum an diesem Ort.
+message_257:
+  text: \n<KEEPER OF THE CASTLE>Du wirst deine Meinung noch früh genug ändern.\!<br>Alle Seelen sehnen sich nach dem, was sie Heimat nennen.
+message_270:
+  text: \$\n<POPCORN GIRL>Heya, willst du etwas Popcorn? Es kostet 80 CLAMS.
+message_271:
+  text: \n<POPCORN GIRL>Ja! Hier hast du es! Es ist \c[3]POPCORN\c[0]!
+message_272:
+  text: \n<POPCORN GIRL>Ja, okay. Das ist in Ordnung.
+message_273:
+  text: Du hast \c[3]POPCORN\c[0].
+message_274:
+  text: \n<POPCORN GIRL>Hey, das sind nicht genug CLAMS für \c[3]POPCORN\c[0].
+message_280:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 18
+  text: \kelIst das nicht ein cooler Aufzug?\!<br>Es riecht irgendwie nach Parfüm und Rauch.
+message_281:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 19
+  text: \kelOh, hi MARI!
+message_282:
+  faceset: MainCharacter_Mari
+  faceindex: 3
+  text: \marHallo, ihr zwei!
+message_283:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 26
+  text: \kel Mal sehen...<br>\!Also wenn ich das richtig verstanden habe, ist AUBREY im 5.
+message_284:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 27
+  text: \kel...\! Warum funktioniert das nicht?
+message_285:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 31
+  text: \kelOh, ja! Das habe ich total vergessen!\! Wir brauchen eine \c[4]COOL KEY CARD\c[0] dafür!
+message_286:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 19
+  text: \kelDie haben mir meine weggenommen, weil ich sie ständig verloren habe...<br>Ich schwöre aber, dass sie von alleine verschwinden!
+message_287:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 18
+  text: \kel Lass uns versuchen, in den anderen Stockwerken nach einem zu suchen.<br>\!Es muss hier irgendwo eine \c[4]COOL KEY CARD\c[0] geben!
+message_300:
+  text: Eine Puppe mit einem leeren Gesicht.<br>Sie sieht nicht so aus, als würde sie hierher gehören.<br>Willst du sie wegwerfen?
+message_301:
+  text: Eine Puppe mit einem bekannten Gesicht.
+message_302:
+  text: Seine Augen sind geheiligt worden.\! Willst du hineinschauen?
+message_310:
+  text: Eine durchsichtige Brücke spannt sich über den Graben.\!<br>Willst du sie überqueren?
+message_320:
+  text: \n<GATOR GUY>Hey, warte eine Sekunde!\! Du bist... HERO, nicht wahr?\!<br>Du bist der Lieblingsmann vom Boss!
+message_321:
+  text: \n<GATOR GUY>Entschuldigung, Sir. Ich hätte dich da fast nicht erkannt.\! Diese Sonnenbrille ist eine Nuance zu dunkel, weißt du was ich meine?
+message_322:
+  text: \n<GATOR GUY>Auch wenn du der Liebling des Chefs bist, Regeln sind Regeln.\! Aber vielleicht kann ich dir einen faireren Preis anbieten...
+message_323:
+  text: \n<GATOR GUY>Wie klingt \v[1012] CLAMS?\$
+message_326:
+  text: \n<GATOR GUY>Wie hört sich \v[1001] CLAMS an?\$
+message_327:
+  text: \n<GATOR GUY>Wie klingt \v[979] CLAMS?\$
+message_324:
+  text: <br>Danke, Mann.<br>Lege ein gutes Wort für mich beim Boss ein, ja?
+message_325:
+  text: \n<GATOR GUY>Mann, ist das dein Ernst?\! Ich verschenke nicht an jeden etwas, verstehst du?
+message_330:
+  text: Eine Astkoralle murmelt Kauderwelsch.
+message_331:
+  text: \n<BRANCH CORAL>Eine lange Zeit ist vergangen, seit du dich so weit vorgewagt hast.<br><br><br>Tiefere Schichten seiner Welt öffnen sich, während der DREAMER immer verzweifelter wird.<br><br>Auch die Vorstellungskraft ist begrenzt.
+message_332:
+  text: \n<BRANCH CORAL>Du hast Fragen, die ich beantworten kann.\!<br>Antworten, die du vergessen hast.
+message_333:
+  text: \n<BRANCH CORAL>Ich werde sie für dich auslegen.\!<br>Wenn du neugierig bist, wirst du wählen.
+message_335:
+  text: MEIN VERLORENER FREUND
+message_336:
+  text: DIE GROSSE GELBE KATZE
+message_337:
+  text: WEISSER RAUM
+message_340:
+  text: \n<BRANCH CORAL>Du möchtest mehr über deinen LOST FRIEND erfahren?
+message_341:
+  text: \n<BRANCH CORAL>Der Freund, den du verloren hast, ist nicht in dieser Welt.\!<br>An dem Tag, an dem er entfernt wurde, wurde er an anderer Stelle wiedergeboren.
+message_342:
+  text: \n<BRANCH CORAL>Er ist etwas Besonderes für dich.\! Eine Schicksalsschnur bindet euch beide aneinander.\! Er kann diesen Ort nicht alleine verlassen.
+message_343:
+  text: \n<BRANCHENKORALL>Um ihn zurückzuholen, wirst du dich ebenfalls entfernen müssen, aber auf eine Weise, die für diese Welt natürlich ist.\! Für \c[11]HEADSPACE\c[0].
+message_344:
+  text: \n<BRANCH CORAL>Diese Reise nähert sich ihrem Ende.\!<br>Du weißt bereits, was du zu tun hast, DREAMER.
+message_350:
+  text: \n<BRANCH CORAL>Sie möchten mehr über THE BIG YELLOW CAT erfahren?
+message_351:
+  text: \n<BRANCHENKORALL>Bevor diese Welt erschaffen wurde, gab es drei große Wesen...\! die ältesten, die weisesten und die beliebtesten.
+message_352:
+  text: \n<BRANCH CORAL>Der Älteste ist am Leben, aber nicht mehr derselbe, der er einmal war.
+message_353:
+  text: \n<BRANCHENKORALL>Das Alter hat sein Gewissen entfernt und er hat sich zu einem Parasiten in sich selbst entwickelt.\! Er lebt hier, gleich hinter dieser Höhle.
+message_354:
+  text: \n<BRANCH CORAL>Die Weiseste beging gegen ihre Vernunft eine Tat, die sich dem Willen des TÄUMERS widersetzte.\! Es ist eine Tat, die nicht einmal mir bekannt ist.
+message_355:
+  text: \n<BRANCH CORAL>Als Ergebnis wurde sie ihrer Weisheit beraubt und in die Isolation verbannt...\! ein besonderes Gefängnis irgendwo tief, tief unten.
+message_356:
+  text: \n<BRANCH CORAL>Die letzte und beliebteste, die GROSSE GELBE KATZE, wurde auserwählt, um über den wertvollsten Raum der DREAMER zu wachen.
+message_357:
+  text: \n<BRANCH CORAL> Er ist bis heute der Liebling der DREAMER...\! beobachtet fleißig...\! wartet darauf, dass etwas passiert.
+message_365:
+  text: \n<BRANCH CORAL>Sie möchten mehr über \c[11]WHITE SPACE\c[0] erfahren?
+message_366:
+  text: \n<BRANCH CORAL>Im \c[11]WHITE SPACE\c[0] zu sein, bedeutet, nichts zu sein.
+message_367:
+  text: \n<BRANCH CORAL>\c[11]WHITE SPACE\c[0] ist Leere, ein Zuhause ohne Wärme.<br>Ein Ort zum Überleben, aber nicht zum Leben.
+message_368:
+  text: \n<BRANCH CORAL>Auch wenn dein Gewissen nicht ausgelöscht werden kann.\!<br>Es wird immer einen Weg hinein finden.
+message_369:
+  text: \n<BRANCHENKORALLEN>Selbst im \c[11]WEISSEN RAUM\c[0] wird es die Form annehmen...<br>und wenn man es will, wird sich etwas bilden, um es zu unterwerfen.
+message_370:
+  text: \n<BRANCH CORAL>Eine hängende schwarze Glühbirne...\! die Verdrängung einer Idee.
+message_371:
+  text: \n<BRANCH CORAL>...
+message_372:
+  text: \n<BRANCHENKORALL>Ja.\! Vielleicht ist es an der Zeit, zuzugeben, dass du ein Mensch bist, DREAMER.
+message_373:
+  text: \n<BRANCH CORAL>Gibt es noch etwas, über das du gerne mehr wissen möchtest?
+message_374:
+  text: \n<BRANCHENKORALL>Du hast gut zugehört.\! Ich habe dir Wissen gewährt, aber wisse, dass ich dir hier auch Macht gewähren kann.
+message_375:
+  text: \n<BRANCH CORAL>Es gibt eine Herausforderung, die dir in dieser Welt sehr helfen wird.\!<br>Es ist einfach, ohne nachzudenken... und wenn du es schaffst, werde ich auch weg sein.
+message_376:
+  text: \n<BRANCH CORAL>Ich biete dir dieses Opfer an.\! Wirst du diese Gelegenheit nutzen?
+message_377:
+  text: \n<BRANCH CORAL>Ich verstehe.\! Steh ganz still, DREAMER.
+message_378:
+  text: An diesem Baum hängt ein roter, saftiger \c[3]APFEL\c[0].
+message_379:
+  text: Möchtest du den \c[3]APFEL\c[0] essen?
+message_380:
+  text: OMORI hat 50 HEART gewonnen.<br>\!OMORI hat 50 JUICE gewonnen.
+message_381:
+  text: OMORI gewann 10 ATTACK.<br>\!OMORI gewann 10 DEFENSE.<br>\!OMORI gewann 10 SPEED.
+message_382:
+  text: Eine Zweigkoralle...! Sie ist nicht lebendig.
+message_388:
+  text: \n<BRANCH CORAL>Willst du diese Herausforderung aufgeben?
+message_383:
+  text: \n<BRANCH CORAL>Ich sehe, du hast einen anderen Weg gewählt.\!<br>Allerdings bleibt mein Angebot offen.
+message_384:
+  text: \n<BRANCH CORAL>Wenn du noch viel stärker werden möchtest, sprich noch einmal mit mir.
+message_385:
+  text: \n<BRANCH CORAL>Ich sehe, du bist zurückgekehrt.<br>\!Ich werde es dir noch einmal sagen...
+message_386:
+  text: \n<BRANCH CORAL>Es gibt eine Herausforderung, die dir in dieser Welt sehr helfen wird.\!<br>Es ist einfach, ohne nachzudenken... und wenn du es schaffst, werde ich auch weg sein.
+message_387:
+  text: \n<BRANCH CORAL>Ich biete dir dieses Opfer an.\! Wirst du diese Gelegenheit nutzen?
+message_390:
+  text: Jeder hat 5 JUICE gewonnen!

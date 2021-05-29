@@ -1,0 +1,114 @@
+message_0:
+  text: \n<PINKBEARD>\Com[2]Bah! <br>Ich habe ihn gewarnt, dass dieses SWEETHEART Mädchen nichts als Ärger bringen würde!
+message_1:
+  text: \n<PINKBEARD>Hast du meinen Sohn gesehen?\! Sein Name ist CAPT. SPACEBOY, aber ich bin mir nicht sicher, wie er sich heutzutage nennt...\! Mit diesem Spatzenhirn ist immer etwas los...
+message_100:
+  text: \n<SPACE PIRATE CHIEF>Huff...\! Huff...\! Huff...
+message_101:
+  text: \n<PINKBEARD>SPACE PIRATE CHIEF! Mein treuester Berater!\!<br>Nun? Hast du ihn gefunden?
+message_102:
+  text: \n<SPACE PIRATE CHIEF>Es sieht ein wenig düster aus, CAPTAIN...\! Er mag diesmal für immer weg sein...\! aber...\! Ich habe das hier gefunden.
+message_103:
+  text: \n<PINKBEARD>Huh? Was ist das?
+message_104:
+  text: \n<PINKBEARD>\com[2]\c[4]BATTERIES\c[0]?\! Ich habe dich gebeten, meinen Sohn zu finden...\!<br>\quake[1]und du hast mir \c[4]BATTERIES\c[0]?!\quake[0]
+message_105:
+  text: \n<PINKBEARD>Das wird mir nicht helfen, CAPT zu finden. SPACEBOY!
+message_106:
+  text: \n<PINKBEARD>Hmm...\! Oder wird es das?
+message_107:
+  text: \n<SPACE PIRATE CHIEF>Huff...\! Tut mir leid, CAPTAIN.\! Ich werde weiter suchen!<br>\}Auch wenn er manchmal eine Nervensäge ist...
+message_108:
+  text: Du hast \c[4]BATTERIES\c[0]!
+message_2:
+  text: \spxhAh, was für eine Überraschung.\! Ihr seid es alle.\!<br>Hallo.\! Was für ein angenehmer Abend das doch ist.
+message_3:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 28
+  text: \kelErr...\! Hey...\! Es ist...\! äh...\! CAPT. SPACE EX-HUSBAND jetzt, richtig?\!<br>Du siehst nicht...\! so heiß aus...
+message_4:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 4
+  text: \aubYeah...\! Es ist so kühl hier oben...\! Bist du...\! wie...\! okay?
+message_5:
+  text: \spxhOh, ich?\! Sorgt euch nicht, Kinder.\!<br>Mein Herz ist gefroren.\! Ich bin rein.\! Ich bin kalt, wie Eis.\!<br>Ich fühle nichts.\! Ich werde nie wieder etwas fühlen.
+message_6:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 40
+  text: \herOh, nein...\! Er ist noch schlimmer als beim letzten Mal...
+message_7:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 4
+  text: \aubCAPT. SPACEBOY...\! Komm schon... Lass uns dich wieder nach Hause bringen.
+message_8:
+  text: \spxhCAPT. SPACEBOY?\! Wer ist das?\!<br>Ich bin nichts.\! Ich bin rein.\! Ich bin kalt, wie Eis.
+message_9:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 5
+  text: \aubSeufz... Bei diesem Tempo wird er nie auf uns hören...<br>Was sollen wir tun?
+message_10:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 17
+  text: <br>Wir müssen den Schnee aus ihm herausprügeln... genau wie beim letzten Mal!<br>Kommt schon, Leute! Wir können das schaffen!
+message_11:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 5
+  text: \aub\Com[2]W-Was!? Bist du sicher?\! Es muss einen anderen Weg geben...
+message_12:
+  text: \spxhAhh...\! Diese Kälte...\! Ich kann sie so gut nachempfinden...\!<br>Sie...\! Sie ergreift langsam Besitz von meiner Seele...<br>Ich werde eins...\! mit dem Eis...
+message_13:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 40
+  text: \herHmm...\! Normalerweise würde ich mit KELs Methoden nicht einverstanden sein, aber <br>bei diesem Tempo wird er hier oben ganz alleine erfrieren!\!<br>Manchmal braucht man ein wenig harte Liebe...
+message_14:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 18
+  text: \kel\[2]Das höre ich gerne!<br>Keine Sorge, CAPT. SPACEBOY! Wir werden dich retten!
+message_15:
+  text: \spxhSniff...\! Sniff...\! \sinv[1]Ohoooooo...
+message_16:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 4
+  text: \aubCAPT. SPACEBOY... Wie geht es dir?
+message_17:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 39
+  text: \herHey...\! Ich hoffe, ich bin nicht der Erste, der dir das sagt, aber...\!<br>Vielleicht ist es an der Zeit, dass du SWEETHEART loslässt und anfängst, die feineren Dinge im Leben zu genießen!
+message_18:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 19
+  text: \kelYeah!\! Du hast bessere Dinge, um die du dich kümmern kannst...\! wie deine Crew! Du bist ein SPACE PIRATE, um Himmels willen!
+message_19:
+  text: \spxhMeine...\!Crew?\! Ah...\! ja...\! meine Crew.\!<br>Das hätte ich fast vergessen...\! Wie schrecklich von mir...\!<br>Sie müssen so besorgt sein...\! Ich sollte zu ihnen zurückgehen...
+message_20:
+  text: \spxhHier, nimm das...\! Ich...\! schnüffel...\! werde es nicht mehr brauchen...
+message_21:
+  text: Du hast einen \c[13]WEDDING RING\c[0].
+message_22:
+  text: \spxhIch werde jetzt gehen.\!<br>Sorge dich nicht um mich... Ich finde den Weg nach Hause...\!<br>Schnüffel...\! Ich kenne den Weg zurück.
+message_23:
+  text: \n<PINKBEARD>\Com[2]Sohn!\! Da bist du ja!\!<br>Wo warst du, Junge!?<br>Ich habe überall nach dir gesucht!
+message_24:
+  text: \spxhOh...\! Hi, Dad...
+message_25:
+  text: \n<PINKBEARD>\Com[2]Was habe ich dir über dieses SWEETHEART Mädchen gesagt?\!<br>Ich habe immer gesagt, dass du zu gut für sie bist...\!<br>Du solltest lernen, einmal auf deinen alten Herrn zu hören!
+message_26:
+  text: \spxh...\! Sniff...\! Ich bin müde...\! Kann ich einfach ins Bett gehen?
+message_27:
+  text: \n<PINKBEARD>\Com[2]Bah!\! Genug mit diesem Unsinn!\!<br>Verschwendet eure Gefühle nicht an so jemanden, Junge!\!<br>Du wirst wahre Liebe erkennen, wenn sie passiert.
+message_28:
+  text: \n<PINKBEARD>Fürs Erste hast du noch deine Crew... und du hast noch mich!
+message_29:
+  text: \n<PINKBEARD>Du musst mir versprechen, dass du nie wieder deinen Namen änderst, hörst du mich?\! Es heißt CAPT. SPACEBOY von jetzt an... bis in alle Ewigkeit!
+message_30:
+  text: \capOkay...\! Sniff...\! Sorry, Dad...
+message_32:
+  text: Ein Plastikfisch, der an der Wand befestigt ist.
+message_33:
+  text: Hmm...\! Es braucht \c[4]BATTERIEN\c[3].
+message_34:
+  text: Du hast \c[4]BATTERIES\c[0] in den Plastikfisch gesteckt.
+message_35:
+  text: Diese Falltür ist versiegelt.
+message_36:
+  text: Du musst den Plastikfisch sein Lied beenden lassen.

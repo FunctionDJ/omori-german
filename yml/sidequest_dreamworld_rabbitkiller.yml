@@ -1,0 +1,30 @@
+message_1:
+  text: \n<LEAFIE>Wisst ihr, was ich mehr als alles andere hasse?\!<br>\quake[1]Bunnies.\quake[0]\! Das ist richtig.\! \quake[1]Bunnies.\quake[0]
+message_2:
+  text: <br>Ich hasse sie einfach so sehr.<br>Wenn ich einen Wunsch auf der Welt hätte, <br>würde ich alle Hasen der Welt vernichten.<br>Das Beben[1]
+message_3:
+  text: \n<LEAFIE>Hey, du siehst aus, als hättest du ein paar \quake[1]Häschen besiegt!\quake[0]\!<br>Ja, das stimmt.\ Ich kann sagen, wie viele \quake[1]bunnies\quake[0] du besiegt hast, indem ich dich einfach ansehe.
+message_4:
+  text: \n<LEAFIE>So sehr hasse ich \quake[1]bunnies.\quake[0]
+message_5:
+  text: \n<LEAFIE>Sag, ich sag dir was.\! Lass uns einen Deal machen.\!<br>Wenn du mindestens 5 \quake[1]Hasen besiegst, kommst du zurück und meldest dich bei mir...\! Ich werde dir etwas Schönes geben.
+message_6:
+  text: \n<LEAFIE>Nun geh und vernichte diese \quake[1]bunnies!\quake[0]
+message_7:
+  text: \n<LEAFIE>\Com[2]Prächtig!\! Wie ich sehe, hast du noch mehr \quake[1]Häschen zerstört.\quake[0]\!<br>Das sind \v[615] \quake[0]Häschen, die ausgelöscht wurden!\quake[0]!<br>Vielen Dank, Mit-Häschen-Hasser.
+message_8:
+  text: \n<LEAFIE>Nun...<br>wenn du es nur schaffst, <br>v[1001] Hasen zu töten,<br>würde ich dir einen weiteren Preis geben!
+message_9:
+  text: \n<LEAFIE>Hallo, Hasenhasser-Kollege!\!<br>Bei einem Blick in deine Augen kann ich sehen, dass du \v[615] \quake[1]bunnies\quake[0] getötet hast.
+message_10:
+  text: \n<LEAFIE> Du musst \v[1001] mehr \quake[1]Häschen töten\quake[0] für deinen nächsten Preis.\!<br>Jetzt geh da raus und vernichte diese \quake[1]Häschen!\quake[0]
+message_11:
+  text: Du hast einen \c[13]COTTON BALL\c[0].
+message_12:
+  text: Du hast \c[13]BUNNY EARS\c[0].
+message_13:
+  text: Du hast einen \c[13]RABBIT FOOT\c[0].
+message_15:
+  text: \n<LEAFIE>\Com[2]Prächtig!\! Ich habe nichts mehr von dir zu verlangen, Kollege Hasenhasser!
+message_16:
+  text: \n<LEAFIE>Nun mach weiter und zerstöre mehr \quake[1]bunnies!\quake[0]

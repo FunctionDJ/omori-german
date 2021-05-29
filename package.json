@@ -1,0 +1,16 @@
+{
+  "name": "omori_de",
+  "version": "1.0.0",
+  "description": "",
+  "exports": "./build.js",
+  "type": "module",
+  "scripts": {
+    "build": "node ./scripts/build.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "bestzip": "^2.2.0"
+  }
+}

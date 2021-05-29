@@ -1,0 +1,468 @@
+message_1:
+  text: Der Boden sinkt.
+message_20:
+  text: \bas\fn<OMORI_GAME>\n[8]...
+message_21:
+  text: \bas\fn<OMORI_GAME>Bitte lass mich nicht...\|wieder allein...
+message_22:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 4
+  text: \aubWas ist los, OMORI?\! Ist etwas nicht in Ordnung?
+message_23:
+  text: Es ist ein langer Weg nach unten... Willst du springen?
+message_40:
+  text: Ein loses Kabel.\! Hier ist keine \c[4]LIGHT BULB\c[0] vorhanden.
+message_41:
+  text: Einige KEYS fehlen.
+message_42:
+  text: Ein Picknickkorb.\! Willst du sparen?
+message_60:
+  text: \n<SCRIBBLE>Hast du dich verlaufen?\! Kein Grund zur Sorge.\!<br>Die roten Hände kennen den Weg zurück.
+message_61:
+  text: \n<SCRIBBLE>Suchen Sie nach jemandem?\! Oder etwas?
+message_62:
+  text: \n<SCRIBBLE>Jemand hat das schon mal gemacht.\!<br>Warst du es?\! War ich es?\! War es der Blumenjunge?
+message_63:
+  text: \n<SCRIBBLE>Wenn du dich verlaufen würdest, wo würdest du hingehen?\!<br>Orte, die dir vertraut sind.\! Irgendwo, wo es sicher ist, voller guter Erinnerungen.\!<br>Wenn es nur einen solchen Ort gäbe.
+message_64:
+  text: \n<SCRIBBLE>Hier ist nichts mehr.\! Es ist nichts mehr da.
+message_65:
+  text: \n<SCRIBBLE>Pitter-Patter...\! Pitter-Patter...
+message_90:
+  text: \n<LOQUACIOUS CAT>HI IM LOQUACIOUS CAT ASK ME ANYTHING
+message_101:
+  text: Was ist der Sinn des Lebens?
+message_102:
+  text: Warum sind wir hier?
+message_103:
+  text: Was ist die Bedeutung der wahren Liebe?
+message_104:
+  text: Wie kann ich Glück erreichen?
+message_105:
+  text: Gibt es einen freien Willen?
+message_106:
+  text: Was passiert, nachdem du gestorben bist?
+message_107:
+  text: Ist Müsli eine Suppe?
+message_91:
+  text: \n<LOQUACIOUS CAT>ZWEI YARDS OF LEATHER
+message_92:
+  text: \n<WASSERKATZE>EINE DICKE NÄHNADEL
+message_93:
+  text: \n<WASSERKATZE>EINE TOMATO AUS STOFF
+message_94:
+  text: \n<Lauchende Katze>EIN Pärchen rostiger Scheren
+message_95:
+  text: \n<WASSERKATZE>EIN KLEINER HOLZTABEL
+message_96:
+  text: \n<LOQUACIOUS CAT>LOTS AND LOTS OF LITTLE PINS
+message_97:
+  text: \n<Lauter Kater>EIN Pärchen großer, schöner Knöpfe
+message_98:
+  text: \n<WASSERKATZE>EINE TASCHE WEISSE BAUMWOLLE
+message_99:
+  text: Du bist weit weg von zu Hause.
+message_100:
+  text: Zu klein.
+message_123:
+  text: So viel Schmerz...so viel Schmerz...so viel Schmerz...so viel Schmerz...
+message_140:
+  text: \n<BUTLER>MEWO ist sehr, sehr schlecht gewesen.
+message_150:
+  text: \n<BUTLER>Wartet ihr darauf, dass etwas passiert?
+message_151:
+  text: \n<BUTLER>Wenn du einen Ausweg willst...
+message_152:
+  text: \n<BUTLER>Es gibt immer einen...\|aber...
+message_141:
+  text: MEWO starrt dich an.\! Sie weiß nicht, was vor sich geht.
+message_142:
+  text: Willst du MEWO aufschneiden?
+message_143:
+  text: MEWO starrt dich an.\! Sie neigt ihren Kopf aus Neugierde.
+message_144:
+  text: MEWO starrt dich an.\! Ihre Augen weiten sich.\! Sie will jetzt gehen.
+message_145:
+  text: MEWO starrt dich an.\! Sie kämpft darum, sich zu befreien.
+message_146:
+  text: MEWO starrt dich an.\! Ihre Augen sind gefüllt mit Verzweiflung.
+message_147:
+  text: MEWO starrt dich an.<br>Sie versucht zu schreien, aber es gibt keinen Ton.
+message_148:
+  text: MEWO starrt dich an.\! Sie weiß nicht, was vor sich geht.
+message_149:
+  text: Du hast MEWO aufgeschnitten.
+message_170:
+  text: Lügner.
+message_171:
+  text: Lügner. Lügnerin. Lügnerin.
+message_172:
+  text: Lügner. Lügnerin. Lügnerin. Lügnerin. Lügnerin. Lügnerin. Lügnerin. Lügnerin. Lügnerin. Lügnerin. Lügnerin. Lügnerin.
+message_173:
+  text: \n<SOMETHING>\n[8]...\n Ich liebe dich...
+message_174:
+  text: Hast du Lust zu springen?
+message_189:
+  text: Willst du die \c[4]FLOWER CROWN\c[0] abholen?
+message_190:
+  text: A \c[4]FLOWER CROWN\c[0].\! Sie ist durch die Kälte konserviert worden.
+message_191:
+  text: Du hast eine \c[4]FLOWER CROWN\c[0].
+message_192:
+  text: \basOMORI...\ Du bist hier...
+message_194:
+  text: \bas\n[8]...\ Warum hat es so geendet?
+message_195:
+  text: \bas\n[8]...
+message_196:
+  text: \bas\n[8]...\| \n[8]...
+message_197:
+  text: \basOMORI...\\ OMORI...\ OMORI...
+message_198:
+  text: Willst du BASIL folgen?
+message_199:
+  faceset: MainCharacter_Basil
+  faceindex: 10
+  text: \basDa draußen ist etwas.\<br>Es ruft mich...\<br>und es ruft auch dich.
+message_200:
+  faceset: MainCharacter_Basil
+  faceindex: 10
+  text: \basLass uns zusammen gehen.
+message_201:
+  text: \bas\com[2]\{\{\quake[1]OMORI! HILFE!!!
+message_220:
+  text: \basOMORI... Du bist wegen mir zurückgekommen!
+message_221:
+  text: \bas ist das meine \c[4]FLOWER CROWN\c[0]?\! Ich bin so froh, dass du sie gefunden hast.
+message_222:
+  text: Du hast BASIL seine \c[4]FLOWER CROWN\c[0] zurückgegeben.
+message_223:
+  faceset: MainCharacter_Basil
+  faceindex: 1
+  text: \basLass uns von hier verschwinden...\! Ich folge deinem Beispiel!
+message_224:
+  text: BASIL ist deiner Gruppe beigetreten.
+message_225:
+  faceset: MainCharacter_Basil
+  faceindex: 2
+  text: \basDer Anbau von Wassermelonen hier hat Spaß gemacht, aber ich vermisse wirklich meine Blumen zu Hause...\! Wie geht es ihnen?\! Hast du dich um sie gekümmert, während ich weg war? Hehe...
+message_226:
+  faceset: MainCharacter_Basil
+  faceindex: 1
+  text: \basWassermelonen sind wirklich lecker!
+message_227:
+  faceset: MainCharacter_Basil
+  faceindex: 2
+  text: \basWir haben sie am Strand immer aufgeschnitten und gegessen!\! Ich kann KEL immer noch mit diesen Wassermelonenkernen im ganzen Gesicht sehen, haha...
+message_228:
+  faceset: MainCharacter_Basil
+  faceindex: 1
+  text: \basSommerurlaub mit Freunden war das Beste, oder?
+message_250:
+  faceset: MainCharacter_Basil
+  faceindex: 2
+  text: \basOh, Gott sei Dank bist du hier, OMORI.<br>Ich dachte schon, ich würde hier für immer festsitzen.
+message_251:
+  faceset: MainCharacter_Basil
+  faceindex: 1
+  text: \basPuh...\! Das fühlt sich so viel besser an.
+message_252:
+  faceset: MainCharacter_Basil
+  faceindex: 0
+  text: \basIch kann nicht glauben, dass du hergekommen bist, um mich zu retten.\! Ich habe dich so sehr vermisst!
+message_253:
+  faceset: MainCharacter_Basil
+  faceindex: 1
+  text: \basNun, da du hier bist, kann ich endlich nach Hause gehen.\!<br>Führ den Weg, OMORI!
+message_254:
+  faceset: MainCharacter_Basil
+  faceindex: 6
+  text: \basYou know...\! Ich glaube, Spinnen werden wirklich missverstanden...\!<br>Sie sehen vielleicht etwas gruselig aus, aber sie greifen Menschen nie an, außer sie fühlen sich bedroht.
+message_255:
+  faceset: MainCharacter_Basil
+  faceindex: 1
+  text: \Ganz zu schweigen davon, dass sie auch einer meiner größten Helfer bei der Gartenarbeit sind, da sie viele Schädlinge fressen, die meinen Pflanzen schaden können Es dreht sich alles um das Gleichgewicht der Natur!
+message_256:
+  faceset: MainCharacter_Basil
+  faceindex: 0
+  text: \basIch erinnere mich an eine Weile zurück...\! Du hast mir erzählt, dass eine große Spinne auf deine Schulter gefallen ist, als du gerade in den See an unserem geheimen Treffpunkt tauchen wolltest!
+message_257:
+  faceset: MainCharacter_Basil
+  faceindex: 2
+  text: \basIch weiß, dass die Spinne für dich so gruselig ausgesehen haben muss, aber ich verspreche dir, dass du für die Spinne wahrscheinlich noch viel gruseliger ausgesehen hast!\! Nicht böse gemeint, natürlich... Haha...
+message_258:
+  faceset: MainCharacter_Basil
+  faceindex: 3
+  text: \basAuf einmal sind hier so viele Spinnen...<br>Ich kann spüren, wie sie über mich krabbeln.<br>Vielleicht wollen sie nur Hallo sagen?
+message_259:
+  faceset: MainCharacter_Basil
+  faceindex: 1
+  text: \basHallo, Spinnen! Ich bin es, dein Freund BASIL!
+message_260:
+  faceset: MainCharacter_Basil
+  faceindex: 3
+  text: \bas\com[2]Ack! Sie beißen mich!
+message_261:
+  faceset: MainCharacter_Basil
+  faceindex: 4
+  text: \basOh... ich erschrecke sie wahrscheinlich nur.
+message_262:
+  faceset: MainCharacter_Basil
+  faceindex: 2
+  text: \basDa, Spinnen. Es ist okay!\! Ich bin nicht hier, um dir weh zu tun!
+message_263:
+  faceset: MainCharacter_Basil
+  faceindex: 3
+  text: \basDa sind so viele von ihnen... Ich kriege sie nicht ab!
+message_264:
+  faceset: MainCharacter_Basil
+  faceindex: 4
+  text: \basUgh...
+message_265:
+  faceset: MainCharacter_Basil
+  faceindex: 4
+  text: \basOMORI...
+message_266:
+  faceset: MainCharacter_Basil
+  faceindex: 5
+  text: \basOMORI...\ Bitte...\ Hilfe...
+message_267:
+  text: Eine tote Spinne.\! Sie ist vor Traurigkeit gestorben.
+message_268:
+  text: Die Babyspinnen trauern um den Tod ihrer Mutter.
+message_269:
+  faceset: MainCharacter_Basil
+  faceindex: 3
+  text: \basUmm...\! OMORI? Hast du nicht jemanden vergessen?
+message_290:
+  faceset: MainCharacter_Basil
+  faceindex: 2
+  text: \basAh... OMORI! Bist du es wirklich?<br>!Wie hast du mich gefunden?
+message_291:
+  faceset: MainCharacter_Basil
+  faceindex: 1
+  text: \basSind KEL, AUBREY und HERO auch hier?\!<br>Ich habe euch alle so sehr vermisst!
+message_292:
+  faceset: MainCharacter_Basil
+  faceindex: 0
+  text: \basIch bin froh, dass das Baumhaus noch steht.\! Alle haben wirklich hart gearbeitet, um es gemeinsam zu bauen.
+message_293:
+  faceset: MainCharacter_Basil
+  faceindex: 6
+  text: \bas...\! Huh? \! Warte, wovon rede ich eigentlich?
+message_294:
+  faceset: MainCharacter_Basil
+  faceindex: 2
+  text: \basLass uns nach Hause gehen, OMORI.
+message_295:
+  faceset: MainCharacter_Basil
+  faceindex: 0
+  text: \basiert ein Aufzug?\! Ich frage mich, wohin er führt.\! Vielleicht kann er uns zurück nach Hause bringen!
+message_296:
+  text: Ein nicht ganz so bequemes Bett.\! Würdest du gerne schlafen gehen?
+message_320:
+  text: \basOMORI...\! Psst...\! OMORI!\! Ich bin genau hier!
+message_321:
+  faceset: MainCharacter_Basil
+  faceindex: 1
+  text: \basTa-da!\! Überrascht, mich zu sehen?\!<br>Ich habe mich in diesem Stumpf versteckt, seit ich hier angekommen bin.
+message_322:
+  faceset: MainCharacter_Basil
+  faceindex: 6
+  text: \basIch bin nicht der Beste darin, mich zu verteidigen, aber ich denke, ich bin zumindest ziemlich gut darin zu überleben.
+message_323:
+  faceset: MainCharacter_Basil
+  faceindex: 2
+  text: \basAllerdings... Ich wusste, du würdest kommen und mich retten, OMORI!\! Und ich bin mir sicher, dass wir es jetzt, wo du hier bist, aus diesem Ort herausschaffen können.
+message_324:
+  faceset: MainCharacter_Basil
+  faceindex: 1
+  text: \basDieser Ort scheint ein wenig gefährlich zu sein, aber... Ich vertraue dir.
+message_325:
+  faceset: MainCharacter_Basil
+  faceindex: 4
+  text: \basH-Hey, OMORI...\! Du verhältst dich irgendwie kalt.\!<br>Habe ich etwas falsch gemacht?
+message_326:
+  text: Willst du das Floß nehmen?
+message_350:
+  faceset: MainCharacter_Basil
+  faceindex: 1
+  text: \basOMORI, du bist hier!
+message_351:
+  faceset: MainCharacter_Basil
+  faceindex: 2
+  text: \basOh... ich bin so erleichtert.
+message_352:
+  faceset: MainCharacter_Basil
+  faceindex: 6
+  text: \basIch habe versucht, meinen Weg nach draußen zu finden, aber... Ich habe mich immer wieder verlaufen.
+message_353:
+  faceset: MainCharacter_Basil
+  faceindex: 4
+  text: \basEs tut mir leid...\! Du musst es leid sein, mich ständig zu retten.\! Vielleicht hätte ich mich mehr anstrengen sollen.
+message_354:
+  faceset: MainCharacter_Basil
+  faceindex: 1
+  text: \basAllerdings ist alles in Ordnung, jetzt wo du hier bist.<br>Lass uns nach Hause gehen!
+message_355:
+  faceset: MainCharacter_Basil
+  faceindex: 2
+  text: \basDie ganze Zeit, die ich hier war, habe ich mein \c[4]FOTO ALBUM\c[0] durchgesehen, um mir Gesellschaft zu leisten.
+message_356:
+  faceset: MainCharacter_Basil
+  faceindex: 1
+  text: \bas Wenn ich mich ängstlich fühlte, schaute ich mir all unsere glücklichen Erinnerungen zusammen an Das hat mir wirklich geholfen, meine Hoffnung aufrecht zu erhalten!
+message_357:
+  faceset: MainCharacter_Basil
+  faceindex: 0
+  text: \basIch habe das Gefühl, dass da ein paar Fotos fehlen, aber vielleicht bilde ich mir das nur ein...
+message_358:
+  faceset: MainCharacter_Basil
+  faceindex: 1
+  text: \basHow are AUBREY, KEL, and HERO anyway?\! Ich hoffe, ihr habt euch alle nicht zu viele Sorgen um mich gemacht.\! Ich kann es kaum erwarten, alle wiederzusehen!
+message_359:
+  faceset: MainCharacter_Basil
+  faceindex: 2
+  text: \basHERO?\! Bist du das?
+message_360:
+  faceset: MainCharacter_Basil
+  faceindex: 1
+  text: \basOMORI! Schau, es ist HERO!\!<br>Du hast mir nicht gesagt, dass schon alle hier sind!
+message_361:
+  faceset: MainCharacter_Basil
+  faceindex: 2
+  text: \basKomm schon! Lass uns ihm folgen!
+message_362:
+  faceset: MainCharacter_Basil
+  faceindex: 1
+  text: \basKEL!\! AUBREY!\! Es ist so schön, euch zu sehen, Leute!
+message_363:
+  faceset: MainCharacter_Basil
+  faceindex: 2
+  text: \basHow have you been?\! Hast du mich vermisst? Hehe...
+message_364:
+  faceset: MainCharacter_Basil
+  faceindex: 3
+  text: \basW-Wait...\! Was...\! Was macht ihr denn da?
+message_365:
+  faceset: MainCharacter_Basil
+  faceindex: 3
+  text: \basOMORI-
+message_366:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 13
+  text: \aubHallo OMORI! Wir haben gehofft, dass du bald vorbeikommst.\!<br>Willst du mit uns Karten spielen? Wir wollten gerade ein neues Spiel beginnen!
+message_367:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 50
+  text: \her\n[3] und \n[2] haben wieder viel gestritten...<br>Man sollte meinen, dass sie nach einer Weile müde werden, aber sie sind beide so voller Energie.
+message_368:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 34
+  text: \kel\SINV[1]Maaaaaaannnnnnnnnnnnnn...<br>AUBREY bekommt immer was sie will...
+message_391:
+  text: \Es tut mir... so leid... verzeihst du mir? Mein bester Freund...
+message_392:
+  text: \basBitte, es tut weh...\<br>Sag ihnen, sie sollen loslassen.
+message_393:
+  text: \bas\com[2]W-Warte! Was machst du da!?
+message_394:
+  text: \basSage ihnen, dass sie aufhören sollen!
+message_395:
+  text: \bas\fn<OMORI_GAME>Bitte, sag ihnen sie sollen aufhören!
+message_396:
+  text: \bas\fn<OMORI_GAME>\{\com[2]\quake[1]HELP ME!!!
+message_410:
+  text: BASIL hat sich der Party angeschlossen.
+message_411:
+  text: \basOMORI! OMORI!\! Wache auf!
+message_412:
+  text: \basDa kommt Licht von der Decke!\<br>Glaubst du, dass es ein Ausweg ist?
+message_413:
+  faceset: MainCharacter_Basil
+  faceindex: 6
+  text: \bas...\! OMORI?
+message_414:
+  text: \bas... OMORI...\ Du bist so schwer...
+message_415:
+  text: \basKomm schon...\Die Treppe hoch gehst du...
+message_416:
+  faceset: MainCharacter_Basil
+  faceindex: 1
+  text: \basPuh... Zum Glück bist du wach.
+message_417:
+  faceset: MainCharacter_Basil
+  faceindex: 2
+  text: \basSind Sie überhaupt verletzt?\! Ich habe versucht, dich zu diesem weißen Licht am oberen Ende der Treppe zu ziehen...
+message_418:
+  faceset: MainCharacter_Basil
+  faceindex: 1
+  text: \basIch bekomme ein wirklich schönes und warmes Gefühl davon...\!<br>Lasst uns gemeinsam hochgehen!
+message_420:
+  text: \Lass uns auf ein Abenteuer gehen, OMORI...nur wir zwei...
+message_421:
+  text: \sinv[1]Schnarch...\ Schnarch...\ Schnarch...\
+message_422:
+  text: \Schnarch... Komm schon, OMORI... Nur noch fünf Minuten...
+message_423:
+  text: \Wer will... eine Gruppenumarmung?
+message_424:
+  text: \bas\sinv[1]...\| Wir können jetzt ausruhen, OMORI...\| All unsere Freunde sind hier...
+message_425:
+  text: \Ich werde immer da sein, um dich zu beschützen... kleiner Bruder...
+message_426:
+  text: MARI's Obstkorb.\! Immer voll.
+message_427:
+  text: Ein Mixer.
+message_428:
+  text: Blumen für alle.
+message_429:
+  text: Eine Topfpflanze.
+message_430:
+  text: Ein Toaster.
+message_431:
+  text: Ein paar Partyhüte.
+message_432:
+  text: Es gibt einen Film im Fernsehen.<br>Vier Mädchen führen einen Rocksong für ein Festival auf.
+message_500:
+  faceset: MainCharacter_Mari
+  faceindex: 35
+  text: \mar
+message_501:
+  faceset: MainCharacter_Mari
+  faceindex: 34
+  text: \her
+message_502:
+  faceset: MainCharacter_Mari
+  faceindex: 33
+  text: \kel
+message_503:
+  faceset: MainCharacter_Mari
+  faceindex: 32
+  text: \aub
+message_504:
+  faceset: MainCharacter_Mari
+  faceindex: 28
+  text: \bas
+message_505:
+  faceset: MainCharacter_Mari
+  faceindex: 29
+  text: \bas
+message_506:
+  faceset: MainCharacter_Mari
+  faceindex: 30
+  text: \mar
+message_507:
+  faceset: MainCharacter_Mari
+  faceindex: 31
+  text: \mar
+message_665:
+  text: \whoWillst du schlafen oder wach sein?<br>Es gibt nur zwei Möglichkeiten.
+message_666:
+  text: \whoWell...\! Es gibt immer einen anderen...\|aber...
+message_667:
+  text: \Bleib weg...Du bist nicht mein Sohn...
+message_668:
+  text: \whoWarum...\ warum willst du nicht fallen?
+message_670:
+  text: Hier gibt es kein \c[4]LIGHT BULB\c[0].

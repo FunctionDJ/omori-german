@@ -1,0 +1,410 @@
+message_0:
+  faceset: MainCharacters_Faraway
+  faceindex: 29
+  text: \sinv[1]Goooood morning, \n[8]! Raus aus den Federn! \her
+message_1:
+  faceset: MainCharacters_Faraway
+  faceindex: 30
+  text: \herIch habe die TO-DO LISTE mit den Aufgaben, die deine Mutter dir gegeben hat, bemerkt, also habe ich sie alle erledigt!\! Ich hoffe es macht dir nichts aus!
+message_2:
+  faceset: MainCharacters_Faraway
+  faceindex: 29
+  text: Außerdem habe ich dir Frühstück gemacht.\!<br>Komm runter und hol es dir, solange es noch warm ist...\! <br>Com[2]KEL ist schon bei seinem zweiten Teller!\her
+message_3:
+  faceset: MainCharacters_Faraway
+  faceindex: 14
+  text: <br>Du fängst besser an zu essen, bevor ich alles aufesse.<br>Ich habe allerdings schon das meiste vom Speck gegessen
+message_4:
+  faceset: MainCharacters_Faraway
+  faceindex: 29
+  text: \sinv[1]Noch ein Teller Speck, kommt heiß rein!\her
+message_5:
+  faceset: MainCharacters_Faraway
+  faceindex: 14
+  text: Oh, Junge! Alles für mich?\! Vielen Dank, Bruder! Heh heh!\kel
+message_6:
+  faceset: MainCharacters_Faraway
+  faceindex: 24
+  text: Mampf, mampf, mampf...\! Wer könnte das sein?\! <br>Ich gehe an die Tür.\kel
+message_7:
+  text: \quake[1]PWW\{\Com[2]WWWAH\{\Com[2]HH\{HH! DU BIST ES!!!\kel
+message_8:
+  text: \sinv[1]\{EEEEEEWWWWW}{WWWWWWWW!!!\sinv[0]\!\}<br>Was ist das alles!? Was soll das?!?
+message_9:
+  faceset: MainCharacters_Faraway
+  faceindex: 31
+  text: Huh?\! Was ist denn da drüben los?\her
+message_10:
+  text: Verdammt, KEL...\! Jetzt habe ich überall Eier auf mir...\kim
+message_11:
+  faceset: MainCharacters_Faraway
+  faceindex: 22
+  text: Nun... \!Es tut mir leid, aber...<br>Du bist die letzte Person, die ich hier erwartet hätte.\kel
+message_12:
+  faceset: MainCharacters_Faraway
+  faceindex: 21
+  text: Was machst du überhaupt hier?
+message_13:
+  text: Grummel, grummel...\! \Com[2]Darauf wollte ich gerade zu sprechen kommen!\kim
+message_14:
+  text: Es ist einfach...\! Es ist AUBREY.\kim
+message_15:
+  text: Sie geht nicht an ihre Tür...<br>oder an ihre Hintertür...<br>oder an die Steine, die wir an ihr Fenster geworfen haben.<br>Kim
+message_16:
+  text: Sie war gestern wirklich verärgert...\kim
+message_17:
+  text: \Com[2]\{ICH WEISS, DASS ES IHRE SCHULD IST!}<br>Sag mir, was du mit ihr gemacht hast! \kim
+message_18:
+  faceset: MainCharacters_Faraway
+  faceindex: 23
+  text: \Com[2]Wir haben nichts getan!\! Sie ist diejenige, die das Problem hat!\kel
+message_19:
+  faceset: MainCharacters_Faraway
+  faceindex: 34
+  text: Warte, KEL...\!<br>Wenn AUBREY so aufgebracht ist, sollten wir zumindest versuchen, etwas zu tun, um zu helfen.\her
+message_20:
+  faceset: MainCharacters_Faraway
+  faceindex: 32
+  text: Wir reden hier von AUBREY!<br>Wir kennen uns alle schon seit unserer Kindheit!
+message_21:
+  faceset: MainCharacters_Faraway
+  faceindex: 21
+  text: Du warst nicht dabei, als sie BASIL in den See gestoßen hat.\kel
+message_22:
+  faceset: MainCharacters_Faraway
+  faceindex: 23
+  text: Ich habe es dir gesagt...\! Sie ist jetzt anders!\! <br>Wir sollten uns nicht mit Leuten wie ihr abgeben!\kel
+message_23:
+  faceset: MainCharacters_Faraway
+  faceindex: 32
+  text: Es ist wahr, dass sie sich verändert hat, aber das ändert nichts an der Tatsache, dass sie mir immer noch wichtig ist
+message_24:
+  faceset: MainCharacters_Faraway
+  faceindex: 28
+  text: Und auch wenn sie es nicht zeigt,<br>ich bin mir sicher, dass AUBREY sich auch um mich sorgt.<br>Das ist genau die Art von Mensch, die sie ist.<br>
+message_25:
+  faceset: MainCharacters_Faraway
+  faceindex: 20
+  text: Ich weiß nicht so recht...\kel
+message_26:
+  faceset: MainCharacters_Faraway
+  faceindex: 38
+  text: Heute ist unsere letzte Chance, dies zu tun, bevor \n[8] geht.\! <br>Ich kann es auf keinen Fall einfach so enden lassen!\her
+message_27:
+  faceset: MainCharacters_Faraway
+  faceindex: 28
+  text: Wir sollten zumindest versuchen, mit ihr zu reden!
+message_28:
+  faceset: MainCharacters_Faraway
+  faceindex: 20
+  text: ...\kel
+message_29:
+  faceset: MainCharacters_Faraway
+  faceindex: 18
+  text: Nun...\! Ich und \n[8] können mitkommen...\! aber du musst derjenige sein, der das Reden übernimmt.\kel
+message_30:
+  faceset: MainCharacters_Faraway
+  faceindex: 19
+  text: Sie hört dir am meisten zu...\kel
+message_31:
+  faceset: MainCharacters_Faraway
+  faceindex: 28
+  text: Danke, KEL.\her
+message_32:
+  faceset: MainCharacters_Faraway
+  faceindex: 30
+  text: Hey, KIM...\! Danke, dass du uns um Hilfe gebeten hast.\! <br>Du bist ein guter Freund.\her
+message_33:
+  text: H-Huh? \! Err...\! S-Sicher, was auch immer...\kim
+message_34:
+  text: ...\kim
+message_35:
+  text: \Grummel, grummel...\! Grummeln, grummeln, grummeln...\kim
+message_36:
+  faceset: MainCharacters_Faraway
+  faceindex: 28
+  text: Warum fährst du nicht zuerst los? Wir treffen dich dann dort.\her
+message_37:
+  text: O-Okay, dann.\! Man sieht sich...\kim
+message_50:
+  faceset: MainCharacters_Faraway
+  faceindex: 31
+  text: Hallo?\! Ist da jemand?\her
+message_51:
+  faceset: MainCharacters_Faraway
+  faceindex: 32
+  text: Da fällt mir ein... waren wir schon mal in AUBREYs Haus?
+message_52:
+  faceset: MainCharacters_Faraway
+  faceindex: 20
+  text: Das glaube ich nicht.\! Sie kam immer rüber, um mit uns zu spielen.\! <br>Ich kann mich überhaupt nicht daran erinnern, bei ihr zu Hause rumgehangen zu haben.\kel
+message_53:
+  faceset: MainCharacters_Faraway
+  faceindex: 32
+  text: Hallo?\! AUBREY?\! Ist jemand zu Hause?\her
+message_54:
+  faceset: MainCharacters_Faraway
+  faceindex: 22
+  text: \sinv[1]Heeee\{eee\{lllll\{lllo\}ooo\}oo...?\kel
+message_55:
+  faceset: MainCharacters_Faraway
+  faceindex: 38
+  text: Oh! Es sieht so aus, als ob die Tür offen war.\! Lass uns rein gehen.\her
+message_56:
+  faceset: MainCharacters_Faraway
+  faceindex: 17
+  text: Wow... Dieser Ort ist ein Chaos...\kel
+message_57:
+  faceset: MainCharacters_Faraway
+  faceindex: 32
+  text: Lass uns AUBREYs Zimmer finden.\! Wir müssen sichergehen, dass es ihr gut geht.\
+message_70:
+  faceset: MainCharacters_Faraway
+  faceindex: 38
+  text: Hey, AUBREY! Wie geht es dir?\her
+message_69:
+  faceset: MainCharacters_Faraway
+  faceindex: 5
+  text: ...\aub
+message_71:
+  faceset: MainCharacters_Faraway
+  faceindex: 6
+  text: \Com[2]W-W-W-Was zum Teufel macht ihr hier!?\aub
+message_72:
+  faceset: MainCharacters_Faraway
+  faceindex: 7
+  text: \GET THE HELL OUT OF MY ROOM!\aub
+message_73:
+  faceset: MainCharacters_Faraway
+  faceindex: 28
+  text: Es tut uns leid, dass wir stören... \!Es wird nur ein bisschen dauern.\her
+message_74:
+  faceset: MainCharacters_Faraway
+  faceindex: 29
+  text: Wir wollten nur sichergehen, dass es dir gut geht.\her
+message_75:
+  faceset: MainCharacters_Faraway
+  faceindex: 6
+  text: ...\aub
+message_76:
+  faceset: MainCharacters_Faraway
+  faceindex: 7
+  text: Mir geht's gut!\aub
+message_77:
+  faceset: MainCharacters_Faraway
+  faceindex: 34
+  text: Ich habe einige Dinge gehört...<br>aber ich will es nur von dir hören.<br>! <br>Kannst du mir sagen, was gestern passiert ist?\her
+message_78:
+  faceset: MainCharacters_Faraway
+  faceindex: 8
+  text: ...\! Nichts ist passiert.\aub
+message_79:
+  faceset: MainCharacters_Faraway
+  faceindex: 23
+  text: \Com[2]Du hast BASIL in den See gestoßen!\ Du weißt, dass er nicht schwimmen kann!\kel
+message_80:
+  faceset: MainCharacters_Faraway
+  faceindex: 4
+  text: Ich...ich wollte das nicht tun...<br>Ich wollte ihn nur...<br>wegstoßen...<br>
+message_81:
+  faceset: MainCharacters_Faraway
+  faceindex: 23
+  text: \Com[2]\Er hätte ertrinken können!!!
+message_82:
+  faceset: MainCharacters_Faraway
+  faceindex: 4
+  text: \com[2]Ich sagte, dass es ein Unfall war!\aub
+message_83:
+  faceset: MainCharacters_Faraway
+  faceindex: 7
+  text: Schau...\! Es tut mir leid, okay!?
+message_84:
+  faceset: MainCharacters_Faraway
+  faceindex: 7
+  text: Du bist derjenige, der immer wieder auftaucht und so tut, als ob du besser wärst als alle anderen!
+message_85:
+  faceset: MainCharacters_Faraway
+  faceindex: 23
+  text: Nun...\! Du bist derjenige, der BASIL tyrannisiert und seine Sachen klaut!\kel
+message_86:
+  faceset: MainCharacters_Faraway
+  faceindex: 7
+  text: \Com[2]Hör auf, so zu reden, als wüsstest du etwas davon!\! <br>Ich sage dir immer wieder, dass es dich nichts angeht.\aub
+message_87:
+  faceset: MainCharacters_Faraway
+  faceindex: 19
+  text: Aber...\! Es ist meine Sache.\kel
+message_88:
+  faceset: MainCharacters_Faraway
+  faceindex: 20
+  text: Du...\! Du und BASIL...\! Und alle hier...\!<br>Ihr wart meine besten Freunde...\kel
+message_89:
+  faceset: MainCharacters_Faraway
+  faceindex: 5
+  text: ...\aub
+message_90:
+  faceset: MainCharacters_Faraway
+  faceindex: 42
+  text: Schon gut, schon gut...\! Ich sehe das Problem hier...\!<br>Das ist nur dein typischer KEL und AUBREY Kampf.\her
+message_91:
+  faceset: MainCharacters_Faraway
+  faceindex: 38
+  text: Versöhnt euch einfach, ihr zwei...<br>Du hast es schon so oft getan!
+message_92:
+  faceset: MainCharacters_Faraway
+  faceindex: 20
+  text: ...\kel
+message_93:
+  faceset: MainCharacters_Faraway
+  faceindex: 4
+  text: ...\aub
+message_94:
+  faceset: MainCharacters_Faraway
+  faceindex: 34
+  text: Hey...\ Das sind die fehlenden Fotos von MARI.\her
+message_95:
+  faceset: MainCharacters_Faraway
+  faceindex: 2
+  text: ... ... ... \aub
+message_96:
+  faceset: MainCharacters_Faraway
+  faceindex: 27
+  text: Sie sind...\! Sie sind alles, was ich noch von ihr habe.\aub
+message_97:
+  faceset: MainCharacters_Faraway
+  faceindex: 34
+  text: Aber du weißt, dass es trotzdem nicht richtig von dir ist, sie BASIL wegzunehmen.\! Diese Fotos gehörten ihm.\her
+message_98:
+  faceset: MainCharacters_Faraway
+  faceindex: 27
+  text: Nun...\! Es hat keinen Sinn mehr.\! Selbst wenn wir diese Fotos haben...\!<br>Ich habe den Rest schon weggeworfen.\aub
+message_99:
+  faceset: MainCharacters_Faraway
+  faceindex: 27
+  text: Sie müssen schon lange weg sein...\aub
+message_100:
+  faceset: MainCharacters_Faraway
+  faceindex: 23
+  text: Das stimmt nicht, AUBREY. \!\n[8] hat sie genau hier!\kel
+message_101:
+  faceset: MainCharacters_Faraway
+  faceindex: 27
+  text: \Com[2]Was? \! H-He does?\! Aber wie?\aub
+message_102:
+  faceset: MainCharacters_Faraway
+  faceindex: 0
+  text: Ich hätte schwören können, dass ich sie im Müll entsorgt habe. \!<br>Es sei denn... du und \n[8]...\aub
+message_103:
+  faceset: MainCharacters_Faraway
+  faceindex: 1
+  text: Haha...\! Du hast wirklich meinen Müll für dieses Ding durchwühlt?\aub
+message_104:
+  faceset: MainCharacters_Faraway
+  faceindex: 16
+  text: ...\kel
+message_105:
+  faceset: MainCharacters_Faraway
+  faceindex: 0
+  text: Das ist...\! irgendwie ekelhaft.\aub
+message_106:
+  faceset: MainCharacters_Faraway
+  faceindex: 15
+  text: Heh...\kel
+message_107:
+  faceset: MainCharacters_Faraway
+  faceindex: 28
+  text: AUBREY...\! Lass uns die Fotos von MARI wieder in das \c[4]FOTO ALBUM\c[0].\!<br>Alle diese Fotos...\! Sie gehören zusammen an einen Ort.\her
+message_108:
+  text: HERO hat dir das \c[4]PHOTO ALBUM\c[0] abgenommen.
+message_109:
+  faceset: MainCharacters_Faraway
+  faceindex: 27
+  text: ...\aub
+message_110:
+  faceset: MainCharacters_Faraway
+  faceindex: 18
+  text: ...\kel
+message_111:
+  faceset: MainCharacters_Faraway
+  faceindex: 28
+  text: Kommt schon, Leute.\! Wir sollten das zusammen machen.\her
+message_132:
+  faceset: MainCharacters_Faraway
+  faceindex: 42
+  text: Da.\! Jetzt ist alles wieder da, wo es sein soll!\her
+message_133:
+  faceset: MainCharacters_Faraway
+  faceindex: 28
+  text: Es sieht so aus, als ob ein Foto noch fehlt... aber wenigstens ist der Rest wieder zusammen!
+message_134:
+  faceset: MainCharacters_Faraway
+  faceindex: 29
+  text: Nun...\! Fühlt sich das nicht besser an?\her
+message_135:
+  faceset: MainCharacters_Faraway
+  faceindex: 20
+  text: Seufz...\! Wir hatten wirklich eine Menge Spaß zusammen, was?\kel
+message_136:
+  faceset: MainCharacters_Faraway
+  faceindex: 27
+  text: Ja...\! Ich schätze, das haben wir wirklich.\aub
+message_137:
+  faceset: MainCharacters_Faraway
+  faceindex: 8
+  text: ... ... ... ... ... ... \aub
+message_138:
+  faceset: MainCharacters_Faraway
+  faceindex: 9
+  text: Es tut mir leid, Leute...\! Ich habe mich wie ein Idiot benommen.\aub
+message_139:
+  faceset: MainCharacters_Faraway
+  faceindex: 19
+  text: Es tut mir auch leid, AUBREY...\!<br>Ich habe dich auch nicht gerade toll behandelt
+message_140:
+  faceset: MainCharacters_Faraway
+  faceindex: 29
+  text: Na gut! Entschuldigung angenommen! Jetzt können wir alle wieder Freunde sein!<br>Sinv[1]Wer will eine Umarmung!?
+message_141:
+  faceset: MainCharacters_Faraway
+  faceindex: 22
+  text: \Com[2]Komm schon, HERO! Nicht jetzt! Du bist so peinlich.\kel
+message_142:
+  faceset: MainCharacters_Faraway
+  faceindex: 5
+  text: Ich...ich bin gut... Danke...\aub
+message_143:
+  faceset: MainCharacters_Faraway
+  faceindex: 28
+  text: Alles was wir jetzt tun müssen, ist BASIL zu überprüfen
+message_144:
+  faceset: MainCharacters_Faraway
+  faceindex: 31
+  text: Ich hoffe, es geht ihm heute besser.\her
+message_145:
+  faceset: MainCharacters_Faraway
+  faceindex: 34
+  text: AUBREY...\! Nach allem, was ich von KEL gehört habe...\!<br>Ich bin mir sicher, du weißt, dass du dich bei ihm entschuldigen musst.\her
+message_146:
+  faceset: MainCharacters_Faraway
+  faceindex: 0
+  text: Ja...\! Ich weiß...\aub
+message_147:
+  faceset: MainCharacters_Faraway
+  faceindex: 30
+  text: Danke, AUBREY. \!<br>Es ist gut, dass du wieder da bist. \!<br>Nun lass uns dich aus diesem Haus schaffen!\her
+message_148:
+  faceset: MainCharacters_Faraway
+  faceindex: 27
+  text: Hmpf...\! Okay...\aub
+message_150:
+  faceset: MainCharacters_Faraway
+  faceindex: 16
+  text: \kelHmm...\! Mann, ist das lange her.\! Wo sind die schon wieder hin?
+message_151:
+  faceset: MainCharacters_Faraway
+  faceindex: 0
+  text: \aubWarum fragen wir nicht einfach \n[8]?
+message_152:
+  faceset: MainCharacters_Faraway
+  faceindex: 29
+  text: \herJa \n[8], du erinnerst dich noch, oder? \! Du hattest schon immer ein tolles Gedächtnis.

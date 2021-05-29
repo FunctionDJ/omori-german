@@ -1,0 +1,154 @@
+message_0:
+  text: \who\Sinv[1]Helllooooo...\! Helllloooooooooooo?\!<br>\n[8]?\! Bist du da?\who\sinv[0]
+message_1:
+  text: Erinnerst du dich an mich?\! Es ist dein alter Freund, KEL!\who
+message_2:
+  text: Also, ich...\! äh...\! Ich habe das "ZU VERKAUFEN"-Schild vor deinem Haus gesehen...\! und ich...\! ähm...\! habe von meiner Mutter gehört, dass du bald wegziehst.\kel
+message_3:
+  text: Ich habe mich gefragt...\! ob du noch einmal abhängen willst, bevor du gehst...oder was auch immer...\! um der alten Zeiten willen, weißt du? \kel
+message_4:
+  text: ... ... ...\! <br>\sinv[1]Hellloooooooo?\! \n[8]?\! Bist du da?\kel
+message_5:
+  text: Bist du sicher?<br>Diese Entscheidung kannst du nicht zurücknehmen.
+message_6:
+  text: Bist du dir wirklich sicher?
+message_11:
+  faceset: MainCharacters_Faraway
+  faceindex: 17
+  text: \Com[2]Whoa, du bist tatsächlich rausgekommen!\kel
+message_12:
+  faceset: MainCharacters_Faraway
+  faceindex: 20
+  text: Err...\! Ich-ich meine...\kel
+message_13:
+  faceset: MainCharacters_Faraway
+  faceindex: 18
+  text: Okay, ich werde ehrlich zu dir sein, \n[8].\! <br>Ich habe wirklich nicht erwartet, dass du heute rauskommst, also habe ich nicht wirklich einen Spielplan hier.\kel
+message_14:
+  faceset: MainCharacters_Faraway
+  faceindex: 18
+  text: ...\kel
+message_15:
+  faceset: MainCharacters_Faraway
+  faceindex: 12
+  text: Hey, ich weiß! Lass uns zum \c[11]HOBBEEZ\c[0] gehen!\!<br>Es ist der Hobbyladen in der \c[11]FARAWAY PLAZA\c[0].\kel
+message_16:
+  faceset: MainCharacters_Faraway
+  faceindex: 24
+  text: Du erinnerst dich doch an den Weg?<br>Wir sind früher als Kinder immer dorthin gegangen
+message_17:
+  faceset: MainCharacters_Faraway
+  faceindex: 13
+  text: Nun, worauf warten wir?
+message_18:
+  faceset: MainCharacters_Faraway
+  faceindex: 14
+  text: \Com[2]\Com[3]\LET'S GO!!!\Kel
+message_19:
+  text: Oh...\! Na gut, dann... Ich verstehe.\!<br>...\! Nun, ich denke, ich habe es versucht...\kel
+message_30:
+  text: \AUS DEM WEG, NERDS!!!
+message_31:
+  faceset: MainCharacters_Faraway
+  faceindex: 21
+  text: Ugh, das sind... sie.\!<br>Hoffen wir, dass wir diesen Typen nicht wieder über den Weg laufen.\kel
+message_32:
+  faceset: MainCharacters_Faraway
+  faceindex: 20
+  text: Diese Typen sind nichts als Ärger, <br>und ich will, dass heute ein guter Tag wird!
+message_50:
+  faceset: MainCharacters_Faraway
+  faceindex: 14
+  text: Nun...\! Hier sind wir bei \c[11]HOBBEEZ\c[0]!\kel
+message_51:
+  faceset: MainCharacters_Faraway
+  faceindex: 12
+  text: Es ist wahrscheinlich schon eine Weile her, seit du hier warst...\! aber es hat sich nicht wirklich viel verändert!\kel
+message_52:
+  faceset: MainCharacters_Faraway
+  faceindex: 12
+  text: Es ist alles derselbe alte Kram...\! <br>CAPT. SPACEBOY-Spiele, SWEETHEART-Filme, ein paar \c[13]PET ROCKS\c[0]...\! außer, dass sie jetzt Vintage sind!\kel
+message_53:
+  faceset: MainCharacters_Faraway
+  faceindex: 14
+  text: Eigentlich...\! Wenn wir schon mal hier sind, sollte ich vielleicht ein Geschenk für HERO kaufen.\! Er ist im Moment auf dem College, aber er sollte morgen irgendwann zurückkommen.\kel
+message_54:
+  faceset: MainCharacters_Faraway
+  faceindex: 12
+  text: Er studiert, um Arzt zu werden, also sollte ich ihm vielleicht...<br>etwas Medizin kaufen...<br>
+message_55:
+  faceset: MainCharacters_Faraway
+  faceindex: 18
+  text: Nein, das ist eine schreckliche Idee.\kel
+message_56:
+  faceset: MainCharacters_Faraway
+  faceindex: 12
+  text: Du solltest beim Aussuchen des Geschenks helfen, \n[8].\!<br>Lassen Sie uns schauen, was es gibt! \kel
+message_57:
+  faceset: MainCharacters_Faraway
+  faceindex: 17
+  text: \{\Com[2]WAIT, HOLD UP, \n[8]!!\}\kel
+message_58:
+  faceset: MainCharacters_Faraway
+  faceindex: 15
+  text: Ich weiß, es ist eine Weile her, dass du bei mir warst, aber jetzt ist vielleicht kein guter Zeitpunkt, heh heh...\!
+message_70:
+  faceset: MainCharacters_Faraway
+  faceindex: 14
+  text: Das...\! Ja!\! Das ist perfekt!\!<br>PAPA CHIP'S CHIP-OFF-THE-OLD-BLOCK COOKBOOK!\kel
+message_71:
+  faceset: MainCharacters_Faraway
+  faceindex: 17
+  text: Wow, das ist ein Mundvoll.\kel
+message_72:
+  faceset: MainCharacters_Faraway
+  faceindex: 12
+  text: HERO hatte eine Kopie davon, als wir Kinder waren, <br>aber unser Hund, HECTOR, hat sie zerstört.<br>
+message_73:
+  faceset: MainCharacters_Faraway
+  faceindex: 13
+  text: Er wird so glücklich sein, wenn er das sieht...\kel
+message_74:
+  faceset: MainCharacters_Faraway
+  faceindex: 18
+  text: Aber vorher...\!<br>Wir müssen die wichtigste Frage stellen!\!<br>Wie viel...\! kostet es? \kel
+message_75:
+  faceset: MainCharacters_Faraway
+  faceindex: 18
+  text: ... \kel
+message_76:
+  faceset: MainCharacters_Faraway
+  faceindex: 22
+  text: \Com[2]$20.00!!! Das ist Erpressung!\kel
+message_77:
+  faceset: MainCharacters_Faraway
+  faceindex: 17
+  text: Verdammt! Ich habe mein Portemonnaie zu Hause vergessen...\!<br>Err...\! Kannst du mich sehen, \n[8]?\!<br>Ich werde es dir zurückzahlen, versprochen.\kel
+message_78:
+  faceset: MainCharacters_Faraway
+  faceindex: 14
+  text: Danke, mein Freund! Ich wusste, dass ich auf dich zählen kann!
+message_79:
+  faceset: MainCharacters_Faraway
+  faceindex: 14
+  text: Hey, SHOPKEEP! Wir würden dieses Kochbuch gerne kaufen!
+message_80:
+  text: KEL! Wie ist es dir ergangen, Kumpel?<br>Es ist schon eine Weile her, dass du vorbeigekommen bist, nicht wahr?<br>
+message_81:
+  text: Ah, das ist PAPA CHIP'S CHIP-OFF-THE-OLD-BLOCK COOKBOOK!\!<br>Ich sehe, du hast guten Geschmack!\n<SHOPKEEP>
+message_82:
+  faceset: MainCharacters_Faraway
+  faceindex: 13
+  text: Ja, mein Bruder hat immer nach seinen Rezepten gebacken!<br>Seine Kekse waren meine Lieblingskekse.<br>
+message_83:
+  text: Es ist selten, dass ich einen anderen Fan von PAPA CHIPs Arbeit sehe.<br>Das macht 20,00$, bitte!<br><SHOPKEEP>
+message_84:
+  text: Vielen Dank, liebe Leute! Bitte genießt es!\n<SHOPKEEP>
+message_85:
+  faceset: MainCharacters_Faraway
+  faceindex: 14
+  text: Vielen Dank, \n[8]! Ich wette, HERO wird das lieben!\kel
+message_100:
+  faceset: MainCharacters_Faraway
+  faceindex: 17
+  text: \kelRated M for mature, huh?\! Das ist zu heftig für HERO!\! Er wird so etwas definitiv nicht zu schätzen wissen.

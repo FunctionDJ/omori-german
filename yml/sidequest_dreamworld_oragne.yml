@@ -1,0 +1,90 @@
+message_0:
+  text: ORANGE JOE wirft mit Orangen.
+message_1:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 28
+  text: \kelHey...\! uh...\! was machst du da?
+message_2:
+  text: \n<ORANGE JOE>Mein Name ist ORANGE JOE und ich werfe ORANGES!
+message_3:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 18
+  text: \kelWhoa! So cool!
+message_4:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 28
+  text: \kelAber warum?
+message_5:
+  text: \n<ORANGE JOE>Weil...\! Ich bin...\! schnüffel...\!<br>Auf der Suche nach meinem lange verlorenen Zwillingsbruder...\! ORAGNE JOE...
+message_6:
+  text: \n<ORANGE JOE>Wir wurden bei der Geburt getrennt, aber in meinem zitrusartigen Herzen <br>weiß ich, dass er noch irgendwo da draußen ist.
+message_7:
+  text: \n<ORANGE JOE>Jede Orange ist mit einer Botschaft beschriftet, die erklärt, wer ich bin und wie man mich findet...
+message_8:
+  text: \n<ORANGE JOE>Ich hoffe, dass durch das Werfen dieser in alle Richtungen <br>einer von ihnen ihn erreicht und ihn zu mir zurückführt!
+message_9:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 1
+  text: \aubAwww...\! Das ist so süß.\!<br>Ich hoffe du findest deinen Bruder irgendwann...
+message_10:
+  text: \n<ORANGE JOE>Danke, junge Dame!\! Ich weiß, dass ich es werde!\! <br>Mein Körper ist gesund und voller Hoffnung und Tatkraft!
+message_11:
+  text: \n<ORANGE JOE>Aber...\! nur für den Fall...\! Wenn du zufällig meinen Zwilling siehst, <br>bitte gib ihm dieses \c[4]ORANGE CREST\c[0].\! <br>Ich weiß, dass sie mich irgendwie zu ihm führen wird.
+message_12:
+  text: Du hast ein \c[4]ORANGE CREST\c[0].
+message_13:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 17
+  text: \kelFürchte dich nicht, mein lieber Freund ORANGE JOE.\! Wir werden deinen Bruder ganz sicher finden!
+message_14:
+  text: \whoEh?\! Wo bin ich?\! Wer bist du?
+message_15:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 19
+  text: \kelWarte eine Sekunde...\! Du kommst mir irgendwie bekannt vor.\!<br>Diese Körperform...\! Dieses zitrusartige Äußere...\\! Es ist nicht zu leugnen!
+message_16:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 18
+  text: \kelDu musst der Zwillingsbruder von ORANGE JOE sein...\! ORAGNE JOE!
+message_17:
+  text: \n<ORAGNE JOE>Mein Name...\! ist ORAGNE JOE?\! Und...\! Ich habe einen Zwillingsbruder?
+message_18:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 18
+  text: \kel Ja, und er hat die ganze Zeit nach dir gesucht!\!<br>Hier, nimm das! Er hat uns gesagt, wir sollen es dir geben!
+message_19:
+  text: Du hast ORAGNE JOE das \c[4]ORANGE CREST\c[0] gegeben.
+message_20:
+  text: \n<ORAGNE JOE>Dieses...\! Dieses Wappen!\! Kann das sein?\! <br>Seit ich jung war, habe ich überall nach meiner wahren Heimat gesucht...
+message_21:
+  text: \n<ORAGNE JOE>Das Einzige, was ich zu meinem Namen hatte, war dieser Anhänger mit einem eingravierten orangefarbenen Wappen...
+message_22:
+  text: \n<ORAGNE JOE>Der gleiche, der auf diesem \c[4]ORANGE CREST\c[0] erscheint!
+message_23:
+  text: \n<ORAGNE JOE>Es macht jetzt alles so viel Sinn...\! <br>Ich weiß, wer ich bin!\! Ich muss es sein...\!<br>ORAGNE JOE!
+message_24:
+  text: \n<ORANGE JOE>\Com[2]Brother!\! Ich traue meinen Augen nicht!\! Du bist es wirklich!
+message_25:
+  text: \n<ORAGNE JOE>Ja, Bruder!\! Ich bin es...\! ORAGNE JOE!
+message_26:
+  text: \n<ORANGE JOE>Es gibt keinen Fehler!\! Ich kann es in meinem zitronigen Herzen spüren.\!<br>Oh wie ich dich vermisst habe, lieber Bruder!
+message_27:
+  text: \n<ORAGNE JOE>Ja!\! Mein Körper ist voller Hoffnung und Lebenskraft!\!<br>Wie sehr habe ich auf diesen Tag gewartet!\!<br>Wir treffen uns endlich, lieber Bruder!
+message_28:
+  text: \n<ORANGE JOE>Lass uns umarmen!
+message_29:
+  text: \n<ORANGE JOE>Ich muss euch danken, Kinder...\! Ich habe jeden Tag meines Lebens an meinen lieben Bruder gedacht, und jetzt ist er endlich da!
+message_30:
+  text: \n<ORANGE JOE>Bitte nimm dies als ein Zeichen meiner Wertschätzung.
+message_31:
+  text: Du hast \c[3]LIFE JAM\c[0]!
+message_32:
+  text: \n<ORAGNE JOE>Ja!\! Danke, dass du uns wiedervereint hast...\!<br>Ich habe so lange darauf gewartet, mein einzig wahres Zuhause zu finden!\! <br>Nimm dies!\! Es ist ein Geschenk von mir!
+message_33:
+  text: Du hast ein weiteres \c[3]LIFE JAM\c[0]!
+message_34:
+  text: \n<ORANGE JOE>Komm jetzt, lieber Bruder! Lass uns nach Hause gehen!
+message_35:
+  text: \n<ORAGNE JOE>Du bist zu gütig, lieber Bruder!\!<br>Zur Feier dieses Treffens lass uns gemeinsam gehen!
+message_36:
+  text: \n<ORANGE JOE und ORAGNE JOE>\sinv[1]Hoffnung und Tatkraft!\! Hope and vigor!\! Hoffnung und Kraft!

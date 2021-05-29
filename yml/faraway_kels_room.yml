@@ -1,0 +1,84 @@
+message_1:
+  faceset: MainCharacters_Faraway
+  faceindex: 16
+  text: \kelWas ist los, HERO?
+message_2:
+  faceset: MainCharacters_Faraway
+  faceindex: 36
+  text: \her...
+message_3:
+  faceset: MainCharacters_Faraway
+  faceindex: 13
+  text: \kelOh...ich weiß...\! Es muss eine Spinne in diesem Raum sein.\!<br>Keine Sorge, HERO! I gotchu!
+message_4:
+  faceset: MainCharacters_Faraway
+  faceindex: 17
+  text: \kelNun, wo ist diese lästige kleine...
+message_5:
+  faceset: MainCharacters_Faraway
+  faceindex: 23
+  text: \kelA-ha! Jetzt habe ich dich!
+message_6:
+  faceset: MainCharacters_Faraway
+  faceindex: 12
+  text: \kel Es ist alles in Ordnung, HERO.\! Du kannst es ruhig angehen lassen.\!<br>Die Spinne ist weg!
+message_7:
+  faceset: MainCharacters_Faraway
+  faceindex: 36
+  text: \her\}...\! Zeig es mir.
+message_8:
+  faceset: MainCharacters_Faraway
+  faceindex: 17
+  text: \kelHuh?\! Hast du etwas gesagt, HERO?
+message_9:
+  faceset: MainCharacters_Faraway
+  faceindex: 36
+  text: \herZeig mir die Spinne.
+message_10:
+  faceset: MainCharacters_Faraway
+  faceindex: 16
+  text: \kelOh, das ist richtig.
+message_11:
+  faceset: MainCharacters_Faraway
+  faceindex: 12
+  text: \kelHier, schau.\! Siehst du?\! Es ist wirklich tot.
+message_12:
+  faceset: MainCharacters_Faraway
+  faceindex: 36
+  text: \her...
+message_13:
+  faceset: MainCharacters_Faraway
+  faceindex: 17
+  text: \Ich werde es jetzt die Toilette runterspülen, okay?
+message_14:
+  faceset: MainCharacters_Faraway
+  faceindex: 14
+  text: \kel\sinv[1]Und... Ich bin zurück!\sinv[0]\! Aber die Spinne ist weg!\! Es ist wie Magie!
+message_15:
+  faceset: MainCharacters_Faraway
+  faceindex: 36
+  text: \her ... ... ...
+message_16:
+  faceset: MainCharacters_Faraway
+  faceindex: 36
+  text: \her... ... ... ... ... ... ... ...
+message_17:
+  faceset: MainCharacters_Faraway
+  faceindex: 37
+  text: \herHuff...\! Gott sei Dank...
+message_18:
+  faceset: MainCharacters_Faraway
+  faceindex: 17
+  text: \kelHERO...\! Ich habe das Gefühl, dass deine Angst vor Spinnen noch schlimmer geworden ist...
+message_19:
+  faceset: MainCharacters_Faraway
+  faceindex: 18
+  text: \kel Du solltest wirklich versuchen, daran zu arbeiten!\! Was ist, wenn eine Spinne auftaucht, wenn ich nicht da bin?
+message_20:
+  faceset: MainCharacters_Faraway
+  faceindex: 35
+  text: \herGasp... Denkst du wirklich, dass das passieren könnte?
+message_21:
+  faceset: MainCharacters_Faraway
+  faceindex: 22
+  text: \kelMan, HERO...\! Dies ist einer dieser seltenen Momente, in denen ich mich wie der große Bruder fühle!

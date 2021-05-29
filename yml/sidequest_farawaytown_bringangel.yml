@@ -1,0 +1,56 @@
+message_0:
+  text: \artHey, habt ihr meinen idiotischen kleinen Bruder, ANGEL, gesehen?<br>Ich habe ihm etwas Geld gegeben und ihn heute Morgen auf ein paar Besorgungen geschickt, aber er ist noch nicht zurück gekommen.
+message_1:
+  text: \artKennst du ihn... Er hat es wahrscheinlich nur vergessen...\!<br>Wenn du ihn findest, könntest du nach ihm sehen?
+message_2:
+  text: \artSag ihm...\! seine Schwester...\! wird ungeduldig...
+message_3:
+  faceset: MainCharacters_Faraway
+  faceindex: 17
+  text: \kelHey, ANGEL! Deine Schwester sucht nach dir...<br>Sie sagte, dass sie dich heute auf ein paar Besorgungen geschickt hat!
+message_4:
+  text: \angHuh...\! Besorgungen? \! Was für Besorgungen?
+message_5:
+  text: \ang\Com[2]Oh, scheiße! Ich habe vergessen, dass ich heute Morgen Kunstzubehör für sie kaufen sollte!
+message_6:
+  text: \angUh...\! Oh-oh...\! Deshalb hatte ich also das Geld in meiner Tasche...\!<br>...\! Ups...
+message_7:
+  text: \angHey, äh...\! Als du mit meiner Schwester gesprochen hast...\!<br>Hat...\! Hat sie wütend ausgesehen?
+message_8:
+  text: \angSh-She...\! hat?
+message_9:
+  text: \angHmm...\! Sollte ich mir dann die Mühe machen, zurück nach Hause zu gehen?\!<br>Ist es das an diesem Punkt überhaupt wert?
+message_10:
+  text: \ang\Com[2]Gah!\! Nein, wenn ich weiter weglaufe, macht das alles nur noch schlimmer!\!<br>Komm schon, ANGEL! Du musst dich deinen Ängsten direkt stellen!
+message_11:
+  text: \ang\[2]WEITER, ANGEL!\! \Com[2]YOU CAN DO THIS!!!
+message_12:
+  text: \angHeh...\! Ist das so...?\! Nun, man kann sich nie zu sicher sein, oder?
+message_13:
+  text: \ang Ich sollte jetzt wahrscheinlich zurückgehen...\! nur um sicher zu gehen...
+message_14:
+  text: \ang Ich komme später zu euch...
+message_15:
+  text: \angI...\! uh...\! Ich muss los...
+message_20:
+  text: \art\{\COM[2]\QUAKE[1]ANGEL, GET BACK HERE!!!!\QUAKE[0]
+message_21:
+  text: \ang\[2]\QUAKE[1]I'M SORRY, SIS!!!\QUAKE[0]
+message_22:
+  text: \ang\COM[2]\QUAKE[1]Please...\! Ich bitte dich...\!<br>\COM[2]NICHT DAS!!!\! \COM[2]ALLES AUSSER DAS!!!!\QUAKE[0]
+message_23:
+  text: \ang\COM[2]\QUAKE[1]AHH\{HHHHH\{HHHH\{HHHHH\{HHHHHH!!!!\QUAKE[0]
+message_24:
+  text: \artHuff...\! Oh, ihr seid es nur.\!<br>Danke, dass du meinen kleinen Bruder geholt hast...
+message_25:
+  text: \artHe's...\! Er ist jetzt an einem besseren Ort...
+message_26:
+  text: \artJust kidding...\! Er steht nur in der Ecke dort in der Auszeit.\! Vielleicht überlegt er es sich das nächste Mal zweimal, bevor er mein ganzes Geld für Sammelkarten verwendet!
+message_27:
+  text: \art\}Psst...\! Hier.\! Nimm das.
+message_100:
+  text: Du hast eine \c[4]RARE CARD\c[0].
+message_28:
+  text: \Ich habe vorhin so getan, als würde ich eine seiner ultraseltenen Karten zerreißen, nur um ihn ein wenig zu erschrecken... aber das da ist die echte.
+message_29:
+  text: \Behalte es einfach ein paar Tage oder so, bevor du es ihm zurückgibst Heh heh...\! Das sollte ihm eine Lektion erteilen.

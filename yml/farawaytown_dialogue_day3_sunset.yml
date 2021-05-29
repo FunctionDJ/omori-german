@@ -1,0 +1,106 @@
+message_0:
+  faceset: MainCharacters_Faraway
+  faceindex: 17
+  text: \kelTja...\! Heute ist unser letzter gemeinsamer Tag, hm \n[8]?
+message_1:
+  faceset: MainCharacters_Faraway
+  faceindex: 14
+  text: \kel Schön, dass wir die Chance haben, mit allen zu feiern, bevor du zu neuen Horizonten aufbrichst!
+message_2:
+  faceset: MainCharacters_Faraway
+  faceindex: 12
+  text: \kelGenieße einfach und entspanne dich erst einmal. <br>\!Wir sind in guter Gesellschaft!
+message_3:
+  faceset: MainCharacters_Faraway
+  faceindex: 17
+  text: \kelWell... Munch...\! Heute ist unser letzter gemeinsamer Tag, hm \n[8]?
+message_4:
+  faceset: MainCharacters_Faraway
+  faceindex: 14
+  text: \kel Es ist schön, dass wir...\! Munch...\! eine Chance haben, mit allen zu feiern, bevor du zu neuen Horizonten aufbrichst!
+message_5:
+  faceset: MainCharacters_Faraway
+  faceindex: 12
+  text: \kelGenieße einfach und entspanne dich für den Moment. <br>\!Munch...\! Wir sind in guter Gesellschaft!
+message_10:
+  faceset: MainCharacters_Faraway
+  faceindex: 37
+  text: \her Ich war schon lange nicht mehr auf so einer Party.\! Wir haben auch Partys im College, aber die sind nicht so...\! ähm...\! urig.
+message_11:
+  faceset: MainCharacters_Faraway
+  faceindex: 29
+  text: <br>Ich freue mich aber, dass allen das Essen schmeckt...<br>Es ist die Krönung unserer harten Arbeit!
+message_20:
+  faceset: MainCharacters_Faraway
+  faceindex: 2
+  text: \aubPartys sind nicht wirklich mein Ding...\! aber das hier ist irgendwie nett.
+message_21:
+  faceset: MainCharacters_Faraway
+  faceindex: 0
+  text: \aubHmph...\! Und es ist wohl wahr, was man sagt...
+message_22:
+  faceset: MainCharacters_Faraway
+  faceindex: 27
+  text: \aubFood schmeckt immer besser, wenn man es selbst kocht...
+message_30:
+  text: \kimHey, du bist es!<br>Verflixt...<br>! Ich schätze, diese Party ist nicht mehr cool...
+message_31:
+  text: \kimHeh heh...\! Nur ein Scherz...\! nerd.
+message_32:
+  text: \kimAllerdings...\! AUBREY hat mir erzählt, dass du morgen wegziehst.\! Das hört sich irgendwie ätzend an, aber ich bin mir sicher, dass es dir gut gehen wird.
+message_33:
+  text: \kimOh! Das war nicht ich, der geknurrt hat...\! Das war mein Magen.\!<br> Ich fange besser mit dem Essen an, bevor es ganz weg ist...
+message_40:
+  text: \n<THE MAVERICK>Vielleicht habe ich das Geschäft meiner Familie zu schnell beurteilt...<br>Ich bin schon so lange davor weggelaufen, aber ich scheine in nichts anderem gut zu sein.
+message_41:
+  text: \n<THE MAVERICK>Ist es möglich, dass ich, \Com[2]THE MAVERICK, gut im Backen sein könnte?
+message_50:
+  text: \vanMunch...\! munch...\! munch...\! munch...\! munch...\! Awwww, yeah!\! Kostenloses Essen!
+message_60:
+  text: \n<SHORT HAIR GIRL>Das ist der erste Ort, an dem ich meinen Schwarm getroffen habe...<br>Ich hoffe, er kommt bald vorbei...
+message_70:
+  text: \n<FASHIONABLE MOM>Hast du BEBE gesehen? Sie kommt zu spät zum Abendessen...\!<br>Wir haben heute chinesisches Essen bestellt!
+message_80:
+  text: \Ich bin froh, dass Mom zum Abendessen chinesisches Essen bestellt hat. Alles, was sie kocht, ist so fade, aber das darfst du ihr nicht sagen.
+message_81:
+  text: \n<INTIMIDATING GIRL>Hey HERO... Isst du mit uns zu Abend?\! Das geht alles viel zu schnell! Wir sollten anfangen uns zu verabreden, bevor du meine Mutter kennenlernst, meinst du nicht? Teehee...
+message_90:
+  text: \n<SMART-LOOKING BOY>Yay! Papa ist zu Hause!
+message_100:
+  text: \n<PHARMACIST>Den ganzen Tag und die ganze Nacht zu arbeiten kann manchmal ziemlich anstrengend sein, aber ein Abendessen mit meiner Familie wie dieses erinnert mich daran, dass es das alles wert ist.
+message_110:
+  text: <br>Es ist schön, wenn zur Abwechslung mal alle zu Hause sind.<br>Mein Mann arbeitet manchmal so lange nachts...<br>Ich bin sicher, dass BRENT seinen Vater sehr vermisst.
+message_120:
+  text: \n<HECTOR>\Com[2]Bark! \{Bellen! \{Bark!\}} Bark!\! \{Bark! \}Bark! \}Bellen?<br>!(Guter Junge bin ich?)
+message_130:
+  text: \n<KLEINES MÄDCHEN>Dad ist heute besonders nett zu mir, hehe...
+message_131:
+  text: \n<KLEINES MÄDCHEN>Er sagt, dass er morgen mit mir und Oma an den Strand geht!\! Ich kann es kaum erwarten!
+message_140:
+  text: \n<THICK EYEBROWS>Sniff...\! Mein großer Junge ist erwachsen geworden und hat sein Nest verlassen.\!<br>Seufz... Ich habe mir gedacht, dass ich mit JOY leichter sein sollte...
+message_141:
+  text: \n<THICK EYEBROWS>Sie war schließlich den ganzen Sommer über in ihrem Zimmer eingesperrt.\!<br>Kinder bleiben nicht ewig Kinder, oder?
+message_150:
+  text: \n<PIGTAILS LADY>Willkommen zu unserer Einweihungsparty!\! Bitte fühle dich wie zu Hause...\! aber nur für ein paar Stunden...
+message_151:
+  text: \n<CHECKERS GUY>Bitte entspannen Sie sich und essen Sie etwas!\! Du kannst so lange bleiben, wie du willst...\! vernünftig!
+message_160:
+  text: \n<KEL'S DAD>Hier ist eine Lektion von deinem alten Herrn.\! Wenn du älter wirst, wird es immer schwieriger, Freunde zu finden...
+message_161:
+  text: \n<KEL'S DAD>Wenn du also denkst, dass du einen guten hast...\! ist es wichtig, sie zu schätzen.\n Freunde können fürs Leben sein, hörst du!
+message_170:
+  text: \n<GRUFF GUY>Ahhh...\! Qualitätszeit mit meinen zwei Kindern.<br>Wer könnte sich mehr wünschen?
+message_180:
+  text: \SINV[2]SNIP, \{SNIP, SNIP, \{SNIP, SNIP, \{SNIP!!
+message_190:
+  text: \n<MINCY>Ich werde euch definitiv nicht vergessen.\! Niemals...
+message_200:
+  text: \n<POLLY>Oh, BASIL...\!<br>Warum siehst du nicht, dass alle für dich da sind?
+message_201:
+  text: \n<POLLY>Bitte tu alles, was du für BASIL tun kannst...\!<br>Wenn jemand ihm helfen kann, dann bist du es!
+message_210:
+  text: \n<PONYTAIL GIRL>Urf...\! Wie soll ich essen, wenn meine Eltern so verknallt sind?
+message_220:
+  text: \n<CLUMSY GUY>Sniff...\! Ich habe eine Pizza in meiner linken Hand und die Hand meiner Frau in meiner rechten.\! Das ist alles, was ein Mann sich wünschen kann...
+message_230:
+  text: \n<PONYTAIL LADY>Hehe... Das ist schön, nicht wahr, Kürbis?

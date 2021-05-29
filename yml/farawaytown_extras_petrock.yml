@@ -1,0 +1,244 @@
+message_0:
+  faceset: MainCharacters_Faraway
+  faceindex: 17
+  text: \kelWhoa! Warte mal eine Sekunde, \n[8]!\! <br>Ist das ein \c[13]PET ROCK\c[0], den du gerade gekauft hast?
+message_1:
+  faceset: MainCharacters_Faraway
+  faceindex: 13
+  text: \kelWow!\! Ich kann es nicht glauben...\! Das ist wirklich seltsam, da wir nicht mehr gespielt haben, seit wir Kinder waren...\! aber zufällig habe ich meine auch!
+message_2:
+  faceset: MainCharacters_Faraway
+  faceindex: 12
+  text: \kelRichtig hier!
+message_3:
+  faceset: MainCharacters_Faraway
+  faceindex: 14
+  text: \kelSo ein komischer Zufall, was?
+message_4:
+  faceset: MainCharacters_Faraway
+  faceindex: 17
+  text: \kelHey, ich habe eine Idee!\! Warum kämpfen wir nicht mit unseren \c[13]PET ROCKS\c[0]?\! Du weißt doch noch, wie man spielt, oder?
+message_5:
+  faceset: MainCharacters_Faraway
+  faceindex: 14
+  text: \kelAwesome!\! Ich dachte, du würdest...
+message_6:
+  faceset: MainCharacters_Faraway
+  faceindex: 23
+  text: \kel\sinv[1]Awww, yeahhhhh...\!\sinv[0] Ich bin aufgepumpt!
+message_7:
+  faceset: MainCharacters_Faraway
+  faceindex: 23
+  text: \kel\com[2]\sinv[1]\{NOW, LET'S CLASH!!!
+message_8:
+  faceset: MainCharacters_Faraway
+  faceindex: 12
+  text: \kelHaha...\! Mach dir keine Sorgen.\! Selbst wenn du es nicht tust, ist es wirklich einfach zu kapieren...\! Du wirst es in Nullkommanichts kapieren!
+message_9:
+  faceset: MainCharacters_Faraway
+  faceindex: 13
+  text: \kelOh Mist, ich habe verloren...\! Ich schätze, ich bin ziemlich eingerostet...\! <br>Nun, das ist okay.
+message_10:
+  faceset: MainCharacters_Faraway
+  faceindex: 24
+  text: \kel Du warst sowieso schon immer derjenige, der gut in Videospielen war!\! Du bist wohl doch derselbe alte \n[8]!
+message_12:
+  faceset: MainCharacters_Faraway
+  faceindex: 13
+  text: \kelHeh, heh...\! Ich schätze, du bist ziemlich eingerostet, hm?\! <br>Nun, das ist okay.\! Ich bin mir sicher, dass du den Dreh schon noch rausbekommst.
+message_13:
+  faceset: MainCharacters_Faraway
+  faceindex: 12
+  text: \kelIch weiß, dass es eine Weile her ist, also lass mich dir eine Auffrischung geben.\! \c[13]PET ROCKS\c[0] ist ein Spiel, in dem du und deine Haustiere zusammenarbeiten und kämpfen, oder CLASH!
+message_14:
+  faceset: MainCharacters_Faraway
+  faceindex: 12
+  text: \kelWenn du deinen \c[13]PET ROCK\c[0] als CHARM trägst...\! kannst du andere Spieler mit \c[13]PET ROCKS\c[0] finden und sie herausfordern!
+message_15:
+  faceset: MainCharacters_Faraway
+  faceindex: 17
+  text: \kelNach dem, was ich gehört habe...\! lebt der amtierende Champion irgendwo hier in der Gegend...\! aber niemand weiß, wie sie aussehen.
+message_16:
+  faceset: MainCharacters_Faraway
+  faceindex: 14
+  text: \kelKinda mysteriös, was?! Wer weiß?\! <br>Vielleicht lernen wir sie eines Tages kennen!
+message_20:
+  text: \n<COLORFUL GIRL>Oh!\! Ich sehe du hast einen \c[13]PET ROCK\c[0]!\! Wolltest du CLASH?
+message_21:
+  text: \n<COLORFUL GIRL>Okay!\! Ich habe mein TOMATOGIRL trainiert, seit ich ein Kind war!\!<br>Ich werde nicht gegen dich verlieren!
+message_22:
+  text: \n<COLORFUL GIRL>Aww... Verdammt...\! Ist schon gut, TOMATOGIRL. Es ist nicht deine Schuld...\! Du hast dein Bestes versucht!
+message_23:
+  text: \n<COLORFUL GIRL>Yay!\! Wir haben es geschafft!\! Ich wusste, dass du gewinnen kannst, TOMATOGIRL!
+message_150:
+  text: \n<COLORFUL GIRL>Kein Problem! Sag mir Bescheid, wenn du mal CLASH machen willst!
+message_140:
+  text: \n<CREEPY GUY>Ich vermache dir diesen Hut, den du, wie ich sehe, mit Ehrfurcht betrachtest...\! Und jetzt verschwinde!
+message_35:
+  text: \n<PRETTY BOY>Hey, ist das ein \c[13]PET ROCK\c[0]?\! Ich habe auch einen!\!<br>Wolltest du CLASH machen?
+message_36:
+  text: \n<PRETTY BOY>Yay, klingt lustig! Lasst uns beide unser Bestes geben!\! Los, ROSE LAD! Ich glaube an dich!
+message_37:
+  text: \n<PRETTY BOY>ROSE LAD, geht es dir gut?\! So, so... Du ruhst dich jetzt gut aus.
+message_38:
+  text: \n<PRETTY BOY>Haha... Das hat Spaß gemacht!\! Danke, dass du mich herausgefordert hast.\! Ich schätze, ich muss ROSE LAD noch ein bisschen mehr trainieren...
+message_39:
+  text: \n<PRETTY BOY>Hey, was sagt man dazu!\! Das war ein guter Kampf, aber vielleicht brauchst du ein bisschen mehr Übung...\! Wir haben es geschafft, ROSE LAD!\! Du bist die Beste!
+message_40:
+  text: \n<PRETTY BOY>Awww... Aber es macht so viel Spaß zu CLASHen...\! Vielleicht beim nächsten Mal!
+message_42:
+  text: \n<ANGEL>Whoa, da! Du hast einen \c[13]PET ROCK\c[0]?\! Du musst mich zu einem CLASH herausfordern!\! Niemand kann meinen SAUCY-K besiegen!<br> Er ist der beste \c[13]PET ROCK\c[0] aller Zeiten und ich werde es beweisen!
+message_43:
+  text: \n<ANGEL>Du beißt viel mehr, als du kauen kannst!\! Komm schon, SAUCY-K!\! Lass uns ihnen zeigen, wer hier der Stärkere ist!
+message_44:
+  text: \n<ANGEL>Wow... Gut!\! Sei ein Huhn!
+message_45:
+  text: \n<ANGEL>\com[2]\{\sinv[1]SAUCY-K!!\! NOOO\{OOO}{OOO}{OOO}{OOO!!!
+message_46:
+  text: \n<ANGEL>Schnüffel...\! Du Rüpel!
+message_47:
+  text: \n<ANGEL>Was habe ich dir gesagt!\! SAUCY-K ist der Beste!\! <br>Du bist Lichtjahre davon entfernt, uns zu besiegen!
+message_50:
+  text: \n<RAI>Whoa, du hast auch ein \c[13]PET ROCK\c[0]? \! Ich bin erst vor kurzem zu \c[13]PET ROCKS\c[0] gekommen...
+message_51:
+  text: \n<RAI>Meiner ist noch im Anfangsstadium, aber ich bin mir sicher, dass er eines Tages mächtig sein wird!\! Willst du CLASH?
+message_52:
+  text: \n<RAI>Süß!\! Komm schon, BUNNY!\! Lass uns zusammenarbeiten!
+message_53:
+  text: \n<RAI>Verflixt...\! Dein \c[13]PET ROCK\c[0] ist ziemlich stark.\! Ich schätze, ich und BUNNY haben noch einen Weg vor uns, bevor wir dich einholen.
+message_54:
+  text: \n<RAI>Whoa, wir haben gewonnen!\! Ich habe das wirklich nicht erwartet... aber ein Sieg ist ein Sieg! Haha!
+message_200:
+  text: \n<RAI>Awww...\! Aber ich und BUNNY müssen noch üben...
+message_55:
+  text: \n<A TWIN>\sinv[1]Ah... Ich sehe, dass du auch einen \c[13]PET ROCK\c[0] hast.
+message_56:
+  text: \n<THE OTHER TWIN>\sinv[1]Würdest du...\! vielleicht...\! gerne...\! CLASH?
+message_57:
+  text: \n<A TWIN>Hmm...\! Hmm...\! Zuversichtlich, nicht wahr?\! Du wirst nicht so leicht gewinnen...
+message_58:
+  text: \n<THE OTHER TWIN>PAPA CHIP!\! Lass uns ihnen unsere Macht zeigen!
+message_59:
+  text: \n<THE OTHER TWIN>Niederlage?
+message_60:
+  text: \n<A TWIN>Hmm...\! Ja...\! Es scheint, dass wir diese Runde verloren haben...
+message_61:
+  text: \n<THE OTHER TWIN>Unglücklich...
+message_65:
+  text: \n<THE OTHER TWIN>Sieg?
+message_66:
+  text: \n<A TWIN>Hmm...\! Ja...\! Es scheint, dass wir gewonnen haben...
+message_67:
+  text: \n<THE OTHER TWIN>Exzellent.
+message_71:
+  text: \n<SHOPKEEP>Hey, \n[8]!\! Ich habe gehört, dass du dich in der ganzen Stadt mit \c[13]PET ROCKS\c[0] geprügelt hast!
+message_72:
+  text: \n<SHOPKEEP>Wenn du eine echte Herausforderung willst, weiß ich, dass einige Leute in der \c[11]FARAWAY PLAZA\c[0] Veteranen im \c[13]PET ROCKS\c[0] sind...\! vier davon, um genau zu sein!
+message_75:
+  text: \n<SHOPKEEP>Normalerweise fordern sie Neulinge nicht heraus... aber für dich werden sie sicher eine Ausnahme machen!
+message_73:
+  text: \n<SHOPKEEP>Du solltest versuchen, mit einigen Ladenmitarbeitern und häufigen Kunden in der Gegend zu sprechen...\n! Sie werden deine Kraft sicher bis zum Äußersten testen!
+message_85:
+  text: \n<CUTE GIRL>O-Oh!\! H-Hallo, da...
+message_86:
+  text: \n<SÜSSES MÄDCHEN>Hmmm... Ich verstehe...\! Du trägst einen \c[13]PET ROCK\c[0], das bedeutet also, dass du CLASH machen willst!
+message_87:
+  text: \n<SÜSSES MÄDCHEN>...
+message_88:
+  text: \n<CUTE GIRL>Ich lasse dich wissen, dass wir Veteranen ein bisschen härter sind als deine normalen Spieler.\! Willst du mich immer noch herausfordern?
+message_89:
+  text: \n<CUTE GIRL>O-Okay!\! Komm schon, OCOTACO!\! Zeigen wir ihnen, was es bedeutet, ein Veteran zu sein!
+message_93:
+  text: \n<CUTE GIRL>Das ist verständlich.\! Ich werde hier sein, wenn du jemals das Gefühl hast, dass du bereit bist.
+message_90:
+  text: \n<CUTE GIRL>Wir haben...\! verloren?\! Wow...\! Ich bin wirklich schockiert...
+message_91:
+  text: \n<CUTE GIRL>Ich denke, SHOPKEEP hatte recht, dich zu uns zu schicken.\! Du scheinst eine Menge Potential zu haben.\! Ich bin sicher, du wirst es weit bringen!
+message_92:
+  text: \n<CUTE GIRL>Gute Leistung!\! Du hast gut gekämpft, aber ich kämpfe schon seit Jahren an der Seite von OCOTACO!\! Übe einfach weiter... Du wirst besser werden, ich verspreche es!
+message_94:
+  text: \n<GLASSES MAN>Oh hey, das ist ein \c[13]PET ROCK\c[0] den du da hast!
+message_95:
+  text: \n<GLASSES MAN>Wenn du hier bist...\! Dann muss das bedeuten, dass du über die Veteranen von \c[11]FARAWAY PLAZA\c[0] Bescheid weißt.
+message_96:
+  text: \n<GLASSES MAN>Und wenn SHOPKEEP dich geschickt hat, bedeutet das, dass du ziemlich gut sein musst...\! Heh, heh...
+message_97:
+  text: \n<Brillenmann>Tja, hier bin ich!\! Überrascht?\! Mein richtiger Titel ist GINO, CLASHER OF JASH!\! Willst du mich zu einem CLASH herausfordern?
+message_98:
+  text: \n<GLASSES MAN>In diesem Fall...\! Ich, GINO, einer der vier Veteranen des \c[11]FARAWAY PLAZA\c[0] werde dir zeigen, was es heißt, ein echter Profi zu sein!\!<br>Lasst sie uns holen, LIL' G!
+message_99:
+  text: \n<GLASSES MAN>\com[2]\{LIL' G!\! LIL' G!\! SPRICHT MIT MIR!!!
+message_100:
+  text: \n<Brillenmann>...
+message_101:
+  text: \n<GLASSES MAN>Oh warte...\! Das kannst du doch nicht machen, oder?
+message_102:
+  text: \n<GLASSES MAN>Nun, das war ein echter Kracher.\! Glückwunsch an dich, Herausforderer!\! Du und dein PET ROCK habt das toll gemacht!
+message_103:
+  text: \n<GLASSES MAN>Vielleicht würden dir einige der anderen Veteranen ein bisschen mehr Kampf bieten!
+message_104:
+  text: \n<GLASSES MAN>Ja! Wir haben es geschafft, LIL' G!\! Hehe... Nun, du kannst nicht alle gewinnen. \! Du hast es versucht... und das ist es, was zählt!
+message_300:
+  text: \n<brillenmann>\com[2]B-B-B-B-Aber warum!?
+message_105:
+  text: \n<FIX-IT GUY>Heh...\! Wie ich sehe, zeigst du da deinen PET ROCK[0]! Normalerweise zeige ich meinen PET ROCK nicht während der Arbeit, aber du musst wirklich gut sein, wenn SHOPKEEP dich geschickt hat.
+message_106:
+  text: \n<FIX-IT GUY>Sind Sie bereit für eine \sinv[1]real\sinv[0] Herausforderung?
+message_107:
+  text: \n<FIX-IT GUY>Als einer der vier Veteranen von \c[11]FARAWAY PLAZA\c[0], habe ich einen Ruf zu wahren!\! Wenn du nach einem CLASH fragst, werde ich nicht so einfach untergehen!
+message_108:
+  text: \n<FIX-IT GUY>\com[2]Auf keinen Fall! Das muss eine Art Fehler sein...\! P'TERRY...\! Wie konnten wir nur verlieren?\! \sinv[1]Sigh...\sinv[0]\! Wie auch immer...\!<br>Zurück an die Arbeit geht es...
+message_109:
+  text: \n<FIX-IT GUY>Netter Versuch, Kleiner.\! Das war ziemlich lustig, aber P'TERRY ist der überlegene CLASHER!\! Mehr Glück beim nächsten Mal!
+message_110:
+  text: \n<FIX-IT GUY>Ha! Das habe ich mir gedacht!
+message_115:
+  text: \n<SHOPKEEP>Ahh... \n[8]...\! Du bist gekommen!\! Ich habe von den anderen Veteranen gehört, dass du sie bereits besiegt hast...
+message_132:
+  text: \n<SHOPKEEP>Ja, das ist richtig...\! Ich sagte...\! andere Veteranen!
+message_116:
+  text: \n<SHOPKEEP>Es wird Zeit, dass ich mich endlich zu erkennen gebe!\!<br>Ich bin SHOPKEEP, der stärkste Veteran von \c[11]FARAWAY PLAZA\c[0]!
+message_117:
+  text: \n<SHOPKEEP>Es ist wirklich beeindruckend, \n[8]...\! In dieser kurzen Zeit hast du es geschafft, die Besten in unserer Gegend zu schlagen...\! außer mich...
+message_118:
+  text: \n<SHOPKEEP>\n[8]...\! Ich muss mich selbst von deiner Stärke überzeugen!\! Du wirst gegen mich kämpfen müssen, genau hier und jetzt!
+message_133:
+  text: \n<SHOPKEEP>Heh... Ich dachte mir, dass du das sagen würdest...
+message_121:
+  text: \n<SHOPKEEP>\com[2]\sinv[1]\{\{LET US CLASH!!!
+message_122:
+  text: \n<SHOPKEEP>Amazing...\! Du bist wirklich erstaunlich, \n[8]...
+message_123:
+  text: \n<SHOPKEEP>Du bist vielleicht sogar besser als...\! Nein...\! <br>Vergiss es...\! Ich habe vielleicht schon zu viel gesagt.
+message_124:
+  text: \n<SHOPKEEP>Als Preis für deinen Sieg, nimm dies.
+message_125:
+  text: \n<SHOPKEEP>Außerdem...\! Es gibt einen Veteranen in \c[11]FARAWAY PLAZA\c[0], der sogar stärker ist als ich...
+message_126:
+  text: \n<SHOPKEEP>Einige sagen, dass sie vielleicht sogar der stärkste CLASHER der ganzen Welt ist...\! aber...\! sie ist schwer fassbar und hält ihre Identität ein Geheimnis...
+message_127:
+  text: \n<SHOPKEEP>Doch...\! Ich bin mir sicher, wenn du sie jetzt finden würdest, wäre sie in der Lage, deine Stärke zu spüren, so wie ich es getan habe.
+message_128:
+  text: \n<SHOPKEEP>Wenn du dich entscheidest, sie aufzusuchen, wirst du es vielleicht bereuen...\! aber ich werde nicht derjenige sein, der dich aufhält.
+message_129:
+  text: \n<SHOPKEEP>Sei einfach auf der Hut...\! Sie ist wirklich eine Kraft, mit der man rechnen muss...\! ...\! Du wurdest gewarnt.
+message_130:
+  text: \n<SHOPKEEP>Das war wahrlich ein großartiger Kampf, \n[8]!\! Du und JASH habt mit all eurer Kraft gekämpft, aber leider bleibe ich siegreich!
+message_131:
+  text: \n<SHOPKEEP>Still, ich muss dir gratulieren.\! Du hast gut daran getan, so weit zu kommen!\! Ich denke, es ist an der Zeit, dass du und JASH euch eine lange Pause gönnt!
+message_135:
+  text: OTHERMART LADY starrt auf deinen \c[13]PET ROCK\c[0].
+message_136:
+  text: \n<OTHERMART LADY>...
+message_160:
+  text: \n<OTHERMART LADY>\com[2]\{\{HA! HA! HA! HA! HA! HA! HA!
+message_137:
+  text: \n<OTHERMART LADY>OK.\! DU GEWINNST.
+message_143:
+  text: \n<OTHERMART LADY>Nimm das hier.
+message_138:
+  text: \n<OTHERMART LADY>...
+message_141:
+  text: \n<OTHERMART LADY>GUT GEMACHT.
+message_142:
+  text: Du hast eine \c[13]\"YOU ROCK\" CAP\c[0]!

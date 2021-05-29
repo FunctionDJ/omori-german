@@ -1,0 +1,232 @@
+message_0:
+  text: \n<COLONY MOLE>Viele SPROUT MOLES bewohnten früher diesen Ort...\! aber viele von ihnen zogen weg, um sich mit einer größeren Kolonie irgendwo in einem großen Wald zusammenzuschließen.
+message_1:
+  text: \n<COLONY MOLE>Es war ein riskanter Schritt, also blieben einige von uns zurück...
+message_2:
+  text: \n<COLONY MOLE>Mein Bruder ist mit dem Rest der SPROUT MOLES gegangen...<br>Denkst du, dass er sich noch an mich erinnert?
+message_3:
+  text: \n<COLONY MOLE>Grüße, Reisender. Willkommen in meinem Zuhause! \!<br>Es ist bescheiden und klein, aber es ist meins.
+message_4:
+  text: \n<COLONY MOLE>Wir SPROUT MOLES sind hochintelligente Lebewesen!
+message_5:
+  text: \n<CREEPY CAT>Miau... \!\SINV[2]Meow?\SINV[0] \!\SINV[1]Meow...\SINV[0]\! \QUAKE[1]Meeeeeeeeowwwwww...\QUAKE[0]
+message_6:
+  text: \n<FERRIS>Dieser Ort war früher ein unberührtes Wildtierreservat, aber aufgrund eines kürzlichen Booms im Tourismus hat sich dort eine Menge Müll angesammelt...
+message_7:
+  text: \n<FERRIS>Hebt euren Müll auf, Leute! So schwer ist das nicht!
+message_8:
+  text: \n<LARAMIE>Eine Bande von SPACE PIRATES kampiert hier schon seit längerer Zeit...
+message_9:
+  text: \n<LARAMIE>Ich habe gehört, dass der KAPITÄN plötzlich beschlossen hat, dass er nicht mehr reisen will, also hat die Hälfte der Mannschaft sein Schiff genommen und ist gegangen!
+message_10:
+  text: \n<LONE MOLE>\Com[2]\{HEY, WHAT'S THE BIG IDEA!?!?\}
+message_11:
+  text: \n<LONE MOLE>Ich habe all diese Mühe auf mich genommen, um mich von der Gesellschaft zu isolieren, und dann tauchst du auf und ruinierst alles!
+message_12:
+  text: \n<LONE MOLE>\Com[2]\{YOU BETTER FIX THIS RIGHT NOW!!!\}
+message_13:
+  text: Du hast der SPROUT MOLE geholfen, alle Verkehrskegel wieder zusammenzusetzen.
+message_14:
+  text: \n<PO>Die Sterne in der Nacht zu beobachten, lässt alles andere auf der Welt so klein erscheinen.
+message_15:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 19
+  text: \kelWow, Miss. Du bist wirklich groß...
+message_16:
+  text: \n<PO>Dankeschön, junger Mann!\! Meistens ist es eher lästig, aber wenigstens habe ich einen besseren Blick auf die Sterne.
+message_17:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 19
+  text: \kelWas!? Groß zu sein ist kein Problem!\!<br>Alles ist besser, wenn du groß bist.
+message_18:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 18
+  text: \Eines Tages werde ich so groß sein wie du!
+message_19:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 11
+  text: \aubJa klar, \n[3]. Träum weiter...
+message_20:
+  text: Die Boombox einschalten?
+message_21:
+  text: \n<JOCK JAMS>\Com[2]\SINV[2]\{!!!!!!!!!\{!!!!!\{!!!!!!!!!!\}!!!!!\}!!!!!!!!!\}\SINV[0]
+message_22:
+  text: Die Boombox ausschalten?
+message_23:
+  text: \n<JOCK JAMS>...
+message_24:
+  text: \smoIch bin SMOL, der kleinste Zentaur der Welt. \!<br>Sieh dir alle meine Auszeichnungen an!
+message_25:
+  text: Ein Haufen Stöcke liegt überall im Haus verstreut.
+message_26:
+  text: Eine Trophäe in Form eines Pferdes."<br>"MOST HORSE - 2ND PLACE\".
+message_27:
+  text: Eine Urkunde.\!<br>\"TINIEST CENTAUR - 1ST PLACE\".
+message_28:
+  text: Eine lange Trophäe.\!<br>\"KLEINSTER ZENTAUR - 1. PLATZ\".
+message_29:
+  text: Eine kleine Trophäe.\!<br>\"LITTLEST CENTAUR - 1ST PLACE\".
+message_31:
+  text: \pesHallo! Ich bin PESSI, und wie du wahrscheinlich bemerkt hast...\!<br>Com[2]\{I LOVE SWEETHEART!\}
+message_32:
+  text: <br>Ich habe jedes Stück Merchandise, das sie jemals veröffentlicht hat...<br>Ich habe SWEETHEART Poster, Figuren, Sticker, Shirts, ihre gesamte Diskographie und alles andere, was man sich vorstellen kann!
+message_33:
+  text: \pes Ich bin mir sicher, dass du nirgendwo sonst auf der Welt eine gründlichere Sammlung finden wirst!
+message_34:
+  text: \pesMich einen Super-Fan zu nennen ist eine Untertreibung...<br>Ich bin der ultimative \QUAKE[1]<br>Fan.
+message_35:
+  text: \pesLass mich dir von der Zeit erzählen, als ich SWEETHEART fast getroffen hätte.\!<br>Wir haben zufällig im selben Restaurant gegessen...<br>Es war Schicksal, denke ich.
+message_36:
+  text: \pesWir haben auch das gleiche Essen bestellt!\! Nicht, dass ich gesehen hätte, was sie bestellt hat und sie kopiert hätte oder so.
+message_37:
+  text: \pesIch habe sogar versucht, für ihr Essen zu bezahlen, aber ich hatte gerade am Tag zuvor eine neu erschienene SWEETHEART Statue in Lebensgröße gekauft und konnte mir das nicht leisten...
+message_38:
+  text: \Das war auch gut so, denn das Mädchen entpuppte sich als ein ganz normales Mädchen, das ein Kostüm trug, das dem von SWEETHEART ähnelte
+message_39:
+  text: \pesNicht, als ob ich das nicht von vornherein erkennen könnte.\! Nur ein Poser-Fan würde jemals eine normale Person mit SWEETHEART verwechseln!
+message_40:
+  text: \pesHey, pass auf!\! Das ist meine selbstgezüchtete PINK STAR Blume...\! SWEETHEARTs Liebling, natürlich!
+message_41:
+  text: \pesWenn sie nicht in einem kontrollierten Gebiet angebaut wird, verbreitet sie sich wie ein Lauffeuer und ist unmöglich zu stoppen, da sie auf fast jeder Oberfläche wachsen kann.
+message_42:
+  text: Auf den ersten Blick scheint das eine wirklich unausstehliche Person zu sein...<br>Aber es ist nur eine Statue.
+message_43:
+  text: \n<SNAKE>\SINV[1]Ssssssssssssss!\SINV[0]\! (Was für ein Nervenkitzel!)
+message_44:
+  text: \n<SNALEY>Oh, du meine Güte! \!Bin ich dir im Weg?\!<br> Es tut mir so leid.\! Ich werde rübergehen.
+message_45:
+  text: \n<SNALEY>Oh, hoppla!\! Ich scheine dir im Weg zu sein.\!<br>Güte, es tut mir so leid.\! Ich werde rübergehen.
+message_50:
+  text: \n<VEGGIE KID>Wir sind auf einem Abenteuer!
+message_51:
+  text: \n<VEGGIE KID>Wir sind Abenteurer!
+message_52:
+  text: \n<VEGGIE KID>Wir gehen auf Entdeckungsreise!
+message_53:
+  text: \n<VEGGIE KID>Wir sind Entdecker!
+message_54:
+  text: \n<SPACE PIRATE ACE>CAPT. SPACEB-\! Ich meine, SPACE BOYFRIEND hat sein Bett nicht mehr verlassen, seit...\! \QUAKE[1]sie...\QUAKE[0] \!nicht mehr vorbeikommt...
+message_55:
+  text: \n<SPACE PIRATE ACE>Was du da hinten gemacht hast, war wirklich mutig.\! Ich würde den CAPTAIN niemals so herausfordern... \!Ihr würdet alle wirklich fantastische Raumpiraten abgeben.
+message_56:
+  text: \n<SPACE PIRATE AMIGO>\SINV[1]Zzzzzzzzzzz...\SINV[0]
+message_57:
+  text: \n<SPACE PIRATE BRO>SPACE BOYFRIEND...\!<br>Was können wir für dich tun, Bruder?<br>\!Warum willst du dein Bett nicht verlassen?
+message_58:
+  text: \n<SPACE PIRATE BRO>Bro...\! Diese \c[3]SNO-CONES\c[0]...\! sind wirklich gut.
+message_59:
+  text: \n<SPACE PIRATE BUDDY>Buddy...\! Es ist scheiße, dass du zu so einem Zeitpunkt kommen musstest...
+message_60:
+  text: \n<SPACE PIRATE BUDDY>Es ist so schön, dass der CAPTAIN zurück ist! Ja, Kumpel!
+message_61:
+  text: \n<SPACE PIRATE CHIEF>Squak!\! Die Dinge sind hier so langweilig, seit CAPT. SPACEB- ich meine, SPACE BOYFRIEND, das Kommando über die SPACE PIRATES übernommen hat...
+message_62:
+  text: \n<SPACE PIRATE CHIEF>Ich meine...\! Sieh dir an, was SPACE BOYFRIEND mit dem Schiff des alten CAPTAINs gemacht hat!\! CAPT. PINKBEARD würde das niemals gutheißen!
+message_64:
+  text: \n<SPACE PIRATE CHIEF>Squak!\! CAPT. SPACEBOY ist wieder normal!\!<br>Ich muss CAPT. PINKBEARD sofort informieren!
+message_65:
+  text: \n<SPACE PIRATE DUDE>Ahoi, Kumpel!\! Hier hatte SPACE BOYFRIEND seinen wertvollen Planeten PLUTO... aber er ist verschwunden!
+message_66:
+  text: \n<SPACE PIRATE DUDE>Dude... Ich kann nicht glauben, dass der CAPTAIN für alle unsere \c[3]SNO-CONES\c[0] bezahlt hat... \!Sniff...\! Ich bin im Moment so emotional.
+message_67:
+  text: \n<SPACE PIRATE GUY>Ahoi, mein Junge!\! Wir arbeiten für SPACE BOYFRIEND.\! Ich vermisse die guten alten Piratenzeiten!
+message_68:
+  text: \n<SPACE PIRATE GUY>Ahoi, mein Junge!\! Bist du hier, um \c[3]SNO-CONES\c[0] mit uns zu haben?
+message_69:
+  text: \n<SPACE PIRATE CHIEF>So ist der verlorene Sohn zurückgekehrt...\n! Hmpf!\! Wir werden sehen, wie lange das anhält...
+message_80:
+  text: \n<SPACE PIRATE MATE>Alles, was ich in letzter Zeit höre, sind die restlichen Besatzungsmitglieder, die sich darüber beschweren, dass sie sich langweilen.\ Bin ich der Einzige, dem das Putzen hier irgendwie Spaß macht?
+message_81:
+  text: \n<SPACE PIRATE MATE>CAPT. SPACEBOY fühlt sich wieder wie er selbst?\! Das sind tolle Neuigkeiten, Kumpel!\! Wenn die Crew wieder auf Reisen geht, bleibe ich hier und bemanne die Festung.\! Irgendjemand muss es ja tun, oder?
+message_82:
+  text: \n<SPACE PIRATE PAL>Die Dinge sind jetzt ein bisschen schwierig, aber es ist mir egal, was andere sagen, Kumpel...\! Ich glaube an den CAPTAIN!
+message_83:
+  text: \n<SPACE PIRATE PAL>Mein \c[3]SNO-CONE\c[0] schmeckt nach nichts!
+message_88:
+  text: \n<LARAMIE>Ich habe gehört, dass die SPACE PIRATES wieder unterwegs sind! <br>Gut für sie!\! Hmm...\! Ich frage mich...\! was macht sie überhaupt zu Piraten?\! Klauen sie überhaupt etwas?
+message_89:
+  text: \n<TV GIRL>Verdammt...\! Alles, was sie in letzter Zeit zeigen, sind Wiederholungen...<br>Wann kommt denn endlich mal was Neues?
+message_90:
+  text: \n<SPACE PIRATE BUDDY>\SINV[1]PLUTO...\! Komm raus, komm raus, wo immer du bist!\SINV[0]
+message_91:
+  text: \n<SPACE PIRATE DUDE>CAPT. SPACEBOY und einige der Piraten sind irgendwo mit großer Dringlichkeit losgezogen...
+message_92:
+  text: \n<SPACE PIRATE DUDE>Aber ich und mein Kumpel hier haben beschlossen, nach CAPT. SPACEBOY's verlorenen Planeten, PLUTO...\!<br>Hmm...\! Wo könnte er sein?
+message_93:
+  text: \n<SPACE PIRATE MATE>Du hast es gerade verpasst, Kumpel! Alle sind gerade auf CAPT. SPACEBOYs brandneuem Schiff! Ich freue mich, sagen zu können, dass CAPT. SPACEBOY und die SPACE PIRATES sind zurück in voller Stärke!
+message_94:
+  text: \n<SPACE PIRATE MATE>Ich hoffe, ihr habt alle eine tolle Zeit!
+message_95:
+  text: \n<SPACE PIRATE PAL>Der CAPTAIN hat mich gebeten, zurückzubleiben, um sein altes Schiff zu beobachten.\! Er ist so cool, wenn er mir Befehle gibt!
+message_100:
+  text: \n<LARAMIE>Ich habe gehört, dass der CAPTAIN der SPACE PIRATES vom Angesicht der \c[11]OTHERWORLD\c[0] gefallen ist...
+message_101:
+  text: \n<LARAMIE>Die SPACE PIRATES müssen wieder in Panik sein!\! Es gibt immer etwas Neues bei ihnen, nicht wahr?
+message_102:
+  text: \n<LONE MOLE>Ich bin ganz allein!\! Ich liebe es hier!
+message_105:
+  text: \n<SPACE PIRATE BRO>Nachdem SWEETHEART gegangen ist, hat CAPT. SPACEB-, ich meine...\! SPACE HUSBAND rannte los und verschwand...
+message_106:
+  text: \n<SPACE PIRATE BRO>Wir haben einen Suchtrupp da draußen, der nach ihm sucht, aber es gibt nirgendwo eine Spur von ihm!\! Wo könnte er hin sein?
+message_107:
+  text: \n<SPACE PIRATE BUDDY>\SINV[1]Oh, PLUTO...\! PLUTO...\! Wo bist du?\!\SINV[0]<br>Seufz...\! Dieser Ort ist so groß.\!<br>Wie sollen wir ihn jemals finden?
+message_108:
+  text: \n<SPACE PIRATE CHIEF>Bwark!\! Dieser Ort ist die Müllhalde!
+message_109:
+  text: \n<SPACE PIRATE DUDE>Sigh...\! Ich fange an, die Crew zu vermissen, Kumpel...
+message_110:
+  text: \n<SPACE PIRATE GUY>Huff...\! Huff...\! CAPTAIN...\! mein Mann...\!<br>Selbst nach allem...\! Glaube ich immer noch an dich!
+message_111:
+  text: \n<SPACE PIRATE MATE>Ahoi, Kumpel!\! Ich freue mich zu sagen, dass CAPT. SPACEBOY und die SPACE PIRATES sind zurück in voller Stärke! Ich hoffe, ihr habt alle einen Riesenspaß!
+message_130:
+  text: \n<LARAMIE>Ich habe gehört, dass CAPT. SPACEBOY's Vater, PINKBEARD zurückkam, nachdem er hörte, dass CAPT. SPACEBOY verschwunden ist!\!<br>Oh, das Drama!\! Könnte es noch saftiger werden?
+message_140:
+  text: \n<SPACE PIRATE ACE>Yay!\! Der CAPTAIN ist zurück...\! wieder...\! aber für wie lange?
+message_141:
+  text: \n<SPACE PIRATE AMIGO>Wenn du es schaffst, deinen Schmerz zu fühlen...\! kannst du es schaffen, deinen Schmerz zu heilen.
+message_142:
+  text: \n<SPACE PIRATE BUDDY>Hey, Kumpel...\!<br>Ich glaube nicht, dass PLUTO irgendwo so sein würde.
+message_143:
+  text: \n<SPACE PIRATE DUDE>Ich glaube, wir haben uns verirrt, Alter...<br>Wir müssen weit weg von zu Hause sein.
+message_144:
+  text: \n<SPACE PIRATE BRO>Sniff...\! Ich wusste, dass der CAPTAIN zurückkommen würde...\! Willkommen zu Hause, CAPTAIN.
+message_145:
+  text: \n<SPACE PIRATE ACE>Sniff...\! Der CAPTAIN rannte weg...\! wieder...
+message_160:
+  text: Es ist eine Botschaft in einer Flasche!
+message_161:
+  text: Sie lautet...<br>"Fill in the blank"
+message_162:
+  text: Wenn der Mond wie ein großer Pizzakuchen auf dein Auge trifft,<br>dann ist das ________.
+message_163:
+  text: Wie würdest du gerne antworten?
+message_164:
+  text: Du schreibst deine Antwort und wirfst die Flasche in den See.
+message_165:
+  text: OMORI
+message_166:
+  text: AUBREY
+message_167:
+  text: KEL
+message_168:
+  text: HERO
+message_170:
+  text: Die SPACE PIRATES sind auf der Flucht.
+message_200:
+  text: \n<CONSTRUCTION MOLE>Nachdem SWEETHEART ihre letzte Folge ausgestrahlt hat, beginnen einige SPROUT MOLES wieder in die Kolonien zu ziehen.
+message_201:
+  text: \n<CONSTRUCTION MOLE>Das ist eine erstklassige Immobilie!
+message_202:
+  text: \n<NEUE KOLONIENMOLE>Viele gingen im zweiten großen Zug verloren...\! aber für den Fortschritt müssen Opfer gebracht werden!
+message_203:
+  text: \n<NEW COLONY MOLE> Hier ist es viel geräumiger als im \c[11]SPROUT MOLE VILLAGE\c[0].\! Vielleicht sogar \sinv[1]zu\sinv[0] geräumig.
+message_204:
+  text: \n<BIG MOLIO>Du bist gesegnet.
+message_205:
+  text: <br>Ich weiß nicht, wie ich es finde, einen Mitbewohner zu haben...<br>Ich hoffe, dass sie mein Geschirr für mich abwaschen.
+message_206:
+  text: \n<CONSTRUCTION MOLE>Baue auf eine hellere Zukunft hin...\! Das ist der Weg der SPROUT MOLE!
+message_207:
+  text: <br>Ich weiß nicht, wie ich mich dabei fühle, einen Mitbewohner zu haben...<br>Ich hoffe, dass sie die Wäsche für mich zusammenlegen.
+message_208:
+  text: <br>Ich weiß nicht, wie ich es finde, einen Mitbewohner zu haben...<br>Ich hoffe, dass sie meine Lebensmittel für mich einkaufen.

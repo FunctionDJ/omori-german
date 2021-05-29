@@ -1,0 +1,188 @@
+message_0:
+  text: Du hast \v[49]!
+message_1:
+  text: Du hast \v[49]!
+message_2:
+  text: Es ist ein \v[49]!\! Willst du es nehmen?
+message_3:
+  text: \v[49] ist deiner Partei beigetreten!
+message_4:
+  text: 'YES'
+message_5:
+  text: 'NO'
+message_6:
+  text: \v[49] verließ die Partei.
+message_7:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 39
+  text: Warte, \n[1]! Da drüben liegt ein BRIEF auf dem Boden. Wir sollten ihn zuerst untersuchen. \her
+message_8:
+  text: DIE TÜR ÖFFNEN
+message_9:
+  text: NICHTS TUN
+message_10:
+  text: 'YES'
+message_11:
+  text: 'NO'
+message_12:
+  text: Du hast \itemget.
+message_612:
+  text: Du hast ein \itemget.
+message_613:
+  text: Du hast ein \itemget.
+message_610:
+  text: Die RECYCLING Maschine hat \c[13]\itemget\c[0] ausgegeben.
+message_611:
+  text: Die RECYCLING-Maschine hat ein \c[13]\itemget\c[0] ausgegeben.
+message_13:
+  text: Du hast \v[249] CLAMS!
+message_30:
+  text: Diese Person bitten zu gehen?
+message_40:
+  text: KAUFEN
+message_41:
+  text: SELL
+message_42:
+  text: LEAVE
+message_50:
+  text: maxItemMessage
+message_51:
+  text: notEnoughMoneyMessage
+message_52:
+  text: onItemListBuyOkMessage
+message_53:
+  text: onItemListSellOkMessage
+message_54:
+  text: itemBuyingPromptMessage
+message_55:
+  text: itemSellingPromptMessage
+message_56:
+  text: itemBuyingConfirmationMessage
+message_57:
+  text: itemSellingConfirmationMessage
+message_58:
+  text: itemBuyingCancelMessage
+message_59:
+  text: itemSellingCancelMessage
+message_60:
+  text: DW maxItemMessage
+message_61:
+  text: DW notEnoughMoneyMessage
+message_62:
+  text: DW onItemListBuyOkMessage
+message_63:
+  text: DW onItemListSellOkMessage
+message_64:
+  text: DW itemBuyingPromptMessage
+message_65:
+  text: DW itemSellingPromptMessage
+message_66:
+  text: DW itemBuyingConfirmationMessage
+message_67:
+  text: DW itemSellingConfirmationMessage
+message_68:
+  text: DW itemBuyingCancelMessage
+message_69:
+  text: DW itemSellingCancelMessage
+message_100:
+  text: Was werden %1 und seine Freunde tun?
+message_101:
+  text: Was wird \n[8] tun?
+message_102:
+  text: Was werden %1 und %2 tun?
+message_103:
+  text: Was werden \n[8] und Freunde tun?
+message_104:
+  text: Was wird %1 tun?
+message_105:
+  text: Auf wen anwenden?
+message_106:
+  text: Drücke \DII[shift] um die Seite zu wechseln.
+message_107:
+  text: PLATZHALTER TEXT ALT ETWAS OMORI KAMPF
+message_200:
+  text: Du hast Höhenangst.
+message_201:
+  text: Du hast Angst vor Spinnen.
+message_202:
+  text: Du hast Angst vor dem Ertrinken.
+message_210:
+  text: Du schaust nach vorne und hältst dein Messer ruhig.
+message_220:
+  text: Du blickst ins Wasser und fühlst dich ruhig.\! Die Wellen sehen sanft und einladend aus.
+message_300:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 39
+  text: \her\Com[2]Warte, OMORI! Wir können später erkunden, aber zuerst müssen wir nach BASIL sehen!
+message_301:
+  text: Du kannst jetzt nicht rausgehen.
+message_399:
+  text: Willst du mit deinen Freunden abhängen?
+message_400:
+  text: Willst du mit deinen Freunden Karten spielen?
+message_401:
+  text: Hast du Lust, mit deinen Freunden Sandburgen zu bauen?
+message_402:
+  text: Willst du mit deinen Freunden Drachen steigen lassen?
+message_403:
+  text: Willst du mit deinen Freunden angeln gehen?
+message_404:
+  text: Willst du hier mit deinen Freunden sitzen?
+message_405:
+  text: Willst du es dir mit deinen Freunden gemütlich machen?
+message_406:
+  text: Willst du einen Film mit deinen Freunden anschauen?
+message_407:
+  text: Hast du Lust, mit deinen Freunden Tee zu trinken?
+message_408:
+  text: Willst du mit deinen Freunden zu Abend essen?
+message_409:
+  text: Willst du mit deinen Freunden in einer Ballgrube spielen?
+message_410:
+  text: Willst du mit deinen Freunden trainieren?
+message_411:
+  text: Willst du mit deinen Freunden faulenzen?
+message_412:
+  text: Willst du mit deinen Freunden Comics lesen?
+message_420:
+  text: Hast du Lust auf ein Picknick mit deinen Freunden?
+message_430:
+  text: Klopf, klopf...
+message_431:
+  text: Es kommt keine Antwort.
+message_432:
+  text: ...\! Die Tür ist verschlossen.
+message_500:
+  text: Du hast nun Zugriff auf das \c[4]HANGMAN MENU\c[0].
+message_501:
+  text: Du hast die \c[4]HEADSPACE MAP\c[0].
+message_510:
+  text: Das Tor lässt sich nicht bewegen.
+message_600:
+  text: Deine Bindung zu deinen Freunden wurde stärker.<br>Die FOLLOW-UP-Moves von allen haben sich verbessert!
+message_644:
+  text: 12 SCHLÜSSEL übrig...
+message_645:
+  text: 11 SCHLÜSSEL übrig...
+message_646:
+  text: 10 SCHLÜSSEL übrig...
+message_647:
+  text: 9 SCHLÜSSEL übrig...
+message_648:
+  text: 8 SCHLÜSSEL übrig...
+message_649:
+  text: 7 SCHLÜSSEL übrig...
+message_650:
+  text: 6 SCHLÜSSEL übrig...
+message_651:
+  text: 5 SCHLÜSSEL übrig...
+message_652:
+  text: \fn<OMORI_GAME>4 TASTEN übrig...
+message_653:
+  text: \fn<OMORI_GAME>3 TASTEN übrig...
+message_654:
+  text: \fn<OMORI_GAME>2 TASTEN übrig...
+message_656:
+  text: \fn<OMORI_GAME>1 TASTE links...
+message_657:
+  text: \fn<OMORI_GAME>0 TASTEN übrig...

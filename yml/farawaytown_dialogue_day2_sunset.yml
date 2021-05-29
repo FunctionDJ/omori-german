@@ -1,0 +1,126 @@
+message_0:
+  faceset: MainCharacter_Basil
+  faceindex: 12
+  text: \n<BASIL>\}Oh, \n[8]...\! Es gibt...\! keinen Ausweg aus dieser...\! oder?
+message_1:
+  faceset: MainCharacters_Faraway
+  faceindex: 19
+  text: \Der arme BASIL hat in den letzten Tagen so viel durchgemacht...
+message_2:
+  faceset: MainCharacters_Faraway
+  faceindex: 32
+  text: \herBASIL... Du musst müde sein.\! Bitte ruhe dich etwas aus... <br>Wir kommen dich morgen wieder holen.
+message_10:
+  text: \n<ANGEL>\Com[2]\sinv[1]\{\{AHHHHH!! INTRUDERS!!!
+message_11:
+  text: \n<ANGEL>Oh... Das seid nur ihr.
+message_15:
+  text: \n<ANGEL>Hey, warte eine Sekunde!\! \SINV[2]Fufufu...\!\SINV[0]<br>Jetzt ist der perfekte Zeitpunkt, um euch beide zu einem Rückkampf herauszufordern!\!<br>Com[2]Bereit oder nicht, hier komme ich!
+message_12:
+  text: \n<ANGEL>Hmph...\! Du wusstest nicht, dass ich diesen Kampf benutze, um deine Stärken und Schwächen zu studieren...\! Das nächste Mal, wenn wir kämpfen, wird der Sieg nicht so einfach sein!
+message_13:
+  text: \n<ANGEL>Hm...\! Ich merke, dass du mich schonst, weißt du...<br>Ich mag ein Kind sein, aber ich bin nicht dumm!
+message_20:
+  text: \n<CHARLENE>\}...\! Hallo...\! Mein Name ist...\! CHARLENE...
+message_21:
+  faceset: MainCharacters_Faraway
+  faceindex: 16
+  text: \kel\com[2]CHARLENE?\! Ich dachte die ganze Zeit dein Name wäre CHARLIE!
+message_22:
+  faceset: MainCharacters_Faraway
+  faceindex: 14
+  text: \kelHallo, CHARLENE!\! Ich bin KEL... und das ist \n[8] und HERO!
+message_23:
+  text: \n<CHARLENE>\}...\! Hallo...\! alle...\! Hehe...
+message_30:
+  text: \n<KIM>\}AUBREY...\! Warum willst du mir nicht sagen, was los ist?
+message_31:
+  text: \n<KIM>\Com[2]Ah!\! Grummel...grummel...\!<br>Ugh... Ihr seid nur zu zweit...\! Wie kommst du darauf, dass du einfach so in die Zimmer anderer Leute eindringen kannst?
+message_32:
+  text: \n<KIM>Du hast dich wohl mit meiner Mutter angefreundet?<br>Sie lässt jeden rein, der ihr beim Reden zuhört...
+message_40:
+  text: \n<THE MAVERICK>Ich spüre eine böse Präsenz, die aus dem Inneren meines Hauses kommt...\n! Vielleicht denke ich zu viel darüber nach...\! Aber ich kann nie zu vorsichtig sein...
+message_41:
+  text: \n<THE MAVERICK>Seufz...\! Mein Bruder und meine Schwester sind eine echte Nervensäge, nicht wahr?\! Alle hier sind gleich!
+message_42:
+  text: \n<THE MAVERICK>Ah... Du hast also das große Böse besiegt.\!<br>Was hat es dich gekostet?\! Ich kann immer noch den Schmerz in deinen Augen sehen.
+message_50:
+  text: \n<VANCE>Munch...\! Munch...\! Munch...
+message_51:
+  text: \n<VANCE>Oh, hey.\! Was ist los?
+message_52:
+  faceset: MainCharacters_Faraway
+  faceindex: 17
+  text: \kelHuh? Du bist so ruhig...\! Willst du uns nicht zu einem Kampf herausfordern oder so?
+message_53:
+  text: \n<VANCE>Hmm...\! Nein, ich habe nicht wirklich Streit mit einem von euch.\!<br>Ich und Kim machen nur immer die gleichen Sachen zusammen.
+message_54:
+  text: \n<VANCE>Ich bin nur ein Jahr älter als sie, aber niemand glaubt mir wegen meines Bartes...
+message_55:
+  text: \n<VANCE>Sie redet viel, aber sie hat ein großes Herz.\!<br>Und ich?\! Ich habe ein paar große Muskeln.
+message_60:
+  text: \n<ARTIST>Ich entwerfe gerade mein nächstes Gemälde, aber ich bin nicht sicher, wo ich anfangen soll...\! Es ist so schwer, auf gute Ideen zu kommen! Ich sollte einfach mit der Kunst aufhören und Zoowärter werden oder so.
+message_70:
+  text: \n<Kurzhaar-Mädchen>Ich denke daran, meinem Schwarm einen Brief zu schreiben, um ihm zu sagen, was ich fühle...
+message_80:
+  text: \n<FASHIONABLE MOM>Meine KAFFEEMASCHINE steht direkt in der Küche.<br>\!Vorsichtig...<br>! Er ist ziemlich stark!
+message_90:
+  text: <br>Ich bin heute erst vom College zurückgekommen.<br>Ich vermisse die Stadt jetzt schon! Es ist einfach viel zu ruhig hier.
+message_100:
+  text: <br>Manchmal komme ich hierher, um mir die Blumen anzuschauen.<br>Ich denke darüber nach, mir ein paar für das Haus zu besorgen, aber ich habe gehört, dass manche Pflanzen Ameisen anziehen...
+message_101:
+  text: <br>Ameisen sind der Fluch meiner Existenz...<br>Das Letzte, was ich will, sind Ameisen, die durch mein Haus krabbeln!
+message_110:
+  text: \n<OLD BEARDY>\QUAKE[1]Hewp!\! Mah teef are gawn!!\! Can ye' 'pind dem!?\QUAKE[0]
+message_112:
+  text: \n<OLD BEARDY>Danke, Leute.<br>Manchmal spielen mir die Geister hier gerne Streiche!
+message_113:
+  text: <br>Sie meinen es nicht böse...<br>Meine alten Augen sind einfach nicht mehr das, was sie einmal waren...
+message_120:
+  text: \n<ALL-AMERICAN MOM>\SINV[1]La-di-dee!\! La-di-da!\! La-di-dee!\! La-di-da!\SINV[0]
+message_130:
+  text: \n<CUTE GIRL>MISS CANDICE hat mir gesagt, ich soll ein paar Schmerzmittel für ihre Kopfschmerzen kaufen.\! Anscheinend klauen hier viele Kinder gerne \c[3]CANDY\c[0]...
+message_131:
+  text: \n<CUTE GIRL>Sie müssen so tapfer sein.\! MISS CANDICE ist wirklich unheimlich, wenn sie wütend ist...
+message_140:
+  text: \n<PIGTAILS LADY>Hmmm... Ich habe noch nie für eine ganze Party gekocht...\!<br>Vielleicht war ich dieses Mal zu ehrgeizig...
+message_141:
+  text: \n<PIGTAILS LADY>Soll ich etwas holen, das qualitativ besser ist oder etwas mit mehr Quantität? Woher weiß ich, welche Marke ich wählen sollte?
+message_142:
+  text: \n<PIGTAILS LADY>Sind grüne Zwiebeln und rote Zwiebeln das Gleiche?
+message_143:
+  text: \n<PIGTAILS LADY>Seufz...\! Vielleicht hätten wir einfach eine Lieferung bekommen sollen.
+message_144:
+  text: \n<CHECKERS GUY>Hey, kein Grund sich deswegen zu stressen, KAREN. Ich glaube an dich!\! Außerdem...wenn niemand sonst dein Essen isst...<br>weißt du, dass zumindest ich es tun werde!
+message_145:
+  text: \n<PIGTAILS LADY>Oh, SEAN... Du bist so süß.<br>Was habe ich jemals getan, um jemanden wie dich zu verdienen?
+message_150:
+  text: \n<KEL'S DAD>Ich habe deiner Mutter angeboten, ihr beim Kochen für heute Abend zu helfen, aber du weißt ja, wie sie in der Küche ist...
+message_151:
+  text: \n<KEL'S DAD>Sorge dafür, dass du ihr sagst, wie gut ihr Essen schmeckt!
+message_152:
+  text: \Mach dir nicht zu viele Sorgen um deine Mutter, HELD. Sie vermisst dich nur, das ist alles. Sie wird sich besser fühlen, wenn sie sich beruhigt hat...
+message_153:
+  text: \n<KEL'S DAD>Geht ihr los und macht euer Ding!<br>Ich passe auf, dass es ihr gut geht.
+message_154:
+  text: Die Tür ist verschlossen.
+message_160:
+  text: \n<KEL'S MOM>Okay, du kannst gehen...\! Aber sei zum Abendessen wieder zu Hause!
+message_161:
+  text: \n<KEL'S MOM>
+message_171:
+  text: \n<RED-GLASSES LADY>Mein Sohn und meine Tochter sollten schon längst zu Hause sein! Was ist so wichtig, dass sie es verpassen würden, mit ihrer Mutter abzuhängen!?
+message_180:
+  text: \n<POLLY>Ich bemerke, dass BASIL gerne und oft in den Park geht, aber er war nicht da, als ich nachgesehen habe...
+message_181:
+  text: \n<POLLY>Seiner Oma geht es nicht besonders gut...\!<br>Ich habe versucht, ihn zu beruhigen, aber während ich sprach, fing er an zu zittern und lief weg...\! Seufz...\! Ich hoffe, es geht ihm gut...
+message_190:
+  text: \n<PONYTAIL GIRL>Mama und Papa sind noch nicht nach Hause gekommen.\!<br>Es ist schon spät... Wo könnten sie sein?
+message_191:
+  text: \n<PONYTAIL GIRL>Ich versuche mich gesund zu ernähren, aber wir haben keine Ranch-Sauce mehr...\!<br>Wie soll ich jetzt meine Karotten und meinen Sellerie essen?
+message_192:
+  text: \n<PONYTAIL GIRL>Liebe ist eklig...
+message_200:
+  text: \n<CLUMSY GUY>\sinv[1]Du bist gerade so schön, dass ich dich küssen könnte!\sinv[0]
+message_210:
+  text: \n<PONYTAIL LADY>Oh je, meine Liebe! Du bringst mich zum Erröten...\!<br>Ich werde mich für immer an diesen Jahrestag erinnern!

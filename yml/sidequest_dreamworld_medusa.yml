@@ -1,0 +1,18 @@
+message_1:
+  text: \n<MEDUSA>Hallo, Puppen~\!<br>Ich bin überrascht zu sehen, dass alle noch am Leben sind.\!<br>Wie aufregend!
+message_2:
+  text: \n<MEDUSA> Ich muss dich um einen Gefallen bitten, da ich im Moment etwas unbeweglich bin.\! Es gibt eine Kreatur, die sich hier herumtreibt, sie heißt SNOT BUBBLE.
+message_3:
+  text: \n<MEDUSA>Wenn du freundlicherweise etwas \c[4]SNOT\c[0] von ihnen sammeln könntest, wäre ich in der Lage, ein Gebräu zu kreieren, um meinen Körper zu revitalisieren.\!<br>Das sollte nicht zu viel Mühe sein... oder, Puppen?
+message_9:
+  text: \n<MEDUSA>Oh mein!\! Du hast alles \c[4]SNOT\c[0] gesammelt, was ich brauchen werde und noch mehr!
+message_4:
+  text: \n<MEDUSA>\sinv[1]Mmmmmmmmm...\! Herrlich...\!\sinv[0] Oh~!\!<br>Ich fühle mich wieder wie mein wunderschönes Ich...\!<br>aber mit einigen...\! kleineren...\! Verbesserungen~\! \sinv[1]Kukuku~\sinv[0]
+message_5:
+  text: \n<MEDUSA>Hier, nimm dies für deine Bemühungen.
+message_6:
+  text: Du hast ein \c[5]MYSTERY POTION\c[0].
+message_7:
+  text: \n<MEDUSA>Warum versuchst du nicht, es zu trinken, Puppe?\!<br>Die Wirkung sollte sich als...\! unterhaltsam erweisen...\! \sinv[1]Kukuku~\sinv[0]
+message_8:
+  text: \n<MEDUSA>Hast du den \c[5]MYSTERY POTION\c[0] schon getrunken?\!<br>Bitte genieße ihn...\! \sinv[1]Kukuku~\sinv[0]

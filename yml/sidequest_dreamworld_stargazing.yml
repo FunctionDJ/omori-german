@@ -1,0 +1,20 @@
+message_1:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 19
+  text: \kelWow, Miss. Du bist wirklich groß...
+message_2:
+  text: \n<PO>Danke, Kleines!\!<br>Es ist die meiste Zeit eher lästig... <br>Aber ich bekomme einen besseren Blick auf die Sterne.
+message_3:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 19
+  text: \kel\[2]Was! Groß zu sein ist kein Problem!<br>Alles ist besser, wenn du groß bist.
+message_4:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 18
+  text: \Eines Tages werde ich so groß sein wie du!
+message_5:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 11
+  text: \aubJa klar, \n[3]. Träum weiter...
+message_6:
+  text: \n<PO>Die Sterne in der Nacht zu beobachten, lässt alles andere auf der Welt so klein erscheinen.

@@ -1,0 +1,886 @@
+message_1:
+  text: Ein \"ZU VERKAUFEN\"-Schild mit einem großen, roten \"VERKAUFT\"-Aufkleber darauf.\!<br>Dein Haus ist verkauft worden.\! In drei Tagen wirst du woanders hinziehen.
+message_2:
+  text: Ein \"ZU VERKAUFEN\"-Schild mit einem großen, roten \"VERKAUFT\"-Aufkleber darauf.\!<br>Dein Haus ist verkauft worden.\! In zwei Tagen wirst du woanders hinziehen.
+message_3:
+  text: Ein \"ZU VERKAUFEN"-Schild mit einem großen, roten \"VERKAUFT"-Aufkleber darauf.\!<br>Dein Haus ist verkauft worden.\! Morgen wirst du woanders hinziehen.\! ...\! Du wirst diesen Ort vermissen.
+message_4:
+  text: Ein \"ZU VERKAUFEN\"-Schild mit einem großen, roten \"VERKAUFT\"-Aufkleber darauf.\!<br>Dein Haus wurde verkauft.\! Heute wirst du an einen anderen Ort ziehen.
+message_5:
+  text: Ein stilvoller weißer Briefkasten.
+message_6:
+  text: Eine Reihe von bunten Mülleimern.\! Der schwarze Mülleimer ist für den Müll, der blaue für die Wertstoffe und der grüne für den Naturkram.
+message_7:
+  text: KELs Basketballkorb.<br>Scheint ein bisschen gefährlich zu sein, so auf der Straße...
+message_0:
+  faceset: MainCharacters_Faraway
+  faceindex: 17
+  text: Du solltest nicht auf der Straße laufen, \n[8]! Das ist gefährlich!\kel
+message_8:
+  text: Es ist gefährlich, auf der Straße zu laufen.
+message_9:
+  text: HECTORs Hundehütte.<br>Es ist ein wenig stickig, aber HECTOR scheint es zu mögen.
+message_10:
+  text: Plastikflamingos schmücken diesen Hof.\!<br>Sie scheinen guter Dinge zu sein.
+message_11:
+  text: Ein leeres Vogelhaus, gefüllt mit Stöcken und Staub.
+message_12:
+  text: Eine Statue einer religiösen Figur.<br>\!...\! Du hast das Gefühl, als würde sie über dich urteilen.
+message_13:
+  text: Hier wird gebaut.\!<br>Seufz...\! Manche Dinge ändern sich einfach nie.
+message_14:
+  text: Ein Feuerhydrant.
+message_15:
+  text: Es ist gefährlich, den Zebrastreifen zu verlassen.
+message_16:
+  text: Eine Zimmerpflanze.
+message_20:
+  text: Kartons liegen im ganzen Haus verstreut.
+message_21:
+  text: Eine kleine, unechte Zimmerpflanze.
+message_22:
+  text: Eine gewöhnliche Zimmerpflanze.\! Nichts Besonderes an ihr.
+message_23:
+  text: MOMs Büchersammlung.
+message_24:
+  text: Eine Mikrowelle.
+message_25:
+  text: Ein Kühlschrank.\! Öffne ihn?
+message_26:
+  text: Leer.
+message_27:
+  text: Darin befindet sich ein \c[4]STEAK\c[0].
+message_28:
+  text: Einige Handtücher und Toilettenartikel.
+message_29:
+  text: Eine Badewanne.
+message_30:
+  text: Willst du ein Bad nehmen?
+message_31:
+  text: Dieses Bücherregal wurde entrümpelt.
+message_32:
+  text: Ein alter Computer.
+message_33:
+  text: Hier gibt es nichts außer einem Spiel namens BLACKJACK.\!<br>Willst du spielen?
+message_34:
+  text: Ein alter Computer.\! Willst du BLACKJACK spielen?
+message_35:
+  text: Ein Telefon, das MOM dich dazu gebracht hat, in dein Zimmer zu stellen.<br>Es wird kaum benutzt.
+message_37:
+  text: Einige Familienfotos.
+message_38:
+  text: MOM's Kochtöpfe.<br>Du kannst dich nicht mehr daran erinnern, wann sie das letzte Mal benutzt wurden.
+message_39:
+  text: Eine große Sammlung von Notenbüchern.\! Viele davon wurden noch nie geöffnet.
+message_40:
+  text: Ein Flügel.\!<br>Das Wort \"OMORI\" ist quer über die Mitte eingraviert.
+message_41:
+  text: Eine Toilette.
+message_43:
+  text: MOM's Bett.\!<br>Die Matratze ist zu hart, als dass du bequem schlafen könntest.
+message_44:
+  text: Ein Kamin. \!Es stecken Nägel zwischen den Ziegeln.
+message_45:
+  text: Eine von zwei alten Standuhren.\! Sie haben schon vor langer Zeit aufgehört zu funktionieren, aber MOM behält sie gerne hier.
+message_47:
+  text: Ein Kleiderschrank.
+message_48:
+  text: Ein Haufen Bücher.
+message_49:
+  text: Eine Toilette.
+message_108:
+  text: Ein sehr, sehr bequemes Bett.
+message_127:
+  text: Es ist ein schöner Tag draußen...\! aber drinnen ist es besser.
+message_50:
+  text: Ein Haufen Familienfotos.\! KEL hat sicher eine Menge Verwandte...
+message_51:
+  text: Ein Bücherregal voller Action-Figuren und Spielzeug.<br>Es gibt ein paar Neuzugänge seit du das letzte Mal hier warst.
+message_52:
+  text: Eine verzierte Zimmerpflanze.<br>Sie bringt einen schönen Farbtupfer in den Raum.
+message_53:
+  text: Ein Haufen Bücher.\! Die meisten davon handeln vom Angeln oder Golf...
+message_54:
+  text: Ein Haufen neuer Bücher auf dem Tisch.\!<br>\"A Great Guide to Good Grilling\"...\! \"Grillen als Lebenseinstellung\"...\! \"How to Perfectly Cook Chicken\"...<br>Hmm...\! Es sieht so aus, als hätte KELs Dad ein neues Hobby gefunden.
+message_55:
+  text: Eine unvollendete Tasse Kaffee.
+message_56:
+  text: KEL und HEROs Familienfoto.<br>Was für eine gutaussehende Familie...
+message_57:
+  text: Schmutzige Wäsche.
+message_58:
+  text: Ein Basketball.
+message_59:
+  text: Eine Eitelkeit.
+message_60:
+  text: Eine Toilette.
+message_61:
+  text: Das Spielkonsolensystem von KEL.<br>Es sieht gut benutzt aus.
+message_62:
+  text: HEROs Seite des Raumes ist übersät mit Auszeichnungen und Trophäen.
+message_63:
+  text: \"JÄHRLICHER HOT-DOG-ESSWETTBEWERB - ERSTER PLATZ".
+message_64:
+  text: \"LANDESNACHWUCHSKOCHWETTBEWERB - ERSTER PLATZ\".
+message_65:
+  text: \"STATE SPELLING BEE - FIRST PLACE\".
+message_66:
+  text: \"LANDESMATHEMATIKOLYMPIADE - ERSTER PLATZ".
+message_67:
+  text: \"LANDESDEBATTENWETTBEWERB - AM MEISTEN VERBESSERT".
+message_68:
+  text: KELs einzige Auszeichnung...\! <br>"ANNUAL HOT DOG-EATING CONTEST - PARTICIPANT\"
+message_69:
+  text: Ein Wecker... für verantwortungsbewusste Menschen.<br>Er ist auf 5-Minuten-Früh eingestellt.
+message_70:
+  text: HEROs Arbeitstisch.<br>Sehr aufgeräumt... Kein einziger Radiergummi in Sicht!
+message_71:
+  text: KELs Arbeitstisch.<br>Sieht nicht so aus, als würde hier gearbeitet werden.
+message_72:
+  text: KEL's Bett.\! Immer eine Sauerei.
+message_73:
+  text: KEL's Garderobe...<br>Hey, hier sind $20.00 drin!<br>! Nimmst du es?
+message_74:
+  text: Du hast die $20.00 aus KELs Kleiderschrank genommen.
+message_75:
+  text: Du hast die $20.00 in KELs Kleiderschrank gelassen.
+message_76:
+  text: KELs Kleiderschrank...\! minus 20,00 $.
+message_77:
+  text: Eine Großvateruhr.
+message_78:
+  text: SALLYs Wiege.\! Darüber hängt ein kleines Flugzeug-Mobile.
+message_79:
+  text: Bauklötze.\!<br>Wahrscheinlich ein Handme-down von KEL oder HERO.
+message_80:
+  text: Ein Stofftier.<br>Wahrscheinlich ein Hand-me-down von KEL oder HERO.
+message_81:
+  text: Ein heiliges Buch.
+message_82:
+  text: Ein singender Bass...\! Einschalten?
+message_83:
+  text: KEL und HEROs Kamin.\! Über dem Kaminsims hängen ein paar Preisbänder.\! Was für eine talentierte Familie...
+message_84:
+  text: HECTORs Futter- und Wassernapf.\! Da ist überall Schlabber drin!
+message_85:
+  text: Ein Plüschtier...! Wahrscheinlich gehört es zu HECTOR...
+message_86:
+  text: HECTORs Hundebett.\! Er scheint ein wenig daraus herausgewachsen zu sein.
+message_87:
+  text: KEL's Kühlschrank.<br>Es gibt einen Haufen bunter Magneten darauf.<br>Was für eine lebenslustige Familie...
+message_88:
+  text: Salz- und Pfefferstreuer.
+message_89:
+  text: HECTORs Lieblingsspielzeug Ball.\! Du kannst es daran erkennen, wie eklig es ist.
+message_90:
+  text: Eingetopfte Bambushalme.<br>Zumindest ist es das, was du denkst, dass sie sind...
+message_91:
+  text: Eine TV-Fernbedienung.\!<br>Am besten nicht anfassen... Diese sind anfällig dafür, verloren zu gehen.
+message_92:
+  text: Ein Schuhregal.
+message_93:
+  text: Ein Kleiderständer.
+message_94:
+  text: Ein Ball.
+message_95:
+  text: Töpfe und Pfannen sind überall in der Küche verstreut.
+message_96:
+  text: Ein Toaster.
+message_97:
+  text: HEROs Bett.\! Perfekt gemacht...\! genau wie HERO.
+message_98:
+  text: Ein schöner, großer Fernseher.
+message_99:
+  text: Ein Spiegel.
+message_100:
+  text: Einige Topfpflanzen.
+message_101:
+  text: Eine ausgefallene Topfpflanze.
+message_102:
+  text: Ein schickes Portemonnaie.\! Siehst du hinein?
+message_103:
+  faceset: MainCharacters_Faraway
+  faceindex: 17
+  text: \kelWarum wühlst du in der Tasche meiner Mutter, \n[8]?
+message_104:
+  text: Du hast \c[5]PEPPER SPRAY\c[0].\ gefunden! Nimmst du es?
+message_105:
+  text: Du hast \c[5]PEPPER SPRAY\c[0]!
+message_106:
+  faceset: MainCharacters_Faraway
+  faceindex: 16
+  text: \kelWhoa! Meine Mutter hatte \c[5]PEPPER SPRAY\c[0]?\! Das könnte sich als nützlich erweisen, wenn wir in Schwierigkeiten geraten.\! Gut gedacht, \n[8]!
+message_107:
+  text: Ein schickes Portemonnaie.
+message_109:
+  text: Bye-bye, Spinne.
+message_110:
+  text: Zeitungen und Zeitschriften...\! Dieser Typ weiß, wie man sich entspannt.
+message_111:
+  text: Getreidesaft in einer Dose.
+message_112:
+  text: Eine leere Tasse.\! Riecht immer noch nach Tee.
+message_113:
+  text: Ein Set von Marmoruntersetzern. \! Sieht richtig teuer aus...
+message_114:
+  text: Ein weißes Teeservice aus Porzellan...! Sieht richtig teuer aus...
+message_115:
+  text: Eine Feuerstelle.\! Sieht aus, als würde er ziemlich oft benutzt werden.
+message_116:
+  text: Ein Haufen von Familienfotos. Es sieht so aus, als ob diese Familie viel reist.
+message_117:
+  text: Fotos eines Mädchens, aufgenommen während ihrer Kindheit.<br>Sie hat sich irgendwann die Haare blau gefärbt.<br>Hey! Es sieht so aus, als wäre sie im gleichen Alter wie du!
+message_118:
+  text: Nun, das war unerwartet.
+message_119:
+  text: Eine Porzellanvase.\! Sieht wirklich zerbrechlich aus... und teuer...
+message_120:
+  text: Eine große Muschel.\! Wenn du eine Muschel an dein Ohr hältst, kannst du den Ozean hören.
+message_121:
+  text: Ein Haufen Bücher und Zeitschriften.
+message_122:
+  text: Ein maßgeschneiderter Fischschwanz, den du über deinen Füßen tragen kannst.
+message_123:
+  text: Ein großes Fischglas.\! Da sind mindestens zwei Goldfische drin.\!<br>Sie sehen gesund aus!
+message_124:
+  text: Ein mittelgroßer Fernseher.
+message_125:
+  text: Ein Kühlschrank.
+message_126:
+  text: Preisgekrönter Kuchen.
+message_140:
+  text: Roter Saft im Glas.\! Es riecht irgendwie nach Weintrauben.
+message_141:
+  text: Ein Haufen großer, schwerer Bücher.\!<br>Die Sprache auf den meisten Covern kann man nicht lesen.
+message_142:
+  text: Altes Brot, das auf einem Tablett liegt.
+message_143:
+  text: Altes Brot, das in einem Regal liegt.
+message_144:
+  text: Ein Foto von einem Fremden.
+message_145:
+  text: Ein heiliges Buch.\! Auf fast jeder Seite gibt es Registerkarten.
+message_146:
+  text: Ein Sortiment von Perücken säumen diesen Tisch.<br>Die gelbe fehlt...
+message_147:
+  text: Ein breitzahniger Kamm vor einem Spiegel.<br>Der Spiegel ist mit Klebezetteln übersät.<br><br>"Die Schultern fünfzehn Grad mehr nach hinten wölben\"...<br>"Denk daran, alle Finger zu beugen, wenn du posierst\"...<br>"Zeige nur ein Auge, wenn du provoziert wirst\"...<br>...\! Ugh...
+message_148:
+  text: Ein brandneues Spielkonsolensystem.\!<br>Es sieht so glänzend und schnittig aus!
+message_149:
+  text: Ein Kaktus.\! Robust und widerstandsfähig.
+message_150:
+  text: Eine Waage.<br>Du kannst dich nicht daran erinnern, wann du das letzte Mal so eine benutzt hast.
+message_151:
+  text: Dieser Schreibtisch ist perfekt symmetrisch zu dem auf der anderen Seite aufgebaut.
+message_152:
+  text: Die Falten in diesem Bett sind perfekt symmetrisch zu denen auf der anderen Seite.
+message_153:
+  text: Dieses Bücherregal ist das einzige, was in diesem Raum nicht perfekt symmetrisch ist.
+message_154:
+  text: \"LANDESMEISTERSCHAFT IM BACKEN - ERSTER PLATZ\"
+message_155:
+  text: Diese Trophäe ist eine Replik, die perfekt symmetrisch zu der auf der anderen Seite ist.
+message_156:
+  text: Eine Feuerstelle.\! Sieht so aus, als ob er ab und zu benutzt wird.
+message_157:
+  text: Ein seltsam platzierter Rollstuhl.<br>Es sieht so aus, als wäre er dramatisch aus dem Weg geschoben worden.
+message_170:
+  text: Ein Bonsai-Baum.
+message_171:
+  text: Eine Straßenlaterne.
+message_180:
+  text: Dieses Haus ist bis zum Rand mit Büchern zu jedem Thema gefüllt.\! Die meisten von ihnen haben Lesezeichen oder Klebetabs drin.
+message_181:
+  text: Ein Arbeitstisch mit einigen Papieren darauf.\! Es sieht so aus, als wäre jemand mitten in der Benotung einiger Tests gewesen...<br>\!Autsch...\! Es sieht nicht so gut aus für diese Schüler.
+message_182:
+  text: Ein Arbeitstisch mit einem Haufen Papiere darauf...! Es gibt eine Menge großer Wörter, die du nicht lesen kannst... und eine Menge unordentlicher Schrift, die du nicht lesen kannst.
+message_183:
+  text: Ein hochmoderner Slow-Cooker.<br>Perfekt für vielbeschäftigte oder faule Mütter...<br>Das hat man zumindest mal in einer Werbung gehört.
+message_184:
+  text: Auf dem Kaminsims stehen ein paar Familienbilder...\! Sie sehen ein bisschen verstaubt aus.
+message_185:
+  text: Wandkunst aus einer Pflanze.\! Viel einfacher zu pflegen als eine echte Pflanze.
+message_186:
+  text: Eine Mikrowelle.
+message_187:
+  text: Ein Haustelefon.
+message_188:
+  text: Eine Zeitung.
+message_189:
+  text: Hmm...\!<br>Es gibt einige Comics, die sich zwischen diesen Lehrbüchern verstecken.
+message_190:
+  text: Es liegt ein offenes Buch auf dem Tisch.<br><br><br>"An dieser Stelle wollen wir kurz darauf eingehen, wie die störungstheoretischen Matrixelemente zwischen Anfangs- und Endzustand der ebenen Wellen in Bound-State-Problemen verwendet werden können. Offensichtlich können wir die Störungstheorie nicht direkt anwenden, um die Energien von gebundenen Zuständen zu berechnen. Wir können jedoch zunächst ungefähre Bound-State-Energien erhalten, indem wir genau die...<br>...<br> lösen Du legst das Buch wieder hin.
+message_191:
+  text: Dieses Haus ist bis zum Rand mit Büchern zu jedem Thema gefüllt.\! In diesem hier geht es um etwas, das "Nanomaterialien" heißt.
+message_192:
+  text: Ein Bonsaibaum.\! Dieser hier hat eine Menge Persönlichkeit.
+message_193:
+  text: Dieses Haus ist bis zum Rand mit Büchern zu jedem Thema gefüllt.\! Dieses hier handelt von etwas, das sich "organische Chemie" nennt.
+message_194:
+  text: \"LIFETIME SCIENTIFIC ACHIEVEMENT AWARD\".
+message_195:
+  text: Ein kleiner Fernseher.
+message_196:
+  text: Ein Computertisch.
+message_197:
+  text: Dieses Haus ist bis zum Rand mit Büchern zu jedem Thema gefüllt.\! Dieses hier handelt von etwas, das sich "mathematische Wissenschaften" nennt.
+message_198:
+  text: Es liegt ein offenes Buch auf dem Tisch.<br><br><br>"Der Schnitt sollte regelmäßig erfolgen, um die Form deines Bonsai zu erhalten.<br><br>"Alle Bonsai wachsen unterschiedlich schnell, daher ist es notwendig, die Wachstumsrate jedes Baumes zu bewerten und den Schnitt entsprechend anzupassen.<br><br>"
+message_199:
+  text: Eine große Schüssel.
+message_210:
+  text: Eine Topfpflanze.
+message_211:
+  text: Ein Arbeitstisch.\! Jemand hat seinen Planer offen gelassen...<br>\!Die Worte \"KIM\" und \"VANCE\" wurden für letzte Woche eingetragen.
+message_212:
+  text: Eine Yogamatte.\! Yoga ist gut für dich, denn es stärkt die Verbindung zwischen deinem Körper und deinem Geist...\! Zumindest hat MOM dir das mal erzählt.
+message_213:
+  text: Es gibt einen Haufen Yoga-DVDs im Fernsehschrank.
+message_230:
+  text: Ein Haufen von Magazinen in einer Sprache, die du nicht lesen kannst.
+message_231:
+  text: Ein Haufen Bücher in einer Sprache, die du nicht lesen kannst.
+message_232:
+  text: Perfektes, gutes Obst.
+message_233:
+  text: Einige Flaschen mit Soße und Essig.
+message_234:
+  text: Ein Tischfernseher.
+message_235:
+  text: Dieses Bett hat einen alten Hut auf.
+message_236:
+  text: Ein Haufen Lehrbücher.
+message_237:
+  text: Ein Arbeitstisch.
+message_238:
+  text: Eine Vase.\! Es ist eine Menge Staub darin.
+message_239:
+  text: Du öffnest den Topf.\!<br>...\! Mmm...\! Es riecht nach Knödeln.
+message_240:
+  text: Ein Set mit Untersetzern aus Holz.
+message_241:
+  text: Ein Reiskocher.
+message_242:
+  text: Ein Buch in einer Sprache, die du nicht lesen kannst.
+message_243:
+  text: Ein Ständer für Notenblätter.
+message_244:
+  text: Ein Arbeitstisch.\! Es ist wirklich staubig.
+message_245:
+  text: A GUITAR.
+message_250:
+  text: Ein Rollstuhl.
+message_251:
+  text: Zeitungen und Zeitschriften.\! Sie scheinen sich über einen langen Zeitraum angesammelt zu haben.
+message_252:
+  text: Ein Haufen Post, adressiert "An Ma".<br>Die Absenderadressen sind aus dem ganzen Land.
+message_253:
+  text: Voller Wrapper.
+message_254:
+  text: Ein Aschenbecher.
+message_255:
+  text: Der Müll liegt überall auf dem Boden verstreut.<br>Urf...<br>! Es riecht nach verfaultem Essen hier drin.
+message_256:
+  text: Ein Haufen kleiner Figuren, die in erstaunlich gutem Zustand gehalten werden.
+message_257:
+  text: Ein Haufen Bücher.<br>Die gesamte untere Reihe ist voll mit Schuljahrbüchern.
+message_258:
+  text: Eine Reihe von Urkunden und Auszeichnungen säumen diese Wand.<br>Die älteste stammt von vor fast zwanzig Jahren.
+message_259:
+  text: Eine Waschmaschine und ein Trockner.
+message_260:
+  text: Eine Badewanne mit einer seltsamen Ausrüstung daran.
+message_261:
+  text: Ein Rollstuhl für die obere Etage.
+message_262:
+  text: Auf diesem Tisch liegt ein Liebesbrief.\!<br>Hmm...\! Für wen könnte er sein?
+message_263:
+  text: Eine schicke Teeparty für zwei.
+message_264:
+  text: Hübsche lila Blumen säumen die Fensterbank.
+message_265:
+  text: Ein Haufen Bücher, Comics und Magazine.
+message_266:
+  text: Einige Soda-Dosen.
+message_267:
+  text: Ein Tisch für eine Person.\! Hier zieht es jemand vor, alleine zu essen.
+message_268:
+  text: Einige seltsame Comics.
+message_269:
+  text: Eine Zeitung mit einem Schriftzug darauf.\!<br>"Schau, Ma! Ich bin in den Nachrichten!\"
+message_280:
+  text: Ein brandneuer Picknicktisch.
+message_281:
+  text: Ein einzelner Plastikflamingo schmückt diesen Hof.<br>Er sieht zufrieden aus.
+message_282:
+  text: Ein Windrädchen.
+message_283:
+  text: Ein Haufen Verkehrsschilder und Verkehrskegel liegen im Vorgarten herum.
+message_284:
+  text: Ein weißer Mittelklassewagen.
+message_285:
+  text: Ein alter roter Pickup.<br>Er scheint seine Lebenserwartung weit überschritten zu haben.
+message_286:
+  text: Ein schwarzer Mülleimer.
+message_287:
+  text: Ein klassischer weißer Briefkasten.
+message_288:
+  text: Ein Haufen Autoteile liegen im Vorgarten herum.
+message_300:
+  text: Ein unfertiges COMBO MEAL.\! Es sieht schimmelig aus.
+message_301:
+  text: Ein alter, verbeulter Fernseher.
+message_302:
+  text: Schmutziges Geschirr.
+message_303:
+  text: Eine Tasse gefüllt mit schmutzigem Wasser.
+message_304:
+  text: Ein Eimer gefüllt mit schmutzigem Wasser.
+message_305:
+  text: Ein Haufen Werkzeuge.
+message_306:
+  text: Ein nasser Mopp.
+message_307:
+  text: Dieses Bett ist weich.
+message_308:
+  text: Ein Haufen Bücher und Comics über Dinosaurier.
+message_309:
+  text: Ein unordentlicher Schreibtisch, gefüllt mit Sammelkarten und Süßigkeiten.
+message_310:
+  text: Dieses Badezimmer sieht nicht gerade in bester Verfassung aus...
+message_311:
+  text: Eine große Tasche voller Müll.
+message_312:
+  text: Du öffnest den Topf.\!<br>...\! \sinv[1]Mmmmm... Es riecht nach Makkaroni und Käse.
+message_320:
+  text: Dieses Bücherregal ist leer.
+message_321:
+  text: Die Anwendung dieses Wallpapers ist noch nicht abgeschlossen.
+message_330:
+  text: Ein Haufen Coupon-Bücher.<br>Jemand in dieser Familie muss ihre Schnäppchen lieben!
+message_331:
+  text: Eine Schale mit gesunden Erdbeeren.
+message_332:
+  text: \"ISS GESUND!\"\ \"NO JUNK FOOD!\" \!Kein Spaß.
+message_333:
+  text: Ein Mülleimer.<br>Bei genauerem Hinsehen kannst du sehen, dass eine perfekt gute Schachtel Donuts in den Müll geworfen wurde.
+message_334:
+  text: Ein Haufen Papiere.<br>Jemand hat eine Menge Arbeit in die Planung eines Gesundheitsprogramms für drei Personen gesteckt.
+message_335:
+  text: Ein Vogelkäfig.\! Hier ist ein hübscher blauer Vogel drin.\!<br>Er sieht gesund aus!\! ...\! Aber nervös.
+message_336:
+  text: Abgelaufene Gutscheine...
+message_337:
+  text: Diese Katze ist ganz auf den Vogelkäfig fokussiert.
+message_338:
+  text: Auf dem Tisch liegt ein offenes Buch.<br><br><br>"Er bewegte seine Hand langsam nach oben und streichelte sanft sein Gesicht...\! Ihre Augen trafen sich und wurden in einem Augenblick von der gleichen intensiven, brennenden Leidenschaft erfüllt.<br><br>...\\! Oh.\! Vielleicht solltest du das nicht lesen.
+message_339:
+  text: Eine unfertige Tüte Kartoffelchips.
+message_348:
+  text: Ein Futter- und Wassernapf.
+message_349:
+  text: Eine Toilette.\! Und mehr Gutscheine...
+message_340:
+  text: Müll liegt auf dem Boden verstreut.
+message_341:
+  text: Ein Haufen alter Magazine und Comics.
+message_342:
+  text: Eine Pappschachtel.
+message_343:
+  text: \"BUN-BUN\"
+message_344:
+  text: Ein Beistelltisch wird benutzt, um ein Loch in der Wand zu verdecken.
+message_345:
+  text: Ein kaputter Fernseher.
+message_346:
+  text: Hmm...\! Sieht so aus, als ob es noch funktioniert.
+message_347:
+  text: Ein Eimer.\! Nützlich für regnerische Tage.
+message_356:
+  text: Das Bett von AUBREY...
+message_354:
+  text: Eine leere Korkplatte.\!<br>Dort hat AUBREY die Fotos von MARI aufbewahrt...
+message_355:
+  text: Ein Foto von AUBREY und KIM.
+message_350:
+  text: Ein Flügel.
+message_351:
+  text: Eine elegante Pflanze.
+message_352:
+  text: Ein Podium.
+message_353:
+  text: Ein feierlicher Tisch.
+message_360:
+  text: Blumen.
+message_361:
+  text: Brot.
+message_362:
+  text: Eine weiße Reiherorchidee.<br>In der Sprache der Blumen symbolisiert sie den Satz...<br>"Meine Gedanken werden dir in deine Träume folgen."
+message_363:
+  text: Puzzleteile.
+message_364:
+  text: Ein Teddybär.
+message_365:
+  text: Das Symbol von \c[11]FARAWAY TOWN\c[0].<br>Es soll ein Tor zu einem besseren Leben darstellen.<br><br>Du erinnerst dich daran, dass du in der Klasse darüber gelernt hast, als du in der Grundschule warst, aber du kannst dich nicht mehr an alle Details erinnern.
+message_366:
+  text: <br>"UNSERE LIEBE MARI"<br>"DIE SONNE SCHIEN HELLER, ALS SIE HIER WAR.<br>"
+message_367:
+  text: Dieses Grab könnte einige \c[4]FLOWERS\c[0] gebrauchen.
+message_368:
+  text: Willst du \c[4]FLOWERS\c[0] an diesem Grab hinterlassen?
+message_369:
+  text: Ein Grabstein.
+message_359:
+  text: Es ist schon lange her, dass du von dieser Statue gesprungen und in diesen See gefallen bist.\! Da war wochenlang Wasser in deinem Kopf...\! und manchmal fühlt es sich an, als ob etwas davon immer noch da ist.
+message_370:
+  text: Einen Eimer und eine Schaufel.
+message_371:
+  text: Ein Yo-Yo.
+message_372:
+  text: Ein Haufen kleiner Spielzeugautos.
+message_373:
+  text: Ein blauer Pickup-Truck.
+message_374:
+  text: Eimer voller Farbe.
+message_375:
+  text: Eine Hundehütte.
+message_376:
+  text: Dünger...\! Pee-ew!
+message_390:
+  text: Ein Haufen Bücher.\!<br>Die meisten davon handeln von Gartenarbeit und Zimmerpflanzenpflege.
+message_391:
+  text: Einige Fotos von BASIL und seinen Eltern.<br>Du hast sie noch nie getroffen.
+message_392:
+  text: BASILs Kamera...! Es sieht wirklich staubig aus.
+message_393:
+  text: Eine Gießkanne.
+message_394:
+  text: Ein Rollstuhl.
+message_398:
+  text: Ein leeres Bett.
+message_396:
+  text: BASILs Oma atmet gleichmäßig.
+message_397:
+  text: Ein bequem aussehendes Bett.
+message_410:
+  text: Ein tragbares Spielgerät.
+message_411:
+  text: Ein Arcade-Automat.\! Es sieht nicht so aus, als würde es funktionieren.
+message_412:
+  text: Ein leuchtender Computerturm.\! Seiner Zeit so weit voraus!
+message_413:
+  text: Ein altes Grammophon, das Kassetten abspielen kann.\!<br>So innovativ!
+message_414:
+  text: Das neueste Walkman Modell.\! So schick!
+message_395:
+  text: Auf dem Tisch liegt ein offenes Telefonbuch.<br>Diese Person scheint auf der Suche nach irgendwelchen Gelegenheitsjobs zu sein.
+message_415:
+  text: Eine brandneue Videospielkassette.
+message_430:
+  text: Ein paar Getränke auf dem Tisch.<br>Scheint so, als würden sie hauptsächlich zur Dekoration verwendet werden.
+message_431:
+  text: Eine Kaffeemaschine.\!<br>Willst du dir eine Tasse \c[5]COFFEE\c[0] machen?
+message_432:
+  text: Du hast \c[5]COFFEE\c[0]!
+message_433:
+  text: Ein Mülleimer für recycelbare Materialien.
+message_434:
+  text: Ein Haufen Bücher und Zeitschriften.\!<br>Die meisten davon handeln von Einrichtungs- und Schönheitstipps.
+message_435:
+  text: Pappkartons.
+message_436:
+  text: Recycelbare Flaschen.
+message_440:
+  text: LUCAS' Futter- und Wassernapf.\! Da ist überall Schlabber drin!
+message_441:
+  text: Ein Plüschtier...! Es hat schon bessere Tage gesehen...
+message_442:
+  text: LUCAS' Hundebett.\! Er scheint ein wenig daraus herausgewachsen zu sein.
+message_443:
+  text: LUCAS' Spielzeugball.<br>Sieht nicht so aus, als würde er viel damit spielen.
+message_444:
+  text: Ein unvollendetes Gemälde.
+message_445:
+  text: Einige billige Farben.
+message_446:
+  text: Teile der Tapete sind abgepflückt.<br>Jemand hier muss viel Zeit in dieser Ecke verbringen...
+message_447:
+  text: Es liegen einige glänzende Sammelkarten auf dem Tisch.
+message_448:
+  text: Die Sammelkarten sind auf dem Boden verstreut.
+message_449:
+  text: Ein unvollendetes Rätsel.
+message_450:
+  text: Ein Haufen kleiner Figürchen.
+message_451:
+  text: Ein Haufen Kunstbücher.
+message_452:
+  text: A
+message_460:
+  text: Eine Wasserfontäne.\! Du kannst \c[4]COINS\c[0] unten sehen.
+message_461:
+  text: Ein ganz normaler alter Briefkasten.
+message_462:
+  text: Ein Obstwagen...! Er ist meistens voll mit Orangen.
+message_470:
+  text: Trauben.
+message_471:
+  text: Oragnes.\! Orangen aber gelb.
+message_472:
+  text: Orangen.
+message_473:
+  text: Äpfel.
+message_474:
+  text: Äpfel, aber grün.
+message_475:
+  text: Gemüse.
+message_476:
+  text: Bananen...\! Nur ein bisschen zu wenig reif.
+message_477:
+  text: Soda.
+message_478:
+  text: Fancy Soda.
+message_479:
+  text: Eis.\! Sehr kalt.
+message_480:
+  text: Gefrorenes Zeug.\! Und zwar jede Menge davon.
+message_481:
+  text: Abgepackte Lebensmittel und Gewürze.
+message_482:
+  text: Müsli und Kochzeug.
+message_483:
+  text: Rohes Fleisch.
+message_484:
+  text: Rohes Meeresfleisch.\! Es riecht fischig...
+message_485:
+  text: Gekühltes Fleisch.
+message_486:
+  text: Lebensmittelwaage.
+message_487:
+  text: Kleines Gebäck...\! Riecht süß.
+message_488:
+  text: Brot.\! Riecht röstig.
+message_489:
+  text: Kuchen.
+message_490:
+  text: Eine Geldmaschine.
+message_491:
+  text: \"SONNTAGS GESCHLOSSEN\"
+message_592:
+  text: \"FARAWAY CEMETERY\"
+message_593:
+  text: \"...ZU EINER ANDEREN APOTHEKE..."
+message_594:
+  text: \"TO MISS CANDICE'S CANDY SHOP\"
+message_500:
+  text: Alle Tische hier sind klebrig.
+message_501:
+  text: Ein Holzfass.
+message_502:
+  text: \"BITTE SETZEN SIE SICH."
+message_503:
+  text: Gekühlte Limonaden und Getränke.
+message_504:
+  text: Mmm...\! Pizza...
+message_510:
+  text: Vollgepackt mit DVDs.
+message_511:
+  text: Vollgepackt mit Comics.
+message_512:
+  text: Eine Kapselmaschine.\!<br>Versuch dein Glück?\! Es kostet nur 1,00$...\$
+message_513:
+  text: Ein Haufen alter Zeitschriften und Kinderbücher.
+message_514:
+  text: Ein Plakat für ein neues Spiel, in dem du durch verschiedene Welten reisen kannst.\! Nichts, was du nicht schon gesehen hast.
+message_515:
+  text: Die Spielkarten sind über den Tisch verstreut.
+message_516:
+  text: Ein Schachbrett.
+message_517:
+  text: Kleine Süßigkeiten.
+message_518:
+  text: Werbungen.
+message_519:
+  text: Ein Verkaufsautomat.
+message_520:
+  text: Ein Pappausschnitt von CAPT. SPACEBOY.
+message_521:
+  text: Ein altes Videospielkonsolensystem, das an einen Fernseher angeschlossen ist.
+message_522:
+  text: Ein Poster für ein neues Spiel, in dem du auf Skateboards herumlaufen und böse Monster bekämpfen kannst...\! auf Skateboards.
+message_530:
+  text: Ein Safe und ein Schlüssel.
+message_531:
+  text: Auf dem Tisch liegt ein aufgeschlagenes Buch.<br>Es sieht aus wie eine Anleitung, wie man... schnell... reich... wird?<br>..
+message_532:
+  text: Streichen.
+message_533:
+  text: Wallpaper zeigt.
+message_534:
+  text: Boden- und Wandfliesen.
+message_535:
+  text: Lampen.
+message_536:
+  text: Buntes Papier.
+message_537:
+  text: Zement.
+message_538:
+  text: Nägel, Muttern und Bolzen.
+message_539:
+  text: Alle Arten von Werkzeugen.
+message_540:
+  text: Diverses Hardware-Zeug.
+message_541:
+  text: \"SMILE! DU BIST VOR DER KAMERA!\"
+message_550:
+  text: Ein aufwändiges Blumenarrangement.<br>Es kommt ein bisschen pompös daher.
+message_551:
+  text: Gartengeräte.
+message_552:
+  text: Ein Schubkarren-Dingens.
+message_560:
+  text: Ein riesiger Lollipop! Scheint ein bisschen viel zu sein.
+message_561:
+  text: So...\! viel...\! \c[3]CANDY\c[0]...
+message_562:
+  text: Ein Pappausschnitt des Ladenbesitzers.\! Scheint ein bisschen viel zu sein.
+message_563:
+  text: \"WOW!!! SÜSSE GUMMIBÄLLE!!!"
+message_564:
+  text: \"CHEWY CHEWY TAFFIES!!\"
+message_565:
+  text: \"SENSATIONELLE SAURE GUMMIS!!!"
+message_570:
+  text: Alle Arten von Medizin.
+message_571:
+  text: \"BERATUNG (KOSTENLOS)\"
+message_572:
+  text: \"MEDIKAMENTE (GEBÜHR)\"
+message_580:
+  text: Ein Basketballkorb.
+message_581:
+  text: Ein Picknicktisch.
+message_582:
+  text: Eine Rutsche.\! Es riecht nach rostigem Metall.
+message_583:
+  text: Ein Klettergerüst.\! Riecht wie rostiges Metall.
+message_584:
+  text: Ein Schaukelset...! Es riecht nach rostigem Metall.
+message_585:
+  text: Eine Tetherball-Stange.\! Es riecht nach rostigem Metall.
+message_586:
+  text: Eine große Metallkatze.<br>Du erinnerst dich, dass sie viel größer war.
+message_587:
+  text: Ein Obstwagen...! Er ist meistens voll mit Äpfeln.
+message_588:
+  text: \"FARAWAY PARK\"<br>\!\"THE FUTURE BELONGS TO THE DREAMERS!\"
+message_600:
+  text: Eine Gruppe von Windrädchen weht frei im Wind.
+message_601:
+  text: Ein Picknickkorb.
+message_610:
+  text: Ein Stumpf.
+message_611:
+  text: Ein Windrädchen auf einem Baumstumpf.
+message_612:
+  text: AUBREYs Mülleimer.
+message_620:
+  text: Ein alter Kalender.\! Er klebt immer noch am Sommer von vor vier Jahren.
+message_621:
+  text: Ein alter Fernseher.
+message_623:
+  text: Ein Plüschtier von einem Mädchen mit rosa Haaren.
+message_624:
+  text: Ein Baseballschläger.
+message_625:
+  text: AUBREYs Kuscheltier.
+message_626:
+  text: Spielende Karten.
+message_640:
+  text: Dieses Bett ist ein wenig hart, aber insgesamt nicht schlecht Du würdest es mit 7 von 10 Punkten bewerten.
+message_641:
+  text: Dieses Bett ist ein wenig auf der weichen Seite, aber insgesamt nicht zu schlecht.\! Du würdest es mit 7 von 10 Punkten bewerten.
+message_642:
+  text: Dieses Bett ist die perfekte Balance zwischen fest und weich, aber die Laken scheinen ein wenig an Komfort zu mangeln.<br>Du würdest es mit 6 von 10 Punkten bewerten.
+message_643:
+  text: Dieses Bett scheint anständig zu sein, aber die Laken würden für deinen Geschmack zu viel Wärme in der Nacht ansammeln.<br>Du würdest es mit 6 von 10 Punkten bewerten.
+message_644:
+  text: Dieses Bett ist groß, aber die Matratze fühlt sich uneben und klumpig an.<br>Sie würde es mit 6 von 10 Punkten bewerten.
+message_645:
+  text: Dieses Bett ist so groß und luxuriös! Und die Laken fühlen sich auch noch so kühl und erfrischend an!\! Du würdest es mit 9 von 10 Punkten bewerten.
+message_646:
+  text: Dieses Bett scheint ein bisschen viel zu sein...\! Du würdest es mit 5 von 10 Punkten bewerten, nur aufgrund des Designs.
+message_647:
+  text: Dieses Bett ist schmutzig...\! Du würdest es mit 1 von 10 Punkten bewerten.
+message_648:
+  text: Das Bett ist recht groß und die Laken fühlen sich angemessen an, aber es riecht alles ein wenig muffig.<br>Du würdest es mit 5 von 10 Punkten bewerten.
+message_649:
+  text: Dieses Bett steht auf dem Boden.\!<br>Du bist dir nicht sicher, wie du das bewerten sollst.
+message_650:
+  text: Eine schöne Lampe.
+message_651:
+  text: Eine einfache Lampe.
+message_652:
+  text: Eine schicke Lampe.
+message_653:
+  text: Ein Haufen Bücher, aber nichts allzu Interessantes.
+message_654:
+  text: Eine Tischlampe.
+message_655:
+  text: Ein Arbeitstisch.
+message_656:
+  text: Ein klassisches Gemälde.
+message_657:
+  text: Dieses Bett ist unordentlich.\! Du würdest es mit 3 von 10 Punkten bewerten.
+message_658:
+  text: Du öffnest den Topf.\!<br>...\! Mmm...\! Es riecht nach Marmelade.
+message_659:
+  text: Schmutziges Geschirr.
+message_660:
+  text: Dieses Bett ist klebrig.\! Es klebt Toffee auf den Laken.<br>Du würdest es mit 2 von 10 Punkten bewerten.
+message_661:
+  text: Hier gibt es nichts.
+message_665:
+  text: Ein großes, rotes Stoppschild.
+message_666:
+  text: Eine Schiebetür zum Hinterhof.
+message_1000:
+  text: Ein Windrädchen weht frei im Wind.
+message_680:
+  faceset: MainCharacters_Faraway
+  faceindex: 13
+  text: Schau HERO, wir haben deine Lieblinge...\c[3]COOKIES\c[0] und ein großes altes \c[3]HERO SANDWICH\c[0]!\kel
+message_681:
+  faceset: MainCharacters_Faraway
+  faceindex: 37
+  text: Aww... Wie süß...\! Es ist...genau dasselbe wie letztes Jahr...\her
+message_682:
+  text: Ein paar bunte \c[4]CDs\c[0].\! Vielleicht kannst du sie in einer JUKEBOX spielen.
+message_683:
+  text: Ein unvollendeter Teller mit Frühstück.
+message_690:
+  text: \"BUSINESS HOURS... 10AM - 2AM\"<br>\"MUSS 21 JAHRE ALT ODER ÄLTER SEIN, UM NACH 22 Uhr EINZutreten\"
+message_691:
+  text: \"GESCHLOSSEN\"<br>\"GESCHÄFTSSTUNDEN... 8AM - 10PM DAILY\"
+message_692:
+  text: \"GESCHLOSSEN\"<br>\"GESCHÄFTSSTUNDEN... 11 UHR - 20 UHR TÄGLICH\"
+message_800:
+  text: \n<CONDUCTOR JASH>\"Ladies und Gentlemen...\! Wir sind an unserer Haltestelle angekommen.\! Willkommen in \c[11]ORANGE OASIS\c[0], wo der Mond heller scheint.\"
+message_801:
+  text: \n<CONDUCTOR JASH>\"Bitte verlassen Sie den Zug in geordneter Weise.\! Vielen Dank für Ihr Vertrauen und bitte fahren Sie wieder mit uns.\"\ \}\Beben[1]Bzzt...
+message_1001:
+  text: Längst vergessenes Spielzeug, vom Wetter verfärbt.
+message_1010:
+  text: Ein schnittiger, silberner Scooter.
+message_1011:
+  text: AUBREYs altes blaues Fahrrad.
+message_1012:
+  text: Ein blauer Picknickkorb.\! Nichts geht über den von MARI.
+message_1013:
+  text: Du hast eine \c[5]BANDAGE\c[0].
+message_1014:
+  text: Eine Schublade.
+message_1015:
+  text: Du hast einen ERSTE-HILFE-KASTEN.
+message_1016:
+  text: Maiglöckchen.\! Man sagt, dass sie böse Geister abwehren können und den Menschen helfen, eine bessere Zukunft zu sehen.

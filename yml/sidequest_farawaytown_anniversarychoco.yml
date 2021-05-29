@@ -1,0 +1,98 @@
+message_0:
+  text: \n<CLUMSY GUY>Oh, Mann... Jetzt stecke ich in Schwierigkeiten...
+message_1:
+  text: \n<CLUMSY GUY>Ich habe fast vergessen, dass heute der Jahrestag von mir und meiner Frau war...\! also bin ich hier und mache etwas Schadensbegrenzung in letzter Minute... Harhar...
+message_2:
+  text: \n<CLUMSY GUY>Ich weiß, dass ich in letzter Zeit viel Mist gebaut habe, also möchte ich sicherstellen, dass dieses Geschenk sie wirklich beeindruckt!
+message_3:
+  text: \n<CLUMSY GUY>Ausgenommen...\! Wie immer...\! Ich habe keine Ahnung, was ich tue...\!<br>Ich denke, ich würde an diesem Punkt jede Hilfe annehmen.
+message_4:
+  text: \n<CLUMSY GUY>Sagen Sie...\! Könntet ihr mir einen Gefallen tun und mir helfen, ein Geschenk für meine Frau von der Theke auszusuchen?\! Vielen Dank im Voraus!
+message_5:
+  text: \n<CLUMSY GUY>Yeah!\! \c[3]CHOCOLATE\c[0]!\! Sie wird \c[3]SCHOKOLADE\c[0] lieben!
+message_6:
+  text: \n<CLUMSY GUY>Yeah!\! \c[3]CARAMEL APPLES\c[0]!\! Sie wird \c[3]CARAMEL APPLES\c[0] lieben!
+message_7:
+  text: \n<CLUMSY GUY>Yeah!\! \c[3]CANDY\c[0]!\! Sie wird \c[3]CANDY\c[0] lieben!
+message_28:
+  text: \n<CLUMSY GUY>Du denkst, das wird sie beeindrucken?
+message_29:
+  text: \n<CLUMSY GUY>Danke, dass du mich wieder aus der Klemme geholt hast...<br>Das war viel zu knapp.
+message_30:
+  text: \n<CLUMSY GUY>\sinv[1]\{\{SWEET!!\sinv[0]
+message_8:
+  text: \n<CLUMSY GUY>Vielleicht nicht...\! Das ist eine wirklich wichtige Entscheidung...\! Wir müssen das wirklich gut durchdenken!
+message_9:
+  text: \n<CLUMSY GUY>Hallo, Ma'am!\!<br>Ich würde gerne etwas \c[3]CHOCOLATE\c[0] kaufen, bitte!\!<br>Es ist für meine liebe Frau!\! Heute ist unser Jahrestag!
+message_10:
+  text: \n<CLUMSY GUY>Hallo, Ma'am!\!<br>Ich würde gerne ein paar \c[3]CARAMEL APPLES\c[0] kaufen, bitte!\!<br>Es ist für meine reizende Frau!\! Heute ist unser Jahrestag!
+message_11:
+  text: \n<CLUMSY GUY>Hallo, Ma'am!\!<br>Ich möchte bitte etwas \c[3]CANDY\c[0] kaufen!\!<br>Es ist für meine liebe Frau!\! Heute ist unser Jahrestag!
+message_12:
+  text: \n<MISS CANDICE>Natürlich!\! Smiley, Smiley!\!<br>Dankeschön und bitte komm wieder!\! Smiley, Smiley!
+message_13:
+  text: \n<CLUMSY GUY>Danke für die Hilfe, Kinder!\!<br>Ich mache mich jetzt auf den Weg...\! Wünsch mir Glück!
+message_14:
+  text: \n<PONYTAIL LADY>Hey, ihr Kinder seid es wieder.\! Danke, dass du mich überzeugt hast, eine \c[3]GANZE PIZZA\c[0] für meinen Mann zu kaufen.\! Er sieht im Moment so glücklich aus...\! und es macht mich glücklich, ihn glücklich zu sehen!
+message_15:
+  text: \n<PONYTAIL LADY>Was das Geschenk angeht, das er mir gegeben hat...
+message_16:
+  text: \n<PONYTAIL LADY>Er hat es wahrscheinlich vergessen, aber wir haben uns tatsächlich in diesem <br>c[11]CANDY STORE<br>c[0] getroffen, als wir Teenager waren.
+message_17:
+  text: \n<PONYTAIL LADY>Er hat mir dann auch noch etwas \c[3]CHOCOLATE\c[0] gekauft...\! <br>Hehe...\! Er sagte, es war, weil ich das hübscheste Mädchen war, das er je gesehen hatte.
+message_18:
+  text: \n<PONYTAIL LADY>Er hat mir dann auch ein paar \c[3]CARAMEL APPLES\c[0] gekauft...\! <br>Hehe...\! Er sagte, ich sei das hübscheste Mädchen, das er je gesehen hat.
+message_19:
+  text: \n<PONYTAIL LADY>Er hat mir dann auch ein paar \c[3]CANDY\c[0] gekauft...\! <br>Hehe...\! Er sagte, es war, weil ich das hübscheste Mädchen war, das er je gesehen hatte.
+message_20:
+  text: \n<PONYTAIL LADY>Es war eine so einfache Geste, aber seine Aufrichtigkeit ist das, was mich wirklich zu ihm hingezogen hat.
+message_21:
+  text: \n<PONYTAIL LADY> Er war schon immer ein wenig distanziert, aber ich kann sagen, dass er sich wirklich um mich sorgt...\n! Ich denke, deshalb ist es in Ordnung, wenn wir manchmal nicht einer Meinung sind.\! In der Ehe geht es nur um Kompromisse!
+message_22:
+  text: \n<PONYTAIL LADY>Allerdings, danke, dass du mir heute geholfen hast.\!<br>Hier ist ein Geschenk für dich.
+message_23:
+  text: Du hast ein \c[3]PIZZA-SCHNITTCHEN\c[0]!
+message_25:
+  text: Sollte CLUMSY GUY \c[3]CHOCOLATE\c[0] kaufen?
+message_26:
+  text: Sollte CLUMSY GUY \c[3]CANDY\c[0] kaufen?
+message_27:
+  text: Sollte CLUMSY GUY \c[3]CARAMEL APPLES\c[0] kaufen?
+message_60:
+  text: \n<MISS CANDICE>Die Wahl zwischen \c[3]CANDY\c[0], \c[3]CARAMEL APPLES\c[0] und \c[3]CHOCOLATE\c[0]?\! Das ist eine schwere Entscheidung!\! Smiley, Smiley!
+message_300:
+  text: Du hast \c[3]CHOCOLATE\c[0] gewählt.
+message_301:
+  text: Du hast \c[3]CANDY\c[0] gewählt.
+message_302:
+  text: Du hast \c[3]CARAMEL APPLES\c[0] gewählt.
+message_40:
+  text: \n<CLUMSY GUY>Meine Liebe...\! Heute ist unser Jahrestag, also habe ich dir...\!<br>Ein bisschen \c[3]SCHOKOLADE\c[0]!
+message_41:
+  text: \n<CLUMSY GUY>Meine Liebe...\! Heute ist unser Jahrestag, also habe ich dir...\!<br>Ein paar \c[3]CARAMEL APPLES\c[0]!
+message_42:
+  text: \n<CLUMSY GUY>Meine Liebe...\! Heute ist unser Jahrestag, also habe ich dir...\!<br>Ein paar \c[3]CANDY\c[0]!
+message_43:
+  text: \n<PONYTAIL LADY>Oh! Du hast tatsächlich daran gedacht!\!<br>Danke, meine Liebe...\! Das ist so rücksichtsvoll von dir...
+message_44:
+  text: \n<CLUMSY GUY>Es...\! Es ist!?! Haha!\! Ich meine...\! Ist es!\! Ich bin froh, dass du so denkst!
+message_45:
+  text: \n<PONYTAIL LADY>Achtung, ich habe auch ein Geschenk für dich...\!<br>Es ist eine ganze Pizza von \c[11]GINO'S PIZZA\c[0]!
+message_46:
+  text: \n<CLUMSY GUY>EINE \c[3]GANZE PIZZA\c[0]!!! Meine Liebe! Das hättest du nicht tun sollen!\!<br>Das ist das beste Geschenk, das ich je in meinem Leben bekommen habe!
+message_47:
+  text: \n<PONYTAIL LADY>Ich...\! Ich dachte, du würdest es mögen...\!<br>Ich war in letzter Zeit hart zu dir...
+message_48:
+  text: \n<PONYTAIL LADY>So... Ich dachte, dein Lieblingsessen könnte dich aufheitern!
+message_49:
+  text: \n<CLUMSY GUY>Nein... Es muss dir nicht leid tun, meine Liebe!<br>Ich weiß, dass du nur das Beste für mich willst!
+message_50:
+  text: \n<CLUMSY GUY>Es tut mir leid, dass ich so schwierig bin...
+message_51:
+  text: \n<PONYTAIL LADY>Sei nicht albern, Schatz! Ich liebe dich genau so, wie du bist!<br>Lass uns heute und morgen Pizza essen!<br>Wie klingt das?
+message_52:
+  text: \n<CLUMSY GUY>Oh, meine Liebe! Meinst du das wirklich?\!<br>\sinv[1]Du bist gerade so schön, dass ich dich küssen könnte!\sinv[0]
+message_53:
+  text: \n<PONYTAIL LADY>\sinv[1]Oh je! Du bringst mich zum Erröten...\sinv[0]
+message_54:
+  text: \n<PONYTAIL GIRL>Ugh...\! Das ist eklig.\!<br>Ich werde einfach...\! zurück in mein Zimmer gehen...

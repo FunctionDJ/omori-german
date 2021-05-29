@@ -1,0 +1,677 @@
+message_0:
+  text: \n<SHAMBOO>JAWSUM und ich...\! Wir haben viele Dinge zu besprechen...\! Ja...\! Viele, viele Dinge...
+message_1:
+  text: \n<NEREENE>Tja! Es ist schon eine Weile her, dass ich euch vier gesehen habe.\! Ihr führt wieder nichts Gutes im Schilde, nehme ich an?
+message_2:
+  text: \n<NEREENE>Hast du deine Lektion gelernt, nachdem du dich aus den Tunneln herausgewagt hast?\! Das nächste Mal wirst du nicht so viel Glück haben!
+message_3:
+  text: \n<GUAVA>Es macht mir überhaupt nichts aus zu warten!<br>Warten ist einfach ein natürlicher Teil des Lebens.
+message_4:
+  text: \n<GUAVA>Ich habe so lange auf den Zug gewartet...\! Ich kann mich nicht einmal mehr daran erinnern, warum ich hierher kommen wollte!
+message_5:
+  text: \n<MIMI>Wow... Das ist ein großer Apfel!
+message_6:
+  text: \n<MIRA>Hi! Ich bin MIRA!\! Ich bin neu hier!
+message_7:
+  text: \n<MIRA>Hallo, Boss!\! Für heute ist alles erledigt, du kannst dich also entspannen!
+message_8:
+  text: \n<SILKER>Tagein, tagaus. Es ist alles das Gleiche.\!<br>Was auch immer...\! Es ist ein Job, schätze ich.\! Zumindest... wäre es das, wenn ich jemals bezahlt werden würde.
+message_9:
+  text: \n<JUSSIE>Bro sagte mir, ich solle hier warten, aber ich weiß nicht, ob er bald zurückkommt.\! Kennst du jemanden namens MR. JAWSUM?<br>Bro sagt, er hat etwas mit ihm zu tun...
+message_10:
+  text: \n<HAYES>Ah...\! Es ist schön, endlich mal eine Pause zu machen.
+message_11:
+  text: \n<HAYES>Sind Sie auch aus der Stadt? \! Ihr seht aus wie ein paar Stadtkinder.\! Das Essen ist gut, aber die Abwässer sind furchtbar, habe ich recht?
+message_12:
+  text: \n<TURMOIL>Bah... Muss meine Rauchstäbchen wieder zu Hause vergessen haben...
+message_13:
+  text: \n<RUSSELL>Humma humma...\! Wenn ich das richtig gezählt habe...\! dann...\!<br>Humma humma...
+message_14:
+  text: \n<ALBACORE>Sind Sie hier, weil Sie die Maut nicht bezahlen wollten?\! Ihr seid die dritte Gruppe, die ich diese Woche gesehen habe!
+message_15:
+  text: \n<ALBACORE>Der ganze Weg ist etwas unbequem, aber wenigstens kannst du diese süßen, süßen CLAMS festhalten.\! Du wirst allerdings die letzte Maut bezahlen wollen.\! Vertrau mir!
+message_16:
+  text: \n<JAMES>Ich liebe es zu sehen, wie mein hart verdientes Geld in diese Maschine geht und nie wieder herauskommt.\! Einfach nur zuzusehen...\! wie es alles...\! verschwindet...
+message_17:
+  text: \n<HONEYDEW>Der Chef hat mich für ein wichtiges Meeting angerufen, aber er ist gerade nicht verfügbar...\! Ich weiß nicht...\! Soll ich hier warten oder weiterarbeiten!?
+message_18:
+  text: \n<CRUSHER BLAST>Wurde geschickt, um Handarbeit zu machen.\! Aber das Management ist schlecht.\!<br>Vorhersage des Untergangs des Imperiums.
+message_19:
+  text: \n<CRUSHER BLAST>Ha. Ha.\! Das Management hat gewechselt.\! Genau wie vorhergesagt.
+message_20:
+  text: \n<CIPHER>Die Sonne schien heller...\|als sie hier war...
+message_21:
+  text: \n<GASCON>Aww Mist, ich habe meine Kamera zu Hause vergessen.\! Was ist schon ein guter Campingausflug, wenn ich keine Fotos machen kann!?
+message_22:
+  text: \n<TEACUP SPIRIT>\sinv[1]Oohoooooo... Ich habe eine Frage an dichuuuuuu!\sinv[0]\!<br>Denkst du, dass Geister als Gas betrachtet werden?
+message_23:
+  text: \n<CANOPY>Ich erspähe mit meinem kleinen Auge...\!<br>Ein Regenbogen-Schirm-Ding mit vielen Beinen!
+message_24:
+  text: \n<KIND AUF STILTS>Ich stecke fest und komme nicht runter.
+message_25:
+  text: \n<KIND AUF STILLE> Mir geht es gut so.
+message_26:
+  text: \n<BARBRACOA>\sinv[1]Oh! Meine süßen Söhne sind alle so fleißig bei der Arbeit...\!\sinv[0]<br>Du machst ihnen besser keinen Ärger...\! oder sonst...
+message_27:
+  text: \n<BARBRACOA>Ich werde dir bis morgen eine Ohrfeige verpassen!
+message_28:
+  text: \n<DECAY>Die Zeit wird immer vorwärts gehen.\! Irgendwann wird die Wahrheit klar werden...\! Du weißt das gut...\! nicht wahr, DREAMER?
+message_29:
+  text: \n<DOWON>DOWON dachte, dass DOWON Kunst versteht...\! Aber nachdem er hierher gekommen ist, beginnt DOWON an sich selbst zu zweifeln.
+message_30:
+  text: \n<PARSNIP>Ich bin das achte Experiment von MARINA...\! wahrscheinlich.\! Sie hat mich aus Moos und Bohnensprossen gemacht, als sie noch ein Teenager war.
+message_31:
+  text: \n<PARSNIP>\sinv[1]Nyeeeeeeeehhh...
+message_32:
+  text: \n<PARSNIP>\sinv[1]Nyaaaaahhhhhh...
+message_33:
+  text: \n<RENBI>Haha... Mann, das ist ein guter Witz...\! ...\!<br>Was für ein guter...\!verdammter...\!Witz...
+message_34:
+  text: \n<BURRO>Ich bin MARINAs fünftes Experiment.\! Sie hat mich aus Pappe und \c[3]CANDY\c[0] gemacht, als sie noch ein Kind war.
+message_35:
+  text: \n<BURRO>\com[2]Ooh!\! Meine Bonbons!
+message_36:
+  text: \n<BURRO>Es fühlt sich gut an, anerkannt zu werden.
+message_37:
+  text: \n<PEEVE>Ich bin MARINAs sechstes Experiment.\! Sie hat mich aus Luftballons und Magie gemacht, als sie noch ein Teenager war.
+message_40:
+  text: \n<GALLIPOT>Hallo, junge Reisende!\! Bitte probiere etwas von meinen Erfrischungen.\!<br>Ich habe alles selbst gemacht!
+message_42:
+  text: \n<GALLIPOT>Möchtest du etwas frischen \c[3]ORANGENSAFT\c[0] für 150 CLAMS?\$
+message_43:
+  text: \n<GALLIPOT>Möchtest du etwas frischen \c[3]PEACH SODA\c[0] für 130 CLAMS?\$
+message_44:
+  text: \n<GALLIPOT>Möchten Sie etwas frische \c[3]MILCH\c[0] für 150 CLAMS?\$
+message_45:
+  text: \n<GALLIPOT>Meine Spezialität!\!<br>Bleibt erfrischt, junge Reisende!
+message_46:
+  text: \n<GALLIPOT>Es tut mir leid, junge Reisende.\!<br>Ich fürchte, du hast nicht genug CLAMS...
+message_47:
+  text: \n<SPOT>Ist die Luft hier nicht schön?\! Du kannst die Sauberkeit riechen!
+message_48:
+  text: \n<SPOT>Ist die Luft hier nicht süß?\! Du kannst den Zucker riechen!
+message_49:
+  text: \n<GONZO>Dieser Highway ist länger, als ich dachte...<br>Aber jetzt wird es auch ein Spaziergang zurück zum Start.<br>...<br> Ich kann genauso gut weitergehen.
+message_50:
+  text: \n<JOGEN>Ich bin der Stein-Papier-Schere Champion!\! Wenn du mich beim Stein-Papier-Scheren besiegst, gebe ich dir meine gesamten Ersparnisse!
+message_51:
+  text: Was wirst du auswählen?
+message_52:
+  text: ROCK
+message_352:
+  text: PAPIER
+message_53:
+  text: SCHERE
+message_54:
+  text: NOTHING
+message_55:
+  text: \n<JOGEN>\{\com[2]\sinv[1]REAAADDDDYYYY...\| AAAANNNNND...
+message_350:
+  text: \n<JOGEN>\com[2]Ha! Ich habe gewonnen!\! Der Champion regiert die Welt!
+message_351:
+  text: \n<JOGEN>Was?\! Ein Unentschieden!!! Das nächste Mal werde ich als Sieger hervorgehen!
+message_57:
+  text: \n<JOGEN>...\! Huh...\! Das ist also eine Niederlage.\! Du hast mich gedemütigt, Herausforderer.
+message_353:
+  text: \n<JOGEN>Wie versprochen, darfst du meine gesamten Ersparnisse mitnehmen.
+message_354:
+  text: Du hast 3 CLAMS.
+message_56:
+  text: \n<JOGEN>Bitte gib nicht alles an einem Ort aus...
+message_58:
+  text: \n<JOGEN>Meine gesamten Ersparnisse sind weg...\! Ich schätze, es geht zurück ans Reißbrett...\! Ich werde wieder Champion werden!
+message_59:
+  text: \n<JOGEN>Aus einem Kampf aussteigen, was? Das ist nicht sehr heldenhaft von dir!
+message_60:
+  text: \n<DREW>Hallo, ich bin neu hier!\! Die Arbeit ist was auch immer, aber ich liebe das Personal.\! SILKER reißt immer Witze!\! Er ist so ein lustiger Typ.
+message_62:
+  text: \n<MORGAN>Diese RECYCLING-MASCHINE hat mir gerade einen coolen Preis für das Recyceln von Dosen gegeben!\! Recycling zahlt sich aus!
+message_68:
+  text: \n<URCHIN>Bitte meide meine Spikes um jeden Preis. Ich danke dir.
+message_61:
+  text: \n<SULLY>Ich bin MARINAs siebtes Experiment...\! obwohl die Zahlen an dieser Stelle matschig werden.\! Sie hat mich aus Vögeln gemacht, als sie noch ein Teenager war.
+message_103:
+  text: \n<SULLY>Das macht mich rasend vor Wut.
+message_63:
+  text: \n<SULLY>Dies trägt zu meinem reichlichen Glück bei.
+message_65:
+  text: \n<YELLOW>Aww... Nüsse!\! Ich bin nur einen DINO DOLLAR von einem SILBEREN LÖFFEL entfernt!
+message_81:
+  text: \n<CHOW>Ich habe diesen Zug nur einmal fahren sehen, und das war vor Jahren...\! Wahrscheinlich fährt er jetzt ganz woanders hin.
+message_86:
+  text: \n<CHOW>Ich war noch nie an dieser Haltestelle.\! Ich kann es kaum erwarten, \c[11]ORANGE OASIS\c[0] zu erkunden... Land der Möglichkeiten!
+message_88:
+  text: \n<SYDNEY>Ein Hamster mit einer Gürteltasche ist im Grunde ein kleines Känguru.
+message_90:
+  text: \n<TREBLE>Ah...\! Die Aussicht hier ist spektakulär.
+message_92:
+  text: \n<ANDY>Wenn ich zu lange warte, werde ich kribbelig!\! \com[2]Ich muss los! Ich muss mich bewegen!
+message_94:
+  text: \n<FRED>Ich bin auf dem Weg, um einige wichtige Geschäfte zu erledigen.\! Und danach werde ich noch wichtigere Geschäfte abwickeln.
+message_76:
+  text: \n<FRED>Ich warte hier, um einige wichtige Geschäfte abzuwickeln.\! Und danach werde ich dann noch wichtigere Geschäfte abwickeln.
+message_78:
+  text: \n<WHIZZY WHITNEY>Ja! Ich bin ziemlich schnell, aber nicht so schnell wie ein Zug!\!<br>Es ist wichtig, dass du deine Grenzen kennst!
+message_64:
+  text: \n<BATZY>Meine Freunde haben früher in diesen Tunneln gelebt, aber sie sind alle gegangen, um ihren vermissten Anführer zu suchen...\! Glaubst du, dass sie jemals wieder hierher zurückkommen werden?
+message_66:
+  text: \n<BATZY>Meine Freunde kehren langsam zurück!\! Naja...\! Zumindest die meisten von ihnen.
+message_70:
+  text: \n<RICOLI RAVIOLI>Willkommen bei \c[11]ORANGE OASIS\c[0], wo der Mond heller scheint!\! Ich bin RICOLI RAVIOLI, ein Lebensmittel-Hobbyist.
+message_72:
+  text: \n<GLUTEN>Diese Bilder...\! Sie haben etwas in mir geweckt.\! Ich hoffe, es ist nicht von Dauer.
+message_74:
+  text: \n<ARTICHOKE>Die Schätze, die hier ausgestellt sind, kommen aus der ganzen Welt!<br>Ich möchte eines Tages um die Welt reisen...
+message_83:
+  text: \n<FUCHSIA>Ich bin MARINAs erstes Experiment.\! Sie hat mich aus Sand und Früchten gemacht, als sie noch ein Baby war.
+message_67:
+  text: \n<FUCHSIA>Hehe...\! Das kitzelt...
+message_69:
+  text: FUCHSIA hat ein Rad geschlagen.
+message_71:
+  text: \n<GRUNTY>Das letzte Mal, als ich \c[11]DINO'S DIG\c[0] ausprobiert habe, habe ich eine Menge erstaunlicher Schätze gefunden!
+message_73:
+  text: \n<GRUNTY>Aber dieses Mal habe ich es bei \c[11]DINO'S DIG\c[0] versucht, ich habe gerade ein paar \c[3]GRANOLA BARS\c[0] gefunden...
+message_355:
+  text: \n<FRANK>Wenn sich diese Schlange nicht bald bewegt...\!<br>Der Typ neben mir wird es erwischen.
+message_356:
+  text: \n<KRISPY>Nächstes Mal, wenn ich mich entscheide, irgendwo zufällig Urlaub zu machen, erinnere mich daran, zuerst die Bewertungen zu überprüfen.
+message_75:
+  text: \n<TUNA CAN>Ich habe keinen Thunfisch mehr!
+message_77:
+  text: \n<ZARF>So viele Menschen heute...\! Ihr seid immer so große Fans der Raumfahrt.
+message_105:
+  text: \n<JORGE>Hey! Seid ihr Kinder hier im Urlaub oder gehört ihr zum Personal?\! Bei all den Bauarbeiten können sie wenigstens in ein paar Uniformen investieren...
+message_79:
+  text: \n<BASKET CASE>Heute habe ich versehentlich eine Mitarbeiterin angerempelt...\! also hat sie mich einen Trottel genannt und mir einen Kopfstoß quer durch den Raum verpasst.
+message_80:
+  text: \n<BASKET CASE>Wer hätte gedacht, dass Headbutts so weh tun können!? Ich jedenfalls nicht.
+message_82:
+  text: \n<BASKET CASE>Auf dem Weg hierher bin ich versehentlich auf den Fuß einer SPROUT MOLE getreten...\! also hat sie mich einen elenden Peon genannt und mich dumm geohrfeigt.
+message_84:
+  text: \n<BASKET CASE>Sigh...\! Ich muss ihren Fuß wirklich schlimm verletzt haben...
+message_85:
+  text: \n<OWANGEE>Dieser Ort ist schlecht für meine Karies...<br>aber wer braucht schon Zähne!?
+message_87:
+  text: \n<APPLEFLY>Ich bin MARINAs viertes Experiment.\! Sie hat mich aus schmutzigen Äpfeln gemacht, als sie noch ein Kind war.
+message_89:
+  text: \n<APPLEFLY>Oh?
+message_101:
+  text: \n<APPLEFLY>Okay, genug!
+message_91:
+  text: \n<APPLEFLY>\sinv[1]Bzzzzzz...\|Ooo...\|Ja...\|Bzzzzzzzzzzzzzz...\!<br>Mmmmmmmmmmmm...\! Direkt hinter dem Vorbau...
+message_93:
+  text: \n<SNUG>Es sind Zeiten wie diese, die mich daran erinnern, dass unser Universum wunderschön ist!
+message_95:
+  text: \n<WILY>\c[11]ORANGE OASIS\c[0] ist meist voll von älteren Leuten, die schon seit wer-weiß-wie-lang dabei sind.
+message_96:
+  text: \n<WILY>Aber ich habe meine Hoffnungen...\! Eines Tages könnte dieser Ort eine blühende Stadt sein!\! Es gibt viel Land für die Entwicklung!
+message_97:
+  text: \n<CINDER>Mann... Ich fühle mich krank.\!<br>Ist dieser ganze Ort am Spinnen oder bin das nur ich?
+message_357:
+  text: \n<DANGO>Ich kann es nicht ertragen, mit diesem Bienen-Typen zu reden. \! Er treibt mich in den Wahnsinn!
+message_98:
+  text: \n<ALIANA>Ist der Himmel nicht wunderschön?\! Es ist schön zu wissen, dass es so viele andere da draußen gibt, die die gleiche Ansicht teilen.
+message_99:
+  text: \n<GHIAN>Ich bin k.o. nach dieser anstrengenden Wanderung!\! Ich weiß nur, dass ich morgen meine Beine nicht mehr spüren werde.
+message_100:
+  text: \n<CHELLE>Shoot...\! Ich weiß, dass ich meinen \c[3]DONUT\c[0] irgendwo hier vergessen habe...
+message_102:
+  text: \n<GOOSEY>Diese lange Schlange ist die perfekte Ausrede für mich, um meinen Schönheitsschlaf nachzuholen!
+message_104:
+  text: \n<TIFFANY DARLING>\sinv[2]Nyoh hoh hoh!\sinv[0]\! Ein weiterer Sieg für mich!\!<br>Heute ist mein Glückstag!
+message_106:
+  text: \n<TIFFANY DARLING>\sinv[2]Nimm diese CLAMS! Ich brauche sie nicht!\!<br>Ich bin reich! Ich bin reich! Und du bist es auch!
+message_107:
+  text: Du hast 100 CLAMS!
+message_108:
+  text: Du hast 500 CLAMS!
+message_109:
+  text: Du hast 1000 CLAMS!
+message_110:
+  text: Du hast 2000 CLAMS!
+message_111:
+  text: \n<TIFFANY DARLING>\sinv[2]Nyoh hoh hoh!\sinv[0]\! Diese Vorstellung ist einfach magnifique!
+message_112:
+  text: \n<JERKO>Kannst du dem Typen vor mir sagen, dass er sich beeilen soll?<br>Einige von uns haben ein Leben, weißt du?
+message_113:
+  text: <br>Was hat es mit diesem großen Boss auf sich, der allen sagt, dass sie warten sollen?<br>Wer denkt er, dass er ist!? Einige von uns haben ein Leben, weißt du?
+message_114:
+  text: \n<MOTT>In letzter Zeit habe ich hier ein paar GATOR GUYS gesehen...<br>Das bedeutet, dass der große Boss wieder seine Geschäfte macht...<br><br>Huh?\! Du hast noch nichts vom großen Boss gehört?\! Nun, das wirst du bald.
+message_115:
+  text: \n<MOTT>MR. JAWSUM...\! Das ist ein Name, der die Aufmerksamkeit aller hier auf sich ziehen wird.
+message_358:
+  text: \n<MOTT>Ich habe gehört, dass er der Typ ist, der sich nie die Hände schmutzig machen will...\! und das kann ich ihm nicht verübeln!\! Ich würde dasselbe tun, wenn ich alles, was ich will, mit einem Fingerschnippen bekommen könnte!
+message_370:
+  text: \n<MIGGIE>Ich bin den ganzen Weg von der Stadt hierher gereist für das hier?\! Ich brauche einen Urlaub von meinem Urlaub...
+message_116:
+  text: \n<TAPIOCA>Das Wasser hier ist ein bisschen wärmer als in der Höhle oben in den Bergen.
+message_117:
+  text: \n<BROOKE>Ich scheine mich immer in prekären Situationen zu befinden.\!<br>Ich frage mich, ob das zählt...
+message_118:
+  text: \n<BROOKE>Ich scheine mich immer in prekären Situationen zu befinden.\!<br>Ich frage mich, ob das zählt...
+message_119:
+  text: \n<MEGAPHONE> Früher fuhren viele Züge durch diesen Wald, aber jetzt gibt es nur noch einen.
+message_120:
+  text: \n<CAT PYRAMID>Was für eine fantastische Show!\! Dieser Besuch war die Reise von \c[11]ORANGE OASIS\c[0] wert!
+message_121:
+  text: \n<GASPER>\sinv[1]La... Lala... la... lala... la!\sinv[1]
+message_122:
+  text: \n<GASPER>Mein Gesang lässt die Zeit für mich schneller vergehen...\! und für alle anderen langsamer!
+message_123:
+  text: \n<COWBLIN>Mom sagte mir, ich solle eine Jacke anziehen, weil sie dachte, es würde kalt werden...
+message_124:
+  text: \n<COWBLIN>Seufz...\! Es ist gerade so heiß...\! aber ich will meine Jacke nicht ausziehen...\! weil ich sie dann halten müsste.
+message_125:
+  text: \n<COWBLIN>Seufz...\! Das Wetter ist noch heißer als vorher...
+message_126:
+  text: \n<SQUARE>\com[2]Chomp! Mampfen! Mampfen!
+message_128:
+  text: \n<PELLET>Das Wasser dieses Teiches ist so klar!\! Es ist, als ob ich eine ganz andere Welt auf der anderen Seite sehen kann!
+message_130:
+  text: \n<PELLET>Dieses Teichwasser wird irgendwie trüb...\! Was ist passiert?\! Es war vorher so klar...
+message_134:
+  text: \n<LOAM>\sinv[1]LOAMY...\! LOAM LOAM...\! LOAMY LOAM...\! ist lehmig.
+message_127:
+  text: \n<THIS GUY>Ich bin das zweite Experiment von MARINA...\! Sie hat mich aus Ton und Steinen gemacht, als sie noch ein Baby war.
+message_129:
+  text: \n<THIS GUY>Hmm...\! Stupsen ist cool...\! aber ich mag High-Fives lieber.
+message_139:
+  text: \n<THIS GUY>Hmm...\! Petting ist cool...\! aber ich mag Händeschütteln lieber.
+message_141:
+  text: \n<RED SMILE>
+message_131:
+  text: \n<PORINU>Ich bin MARINAs drittes Experiment.\! Sie hat mich aus einem Gummihandschuh gemacht, als sie noch ein Kleinkind war.
+message_132:
+  text: \n<PORINU>\com[2]Was!?! Wer ist da!?
+message_133:
+  text: \n<PORINU>\com[2]Wer hat das getan!? Zeigt euch!
+message_137:
+  text: \n<SERENO>Legenden sprechen von einem Zwillingspaar, das die \c[11]ORANGE OASIS\c[0] unter ihrem wachsamen Auge bewacht.\! Es wird gesagt, dass sie die Macht haben, die Toten zu erwecken...\! unter anderem...
+message_135:
+  text: \n<SERENO>Ich weiß nicht, ob an diesen Legenden viel Wahres dran ist, aber wäre das nicht interessant?
+message_136:
+  text: \n<BRELLE>Wow... Ich bin mehr als bewegt von diesem Werk...\! Die unverschämte Zurschaustellung des immensen Egos dieses Künstlers ist wirklich atemberaubend.
+message_138:
+  text: \n<MOONCAKE>BLOOKIE lässt sich leicht unterkriegen, aber manchmal braucht er einfach jemanden, der ihm zuhört...\! und dieser jemand bin ich!
+message_140:
+  text: \n<BLOOKIE>Jeder hier ist so anders und interessant...\! Ich frage mich, was mich anders und interessant macht...
+message_142:
+  text: \n<WHATEVER>Ich brauche einen fetten Batzen Geld.
+message_143:
+  text: \n<WHATEVER>Ich brauche einen fetten Batzen Geld.
+message_144:
+  text: \n<BABO>BABO mag kalte Zeit...\! Mach BABO dankbar für die warme Zeit...
+message_145:
+  text: \n<HOFFY>Muss eine Pause von den Spielautomaten machen...\!<br>Meine Arme fangen an, sich richtig schlimm zu verkrampfen.
+message_146:
+  text: \n<ANDREW>Ich strebe heute nach den großen Gewinnen!\!<br>Awww, ja! Ich denke positiv!
+message_147:
+  text: \n<QUASPY>Auf unserer Wanderung vorhin ist mir ein in eine Klippe eingedrücktes Gesicht aufgefallen.\! Ich frage mich, was es damit auf sich hat?
+message_149:
+  text: \n<CITRUS>Züge sind nicht wirklich mein Ding.\! Ich bin nur wegen der Musik hier!
+message_150:
+  text: \n<LULU>Ich glaube, ich habe den falschen Bus gebucht...\! Das ist nicht das, was dieser Ort auf der Anzeige aussah...
+message_152:
+  text: \n<AMELIA>Gah... Wie bin ich nur in diesen Schlamassel geraten?\!<br>Es ist einfach eine Sache nach der anderen diese Woche...
+message_153:
+  text: \n<AMELIA>Wow, das ist ein ganz schöner Showroom...\! Trotzdem ist es seltsam.\! Ich kann mich nicht erinnern, dass dieses Schloss schon einmal hier war.\! Vielleicht bilde ich mir das auch nur ein...
+message_154:
+  text: \n<SOY SAUCE>Aww, Nüsse! Ich habe wieder verloren!\! Ich weiß einfach, dass diese Maschine manipuliert ist!<br> Ich würde meinen linken Fuß darauf verwetten!
+message_155:
+  text: \n<SOY SAUCE>In Galerien geht es darum, coole Sachen zu zeigen!\! Sie sollten mich zeigen!\! Ich bin auch cooles Zeug!
+message_156:
+  text: \n<TATER>Wird bald aufstehen.\! Nur... gib mir ein bisschen.
+message_157:
+  text: \n<SIMPLE ROACH>\com[2]Ah! Ich bin entdeckt worden!\! Bitte sag niemandem, dass ich hier bin!\!<br>Ich mag es einfach, in der Speisekammer zu wühlen...\! Ich meine... wer tut das nicht?
+message_158:
+  text: \n<SPAGHETTI>Der Typ neben mir führt etwas im Schilde... aber ich kann nicht den Finger darauf legen...
+message_160:
+  text: \n<WOLLIE>Einige gewinnt man, andere verliert man...\!<br>Zumindest würde man das erwarten.\!<br>Ich aber nicht.\! Ich verliere einfach...\! die ganze Zeit.
+message_159:
+  text: \n<BAFINO>Wow! Für das VIP-Erlebnis hier zu bezahlen war die beste Entscheidung, die ich je getroffen habe!
+message_161:
+  text: \n<BAFINO>Ich bin gerade von einem exklusiven All-you-can-spend Buffet zurückgekommen und ich habe sogar gehört, dass es heute Abend eine \c[3]TOFU\c[0] Spendenaktion geben wird!\! Du kannst mit mir rechnen!
+message_162:
+  text: \n<SCUBA>Oh...ich bin schon wieder mit meinen Zahlungen im Verzug...\! MR. JAWSUM wird meinen Kopf auf einem Stock haben!\! Wehe, wenn ich... Wehe mir...
+message_163:
+  text: \n<DARVILLE>Oh, Junge... Jetzt bin ich in Schwierigkeiten...\!<br>Seufz...\! Warum muss es immer ich sein!?
+message_164:
+  text: \n<DARVILLE>...\! Das geht dich nichts an, Junge.\! Sei vorsichtig, mit wem du dich abgibst.\! Ich spreche hier aus Erfahrung!
+message_165:
+  text: \n<DARVILLE>Aww, meine Güte...\! Ich muss es sein, der JAWSUM sagen muss, dass ein anderer Investor aussteigt!\! Es ist nicht meine Schuld, in Ordnung!?! ...\! Aber es gibt keine Möglichkeit, dass ich ihm das sagen werde.
+message_359:
+  text: \n<OBAAA>\sinv[1]Obbaaaaaaaaaaaaaaaa!\sinv[0]
+message_166:
+  text: \n<DIVING MAN>Ich habe erwartet, etwas Meeresleben zu sehen...<br>aber das hier habe ich nicht erwartet...
+message_167:
+  text: \n<MAESTRO>Meine guten Männer.\! Ich bin auf der Suche nach etwas Kunst.\!<br>Fürchte dich nicht...\! denn ich werde wissen, wann ich sie gefunden habe!
+message_168:
+  text: \n<MAESTRO>Also, ich habe die Kunst an einem höchst unerwarteten Ort gefunden!\!<br>Die Madam wird sicherlich zufrieden sein.
+message_169:
+  text: \n<MAESTRO>Halt!\! Ist das nicht das schönste Kunstwerk, das du je gesehen hast?
+message_170:
+  text: \n<MR. OUTBACK>Wie geht's dir, Buckaroo?\! Mein Name ist MR. OUTBACK...\! und ich war in meiner Jugend fleißiger als eine Motte im Fäustling und reiste durch die Welt!
+message_171:
+  text: \n<MR. OUTBACK>Heutzutage... Bin ich eher zurückhaltend.\! Ich stehe auf einer Klippe und gebe denen Ratschläge, die bereit sind zu fragen.
+message_172:
+  text: \n<MR. OUTBACK>Die Leute, die schon lange hier sind...\! Sie wissen mehr, als sie zugeben...
+message_173:
+  text: \n<MR. OUTBACK> Wir haben ein drittes Auge, könnte man sagen...\! einen sechsten Sinn...\! wenn du verstehst, was ich meine.
+message_174:
+  text: \n<MR. OUTBACK>Deine drei lila-haarigen Freunde sind voller Liebe und Geist...\! Aber du, dunkelhaariges Kindchen.\! Deine Aura ist ganz katzbuckelig!
+message_175:
+  text: \n<MR. OUTBACK>Es ist alles dunkel und verdreht...\! und es wird nicht so schnell ruhiger werden.\! Du hast eine echte Reise vor dir.
+message_176:
+  text: \n<MR. OUTBACK>Nun, das soll dich nicht entmutigen, Junge.\! Jeder hat seine eigene Reise...\! und ich wäre verpflichtet, euch auf eurer zu helfen!
+message_177:
+  text: \n<MR. OUTBACK>Ich kann eine Handvoll Fragen beantworten...\!<br>also frag los, wenn du das möchtest!
+message_178:
+  text: \n<MR. OUTBACK>Ihr wollt nichts von einem alten Knacker wie mir wissen?\! Was auch immer dich antreibt...\! Aber ich werde hier sein, um dich anzufeuern!
+message_179:
+  text: WO BIN ICH?
+message_180:
+  text: WO IST BASILIKUM?
+message_181:
+  text: WIE ALT BIST DU?
+message_182:
+  text: NICHTS VERLANGEN
+message_183:
+  text: \n<MR. OUTBACK>\sinv[1]Hoo-wee!\sinv[0]\! Das ist ein guter Witz!\! Wo soll ich jetzt anfangen?\! Hmm...\! Nun, diesen Ort gibt es schon seit Anbeginn der Zeit, schätze ich.
+message_184:
+  text: \n<MR. OUTBACK>Es sieht für jeden anders aus...\! aber dieses Mal ist es größtenteils ziemlich bunt und niedlich...\! ganz zu schweigen von verdammt groß!<br>Das ist eine starke Fantasie, die du da hast, Kleiner.
+message_185:
+  text: \n<MR. OUTBACK>Tja, dein Freund ist nicht hier, das ist alles, was ich sagen kann!\! Aber ich denke, du weißt, dass du einen Weg hast, die Antwort zu kennen.\! Wenn jemand nach der Wahrheit sucht...\! wird die Welt eine Reihe von SCHLÜSSELN erschaffen.<br>Und diese SCHLÜSSEL...\! werden eine andere Form annehmen, abhängig vom Willen der Person.\! Du weißt, wie deine SCHLÜSSEL aussehen, nicht wahr?\! Drücke einfach \DII[pageup]!
+message_186:
+  text: \n<MR. OUTBACK>\com[2]Weißt du nicht, dass man alte Leute das nicht fragen sollte!\! Ich würde sagen, mehr oder weniger 33000 Jahre...\! aber das ist an diesem Punkt nicht so wichtig.
+message_187:
+  text: \n<MR. OUTBACK>Jetzt macht ihr euch besser aus dem Staub!\! Es liegt eine lange Reise vor euch, ihr jungen Hüpfer!
+message_188:
+  text: \n<MR. OUTBACK>I'm rootin'...\!\sinv[1] and tootin'...\sinv[0] for ya!
+message_189:
+  text: \n<MR. OUTBACK>Und das ist alles, was sie geschrieben hat!\! Wolltest du, dass ich dir mehr über etwas anderes erzähle?
+message_190:
+  text: MR. OUTBACK ist in Sand verwandelt worden.
+message_191:
+  text: Eine Sandskulptur eines merkwürdigen alten Kauzes.
+message_192:
+  text: \n<???>Howdy!
+message_193:
+  text: \n<FIESTA>Ich habe genug von Spielautomaten, aber es gibt hier nicht viel anderes zu tun...\! Ich sollte einfach zurück in die Stadt gehen!
+message_194:
+  text: \n<TOUCHDOWN>Ich habe gehört, dass JAWSUM einen neuen Bodyguard hat, der wirklich hart ist, aber er wird auf keinen Fall ein Gegner für TOUCHDOWN sein!
+message_195:
+  text: \n<TREVOR>Da wo ich aufgewachsen bin, gab es keinen Schnee, aber ich vermisse es trotzdem, wieder ein Kind zu sein...\! Ich frage mich, warum das so ist...
+message_196:
+  text: \n<MOUNTAIN>Es ist ein Segen zu existieren.
+message_197:
+  text: \n<CESAR>Dieser Ort ist unglaublich!\! Ich habe die beste Zeit meines Lebens!
+message_198:
+  text: Eine Flaschenpost.\! Willst du sie lesen?
+message_199:
+  text: \"Wenn der Mond wie ein großer Pizzakuchen auf dein Auge trifft, ist das...\"
+message_200:
+  text: Du vervollständigst die Nachricht und wirfst die Flasche zurück in den See.
+message_201:
+  text: \n<LEMON JASH>Ich halte mich gerne für einen ziemlich gut gelaunten JASH...<br>aber wenn es eine Sache gibt, die ich nicht ausstehen kann...<br>das sind Linienschneider...
+message_202:
+  text: \n<GIBS>Du hast nicht alle \sinv[1]g'woods?\sinv[0]\! Nun, das ist in Ordnung.\! Alles hilft.\!<br>Dieser Song ist einer meiner Lieblingssongs.\! Bitte genieße es!
+message_203:
+  text: \n<GIBS>Awww...\! Nun, das ist schon in Ordnung.\! Es ist alles \sinv[1]g'wood...\sinv[0]
+message_204:
+  text: \n<GUMBO>GUMBO... \!\{\sinv[1]HAPPY!\sinv[0]
+message_205:
+  text: Du bist dir ziemlich sicher, dass es in diesem Pool spukt.\!<br>Willst du reingehen?
+message_207:
+  text: \kel\Com[2]\{AHHHHHHHHHH, HILFE!!!\!\}<br>Es ist eine hässliche Pflanzenkreatur!
+message_209:
+  text: \n<SPROUT MOLE>Entschuldige bitte!\! Ich bin keine hässliche Pflanzenkreatur!\!<br>Ich bin ein SPROUT MOLE, eine sehr hochfunktionale und intelligente Kreatur.
+message_206:
+  text: \n<SPROUT MOLE>Was du meinst, ist eine VERLORENE SPROUT MOLE.\!<br>Wenn SPROUT MOLE verloren gehen, können sie oft feindlich werden und ohne Vorwarnung angreifen!
+message_208:
+  text: \n<SPROUT MOLE>Hmm...\! Eigentlich...\! Wo bin ich?\!<br>... \!Könnte es sein, dass ich mich... \!verloren?
+message_210:
+  text: \n<SPROUT MOLE>Urgg...\! Plötzlich fühle ich mich nicht mehr so gut...
+message_211:
+  text: \n<LOST SPROUT MOLE>...\| ...\| ...
+message_212:
+  text: \n<LOST SPROUT MOLE>\sinv[1]\{\com[2]EEEE\{EEEEEE\{EEEEEEEEEEEEEE!!!
+message_213:
+  text: Du hast ein \c[5]RUBBERBAND\c[0].
+message_214:
+  text: \n<GATOR GUY>Du kommst endlich auf die gute Seite des Bosses, KEL?\! Du bist ein Haufen Ärger, aber ich werde auf dich aufpassen.
+message_400:
+  text: \n<GATOR GUY>Etwas ist mit dem Boss los...\! Ich habe ihn schon lange nicht mehr lachen gehört.\! ...\! Irgendwie vermisse ich ihn...
+message_401:
+  text: \n<GATOR GUY>Ich werde dich wirklich vermissen, AUBREY.\! Erinnere dich daran, worüber wir gesprochen haben, okay?\! Nimm die Dinge nicht immer so ernst!\! Es ist okay, ein bisschen zu lachen.
+message_402:
+  text: Dies ist das Ende des Highways.
+message_403:
+  text: \n<SHADY MOLE>\com[2]\quake[1]\{\{EEEEEE\{EEEE\{EEEEEEEEK!!
+message_404:
+  text: Willst du zurück zu \c[11]LAST RESORT\c[0] gehen?
+message_405:
+  text: Möchtest du zurück zu \c[11]DEEPER WELL\c[0] gehen?
+message_406:
+  text: \n<MAID MOLE>Lasst mich durch! Du weißt nicht, wie lange ich schon darauf warte, SWEETHEARTs neuestes Werk zu sehen!
+message_407:
+  text: \n<BUTLER MOLE>Bitte lass mich rein! Ich verspreche dir, dass ich dir eine gute Kritik schreiben werde!
+message_408:
+  text: \n<BUTLER MOLE>Geht zurück auf eure Posten, ihr zwei!\!<br>Du weißt, dass Gäste Vorrang haben!
+message_409:
+  text: \n<BUTLER MOLE>Du sollst nicht passieren!
+message_410:
+  text: \n<MAID MOLE>Jungs, hört auf!\! Ihr seid überhaupt nicht hilfreich!
+message_411:
+  text: \n<MAID MOLE>Seufz...\! Wir sollten eigentlich HAROLDS haben, die den Eingang zur Show bewachen...\! aber ich habe gehört, dass sie alle im BALLROOM und in der BIBLIOTHEK aufgehalten wurden...
+message_412:
+  text: \n<MAID MOLE>Was auch immer hier vor sich geht, es muss ein ziemliches Ereignis sein, wenn es sogar noch wichtiger ist als SWEETHEARTs letzter Showcase!
+message_413:
+  text: \n<MAID MOLE>Willkommen in \c[11]THE ROYAL GALLERY\c[0]!\!<br>Bitte genieße ein kostenloses \c[3]TOFU\c[0]!
+message_419:
+  text: \n<MAID MOLE>Willkommen in \c[11]DER KÖNIGLICHEN GALERIE\c[0]!\!<br>Das Feature dieses Monats ist \"OEUVRES OF SWEETHEART\"!
+message_414:
+  text: Du hast \c[3]TOFU\c[0]!
+message_417:
+  text: \n<BUTLER MOLE>Hey, Mann... Bist du okay?\! Du hast keine Farbe in deinem Gesicht!
+message_415:
+  text: \n<BUTLER MOLE>Ich und die Jungs denken darüber nach, diese Woche zum Karaoke zu gehen.\! Ihr solltet euch uns anschließen!
+message_416:
+  text: \n<BUTLER MOLE>Ich werde mir diese Woche beim Karaoke das Herz aus dem Leib singen!\! Niemand kann mein Cover von \"DON'T STOP SWEETHEART\" toppen!
+message_418:
+  text: \n<MAID MOLE>Ich möchte auch zum Karaoke gehen...
+message_420:
+  text: \n<MAID MOLE>SWEETHEART kann alles tun!\! Sie kann malen, singen, tanzen und sogar Filme drehen!\! ...\! Ich wünschte nur, sie würde mich bemerken...
+message_421:
+  text: \n<GATOR GUY>Nur die Ruhe. \! Wir werden nicht mit dir kämpfen...\!<br>Zumindest nicht, solange wir nicht im Dienst sind.
+message_422:
+  text: \n<GATOR GUY>Wir sind nicht haftbar, wenn irgendetwas in diesen Schließfächern verloren geht.\!<br>Lasst eure Wertsachen zu Hause, Leute!
+message_218:
+  text: \n<GATOR GUY>Ich schwöre...\! Der nächste Typ, der Fischreste in der Mikrowelle liegen lässt, wird es von mir zu hören bekommen...
+message_219:
+  text: \n<GATOR GUY>So, ihr entscheidet euch also endlich, weiterzuziehen, was?<br>Vergiss uns nicht, wenn du groß rauskommst!
+message_220:
+  text: \n<GATOR GUY>Habt eine sichere Reise, Leute.\!<br>Sniff... Ihr Kinder werdet so schnell erwachsen...
+message_221:
+  text: \n<GATOR GUY>Ihr Menschen strebt immer nach größeren und besseren Dingen.\! Lauf nicht heulend zurück, wenn es schwierig wird!
+message_222:
+  text: \n<GATOR GUY>Sind Sie sicher, dass Sie nicht noch ein bisschen länger bleiben wollen, HERO?\!<br>...\! Nun...\! Es war einen Versuch wert.
+message_223:
+  text: \n<GATOR GUY>Hey, du bist zurückgekommen!<br>Ich wusste, dass du uns nicht vergessen würdest, Boss.
+message_224:
+  text: \Seht euch nur an, wie groß ihr geworden seid...<br>Wenn ich eure Mutter wäre, wäre ich stolz...
+message_225:
+  text: \n<GATOR GUY>Nun sieh mal an, wer da ist!\!<br>Ich habe gehört, dass du der neue Besitzer dieser Bude bist.\!<br>Du kümmerst dich besser gut um uns, Boss!
+message_226:
+  text: \n<GATOR GUY>HERO! Ich wusste, dass du zu uns zurückkommst!<br>Hat das Leben dich gut behandelt, Großer?
+message_227:
+  text: \n<MINA>Hallo und herzlich willkommen!\! Bitte fühlt euch wie zu Hause!
+message_228:
+  text: \n<RELL>In diesem Haus wird es einfach nie langweilig...<br>Stimmt's, VICTOR?
+message_229:
+  text: \n<VICTOR>\sinv[1]Uwwaaa...?
+message_230:
+  text: \n<JOJO>Mom sagt, wenn wir uns daneben benehmen, kommen wir in die \c[11]SCHATTENCHASMA\c[0]...\! Aber was soll's!\! Ich habe keine Angst vor Monstern!
+message_231:
+  text: \n<LUKE>\sinv[1]Zzzzzzzzzzzzzzzzz...\! Nur noch eine Peperoni...bitte...
+message_232:
+  text: \n<NOVA>\sinv[2]Bounce! Bounce! Bounce!
+message_233:
+  text: \n<ADONUS>Meine Geschwister und ich haben einen \sinv[1]huuuuuuge\sinv[0] Tunnel ausgegraben, aber er hat einen geheimen Eingang, von dem niemand weiß!
+message_234:
+  text: \n<NATHAN>Ich will später in \c[11]DINO's DIG\c[0] nach Schätzen suchen, aber ich gehe lieber erst sicher, dass es für Mama okay ist...
+message_235:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 31
+  text: \n<SPROUT MOLE MIKE>\com[2]Hicc...\! ...\! \sinv[1]SPACE BOYFRIEND dies...\! SPACE BOYFRIEND das...\! Was ist mit SPROUT MOLE MIKE?
+message_236:
+  text: \n<GATOR GUY>Die Atmosphäre hier ist spitze.\! Ich wette, REUBEN macht einen gaaanz tollen Fruchtsaft...\sinv[1]
+message_237:
+  text: \n<GATOR GUY>CLUB SANDWICH ist ein Level über dem Rest.\!<br>REUBEN und HOAGIE verändern das Spiel!
+message_238:
+  text: \n<SIR MAXIMUS IV>In einer grausamen Wendung des Schicksals habe ich meine gesamte Familie an einem Tag verloren... \! Flüche...\! Wenn ich doch nur stärker wäre!
+message_239:
+  text: \n<SIR MAXIMUS IV>Seufz...\! REUBEN...\! Ich nehme noch einen Schluck für meine Sorgen.
+message_240:
+  text: \n<REUBEN>Komme gleich hoch, MAX!
+message_241:
+  text: \n<ROSA>Bah! Ihr vier seid es schon wieder!<br>Habt ihr mein Leben nicht schon oft genug ruiniert!?
+message_245:
+  text: \n<ROSA>Dank dir ist SWEETHEART nirgends zu finden!\!<br>Ich hoffe, du bist mit dir selbst zufrieden!
+message_246:
+  text: \n<RAREST BEAR>\sinv[1]Awroo?
+message_247:
+  text: \n<SPROUT MOLE>\{\sinv[1]HELP! ICH WEISS NICHT, WAS ICH TUN SOLL!!
+message_248:
+  text: \n<EMS>\}Nun hallo, HERO!
+message_249:
+  text: \herHallo, EMS! Geht es dir gut?
+message_251:
+  text: \n<EMS>\}Mir geht es gut...\! HOAGIE hat mich für eine Auszeit auf die Couch geschickt...
+message_252:
+  text: \herHuh? Du bist in der Auszeit?\! Was hast du gemacht?
+message_253:
+  text: \n<EMS>\}Nichts...\! Ich habe gerade versucht, die Tische dort drüben zu essen...
+message_255:
+  text: \herWas?\! Du hast versucht, die Tische zu essen?\! Kannst du das machen?
+message_256:
+  text: \herOh...\! Ich verstehe...\! Die Tische sind aus \c[3]BREAD\c[0]...
+message_257:
+  text: \n<EMS>\}Ich werde die Tische nicht essen...\! Ich werde die Tische nicht essen...
+message_258:
+  text: \n<THE EARTH>...
+message_259:
+  text: \Sag niemandem, dass ich das gesagt habe, aber...<br>Es ist hart, ein Weltraumpirat zu sein...
+message_260:
+  text: \n<SPACE PIRATE>Was ist mit dieser Show heute los?\! Ich habe schon einige ziemlich unlustige Sachen in meinem Leben gehört, aber das hier übertrifft alles!
+message_261:
+  text: \n<SPACE PIRATE>Stand-up Comedy ist schwer...
+message_262:
+  text: \n<SPACE PIRATE>\com[2]\sinv[2]\{AHAHAHAHAHAHA!!!
+message_263:
+  text: \n<SPACE PIRATE>Hey, hört ihr das!? THE EARTH ist ein Aufstand!
+message_264:
+  text: \n<SPACE PIRATE>Wie lange sind wir schon hier?\!<br>Glaubst du, der CAPTAIN merkt überhaupt, dass wir fehlen?
+message_265:
+  text: \n<IZZY>\sinv[1]Mach dich ein bisschen locker... Atme durch.\!<br>Es ist Zeit, die Gehirnmuskeln mit ein paar Melodien zu kühlen.
+message_266:
+  text: \n<BREEZY>\sinv[1]Nimm eine Last ab... Entspanne dich.\! Willkommen in Chillville...
+message_267:
+  text: \n<PAPA CHIP>Ich bin PAPA CHIP!
+message_268:
+  text: \n<BREAD KID>\beben[1]Hiss...
+message_269:
+  text: \n<HUMPHREY>Hey, komm schon.\! Du musst dir jemanden aussuchen!\!<br>Hilf mir doch mal, ja?
+message_280:
+  text: \n<BLANK>Deine Erinnerungen sind nicht frei.\! Um eine Erinnerung zu gewinnen, muss eine andere umhüllt werden.\! Und doch...\! Alle Erinnerungen werden irgendwann verblassen.
+message_281:
+  text: \n<BLANK>Vielleicht hast du schon bemerkt...\c[11]DEEPER WELL\c[0].
+message_282:
+  text: \n<EMPTY>Mit der Zeit wird sich das, was wichtig ist, verändern.\! Du musst wählen, was du behalten und was du wegwerfen willst.
+message_286:
+  text: Eine Kreatur murmelt Kauderwelsch.
+message_285:
+  text: \n<NULL>Menschen sind begrenzte Lebewesen.\! Deine Grenzen sind es, die dich definieren.\! Was macht dich zum Menschen?
+message_287:
+  text: \n<AUGHT>Wenn sich Schwierigkeiten zeigen, gibt es immer die Wahl zu rennen.\! Aber eines Tages könntest du dich sehr wohl dabei ertappen, alleine zu laufen.
+message_288:
+  text: \n<PARVENU>Was, wenn es nur an dir liegt?\! Was ist, wenn es nur an dir liegt?
+message_290:
+  text: \n<PARVENU>Fahre fort, DREAMER.\! Du bist der Einzige, der das kann.
+message_289:
+  text: \n<ABSENT>Das Universum ist voll von Fragen, die du niemals beantworten wirst.\! Doch...\! es gibt auch welche, die nur du beantworten kannst.<br>\!Wenn die Wahrheit enthüllt wird, was wirst du tun?
+message_291:
+  text: \n<MINUS>Es ist egoistisch, so lange zu träumen, wenn es diejenigen gibt, die dich erwarten.
+message_292:
+  text: \n<MUTE>Eine unheilige Last wurde dir auferlegt.\! Du hast die Macht, die Zukunft zu verändern.\! Was wirst du tun, DREAMER?\! Was wirst du tun?
+message_300:
+  text: \n<HOLLOW>Das letzte Mal, als du ins tiefe Wasser gefallen bist... \!Wurdest du wirklich gerettet?\! Oder warst du verflucht?
+message_301:
+  text: \n<VOID>Wie weit würdest du gehen, um einen Freund zu retten?
+message_302:
+  text: \n<EMPTY>Nicht jeder hat diese Wahl.
+message_303:
+  text: \n<ROAMIN' COW>\sinv[1]Roamin'...roamin'...roamin'...
+message_304:
+  text: \n<BURPMO>Ich bin BURPMO, und ich würde niemand anderes sein als ich!
+message_305:
+  text: \n<BURPMO>Ich bin BURPMO, und ich würde es nicht anders haben wollen!
+message_306:
+  text: \Schnüffel...Schnüffel...OMORI...
+message_307: {}
+message_310: {}
+message_311: {}
+message_312: {}
+message_314: {}
+message_315: {}
+message_316: {}
+message_317: {}
+message_318: {}
+message_319: {}
+message_320: {}
+message_321: {}
+message_322:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 37
+message_323: {}
+message_324:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 46
+message_325: {}
+message_326:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 47
+message_327:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 42
+message_328: {}
+message_329: {}
+message_330: {}
+message_331: {}
+message_332: {}
+message_333: {}
+message_334: {}
+message_335: {}
+message_41: {}
+message_39: {}
+message_340: {}
+message_341: {}
+message_500: {}
+message_601: {}
+message_615: {}
+message_602: {}
+message_613: {}
+message_603: {}
+message_604: {}
+message_607: {}
+message_606: {}
+message_609: {}
+message_610: {}
+message_608: {}
+message_611: {}
+message_612: {}
+message_614: {}
+message_148: {}
+message_151: {}
+message_313: {}
+message_444: {}

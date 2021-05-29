@@ -1,0 +1,196 @@
+message_0:
+  faceset: MainCharacters_Faraway
+  faceindex: 14
+  text: <br>Top of the morning to you, heh heh.<br>
+message_1:
+  faceset: MainCharacters_Faraway
+  faceindex: 15
+  text: Nun...\! Eigentlich eher Mittag.\! Es hat sich herausgestellt, dass HERO heute erst gegen Abend zurückkommt, also dachte ich, ich schaue etwas später vorbei.\kel
+message_2:
+  faceset: MainCharacters_Faraway
+  faceindex: 12
+  text: MOM lässt mich ein paar Sachen im \c[11]FARAWAY PLAZA\c[0] kaufen, bevor er zurückkommt, und...\! Ich dachte, es wäre lustiger, wenn wir zusammen hingehen!\kel
+message_3:
+  faceset: MainCharacters_Faraway
+  faceindex: 14
+  text: Wolltest du mitkommen, \n[8]?\!<br>Natürlich willst du!\! Komm schon...\kel
+message_4:
+  faceset: MainCharacters_Faraway
+  faceindex: 14
+  text: Schauen wir mal...\! Ich bin mir ziemlich sicher, dass wir bei \c[11]GINO'S PIZZA\c[0] und der Bäckerei in \c[11]OTHERMART\c[0] anhalten müssen...\! Zeig uns den Weg, \n[8]!\kel
+message_20:
+  text: \c[11]GINO'S PIZZA\c[0] ist die Bombe!\! Das ist eine ekelhafte, dreckige, fettig aussehende Käsepizza... genau wie ich es mag!
+message_21:
+  text: \Com[2]\{LET'S DIG IN!!!\kim
+message_22:
+  text: Also...\! mampfen...\! mampfen...\! mampfen...\! Wir sind immer noch dabei, heute zu unserem geheimen Treffpunkt zu gehen, richtig?\ang
+message_23:
+  text: Ich werde meine Angelrute mitbringen!\! Munch...\! Habe sie selbst gemacht...\! munch... Aus einem coolen Stock und einem Springseil gestern.\!<br>Meinen Sie, dass es funktionieren wird, CHARLIE?\ang
+message_24:
+  text: ...\cha
+message_25:
+  text: Heh.\! Also gehen wir zu unserem geheimen Treffpunkt?\! Mampfen... \! <br>Das ist der perfekte Ort für ein Date!\! Munch...\! Ich bringe auf jeden Fall eine meiner besonderen Ladys mit.\mav
+message_26:
+  text: Schwimmen...\! Mampfen, mampfen, mampfen, mampfen...\! Geräusche... \! <br>Mampfen, mampfen, mampfen, mampfen, mampfen, mampfen, mampfen...\! <br>Sehr lustig.\van
+message_27:
+  text: Nun!!! Munch...\! Während ihr alle herumalbert und Babys seid, <br>werde ich damit beschäftigt sein, Felsen zu überspringen!\kim
+message_28:
+  text: Ich bin schon die ganze Woche auf der Suche nach den perfekten...\! munch...\! rocks!\kim
+message_29:
+  text: Heh.\! Munch...\! Du kannst es so oft versuchen, wie du willst, KIM, aber du wirst niemals AUBREYs Rekord schlagen!\mav
+message_30:
+  text: Halt die Klappe, MIKHAEL!\! Als ob irgendwelche Mädchen tatsächlich mit dir...\! mampfen...\! an den See gehen würden, ohne dass du sie bezahlst!
+message_31:
+  text: Ich habe dir gesagt, du sollst mich THE MAVER nennen- <br>{\Com[2]\quake[1]ACK!!! \Com[2]I BIH' MA' TONGUE!!!\mav
+message_32:
+  text: \{\sinv[2]BAHAHAHAHAHAHAHA!!!\!\}<br>Was für ein Loser!\kim
+message_33:
+  text: \beben[1]\{FWAAAAAA!! MASTER, SIND SIE VERLETZT!?\ang
+message_34:
+  text: \beben[1]\{YEW' PEH' FO' DIS', KIM!\mav
+message_35:
+  text: \{\Com[2]\sinv[2]BAHAH\{AHAHAH\{AHAHAHAHA!!\!\kim
+message_36:
+  faceset: MainCharacters_Faraway
+  faceindex: 12
+  text: Lass uns zur Bäckerei gehen!\! Meine Mutter hat dort eine Bestellung aufgegeben!\kel
+message_60:
+  faceset: MainCharacters_Faraway
+  faceindex: 18
+  text: Backwaren...\! Check!\! Sandwiches...\! Check!\kel
+message_61:
+  faceset: MainCharacters_Faraway
+  faceindex: 14
+  text: Nun, das ist alles, und auch gerade noch rechtzeitig.\! <br>Es sieht so aus, als würde die Sonne gleich untergehen!\kel
+message_62:
+  faceset: MainCharacters_Faraway
+  faceindex: 12
+  text: Lass uns zu mir nach Hause gehen.<br>Hero sollte jeden Moment nach Hause kommen!<br>
+message_63:
+  faceset: MainCharacters_Faraway
+  faceindex: 14
+  text: Jetzt müssen wir nur noch die Kekse aus der Bäckerei in \c[11]OTHERMART\c[0]!\kel holen
+message_64:
+  faceset: MainCharacters_Faraway
+  faceindex: 14
+  text: Jetzt brauchen wir nur noch unsere Bestellung von \c[11]GINO'S PIZZA\c[0]!\kel
+message_80:
+  faceset: MainCharacters_Faraway
+  faceindex: 17
+  text: Bevor wir reingehen...\! Ich sollte vielleicht noch erwähnen, dass meine Mutter ein bisschen sauer sein wird, weil ich so lange mit den Einkäufen gebraucht habe.\kel
+message_81:
+  faceset: MainCharacters_Faraway
+  faceindex: 15
+  text: Ich sollte eigentlich alles gegen Mittag zurückbringen, <br>aber ich habe mich zu anderen Dingen hinreißen lassen und...\! <br>Nun ja, du weißt ja, wie es läuft.\kel
+message_82:
+  faceset: MainCharacters_Faraway
+  faceindex: 17
+  text: Aber wie auch immer, ich habe mir eine Lösung dafür ausgedacht! \kel
+message_83:
+  faceset: MainCharacters_Faraway
+  faceindex: 14
+  text: Also...\! Ich denke...\! Du solltest zuerst reingehen.\!<br> Auf diese Weise wird sie dich zuerst sehen und ganz aufgeregt sein.\! <br>Und das Wichtigste...<br>Sie wird vergessen, mich anzuschreien!<br>
+message_84:
+  faceset: MainCharacters_Faraway
+  faceindex: 14
+  text: Siehst du? Es ist eine Win-Win-Situation für alle! Ha, ha!!!<br>Verstanden?! Okay, los geht's!\kel
+message_100:
+  faceset: MainCharacters_Faraway
+  faceindex: 14
+  text: \MOM, HIER!!!
+message_101:
+  text: \Com[2]Was hat dich so lange aufgehalten, KEL? Ich habe dich vor Stunden losgeschickt! <br>Wie lange dauert es, einen Haufen Sandwiches zu bekommen-\n<KEL'S MOM>
+message_102:
+  text: Oh je, ist das \n[8]?\! Das muss es sein!\n<KEL'S MOM>
+message_103:
+  text: Es ist so schön, dich wieder zu sehen!\! Aber Schatz... Du siehst so dünn aus... Hast du denn richtig gegessen?\n<KEL'S MOM>
+message_104:
+  faceset: MainCharacters_Faraway
+  faceindex: 14
+  text: Hier sind die Sachen, die du dir gewünscht hast, Mama!
+message_105:
+  faceset: MainCharacters_Faraway
+  faceindex: 14
+  text: Beeil dich, \n[8]! Lass uns nach oben in mein Schlafzimmer gehen!\kel
+message_106:
+  text: \Com[2]Jetzt warte mal eine Sekunde, junger Mann-\n<KEL'S MOM>
+message_107:
+  faceset: MainCharacters_Faraway
+  faceindex: 14
+  text: Tschüss, Mama! Wir sehen uns, wenn das Essen fertig ist!\kel
+message_120:
+  faceset: MainCharacters_Faraway
+  faceindex: 14
+  text: Nun, hier ist es... Fühl dich wie zu Hause!\!<br>Sieh mal, ich habe einen Basketballkorb und eine Boombox, so wie<br>ich es mir immer gewünscht habe.\! Hier, ich spiele ein Lied für dich!\kel
+message_121:
+  faceset: MainCharacters_Faraway
+  faceindex: 13
+  text: Yup, das ist ziemlich süß.\kel
+message_122:
+  faceset: MainCharacters_Faraway
+  faceindex: 17
+  text: Mama lässt mich aber nicht zu laut spielen, weil sie sagt, dass es schlecht für SALLY ist
+message_123:
+  faceset: MainCharacters_Faraway
+  faceindex: 14
+  text: Oh, warte!\! Du hast SALLY noch nicht kennengelernt, hm?
+message_124:
+  faceset: MainCharacters_Faraway
+  faceindex: 13
+  text: Heh, heh!\! Rate mal was, \n[8]!\! <br>Ich bin jetzt ein großer Bruder!\kel
+message_125:
+  faceset: MainCharacters_Faraway
+  faceindex: 12
+  text: SALLY ist meine kleine Schwester.\! Meine Mutter wird sie wahrscheinlich zur Essenszeit nach unten bringen.\! Sie ist wirklich klein und wirklich süß, heh heh!\kel
+message_126:
+  text: \Com[2]KEL!\! Da ist ein Mädchen an der Tür! <br>Sie sagt, sie ist hier um dich zu sehen!\n<KEL'S MOM>
+message_127:
+  faceset: MainCharacters_Faraway
+  faceindex: 17
+  text: Hm? Ich frage mich, wer das sein könnte?
+message_140:
+  text: Hey, KEL... Hey, \n[8]...\! S-Entschuldige, dass ich störe.\n<POLLY>
+message_141:
+  text: Ich habe mich nur gefragt, ob du weißt, wo BASIL ist.<br>Ich dachte, er könnte bei dir sein.<br><POLLY>
+message_142:
+  faceset: MainCharacters_Faraway
+  faceindex: 19
+  text: BASIL?\! Hmm...\! Nein, tut mir leid.\! Wir haben ihn den ganzen Tag nicht gesehen.\kel
+message_143:
+  text: Oh, es ist okay!\! Ich bin...\! Ich bin mir sicher, dass er irgendwann auftauchen wird.\! <br>Er ist vorhin weggelaufen und noch nicht wiedergekommen...\n<POLLY>
+message_144:
+  text: Wenn du ihn siehst, kannst du ihm sagen, dass er nach Hause kommen soll?\!<br>Ich mache mir wirklich Sorgen um ihn.\n<POLLY>
+message_145:
+  faceset: MainCharacters_Faraway
+  faceindex: 12
+  text: Natürlich, POLLY!\! Wir werden Ausschau halten.\kel
+message_146:
+  text: Danke...\! Ich wusste, dass ich auf euch zählen kann!\n<POLLY>
+message_147:
+  faceset: MainCharacters_Faraway
+  faceindex: 18
+  text: ...\kel
+message_148:
+  faceset: MainCharacters_Faraway
+  faceindex: 20
+  text: BASIL fehlt heute?\! Ich habe ein schlechtes Gefühl dabei...\!<br>Vor allem, wenn AUBREY und die Scooter-Gang in der Nähe sind.\! <br>Vielleicht sollten wir versuchen, ihn zu finden, bevor es dunkel wird.\kel
+message_149:
+  faceset: MainCharacters_Faraway
+  faceindex: 17
+  text: Können wir ihn suchen gehen, Mom?\! Bitte sehr?\kel
+message_150:
+  text: Nun...\! Das Mädchen sah furchtbar besorgt aus.\!<br>\sinv[1]Seufz...\sinv[0]\! Okay.\! Aber sei zum Abendessen zu Hause!
+message_154:
+  text: Sei einfach zum Abendessen zu Hause! Ich will keine Wiederholung vom letzten Jahr!
+message_151:
+  faceset: MainCharacters_Faraway
+  faceindex: 19
+  text: BASIL?\! Hmm...\! Wir haben ihn vorhin im Park gesehen, aber das ist schon eine Weile her.\kel
+message_152:
+  faceset: MainCharacters_Faraway
+  faceindex: 20
+  text: BASIL fehlt heute?\! Ich habe ein schlechtes Gefühl bei der Sache...<br>vor allem, wenn AUBREY und die Scooter-Gang in der Nähe sind.\!\kel
+message_153:
+  faceset: MainCharacters_Faraway
+  faceindex: 19
+  text: Hmmm... Könnte BASIL irgendwo in \c[11]FARAWAY PARK\c[0] sein?\kel

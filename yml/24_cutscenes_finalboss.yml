@@ -1,0 +1,304 @@
+message_0:
+  text: \{STOP RIGHT THERE!!\!\}<br>Du kannst jetzt noch nicht gehen, Puppe.\n<MEDUSA>
+message_1:
+  text: Wir wollen nur unsere Bezahlung, Liebling.<br> Kannst du nicht sehen, wie aufgeregt MARINA ist?<br><MOLLY>
+message_2:
+  text: <br>GEBEN SIE MIR MEIN GELD<br><br><MARINA>
+message_3:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 46
+  text: Oh-oh... Es sind SWEETHEART und diese Seehexen! \her
+message_4:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 31
+  text: Wir lassen uns auf keinen Fall dazwischenfunken.<br>Lasst uns abhauen!<br>
+message_5:
+  text: Bleibt stehen, wo ihr seid, Kinder.\!<br> Ich muss euch korrigieren...\! denn ihr irrt euch gewaltig.\! <br>Wir sind keine Hexen...\! sondern Anhänger der Wissenschaft!\n<MOLLY>
+message_6:
+  text: Das ist ein häufiger Fehler, fürchte ich.<br>Menschen neigen dazu, das zu fürchten, was sie nicht verstehen können.<br><MEDUSA>
+message_7:
+  text: Außerdem...\! Ich glaube ich weiß, warum die Leute denken, dass wir Hexen sind...\n<MEDUSA>
+message_8:
+  text: Hey! Was guckst du mich so an!?<MARINA>
+message_9:
+  text: Davon abgesehen, haben wir ein größeres Problem am Hals
+message_10:
+  text: Das ist richtig!\! Was glaubst du, wo du hingehst...\!<br>\sinv[1]SWEETHEART, Darling?\n<MOLLY>
+message_11:
+  text: Du schuldest uns einen großen, großen Sack voller CLAMS!\n<MARINA>
+message_12:
+  text: \com[2]Hmpf! Als ob ihr drei Bauern der Bezahlung würdig wäret!\swh
+message_13:
+  text: Alles was ich wollte, war, dass ihr mich zu einem perfekten Partner macht...<br>aber ihr habt es alle geschafft, mich auf drei verschiedene Arten zu enttäuschen!
+message_14:
+  text: Wenn du so sehr darauf bestehst, deine wertlosen CLAMS zu bekommen...<br>Lass diese Kinder die Kosten tragen!<br>
+message_15:
+  text: \Com[2]\sinv[2]OHOHO\{HOHOHO\{HOHOHO\{HOHO!!\swh
+message_16:
+  text: \{Wo denkst du, dass du hingehst!?\n<MARINA>
+message_17:
+  text: \quake[1]\{HUMPHREY!\! STOPPEN SIE JETZT!!!\n<MARINA>
+message_18:
+  text: \sinv[1]Yoo-hoo!\sinv[0]\! Ich bin hier um zu berichten, dass SWEETHEART entsorgt wurde.\n<HUMPHREY>
+message_19:
+  text: Es ist gut, dass du gefragt hast!\! Ich hatte schon Angst, dass ich mich nicht mehr zurückhalten kann.\n<HUMPHREY>
+message_20:
+  text: Außerdem...\! Das mag dich überraschen oder auch nicht...\! aber SWEETHEART hatte eine Gesamtbilanz von 0 CLAMS auf sich.\!<br>Null!\! Nicht eine einzige!\n<HUMPHREY>
+message_21:
+  text: Was...\! ziemlich unglücklich ist...<br>weil ich ein bisschen...\! \beben[1]hungrig...\beben[0]\n<HUMPHREY>
+message_22:
+  text: <br>Ich wusste, dass an ihr etwas faul war.\n<MARINA>
+message_23:
+  text: Hmm... Nun, nicht unbedingt.\!<br>Sie hat gesagt, dass diese Kinder die Kosten übernehmen würden.\n<MEDUSA>
+message_24:
+  text: Oh ja, huh!\! In diesem Fall hat sie definitiv ihre Schuldigkeit getan.\n<MARINA>
+message_25:
+  text: Welche Teile von ihnen sollten wir zuerst verkaufen?\n<MARINA>
+message_26:
+  text: Sei nicht so ein Rohling, MARINA!<br>Ich bin sicher, sie meinte, dass die Kinder uns bezahlen würden...<br>nicht, dass wir sie verkaufen sollten!<br>MEDUSA>
+message_27:
+  text: Also gut, meine Lieben...<br>Nun seid brav und gebt eure große, große Tüte CLAMS ab!\n<MOLLY>
+message_28:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 31
+  text: H-Huh?\! S-So, äh...\! ja...\! deswegen...\!<br>Nur aus Neugier...\! Wie viel schuldet sie dir eigentlich?\kel
+message_29:
+  text: Naja... Mal sehen! \n<MOLLY>
+message_30:
+  text: \}Es gibt eine Beratungsgebühr... Einrichtungsgebühr... Inspektionsgebühr... Servicegebühr... Materialkosten... Garantiegebühr... Entsorgungsgebühr... Versandkosten... Trinkgeld... Stornogebühr... Schadensersatz... Verzugszinsen...\n<MOLLY>
+message_31:
+  text: Das bringt die Gesamtladung also auf etwa...<br>\!1000000 CLAMS.\n<MOLLY>
+message_32:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 7
+  text: \quake[1]\com[2]\{1000000 CLAMS!?!?\!\}<br>\quake[0]So viel Geld haben wir nicht!\aub
+message_150:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 7
+  text: \quake[1]\com[2]\{1000000 CLAMS!?!?\!\}<br>\quake[0]Wir können dir nicht einfach das ganze Geld geben!
+message_33:
+  text: ...\! Oh? \n<MOLLY>
+message_34:
+  text: ...\. ...\. ... \n<MEDUSA>
+message_35:
+  text: ...\. ...\. ...\. ...\. ... \n<MARINA>
+message_36:
+  text: Nun...\! Das ist einfach zu schade.\n<MOLLY>
+message_37:
+  text: \quake[1]\Com[2]\{HUMPHREY!!\! SEAL THE EXITS!!!\n<MARINA>
+message_39:
+  text: Pech gehabt, Kinder...\! Ihr seid in den falschen Wal gelaufen.\n<MARINA>
+message_40:
+  text: Jemand muss für all das bezahlen.\n<MARINA>
+message_42:
+  text: Ich würde sagen, verzweifelte Zeiten verlangen nach verzweifelten Maßnahmen.\n<MARINA>
+message_43:
+  text: Meint ihr nicht auch, Schwestern?\n<MARINA>
+message_44:
+  text: \sinv[1]Oooh...\! Dieser hier ist zu schön, um ihn zu verkaufen... Nicht wahr, MOLLY?\n<MEDUSA>
+message_45:
+  text: \sinv[1]Naja... Ich mag den Ruhigen.\! Er würde ein tolles Haustier abgeben.\n<MOLLY>
+message_46:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 10
+  text: \Fass ihn nicht an! Lass uns jetzt gehen! Wir haben nichts falsch gemacht!<br>
+message_47:
+  text: \sinv[1]Ooh, lebhaft!\! Ich glaube, das hier würde dir gefallen, MARINA! \sinv[1]Fufufu...\sinv[0]\n<MOLLY>
+message_48:
+  text: Heh.\! Nun...\! Ich schätze, nur einen zu verkaufen wird reichen.\n<MARINA>
+message_49:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 31
+  text: H-Hey!\! Lass mich los! \kel
+message_50:
+  text: Wenn ihr Kinder uns nicht in CLAMS bezahlen könnt...<br>\!Ihr könnt uns mit euren Armen und Beinen bezahlen!\n<MARINA>
+message_51:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 46
+  text: \{KEL!!! NOOO\{OOOOOOOOO}{OOOOOO!!!
+message_52:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 30
+  text: \{LASS MICH LOS!!!
+message_116:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 33
+  text: \PUT ME DOWN!!! PUT ME DOWN!!!\kel
+message_66:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 31
+  text: ...\| \quake[1]\Com[2]\{MUUUUU\Com[2]\{NNNNNN\Com[2]\{NCCCHHHH!!!\kel
+message_53:
+  text: Argh!\! Was zur Hölle!? Er hat mich gebissen!\n<MARINA>
+message_54:
+  text: Oh, beruhige dich, MARINA... \sinv[1]Fufufu~!\sinv[0]\! <br>Es ist nur ein kleiner Knabberspaß!\n<MOLLY>
+message_55:
+  text: \quake[1]\{YOU'LL PAY FOR THIS, BRAT!!!\n<MARINA>
+message_56:
+  text: Nun, es scheint, dass du MARINA ganz schön aufgeregt hast!\! <br>Unsere kleine Beute beißt zurück.\n<MEDUSA>
+message_57:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 46
+  text: Leute...\! Es sieht so aus, als müssten wir uns den Weg nach draußen erkämpfen!\her
+message_58:
+  text: Oh...\! Du willst also einen Kampf?\n<MOLLY>
+message_59:
+  text: Es ist schon eine Weile her seit meiner letzten Jagd!\n<MOLLY>
+message_60:
+  text: Ja... Es scheint, dass unsere Beute diszipliniert werden muss! <br>Jemand muss euch Kindern ein paar richtige Manieren beibringen!\n<MEDUSA>
+message_61:
+  text: Für Beute seid ihr alle viel zu wählerisch...\!<br>\sinv[1]Ihr wollt nicht verkauft werden...\! Ihr wollt keine Haustiere sein...\!<br> Ihr alle solltet wirklich euren Platz lernen...\n<MARINA>
+message_62:
+  text: Nun...\! Wie auch immer...\! Das ist in Ordnung für uns.\n<MARINA>
+message_63:
+  text: Es gibt immer eine andere Möglichkeit. \sinv[1]Fufufu~ \n<MOLLY>
+message_64:
+  text: Wenn du dich weiter wehrst...<br>Du lässt uns keine andere Wahl.<br>!<br>Ich fürchte, wir müssen einfach...<br>
+message_65:
+  text: \{TURN YOU IN TO CHUM INSTEAD!!!\n<MARINA>
+message_90:
+  text: Huff...\! huff...\!<br>Man...\! Was ist los mit uns?\!<br>Dieser Kampf sollte ein Kinderspiel sein.\n<MARINA>
+message_91:
+  text: Huff...\! Vergiss die Jagd...\! Ich bin für diese Art von Unsinn nicht mehr geschaffen.\! Ich werde...huff...\! mich von jetzt an an die Forschung halten.\n<MOLLY>
+message_92:
+  text: Nun, Puppen...\! Es scheint, dass wir alle unsere besten Jahre hinter uns haben.\! <br>Wenn wir nur 200 Jahre jünger wären.\n<MEDUSA>
+message_93:
+  text: Ich will euch nicht beunruhigen...<br>aber ich fürchte, mein Appetit wird...<br>n<HUMPHREY>
+message_117:
+  text: \beben[1]viel...\! \{Mehr...\! \{MEHR...\! \{BIGGER!!!\n<HUMPHREY>
+message_94:
+  text: Ja, ja, HUMPHREY... Wir haben dich.\n<MARINA>
+message_95:
+  text: MOLLY, füttere HUMPHREY mit ein paar CLAMS.\n<MARINA>
+message_96:
+  text: Hm? Ich bin mir sicher, dass ich ihn letztes Mal gefüttert habe!\! Außerdem...<br>Ich habe all meine CLAMS für Software für den letzten Job verbraucht.\n<MOLLY>
+message_97:
+  text: \sinv[1]Ich bekomme... \beben[1]\{HUNGRIER!\n<HUMPHREY>
+message_98:
+  text: Okay, na dann...! Was ist mit dir, MEDUSA?\n<MARINA>
+message_99:
+  text: Nun, ich...\! Ich habe nicht damit gerechnet, HUMPHREY so schnell wieder zu füttern.\! Wenn ich mich recht erinnere. Bist du nicht dran, ihn zu füttern, MARINA?\n<MEDUSA>
+message_100:
+  text: Oh warte, ist es das?\n<MARINA>
+message_101:
+  text: Ich dachte, MOLLY wäre an der Reihe.\n<MARINA>
+message_102:
+  text: Ich bin mir ziemlich sicher, dass dieses Mal MEDUSA dran war.\n<MOLLY>
+message_103:
+  text: \sinv[1]Wal, Wal, Wal...\sinv[0]<br>Es scheint, als wärt ihr alle in eine kleine Klemme geraten.\n<HUMPHREY>
+message_104:
+  text: Wenn du mich nicht füttern kannst...\!<br>\quake[1]Ich schätze, dann muss ich mir eben selbst helfen!\n<HUMPHREY>
+message_105:
+  text: \{\quake[1]NOOOOOOOOOO!!! MEINE MÖBEL!!!\n<MEDUSA>
+message_106:
+  text: Was werden wir jetzt tun!? HUMPHREY wird alles verdauen!\n<MARINA>
+message_107:
+  text: Hmmm...\! Vielleicht... sollten wir eine Flucht planen?\n<MEDUSA>
+message_108:
+  text: Wir haben schon so viel Energie verbraucht.\! Vielleicht ist es endlich Zeit für uns, mit den Fischen zu schwimmen...\n<MOLLY>
+message_109:
+  text: \sinv[1]\{YOO\{OOO-\{HOOOO\{OOOOOOOO!!!\n<HUMPHREY>
+message_110:
+  text: \Beben[1]\{AHHHH}{HHHHHHHH}{HHHHHHHH!!!!\n<SLIME GIRLS>
+message_111:
+  text: Mmm...\! \com[538]Meeresfrüchte...\n<HUMPHREY>
+message_112:
+  text: \sinv[1]\{DEEEEEE...\{Com[2]LICIOUS!!!\n<HUMPHREY>
+message_113:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 31
+  text: HUMPHREY ist außer Kontrolle! \kel
+message_114:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 7
+  text: \WIE KOMMEN WIR HIER HERAUS?
+message_115:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 43
+  text: Bleibt ruhig, alle. Lasst uns nach einem Ausgang suchen!
+message_130:
+  text: \sinv[1]Meine Freunde! Darf ich sagen, dass ihr alle gerade köstlich ausseht?\n<HUMPHREY>
+message_131:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 10
+  text: \Com[2]HUMPHREY, hör auf damit!\! Hast du noch nicht genug gegessen?\! Wir versprechen dir, dass wir dich später füttern werden!\aub
+message_132:
+  text: Aber...\! Du kannst mich jetzt füttern!\! <br>Jetzt...\! \quake[1]lass mich dich fressen.\n<HUMPHREY>
+message_133:
+  text: \sinv[1]Zeit zum Schlemmen!\! Zeit zum Schlemmen!\!<br>\{Zeit für dich zu sterben!!!\n<HUMPHREY>
+message_134:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 33
+  text: Bitte friss uns nicht, HUMPHREY!<br>Wir wollen nicht gefressen werden!\kel
+message_135:
+  text: Nun, dafür ist es ein wenig zu spät, nicht wahr?<br>Daran hättest du denken sollen, bevor du mir in den Mund gelaufen bist! \quake[1]Nyak, nyak!\quake[0]\n<HUMPHREY>
+message_136:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 40
+  text: Es ist nicht gut, Leute...<br>Ich weiß nicht, ob es einen Weg hier raus gibt...<br>
+message_137:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 10
+  text: Sag das nicht, HERO!\aub
+message_138:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 30
+  text: Ja, wir können es nicht so enden lassen!\kel
+message_139:
+  text: \quake[1]Nyak, nyak, nyak, nyak, nyak, nyak, nyak, nyak, nyak!!!\quake[0]\n<HUMPHREY>
+message_140:
+  text: \sinv[1]Oh, es gibt keinen Grund zu kämpfen, Kinder!\n<HUMPHREY>
+message_141:
+  text: Dann wieder...\!<br>Es ist immer befriedigender, wenn du dein eigenes Essen zubereitest!\n<HUMPHREY>
+message_142:
+  text: Jetzt sitzt ihr alle einfach nur still...\n<HUMPHREY>
+message_143:
+  text: \sinv[1]Die Vorbereitungen sind bereits getroffen worden...\n<HUMPHREY>
+message_144:
+  text: \sinv[1]Das Abendessen wird serviert...\!<br>\quake[1]\{und...\ DU BIST AUF DEM MENÜ!!!\n<HUMPHREY>
+message_180:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 48
+  text: \herHuff...\! Huff...\! Es nützt nichts...
+message_181:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 48
+  text: \Wie sollen wir hier rauskommen, wenn HUMPHREY uns weiter<br>schluckt?
+message_182:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 7
+  text: \aubOMORI...\! Ich habe Angst...\! Warum haben wir uns in diesen Schlamassel gebracht?
+message_183:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 31
+  text: \kelKeine Sorge, AUBREY. Wir haben uns schon oft aus brenzligen Situationen befreit!
+message_184:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 48
+  text: \herJa... Wir können jetzt nicht aufgeben!<br>Es muss einfach einen Weg hier raus geben...
+message_145:
+  text: \sinv[1]Gehst du irgendwo hin?\. \beben[1]Nyak, nyak!\beben[0]\n<HUMPHREY>
+message_160:
+  text: <br>Blurf...<br> Na, das ging ja gar nicht gut ab!
+message_161:
+  text: Hmm...\! Plötzlich...\! Ich fühle mich so schläfrig...\!<br>\}Ich glaube...\! \}Ich werde ein kurzes Nickerchen machen.\n<HUMPHREY>
+message_162:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 48
+  text: Huff...\! huff...\! Das war...huff...\! eine knappe Sache
+message_163:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 31
+  text: Huff...\! yeah.\!<br>Unterschätze niemals einen hungrigen Magen...\kel
+message_164:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 7
+  text: Das war wirklich gruselig... \}Huff...\aub
+message_165:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 4
+  text: Aber weißt du was... \}Huff...\aub
+message_166:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 0
+  text: Wenigstens haben wir es gemeinsam durchgestanden! \}Huff...\aub

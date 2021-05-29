@@ -1,0 +1,92 @@
+message_10:
+  text: Eine Stellenausschreibung für \c[11]GINO'S PIZZA\c[0].\!<br>Diesen Job hast du heute schon erledigt.
+message_11:
+  text: Du hast das 'HELP WANTED' Plakat mitgenommen.\! Vielleicht kannst du an der Theke nach dem Job fragen.
+message_0:
+  text: \n<PIZZA MAN>So...\! Ich sehe, du schaust auf das HELP WANTED Poster, das ich dort aufgehängt habe Bist du an einem Job interessiert?
+message_1:
+  text: \n<PIZZA MAN>\sinv[1]Coooooool...\sinv[0]\! Lass mich dir helfen, den Anfang zu machen.
+message_2:
+  text: <pizzamann>Awww, okay...<br>Wenn du jemals etwas Pizzageld brauchst, lass es mich einfach wissen!
+message_40:
+  faceset: MainCharacters_Faraway
+  faceindex: 24
+  text: \kelHey, \n[8]! Wie ist es dir bei deinem Job ergangen?\! Während du gearbeitet hast, habe ich beschlossen, mich auf eine Bank zu setzen und mit Fremden zu reden!\!<br> Mann, das hat Spaß gemacht...\! Nun ja... Ich bin bereit zu gehen, wenn du es bist!
+message_3:
+  text: \com[2]\{\{\sinv[1]PIZZA DELIVERY!!
+message_4:
+  text: \n<CUSTOMER?>Hey!\! Wow, ihr seid schneller gekommen, als ich dachte!\! Danke, Lieferjunge!
+message_5:
+  text: \n<CUSTOMER?>Warum hast du so lange gebraucht!? \c[11]GINO'S PIZZA\c[0] rutscht in diesen Tagen wirklich ab...
+message_6:
+  text: \n<CUSTOMER?>Pizza ist da?\! Super! Lass sie einfach auf dem Boden liegen.\!<br> Ich komme und hole sie.
+message_7:
+  text: \n<CUSTOMER?>\Com[2]Lecker, lecker \c[3]PIZZA\c[0]!\! Ich komme zu dir, Baby!
+message_8:
+  text: \n<CUSTOMER?>Danke...
+message_20:
+  text: \n<CUSTOMER?>Uh... Ja...\! Sorry, Sie haben das falsche Haus.\!<br>Wir haben keine \c[3]PIZZA\c[0] bestellt...
+message_21:
+  text: \n<CUSTOMER?>Kostenlose \c[3]PIZZA\c[0]! Aww... Das hättest du nicht tun sollen!
+message_22:
+  text: \n<CUSTOMER?>Wer sind Sie?\! Wir haben keine verdammte \c[3]PIZZA\c[0] bestellt! Verschwinden Sie von hier!
+message_23:
+  text: \Wie kannst du es wagen, \c[3]PIZZA\c[0] in meinen streng veganen Haushalt zu bringen! Du solltest dich schämen!
+message_24:
+  text: \n<CUSTOMER?>Du störst meine Qualitätszeit mit mir selbst.\! Geh sofort!
+message_25:
+  text: Das ist nicht so gut gelaufen...\! Du solltest das richtige Haus finden.
+message_26:
+  text: Du hast diese Person bereits belästigt.
+message_35:
+  text: Der Fremde schnappte sich die PIZZA\c[3].
+message_36:
+  text: Das sind sie alle...\! Es ist Zeit, zurück zu GINO'S PIZZA zu gehen!
+message_37:
+  text: \n<PIZZA MAN>Hey, Neuling!\! Du bist genau der Typ, den ich sehen wollte!\!<br>Nach einigen kürzlichen Rückmeldungen scheint es, dass deine Kundenzufriedenheitsbewertung \v[823]/10 ist.
+message_38:
+  text: Allen Widrigkeiten zum Trotz hast du die \c[3]PIZZA\c[0] erfolgreich ausgeliefert.\!<br>Es ist Zeit, zur nächsten Bestellung überzugehen.
+message_39:
+  text: Du hast es nicht geschafft, die PIZZA auszuliefern!<br>Es ist Zeit, zur nächsten Bestellung überzugehen...
+message_41:
+  text: Du hast \c[4]PIZZA NOTES\c[0].
+message_42:
+  text: Du hast nicht alle \c[3]PIZZA\c[0] pünktlich geliefert.
+message_43:
+  text: Du kannst nicht gehen, ohne vorher die \c[3]PIZZA\c[0] abzuliefern.
+message_44:
+  text: \n<PIZZA MAN>Und da du so ein guter Sportsmann warst, hier ist ein weiteres Freebie!
+message_45:
+  text: \n<PIZZA MAN>Es ist einer meiner absoluten Lieblingssongs.
+message_46:
+  text: \n<PIZZA MAN>Du kannst es in der JUKEBOX gleich da drüben spielen!
+message_15:
+  text: ANSICHT NOTIZ
+message_16:
+  text: JOB KÜNDIGEN
+message_17:
+  text: NEVERMIND
+message_19:
+  text: Was würdest du gerne tun?
+message_18:
+  text: Nun...\! das kann nicht gut für das Geschäft sein.
+message_50:
+  text: \n<PIZZA MAN>Willst du also die guten oder die schlechten Nachrichten hören?
+message_51:
+  text: \n<PIZZA MAN>Ah, ich fange einfach mit den guten Nachrichten an.<br>\!Also die guten Nachrichten sind...\! wir haben heute drei verschiedene \c[3]PIZZA\c[0] Bestellungen bekommen!\!
+message_60:
+  text: \n<PIZZA MAN>Die schlechte Nachricht ist...\! unser Lieferjunge hat sich plötzlich wieder einmal krank gemeldet...
+message_52:
+  text: \n<PIZZA MAN>Diese Kunden sind alle unsere Stammkunden, deshalb haben wir schon vor langer Zeit aufgehört, ihre Adressen zu erfassen.
+message_61:
+  text: \n<PIZZA MAN>Ich kann mich aus dem Stegreif nicht erinnern, wo sie wohnen, aber ich weiß noch, wie ihre Häuser aussehen!
+message_53:
+  text: \n<PIZZA MAN>Hier! Nimm einfach diese Notizen und es wird dir gut gehen!
+message_54:
+  text: \n<PIZZA MAN>Sei nicht schüchtern!\! Trage deine Uniform laut und stolz!
+message_55:
+  text: \n<PIZZA MAN>Nun denk dran, du hast drei \c[3]PIZZAS\c[0] auszuliefern.\! Wenn du fertig bist, fährst du einfach mit dem Fahrrad zurück in den Laden.\! Ich zähle auf dich!
+message_100:
+  text: PIZZA MAN hat dir seine \c[4]PIZZA NOTES\c[0] gegeben.
+message_101:
+  text: \n<PIZZA MAN>Ich werde deine Uniform holen!

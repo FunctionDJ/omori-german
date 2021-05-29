@@ -1,0 +1,64 @@
+message_1:
+  text: \n<MR. SCARECROW>Ah, ein Fremder.<br>Danke, dass du dir die Zeit genommen hast, mit mir zu reden...
+message_2:
+  text: \n<MR. SCARECROW>Ich bitte um Entschuldigung, aber ich fürchte, ich muss dich mit einer Aufgabe belasten, die ich mit meinen eigenen Fähigkeiten nicht erfüllen kann.
+message_3:
+  text: \n<MR. SCARECROW>Vor kurzem und plötzlich raste ein Schurkenplanet mit alarmierender Geschwindigkeit über den Himmel.\! Meine drei liebsten Freunde gerieten in Panik und flogen in verschiedene Richtungen davon...
+message_4:
+  text: \n<MR. SCARECROW>Meine drei Freunde sind Krähen, weißt du, und sie sind weder die freundlichsten noch die einladendsten Kreaturen.
+message_5:
+  text: \n<MR. SCARECROW>Ich bin etwas misstrauisch, einen so großen Gefallen von einem völlig Fremden zu erbitten, aber es gibt nicht viele, die durch diese Felder gehen.
+message_6:
+  text: \n<MR. SCARECROW>Wenn ich fragen darf...\!<br>Wären Sie bereit, mir zu helfen, meine lieben Freunde zu finden?
+message_7:
+  text: \n<MR. SCARECROW>Oh, danke, Fremder!\!<br>Worte können nicht einmal ansatzweise ausdrücken, was mir das bedeutet.
+message_8:
+  text: \n<MR. SCARECROW>Nun werde ich geduldig auf ihre Rückkehr warten.\! Denn wie du sehen kannst... \! Ohne sie,\! Bin ich nur ein Stock im Dreck.
+message_9:
+  text: \n<MR. SCARECROW>Ich verstehe...\! Das ist sehr verständlich.\! Ich fürchte, diese Bitte ist zu viel verlangt von einem völlig Fremden.
+message_10:
+  text: \n<CROW>...
+message_11:
+  text: Die CROW will nicht mit dir reden.<br>Vielleicht wenn du jemand mehr...<br>Charmanteres wärst?
+message_12:
+  text: Die CROW will nicht mit dir reden.<br>Vielleicht wenn du jemand mehr...<br>Hübsches wärst?
+message_13:
+  text: Die CROW will nicht mit dir reden.<br>Vielleicht wenn du jemand wortgewandter wärst?
+message_14:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 36
+  text: \herHallo, kleiner Kerl.\!<br>Dein Freund MR. SCARECROW vermisst dich wirklich, weißt du?<br>Ich kann dir helfen, ihn zu finden, wenn du möchtest.
+message_15:
+  text: \n<CROW>Krächzen, krächzen!\!<br>(Bitte tu es, wenn es nicht zu sehr stört. Ich vermisse ihn auch!)
+message_16:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 36
+  text: \herHey, Kumpel.\!<br>Soll ich dich zu deinem Freund MR. SCARECROW zurückbringen?
+message_17:
+  text: \n<CROW>Caw!!!!\! (Ja! Ja! Ja! Wo ist mein Freund? Bring mich zu ihm!!)
+message_18:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 36
+  text: \ihrGrüße, mein gefiederter Freund.\!<br>Willst du wieder zu MR. SCARECROW?\!<br>Er kann es kaum erwarten, wieder bei dir zu sein.
+message_19:
+  text: \n<CROW>Krähe krächzen.\! (Ah, ja. Das wäre immens wünschenswert.)
+message_20:
+  text: \n<MR. SCARECROW>Meine Freunde...\! Wohin könnten sie geflogen sein?\!<br> Ich hoffe, es geht ihnen allen gut...
+message_21:
+  text: \n<MR. SCARECROW>Oh, danke, Fremder!\!<br>Worte können immer noch nicht ausdrücken, was mir das bedeutet.
+message_22:
+  text: Der CROW hat deine Gruppe verlassen, um bei seinem Freund zu sein.
+message_23:
+  text: \n<MR. SCARECROW>Nun werde ich auf die Rückkehr der anderen warten.\!<br>Denn wie du sehen kannst...\! Ohne sie,\! Bin ich nur ein Stock im Dreck.
+message_24:
+  text: \n<MR. SCARECROW>Meine Freunde! Sie sind alle zurückgekehrt!
+message_25:
+  text: \n<MR. SCARECROW>Ich kann dir nicht genug für deine Hilfe danken.\!<br>Nun ist es Zeit für mich, mich zu verabschieden.
+message_26:
+  text: \n<MR. SCARECROW>Auf Wiedersehen, lieber Fremder.\! Ich hoffe, wir werden uns eines Tages wiedersehen.
+message_29:
+  text: Du hast einen \c[13]5-LEAF CLOVER\c[0].
+message_27:
+  text: Eine einsame KRONE pickt im Dreck.<br>!Sie scheint dich nicht zu bemerken.
+message_28:
+  text: Die CROW scheint zufrieden zu sein.

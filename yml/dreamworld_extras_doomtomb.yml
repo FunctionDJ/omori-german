@@ -1,0 +1,255 @@
+message_0:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 20
+  text: \Es ist wirklich dunkel hier drinnen...
+message_1:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 46
+  text: \herUh-oh...\! Es sieht so aus, als ob wir nicht alleine sind!
+message_2:
+  text: \who\Quake[1]Hiss...\Quake[0]
+message_3:
+  text: \Quake[1]Hiss...^^ Hiss...^ Hiss...^ Hiss...^ Hiss...^ Quake[0]
+message_4:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 30
+  text: \kelHey! Sie zischen uns an!\! Das können wir nicht zulassen!\\!<br>Com[2]Erteilen wir ihnen eine Lektion!
+message_5:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 48
+  text: \herHuff...\! Huff...\! Okay, das ist der letzte.
+message_6:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 28
+  text: \kelmann... Was ist mit all dem Brot hier unten?<br>Jemand muss ein echtes Backproblem haben...
+message_53:
+  text: \who\sinv[1]Ohooooooooo...\sinv[0]
+message_54:
+  text: \who\sinv[1]Ohooooooooooooooooooo...\sinv[0]
+message_55:
+  text: \who\sinv[1]Ohoooooooooooooooooooooooooooo!!!
+message_60:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 31
+  text: \kel\Com[2]\sinv[1]\{PWWEEEEHHHHH!!!\!\}<br>Ewwwwwwwwww...\!\sinv[0] Was ist das alles?
+message_61:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 39
+  text: \Das...\! Das ist Allzweckmehl!
+message_62:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 7
+  text: \aub\Com[2]\sinv[2]\{ACHHOOOOOOO!!\sinv[0]\}\!<br>Urgh...\! Meine Nase juckt ganz schön...
+message_200:
+  text: \n<AKTUELLE MOLE>Hört sofort auf, ihr Nichtsnutze!\! Könnt ihr keine Gebrauchsanweisung lesen?\!<br> Ihr solltet euch schämen!
+message_201:
+  text: \n<AKTUELLE MOLE> Meine Familie und ich bewachen den Schatz dieser Krypta seit Generationen...\! Aber das Bewachen ist nicht einfach, wegen Leuten wie dir!
+message_202:
+  text: <br><br>Ich mag jetzt alt und gebrechlich sein... und meine Sehkraft mag nicht mehr so gut sein... und ich mag der Einzige sein, der noch übrig ist...<br><br>Aber ich habe ein ganzes Leben damit verbracht, dies zu tun, und ich bin wirklich gut darin geworden, zu bewachen, denke ich!
+message_203:
+  text: \n<AKTUELLE MOLE>Ich kann mich nicht einmal daran erinnern, was ich bewache, aber es ist wahrscheinlich das, was in dem wichtig aussehenden Safe in der linken Ecke des Raumes versteckt ist!
+message_204:
+  text: \n<AKTUELLES MOLE>Allerdings muss ich euch alle bitten, friedlich zu gehen.\! Da ich ein TATSÄCHLICHES MOLE bin, kann ich mich in 3 Sekunden aus dem Staub machen!
+message_205:
+  text: \n<AKTUELLE MOLE>Es gibt nichts Besonderes an diesem Ort.\! Wie wäre es also, wenn ich euch den Ärger erspare und euch hier rausbringe?
+message_206:
+  text: \n<AKTUELLE MOLE>Nun, das war einfach!\! Blinzle nicht! Ich bringe dich schneller wieder an die Oberfläche als ein heißes Messer durch Butter!
+message_207:
+  text: \n<AKTUELLE MOLE> Willst du bleiben und den Ort genießen?\! Na gut, wenn du darauf bestehst!
+message_208:
+  text: \n<AKTUELLES MOLE>Fühl dich frei, dich umzusehen und so...\! Dieser Beschwörungskreis mag alt sein, aber er funktioniert immer noch wie ein Zauber...\! aber keine komischen Sachen...\! oder sonst!
+message_209:
+  text: \n<ACTUAL MOLE>Hey, Partner! Du bist schon wieder da unten?\! Wie viele Jahre ist es her?
+message_210:
+  text: \n<ACTUAL MOLE>Spürst du den Juckreiz, zurück an die Oberfläche zu kommen?\! Du wirst nichts von dem, was du hier an den Schaltern findest, mitnehmen können!\! Ist das okay, Partner?
+message_211:
+  text: \n<ACTUAL MOLE>\{\{\sinv[1]YEEEEE-HAWWW!!!
+message_230:
+  text: \n<ACTUAL MOLE>Ich werde dich schneller wieder an der Oberfläche haben als ein heißes Messer durch Butter!
+message_212:
+  text: \n<ACTUAL MOLE>\com[2]Denke nicht einmal daran, den Safe zu öffnen! Hier gibt es definitiv keine Kombination oder so etwas!
+message_213:
+  text: Wie lautet die Safe-Kombination?
+message_217:
+  text: Und?
+message_214:
+  text: Willst du \c[4]ACTUAL MOLE\c[0] aufheben?<br>Es gibt vielleicht kein Zurück mehr...
+message_215:
+  text: \n<ACTUAL MOLE>\quake[1]\{WHAT IN TARNATION!?!?
+message_216:
+  text: Du hast \c[4]ACTUAL MOLE\c[0] aufgenommen.
+message_220:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 3
+  text: \aubOMORI! Du hast mich gerettet!
+message_221:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 1
+  text: \aubThank you... Ich dachte schon, ich wäre TOAST!
+message_222:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 33
+  text: \kel\quake[1]\com[2]\{AHHHHH!! WO BIN ICH!?
+message_223:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 16
+  text: \kelOh, hey Leute! Was habe ich verpasst?
+message_224:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 48
+  text: \herUrf...
+message_225:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 1
+  text: \aubWillkommen zurück, HERO! Wie geht es dir?
+message_226:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 48
+  text: \her fühle ich mich...\! schwindelig...
+message_227:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 46
+  text: \her\com[2]W-Whoa!\! Hey, wo sind wir?
+message_228:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 27
+  text: \kelIch weiß es nicht...\! Vielleicht ein Ort, wo alle verlassenen TOAST hingehen...
+message_229:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 46
+  text: \herWir sind ganz sicher nicht mehr TOAST!\! Beeilen wir uns und finden wir einen Weg hier raus!
+message_63:
+  text: \n<DOUGHIE>Wir wurden geboren, um für immer Brot zu backen, tagein, tagaus...\! \sinv[1]Frisches Brot...\| Frisches Brot...\| Frisches Brot...\sinv[0]
+message_64:
+  text: \n<DOUGHIE>Es ist ein hartes Leben...<br>und es ist nicht sehr lohnend...<br>aber das ist alles was wir haben...<br>Wir müssen einfach dankbar sein, richtig BISCUIT?
+message_65:
+  text: \n<BISCUIT>\sinv[1]Ohooo...\sinv[0]
+message_66:
+  text: \n<DOUGHIE>Das ist richtig, Bruder...\! Das war schon immer unser Leben...\! gefangen in einem endlosen Kreislauf aus Brot.
+message_67:
+  text: \n<BISCUIT>\sinv[1]Ohooooooooo...\sinv[0]
+message_68:
+  text: \n<DOUGHIE>\sinv[1]Ohooo\{oooooooooo\{oooooooooo...\sinv[0]
+message_69:
+  text: \n<BISCUIT UND DOUGHIE>\sinv[1]Ohooo\{ooooooooooooo\{ooooooooooo\{ooooooooooo...\sinv[0]
+message_70:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 19
+  text: \kelSo kam das Jammern also von hier!
+message_71:
+  text: \n<DOUGHIE>\Com[2]Ah!\! Das Brot...\! Es hat gesprochen!\!<br>Ich wusste, dass unser Brot irgendwann zurückkommen und uns heimsuchen würde...
+message_72:
+  text: \n<DOUGHIE>Komm, BISCUIT!<br>Wir müssen sie zerstören, bevor sie uns zuerst zerstören!
+message_73:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 31
+  text: \kelWarte eine Sekunde... Wir sind nicht..
+message_74:
+  text: \n<BISCUIT>\sinv[1]Ohooooooooo!\sinv[0]
+message_75:
+  text: \n<DOUGHIE>\sinv[1]Ohooo\{oooooooooooo\{oooooooooooo!!!\sinv[0]
+message_76:
+  text: \n<BISCUIT UND DOUGHIE>\sinv[1]Ohooo\{ooooooooooooo\{ooooooooooooooooo!!!\sinv[0]
+message_78:
+  text: \n<DOUGHIE>Huff...\! Huff...\! Wir haben keinen Saft mehr...\!<br>Es scheint...\|das ist das Ende für uns, BISCUIT...
+message_79:
+  text: \n<BISCUIT>\sinv[1]Ohoo...\sinv[0]
+message_80:
+  text: \n<DOUGHIE>\{\sinv[1]HURRAY! WIR SIND SIEGREICH!!
+message_81:
+  text: \n<BISCUIT>\sinv[1]Ohoo!\sinv[0]
+message_82:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 48
+  text: Hey...\! Geht es allen gut?\her
+message_83:
+  text: \n<DOUGHIE>Bruder!\! Das lebendige Brot ist wieder auferstanden!
+message_84:
+  text: \n<DOUGHIE>Aber wir haben keine Zutaten mehr...\! Vielleicht ist das das Ende für uns, BISCUIT...
+message_85:
+  text: \n<BISCUIT>\sinv[1]Ohooo...\sinv[0]
+message_86:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 31
+  text: \kel\Com[2]Warte!\! Wir sind kein Brot...\! Wir sind Kinder, genau wie ihr!
+message_87:
+  text: \n<DOUGHIE>Du...\! Du meinst, du bist nicht hier, um uns zu zerstören?
+message_88:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 1
+  text: \aubNatürlich nicht!\! Wir würden niemals unprovoziert angreifen!
+message_89:
+  text: \n<DOUGHIE>Hörst du das, BISCUIT?\! Wir sind gerettet!\! <br>Jetzt geht's wieder ans Backen...\!<br>\sinv[1]Frisches Brot...\|Frisches Brot...\|Frisches Brot...\sinv[0]
+message_90:
+  text: \n<BISCUIT>\sinv[1]Ohoo...\sinv[0]
+message_91:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 40
+  text: \herHey...also...\! Wie lange backt ihr hier schon Brot?<br>Willst du nicht nach draußen an die frische Luft gehen?
+message_92:
+  text: \n<DOUGHIE>\sinv[1]Ohoo...\sinv[0]\! Wenn das nur möglich wäre...\!<br>Wir sind hier gefangen seit der Entstehung des Universums...
+message_93:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 4
+  text: \aubWow... Das klingt nach einer ziemlich langen Zeit.\! Ich denke, ihr beide habt euch eine Pause verdient!
+message_94:
+  text: \n<DOUGHIE>\Com[2]Was? Das ist doch absurd!\ Welchen Sinn hat unser Leben, wenn wir es nicht mit Brotbacken verbringen?
+message_95:
+  text: \n<BISCUIT>\sinv[1]Ohoo? \sinv[0]
+message_96:
+  text: \n<DOUGHIE>Wenn wir unsere Brotstationen verlassen würden... was würden wir dann mit uns anfangen?\! Dies ist das einzige Leben, das wir kennen...
+message_97:
+  text: \n<DOUGHIE>Und doch...\! Meine morbide Neugierde überwältigt mich...
+message_98:
+  text: \n<DOUGHIE>Das Portal da oben ist in der Lage, uns von diesem Ort weg zu transportieren.
+message_99:
+  text: \n<DOUGHIE> Wir haben es unzählige Male benutzt, um unsere Brotbeschwörungen zu erfüllen, aber wir haben die andere Seite nie mit eigenen Augen gesehen...
+message_100:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 19
+  text: \kel Nun, das haben wir!\! Und lass mich dir sagen... Es ist eine große, fantastische Welt da draußen!\! Ich denke, es ist an der Zeit, dass ihr beginnt, neue Möglichkeiten zu erforschen!
+message_101:
+  text: \n<DOUGHIE>Hmm...\! Verlockend...
+message_102:
+  text: \n<DOUGHIE>Nun? Was denkst du, BISCUIT?
+message_103:
+  text: \n<BISCUIT>\sinv[1]Ohoo...
+message_104:
+  text: \Mhmm...Ich höre zu...Mhmm...Ja...Aber...Ah...Das ist wahr...
+message_105:
+  text: \n<DOUGHIE>Alles klar, wir haben unsere Meinung geändert...\!<br>Wir wollen gehen...\! Dieser Ort ist scheiße!
+message_106:
+  text: \n<BISCUIT>\sinv[1]Ohoo!\sinv[0]
+message_107:
+  text: \n<DOUGHIE>BISCUIT...\! Wir hatten immer Angst, das Portal zu benutzen...
+message_108:
+  text: \n<DOUGHIE>Aber vielleicht ist es Zeit für eine Veränderung...
+message_109:
+  text: \n<DOUGHIE>Komm schon, Bruder!\!<br>\Com[2]Lass uns unseren ersten Geschmack der Freiheit erleben!
+message_110:
+  text: \n<BISCUIT UND DOUGHIE>\sinv[1]OHOOOOO\{OOOOOOOOOO\{OOOOOOOOOOOO!!!\sinv[0]
+message_500:
+  text: Du hast \c[3]LIFE JAM\c[0] auf AUBREY benutzt.
+message_501:
+  text: Du hast \c[3]LIFE JAM\c[0] auf KEL benutzt.
+message_502:
+  text: Du hast \c[3]LIFE JAM\c[0] auf HERO benutzt.
+message_503:
+  text: AUBREY...\! aber TOAST.
+message_504:
+  text: KEL...\! aber TOAST.
+message_505:
+  text: HERO...\! aber TOAST.
+message_510:
+  text: \n<AKTUELLER GEIST>\com[2]Du bist es!\! Glaube nicht, dass ich vergessen habe, was du getan hast!\! Wie auch immer, nur weil ich jetzt ein Geist bin, heißt das nicht, dass ich mir nicht einen Weg hier raus graben kann.
+message_511:
+  text: \n<AKTUELLER GEIST>Wolltest du zurück an die Oberfläche gehen?\! Du wirst nichts von dem, was du hier an den Schaltern findest, mitnehmen können.
+message_512:
+  text: \n<AKTUELLES GEISTER>Okay...\! Aber keine komischen Sachen...\! Oder sonst!
+message_513:
+  text: \n<ACTUAL GHOST>\com[2]Ich habe dich schneller wieder an der Oberfläche als ein heißes Messer durch Butter!
+message_515:
+  text: Dieses PYRAMID GATE benötigt einen \c[4]PYRAMID KEY\c[0].
+message_517:
+  text: Der perfekte Ort für eine Opfergabe.
+message_518: {}

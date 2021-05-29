@@ -1,0 +1,150 @@
+message_0:
+  faceset: MainCharacter_Basil
+  faceindex: 33
+  text: \n<BASIL>O-Oh...\! Hi...\! \n[8]...
+message_1:
+  faceset: MainCharacter_Basil
+  faceindex: 33
+  text: \n<BASIL>Es ist schön, dich endlich wieder zu sehen...\! Haha...
+message_2:
+  faceset: MainCharacter_Basil
+  faceindex: 35
+  text: \n<BASIL>Warum... starrst du mich so an?
+message_4:
+  faceset: MainCharacter_Basil
+  faceindex: 36
+  text: \n<BASIL>U-Um...\! \n[8]?\! Ist...\! Ist alles in Ordnung?
+message_10:
+  text: \n<ANGEL>\Com[2]Was glotzt du denn so!? Nur damit du es weißt, ich bin zufällig ein Stammgast hier! Ich muss mich über die neuesten Comics informieren, bevor die Schule wieder anfängt!
+message_20:
+  text: \n<CHARLIE>...
+message_30:
+  text: \n<THE MAVERICK>\Com[2]Ah!\! Wenn das nicht KEL und \n[8] ist!
+message_31:
+  text: \n<THE MAVERICK>Du warst vielleicht Zeuge meiner Demütigung vorhin...\! aber jetzt ist es an der Zeit, dass ich, \Com[2]THE MAVERICK, mich noch einmal rehabilitiere!
+message_32:
+  faceset: MainCharacters_Faraway
+  faceindex: 17
+  text: \kelHuh? Worum geht es hier jetzt, MIKHAEL?
+message_33:
+  text: \n<THE MAVERICK>Grr...\! Verflucht seist du und dein freches Verhalten!
+message_34:
+  text: \n<THE MAVERICK>\Com[2]\{KEL!\!\Com[2] I CHALLENGE THEE TO A RACE!\}
+message_35:
+  faceset: MainCharacters_Faraway
+  faceindex: 22
+  text: \kel...Wirklich?! Ein Rennen?
+message_36:
+  faceset: MainCharacters_Faraway
+  faceindex: 24
+  text: \kel Ich weiß nicht...\! Ich bin ziemlich schnell...
+message_37:
+  text: \n<THE MAVERICK>\Com[2]Hah!\! Das sagst du jetzt!\!<br>Aber warte nur, bis du die Ergebnisse meines Trainings siehst!
+message_38:
+  faceset: MainCharacters_Faraway
+  faceindex: 22
+  text: \kel Ich meine es ernst, MIKHAEL.\! Es ist nur fair, dich zu warnen...\!<br>Ich bin schnell.\! Wie \SINV[1]REALLY\SINV[0] schnell.
+message_39:
+  faceset: MainCharacters_Faraway
+  faceindex: 14
+  text: \kelHey, ich weiß!\! Um die Dinge ein bisschen auszugleichen, kannst du deinen Roller benutzen, wenn du willst!
+message_40:
+  text: \n<THE MAVERICK>\[2]NICHT DU PATRONIZE MICH!!!\}
+message_41:
+  text: \n<THE MAVERICK>Komm schon, KEL!<br>Du hast geredet wie ein Wasserfall, aber kannst du auch gehen!?
+message_42:
+  faceset: MainCharacters_Faraway
+  faceindex: 25
+  text: \kelSeufz...\! Ich werde das wohl machen müssen, oder?
+message_43:
+  faceset: MainCharacters_Faraway
+  faceindex: 17
+  text: \kelSorry, \n[8].\! Das wird wirklich schnell gehen.
+message_44:
+  text: \n<THE MAVERICK>\Com[2]\{\SINV[1]REEEEAAAADYYYYYY!!\SINV[0]
+message_45:
+  faceset: MainCharacters_Faraway
+  faceindex: 17
+  text: \kelSet...
+message_46:
+  text: \n<THE MAVERICK und KEL>\Com[2]\SINV[1]GO\{OO\{OOO}{OOO\{OOO\{OOOOOOO!!!\SINV[0]
+message_47:
+  text: \n<THE MAVERICK>Huff...\! huff...\! huff...\! huff...\! Warte...\!<br>Ich...\! huff...\! Ich will ein Rematch...
+message_48:
+  faceset: MainCharacters_Faraway
+  faceindex: 22
+  text: \kel Ich glaube nicht, MIKHAEL...\!<br>Ich meine... Es ist schon ziemlich spät, nicht wahr?
+message_49:
+  text: \n<THE MAVERICK>Huff...\! huff...\! huff...\! huff...\! huff...\! huff...\! huff...\!
+message_50:
+  text: \n<THE MAVERICK>Huff...\! huff...\! huff...\! huff...\! huff...\! huff...\! huff...\!<br>Bitte...
+message_51:
+  text: \n<THE MAVERICK>Huff...\! Ich...\! huff...\! muss...\! huff...\! meine Ehre...\! verteidigen...\! huff...
+message_52:
+  faceset: MainCharacters_Faraway
+  faceindex: 17
+  text: \kelVielleicht ein anderes Mal...\! Ich und \n[8] werden jetzt gehen...\! Wir sehen uns später, MIKHAEL!
+message_53:
+  text: \n<THE MAVERICK>Huff...\! huff...\! huff...\! huff...\! huff...\! huff...\!<br>Verfluche dich, KEL...\! Huff...
+message_54:
+  text: \n<THE MAVERICK>Du hast noch nicht das letzte von...\ gesehen! \Com[2]THE MAVERICK...huff...
+message_60:
+  text: \n<SHORT HAIR GIRL>Ich glaube, ich habe heute die wahre Liebe meines Lebens gefunden...\!<br>Ich hoffe, er bemerkt mich!
+message_70:
+  text: \n<FASHIONABLE MOM>Schokolade ist der beste Freund eines Mädchens!<br>Obwohl...\! Diamanten sind auch ziemlich weit oben...
+message_80:
+  text: \n<STRANGE MAN>Der Dreck des Planeten...\! Es macht mich krank...\!<br>Wie sehr wünschte ich, ich könnte einfach...\! alles wegwischen.
+message_90:
+  text: \n<OLD BEARDY>Dieses Grundstück ist ziemlich ruhig, nicht wahr?\! Man hört den Trubel der Straßen hier überhaupt nicht...
+message_91:
+  text: \n<OLD BEARDY>Heh...\! Die einzigen Dinge hier sind wandernde Geister...\!<br>Oh, und ich, natürlich!
+message_92:
+  text: <br><br><br>Was soll dieser Blick?
+message_93:
+  text: \n<OLD BEARDY>\SINV[2]\Com[2]GWA\{HAH\{AHA\{HAHA\{HAHA!!\SINV[0]
+message_100:
+  text: \n<A TWIN>\SINV[1]Unsere Familie kommt einmal in der Woche in die \c[11]KIRCHE\c[0]...\SINV[0]
+message_101:
+  text: \n<THE OTHER TWIN>\SINV[1]Manchmal zweimal...\SINV[0]
+message_102:
+  text: \n<A TWIN>\SINV[1]Manchmal dreimal...\SINV[0]
+message_110:
+  text: \n<POLLY>Das Abendessen wird bald fertig sein.\!<br>Bitte fühl dich wie zu Hause!
+message_111:
+  text: \n<POLLY>Du fragst dich wahrscheinlich, wer ich bin, richtig?<br>Ich bin eigentlich niemand... nur eine Krankenschwester, die sich um BASILs Großmutter kümmert.
+message_112:
+  text: \n<POLLY>Vor ein paar Monaten haben BASILs Eltern mich als BASILs Betreuerin eingestellt, da sie häufig außer Landes reisen.
+message_113:
+  text: \n<POLLY>Ich versuche, so viel wie möglich für BASIL zu tun, während ich hier bin, aber...
+message_114:
+  text: \n<POLLY>Seitdem ich hier wohne, werde ich das Gefühl nicht los, dass BASIL versucht, mich zu meiden...
+message_115:
+  text: \n<POLLY>Ich frage mich, ob ich etwas falsch mache...
+message_120:
+  text: \n<PRECHER>Hmm...\! Normalerweise würde ich keinen Streit mitten in einer Predigt dulden...\! aber das schien wirklich wichtig zu sein.
+message_121:
+  text: \n<PRECHER>Das Mädchen AUBREY kommt seit ein paar Jahren jede Woche hierher, aber sie spricht nie mit jemandem.
+message_122:
+  text: \n<PRECHER>Ich habe ein paar Mal versucht, mich ihr zu nähern...<br>aber sie nennt mich immer wieder...ähm...ähm! schlimme Dinge...
+message_123:
+  text: \n<PRECHER>Sie scheint sehr beunruhigt zu sein.\! Vielleicht könnte sie einen Freund gebrauchen.
+message_130:
+  text: \n<PONYTAIL GIRL>Oh, hi!\! Ich habe einen Aufruhr in der Küche gehört.<br>Ist der Ehering meines Vaters wieder in die Spüle gefallen?<br>Er macht das immer...
+message_131:
+  text: \n<PONYTAIL GIRL>Er weiß nicht, dass ich es weiß, obwohl... Hehe...
+message_132:
+  text: \n<PONYTAIL GIRL>Allerdings, hi! Ich bin SARAH!\! Es ist schön dich kennenzulernen!
+message_133:
+  text: \n<PONYTAIL GIRL>Seitdem meine Mutter ihren Gesundheitswahn losgetreten hat, haben wir keine Chips oder Snacks mehr im Haus...\! aber...
+message_134:
+  text: \n<PONYTAIL GIRL>Ich denke, dass Karotten und Sellerie ziemlich gut schmecken...\! wenn sie in Ranch Sauce getunkt sind...
+message_140:
+  text: \n<CLUMSY GUY>Hmm...\! Hey Kinder, habt ihr eine große Tüte Kartoffelchips herumliegen sehen?\! Ich könnte schwören, dass ich neulich erst eine große Tüte Chips gekauft habe...
+message_150:
+  text: \n<PONYTAIL LADY>Meine Familie und ich wollen diese Woche eigentlich anfangen, uns gesund zu ernähren, aber der Geruch von \c[11]GINO'S PIZZA\c[0] ist so verlockend...
+message_151:
+  text: \n<PONYTAIL LADY>Seufz...\! Vielleicht ist etwas Fettiges hin und wieder okay...
+message_160:
+  text: \n<WELL-DRESSED LADY>Oh, Liebes...\! Schnüffel...\!<br>Es sieht so aus, als ob unser jüngster Sohn wieder nicht zur \c[11]KIRCHE\c[0] aufgetaucht ist...
+message_161:
+  text: \n<WELL-DRESSED MAN>Sigh...\! MIKHAEL...\! Wo bist du?\!<br>Warum musst du deine Mutter in Sorge versetzen?

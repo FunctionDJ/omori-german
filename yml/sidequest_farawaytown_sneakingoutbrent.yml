@@ -1,0 +1,58 @@
+message_1:
+  text: \n<SMART-LOOKING BOY>Oh, hey da, Tutor!
+message_2:
+  text: \n<SMART-LOOKING BOY>Umm...\! Eigentlich muss ich dich um einen großen Gefallen bitten...
+message_3:
+  text: <br>Ich war den ganzen Sommer über in diesem Raum eingepfercht...<br>Ich höre ständig die anderen Kinder draußen rumhängen, während ich an meinem Schreibtisch sitze und meine Nase in diese Arbeitsblätter stecke!
+message_4:
+  text: \n<SMART-LOOKING BOY>Sigh...\! Ich will einfach nur rausgehen und im Park spielen! <br>\!Selbst wenn es nur für einen Tag ist...
+message_5:
+  text: \n<SMART-LOOKING BOY>Meine Mutter hat gesagt, dass sie heute den ganzen Tag Besorgungen machen muss, also ist das wahrscheinlich die einzige Chance, die ich bekomme!
+message_6:
+  text: \n<SMART-LOOKING BOY>Könntest du mir helfen, das heutige Arbeitsblatt fertig zu machen?\!<br>Ich will nur... etwas frische Luft!
+message_7:
+  text: \n<SMART-LOOKING BOY>Real!?! Wow, du bist der beste Tutor überhaupt, Mister!\!<br>Danke, danke, danke!\! Endlich...
+message_9:
+  text: \n<SMART-LOOKING BOY>\SINV[1]\{\{I'M FREEEEEEEEEEEEEEEEE!!\SINV[0]
+message_10:
+  text: \n<SMART-LOOKING BOY>Oh...\! Okay...\! Ich verstehe...\! Tut mir leid, dass ich das angesprochen habe.\!<br>Bitte sag es nicht meiner Mutter...
+message_11:
+  text: BRENTs Mathe-Arbeitsblatt.\! Hast du es fertig?
+message_12:
+  text: 7 + 2 x 9 =
+message_13:
+  text: A) 81
+message_14:
+  text: B) 25
+message_15:
+  text: C) 126
+message_16:
+  text: 5x^2 = 80.\! Was bedeutet 'x'?
+message_17:
+  text: A) 4, -4
+message_18:
+  text: B) 10, -10
+message_19:
+  text: C) 8, -8
+message_20:
+  text: Und dann die letzte Frage auf dem Blatt...
+message_21:
+  text: Berechne die Standardabweichung der folgenden Zahlen...
+message_22:
+  text: 43, 47, 53, 39, 40, 60<br>\!Gib dann den z-score für einen Wert von 100 an, gerundet auf die nächste dritte Dezimalstelle.
+message_23:
+  text: A) 7.000
+message_24:
+  text: B) 47.474
+message_25:
+  text: C) 7.461
+message_26:
+  text: Du hast das Mathe-Arbeitsblatt von BRENT ausgefüllt.
+message_27:
+  text: \n<SMART-LOOKING BOY>Oh...hallo.\! Sorry, ich sollte zurück zum Lernen gehen...
+message_28:
+  text: Du solltest zuerst das Arbeitsblatt ausfüllen.
+message_200:
+  text: \n<SMART-LOOKING BOY>Sigh...\! Es wäre schön, zur Abwechslung mal nach draußen zu gehen und zu spielen...
+message_1000:
+  text: WÄHLEN WILLKÜRLICH

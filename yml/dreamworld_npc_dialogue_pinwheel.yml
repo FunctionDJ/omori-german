@@ -1,0 +1,98 @@
+message_0:
+  text: \n<HOT DIGGITY DOG>Hot...\! diggity...\! dog!\! Ich bin's!\! Ein heißer Diggity Dog!
+message_1:
+  text: \n<SPELLING BEE>H-\!E-\!L-\!L\!-O!\! I\! A-\!M\! T-\!H-\!E\!<br>S-\!P-\!E-\!L-\!L-\!I-\!N-\!G\! B-\!E-\!E-\!E-\!E-\!E-\!E-\!E-\!E-\!E-\!E-\!E-\!E-\!E-\!E-\!E-\!E-\!E-\!E!
+message_2:
+  text: \n<GATOR GUY>Heh heh heh...heh heh...\!\!heh... \heh...heh...heh
+message_3:
+  text: \n<GATOR GUY>Kek kek kek...\!\} kek kek...\!\!\.. \kek...\!\}
+message_4:
+  text: \n<GATOR GUY>Over.
+message_5:
+  text: \n<GIBS DER STATIONÄRE MUSIKER>Hallo, Kinder!\! Ich bin GIBS, der STATIONÄRE MUSIKER!\!<br>Ich war mal ein REISENDER MUSIKER, aber ich habe dieses Leben schon vor langer Zeit verlassen.
+message_6:
+  text: \n<GIBS THE STATIONARY MUSICIAN>Wäre es möglich, dass du 5 CLAMS entbehren kannst? Sie g'w'rden<br>eine große Hilfe sein, da ich komplett stationär bin.\!<br>Ich zeige dir etwas \SINV[1]g'wood\SINV[0] wenn du es tust!\$
+message_7:
+  text: \n<GIBS THE STATIONARY MUSICIAN>Danke für deine Spende!\! Nun, als Gegenleistung...<br>Lass mich dir das Lied meines Volkes spielen.
+message_8:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 3
+  text: \aubWow, Sir! Das war wirklich erstaunlich..
+message_9:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 3
+  text: \aub...
+message_10:
+  text: Du fandest den Song ziemlich \SINV[1]g'wood\SINV[0].
+message_51:
+  text: 'YES'
+message_52:
+  text: Du hast nicht genug CLAMS.
+message_11:
+  text: \wisHallo, ich bin der WISE ROCK!\!<br>Ich gebe solide Ratschläge im Austausch für CLAMS!
+message_12:
+  text: \wisWelche Art von Ratschlag möchtest du von mir hören?
+message_13:
+  text: \wis... \!Verstanden!\! Hier ist dein Ratschlag.
+message_14:
+  text: \wis...\! Ich hoffe das hilft!
+message_20:
+  text: \wisAlles ist okay, solange du nicht erwischt wirst!
+message_21:
+  text: \wis\QUAKE[1]\{Alles \Com[2]\{Alles \Com[2]\{Zeit!!!!}\}\\QUAKE[0]
+message_22:
+  text: \wisWhen life gives you lemons...\! Starte einen \c[3]LEMONADE\c[0] Stand vor einer \c[11]TRAIN STATION\c[0] und verschenke kostenlose \c[4]TRAIN PASSES\c[0] mit jedem Kauf von \c[3]LEMONADE\c[0].
+message_23:
+  text: \wisHöre auf die Ratschläge von allen.
+message_24:
+  text: \wisDon't be ugly.
+message_25:
+  text: \wisNicht jeder Rat ist ein guter Rat.
+message_26:
+  text: \wisNimm niemals Augenkontakt auf, während du eine Banane isst.
+message_27:
+  text: \wisEs ist nicht klug, auf den Rat eines Felsens zu hören.
+message_28:
+  text: \wisDeine Probleme werden dich irgendwann einholen.
+message_29:
+  text: \wisZwischen der Erde und dem Mond liegen etwa 238.900 Meilen.
+message_30:
+  text: \wisFolge deinem Herzen, aber vergiss nicht, deinen Verstand mitzunehmen!
+message_31:
+  text: \wisTue heute etwas, wofür du dich morgen bedanken wirst!
+message_32:
+  text: \wisSchmerz hält nicht ewig an.
+message_33:
+  text: \wisDas Leben ist kurz, also lächle solange du noch Zähne hast!
+message_34:
+  text: \wisWenn die Gelegenheit nicht anklopft, kannst du immer noch eine Tür bauen!
+message_35:
+  text: Du hast nicht genug CLAMS.
+message_36:
+  text: \wisFühl dich frei, jederzeit für Ratschläge zurückzukommen!
+message_37:
+  text: GUTER RAT (30 MUSCHELN)
+message_38:
+  text: SCHLECHTER RAT (3 MUSCHELN)
+message_39:
+  text: OKAY BERATUNG (10 MUSCHELN)
+message_41:
+  text: NO ADVICE
+message_40:
+  text: \n<SPELLING BEE>H-\!O-\!W\! A-\!R-\!E\! Y-\!O-\!U\! T-\!H-\!I-\!S\! F-\!I-\!N-\!E\! B-\!E-\!E-\!V-\!E-\!N-\!I-\!N-\!G?\!<br>I-\!S-\!N'-\!T \!T-\!H-\!E \!W-\!E-\!A-\!T-\!H-\!E-\!R \!J-\!U-\!S-\!T \!B-\!E-\!E-\!E-\!E-\!E-\!E-\!E-\!E-\!E-\!E-\!E-\!E-\!A-\!U-\!T-\!I-\!F-\!U-\!L?
+message_50:
+  text: \n<SPELLING BEE>W-\!H-\!Y \!H-\!E-\!L-\!L-\!O \!T-\!H-\!E-\!R-\!E! \!I-\!T'-\!S \!Y-\!O-\!U \!A-\!G-\!A-\!I-\!N!\!<br>H-\!O-\!W \!H-\!A-\!V-\!E \!Y-\!O-\!U \!B-\!E-\!E-\!E-\!E-\!E-\!E-\!E-\!E-\!E-\!E-\!E-\!E-\!E-\!E-\!N?
+message_60:
+  text: \n<SPELLING BEE>B-\!E-\!E-\!E-\!E-\!E-\!E-\!E-\!E-\!E-\!E-\!E-\!E-\!E-\!E-\!E-\!E-\!E-\!E-\!E-\!E-\!E-\!E-\!S!
+message_61:
+  text: \n<MR. PARROT>\quake[1]Squak.\quake[0] (Zeile beginnt hier.)
+message_100:
+  text: \n<TRAIN STATION JASH>\com[2]Halte genau dort an!\! Du kannst nicht ohne einen \c[4]TRAIN PASS\c[0] passieren!\! Duh!
+message_101:
+  text: \n<TRAIN STATION JASH>\com[2]Bleib genau da stehen!\! Du kannst nicht passieren ohne..
+message_102:
+  text: \n<TRAIN STATION JASH>Whoa...\! Das ist ein \c[4]TRAIN PASS\c[0]...\! Ihr müsst die letzten Passagiere sein!\! Wir haben schon sehr lange auf euch gewartet.
+message_103:
+  text: \n<TRAIN STATION JASH>Tja...\! Das ist eine Entwarnung von mir!\! Willkommen an Bord, Gönner!
+message_104:
+  text: \n<TRAIN STATION JASH>Willkommen an Bord, Patrons!

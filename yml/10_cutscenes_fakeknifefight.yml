@@ -1,0 +1,214 @@
+message_0:
+  faceset: MainCharacters_Faraway
+  faceindex: 17
+  text: Also...\! Wo willst du jetzt hin, \n[8]?\kel
+message_1:
+  faceset: MainCharacters_Faraway
+  faceindex: 19
+  text: Ich schätze, in den Vororten gibt es wirklich nicht viel zu tun, oder?
+message_2:
+  faceset: MainCharacters_Faraway
+  faceindex: 14
+  text: Oh, wie wäre es mit dem \c[11]FARAWAY PARK\c[0]?\! Ja, der Park! \kel
+message_3:
+  faceset: MainCharacters_Faraway
+  faceindex: 12
+  text: Wir sind auf dem Weg hierher daran vorbeigefahren.\kel
+message_4:
+  faceset: MainCharacters_Faraway
+  faceindex: 14
+  text: Das hört sich lustig an, nicht wahr?\kel
+message_20:
+  text: Warte, geh nicht!\! Bitte! \who
+message_21:
+  text: Tut mir leid, Kumpel. Ich kann dir nicht helfen. Du bist auf dich allein gestellt!
+message_22:
+  faceset: MainCharacters_Faraway
+  faceindex: 18
+  text: Oh-oh...\! Da drüben ist ein ziemlicher Tumult im Gange.\kel
+message_23:
+  faceset: MainCharacters_Faraway
+  faceindex: 18
+  text: Schauen wir es uns an.\kel
+message_24:
+  text: Das geht mich nichts an!<br>Wenn du Streit mit ihr hast, dann rede selbst mit ihr, du Fiesling!
+message_25:
+  text: Ich flehe dich an.\! Bitte sie einfach, es zurückzugeben.\who
+message_26:
+  text: Sie hört nicht auf mich...\who
+message_27:
+  faceset: MainCharacters_Faraway
+  faceindex: 17
+  text: Warte...\! Ist das...?\kel
+message_28:
+  faceset: MainCharacters_Faraway
+  faceindex: 23
+  text: Das ist BASIL!\! Lass ihn in Ruhe, du Rüpel!\kel
+message_29:
+  text: Huh?\! Wer ist da?\who
+message_30:
+  text: Oh, es ist nur KEL...\! Grummel, grummel...\who
+message_31:
+  text: Warum kümmerst du dich nicht um deinen eigenen Kram?
+message_32:
+  faceset: MainCharacters_Faraway
+  faceindex: 23
+  text: Nun, warum gehst du nicht und belästigst jemand anderen, Kim?
+message_33:
+  text: Psh.\! Na, du tust ja ganz schön hochmütig?\kim
+message_34:
+  text: Du machst hier nicht die Regeln!
+message_35:
+  text: \Com[2]\WHAT'S GOIN' ON OVER THERE!?\who
+message_36:
+  text: Oh, hey AUBREY...\!<br>Dieser Nerd KEL ist gerade aufgetaucht und denkt, er kann <br>mich herumkommandieren!\! Zeigen wir ihm, wo's langgeht!\kim
+message_37:
+  faceset: MainCharacters_Faraway
+  faceindex: 0
+  text: KEL...\! Was willst du?\aub
+message_38:
+  faceset: MainCharacters_Faraway
+  faceindex: 23
+  text: Hör auf, dich mit BASIL anzulegen!\! Wie konntest du nur?\!<br> Wir alle waren mal Freunde, erinnerst du dich nicht?
+message_39:
+  faceset: MainCharacters_Faraway
+  faceindex: 3
+  text: ...\! \n[8] ist hier? \aub
+message_40:
+  faceset: MainCharacters_Faraway
+  faceindex: 0
+  text: Wow, das bist wirklich du.<br>Es ist schon eine Weile her, aber du hast dich kein bisschen verändert.<br>
+message_41:
+  faceset: MainCharacters_Faraway
+  faceindex: 10
+  text: Wie lange ist es her, dass du dein Haus verlassen hast?\!<br>Drei Jahre...\! Vielleicht vier?\!<br>Muss schön gewesen sein, in deiner eigenen kleinen Blase zu leben.\aub
+message_42:
+  faceset: MainCharacters_Faraway
+  faceindex: 21
+  text: Pass auf, AUBREY!<br>Du weißt nicht, was er durchgemacht hat.<br>
+message_43:
+  faceset: MainCharacters_Faraway
+  faceindex: 2
+  text: Hmpf...\! Was auch immer.\aub
+message_44:
+  faceset: MainCharacter_Basil
+  faceindex: 34
+  text: AUBREY!\! Bitte...\! Hör mir zu...\bas
+message_45:
+  faceset: MainCharacters_Faraway
+  faceindex: 23
+  text: Hey, hör auf damit!\kel
+message_46:
+  faceset: MainCharacters_Faraway
+  faceindex: 3
+  text: Lass es gut sein, KEL. Das ist nicht dein Problem.\aub
+message_47:
+  faceset: MainCharacters_Faraway
+  faceindex: 23
+  text: Was zur Hölle ist los mit dir, AUBREY!?
+message_48:
+  faceset: MainCharacters_Faraway
+  faceindex: 21
+  text: Ugh... \n[8]!\! Komm schon! Wir müssen etwas tun!\kel
+message_49:
+  faceset: MainCharacters_Faraway
+  faceindex: 10
+  text: Haha...\! Wollt ihr euch wirklich streiten?\aub
+message_50:
+  faceset: MainCharacters_Faraway
+  faceindex: 11
+  text: Klar, warum nicht?\!<br>Ihr beide gegen mich! Wie hört sich das an?<br>Com[2]Komm auf mich zu!<br>! Ich werde es mit euch beiden aufnehmen!\aub
+message_70:
+  text: Oh, verdammt...\! AUBREY, bist du okay?! Du bist... Du bist verletzt...\kim
+message_71:
+  faceset: MainCharacters_Faraway
+  faceindex: 6
+  text: Mir geht es gut...\aub
+message_72:
+  text: Nein, bist du nicht! Du blutest!!!<br>Komm, wir müssen dich hier rausholen!
+message_73:
+  faceset: MainCharacters_Faraway
+  faceindex: 6
+  text: Ugh...\! Das wirst du mir heimzahlen...\aub
+message_74:
+  faceset: MainCharacters_Faraway
+  faceindex: 19
+  text: <br>Gut, dass du dein Messer dabei hattest, sonst hätten wir...<br>
+message_75:
+  faceset: MainCharacters_Faraway
+  faceindex: 23
+  text: \Com[2]W-Warte eine Sekunde!\! Gib mir das! \kel
+message_76:
+  text: KEL hat dein \c[13]STEAKMESSER\c[0] weggenommen.
+message_77:
+  faceset: MainCharacters_Faraway
+  faceindex: 22
+  text: Du solltest so etwas nicht mit dir herumtragen, \n[8]...\! Das ist gefährlich!\kel
+message_78:
+  faceset: MainCharacters_Faraway
+  faceindex: 19
+  text: Seufz...\! AUBREY hat sich wirklich verändert, seit du sie das letzte Mal gesehen hast.\!<br>Sie und ihre neuen Freunde haben nichts als Ärger gemacht.\kel
+message_79:
+  faceset: MainCharacters_Faraway
+  faceindex: 20
+  text: Armer BASIL...\kel
+message_80:
+  faceset: MainCharacters_Faraway
+  faceindex: 20
+  text: Lass uns nachsehen, ob es ihm gut geht.\kel
+message_100:
+  faceset: MainCharacters_Faraway
+  faceindex: 18
+  text: Hey, BASIL. Wie geht es dir? \kel
+message_101:
+  faceset: MainCharacter_Basil
+  faceindex: 32
+  text: Ah...\! Mir geht es gut...\! Danke...\! KEL...\bas
+message_102:
+  faceset: MainCharacters_Faraway
+  faceindex: 17
+  text: Ich weiß nicht, ob du es bemerkt hast, aber \n[8] ist auch hier!<br>Sage hallo, \n[8]!\kel
+message_103:
+  faceset: MainCharacter_Basil
+  faceindex: 33
+  text: Oh...\! Hey, \n[8].\! Es ist schon eine Weile her, nicht wahr?\! <br>Haha...\bas
+message_104:
+  faceset: MainCharacters_Faraway
+  faceindex: 14
+  text: \WOO-HOO!\[1]WOO-HOO! WAS FÜR EIN GLÜCKLICHES WIEDERSEHEN!!!}
+message_105:
+  faceset: MainCharacters_Faraway
+  faceindex: 14
+  text: Also, wolltest du heute mit uns abhängen?
+message_106:
+  faceset: MainCharacter_Basil
+  faceindex: 32
+  text: O-Oh...\! Es tut mir leid...\! Ich würde gerne, aber...\!<br>Ich...\! Ich sollte wahrscheinlich nach Hause gehen.\bas
+message_107:
+  faceset: MainCharacters_Faraway
+  faceindex: 17
+  text: Hm? Echt jetzt? Bist du sicher?
+message_108:
+  faceset: MainCharacter_Basil
+  faceindex: 34
+  text: Meine, ähm...\! Meiner Oma ging es in letzter Zeit nicht so gut.\bas
+message_109:
+  faceset: MainCharacters_Faraway
+  faceindex: 19
+  text: Oh, das tut mir leid zu hören.\kel
+message_110:
+  faceset: MainCharacters_Faraway
+  faceindex: 12
+  text: Lass uns dich wenigstens nach Hause begleiten!<br>Es ist schon so lange her, dass wir alle zusammen abgehangen haben!<br>
+message_111:
+  faceset: MainCharacter_Basil
+  faceindex: 33
+  text: O-Oh...\! A-Alles klar dann...\! Danke.\bas
+message_112:
+  faceset: MainCharacters_Faraway
+  faceindex: 12
+  text: Da ist das Haus von BASIL!\! Es ist das mit dem grünen Dach!\kel
+message_123:
+  faceset: MainCharacter_Basil
+  faceindex: 32
+  text: Ähm...\! Wolltet ihr mich nicht gerade absetzen?\bas

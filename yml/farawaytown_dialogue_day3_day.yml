@@ -1,0 +1,138 @@
+message_0:
+  text: \n<ANGEL>Sieh dir all diese super seltenen und teuren Sammelkarten an...\!<br>Ich möchte meine Sammlung vervollständigen, aber ich habe nur $5.00 dabei!\! Mann, es ist scheiße, ein Kind zu sein...
+message_1:
+  text: \n<ANGEL>\Com[2]Whoa, was ist das denn!? \! Da ist ein frischer $20.00 Schein in meiner Gesäßtasche!\! Das muss mein Glückstag sein!\! \SINV[2]Fufufufu...\SINV[0]\! Ich schätze, ich kann mir heute mindestens eine super seltene Karte leisten...
+message_2:
+  text: ANGEL ist fest gefroren.<br>Es wird wohl noch eine Weile dauern, bis er sich erholt.
+message_10:
+  text: \n<CHARLIE>\}Hallo...
+message_11:
+  text: \n<CHARLIE>\}Hier...\! Das ist für dich...
+message_12:
+  text: Du hast einen \c[4]FLOWER CLIP\c[0].
+message_13:
+  text: \n<CHARLIE>\}Blumen sind so schön...
+message_20:
+  text: \kim\Com[2]Hey, na sieh mal einer an! Es sind AUBREY und die Nerds!
+message_21:
+  faceset: MainCharacters_Faraway
+  faceindex: 11
+  text: \aubHey, KIM! Wie läuft's denn so?
+message_22:
+  text: \kimOh, weißt du...\! Ziemlich gut, ziemlich gut...
+message_23:
+  text: \kimMein Dad hat gesagt, dass er uns heute Abend auf eine kranke Party mitnehmen wird...\! sollte cool sein.
+message_24:
+  text: \van\sinv[1]Awwwwwwwwwwww, yeah! Wir werden feiern!
+message_30:
+  text: \n<MAVERICK>Ich habe den ganzen Tag versucht, dieses Videospiel zu schlagen, aber es tritt mir in den Hintern.\! Seufz...\! Warum ist es so schwer, etwas zu finden, in dem ich, \Com[2]THE MAVERICK, tatsächlich gut bin!?
+message_40:
+  text: \vanKIM redet viel, aber sie hat ein großes Herz.\!<br>Und ich?\! Ich habe ein paar große Muskeln.
+message_50:
+  text: \artAhh...\! Endlich etwas Ruhe und Frieden...
+message_60:
+  text: \n<AUBREY'S MOM>...
+message_70:
+  text: \n<Kurzhaar-Mädchen>Ich habe meiner großen Schwester von meinem Schwarm erzählt!\! Sie wollte, dass ich ihn ihr zeige, also stehen wir da, wo er normalerweise mit seinen Freunden rumhängt...
+message_80:
+  text: \Oh, ich frage mich, was ich heute Abend für meine Töchter kochen soll...
+message_81:
+  text: \n<FASHIONABLE MOM>Obwohl...\! Ich koche nicht sehr oft, also sollte ich mich vielleicht für Take-Out entscheiden.
+message_90:
+  text: \n<INTIMIDATING GIRL>Als BEBE mir von ihrem Schwarm erzählte, musste ich ihn selbst sehen.\! Bis jetzt ist er noch nicht aufgetaucht... aber BEBE hat mir erzählt, dass wir nach jemandem mit einer offensichtlich falschen blonden Perücke suchen.
+message_91:
+  text: \n<INITIATIVES MÄDCHEN>Seufz...\! BEBE hat einen ziemlich schlechten Geschmack bei Jungs...\!<br>Wer wird sich um sie kümmern, wenn ich zurück aufs College gehe?
+message_92:
+  text: \n<INITIATIVES MÄDCHEN>Aye! HERO, du bist es! Teehee...\! Es ist so komisch, dich wieder hier zu sehen, anstatt in der Schule.
+message_93:
+  text: \n<INTIMIDATING GIRL>Ich nehme an, du besuchst auch deine Familie...\! Familie ist toll und so, aber ich kann es nicht erwarten, wieder zu meinen Freunden zu kommen... Zu Hause passiert nie etwas Interessantes, weißt du?
+message_100:
+  text: \n<SMART-LOOKING BOY>Hey, Tutoren. Danke, dass ihr mir mit den Arbeitsblättern geholfen habt...\!<br>Ich glaube, ich kann sie jetzt selbst machen...
+message_101:
+  text: \n<SMART-LOOKING BOY>\}Psst...\! Aber wofür ich mich wirklich bedanken wollte, ist, dass ich mich gestern rausschleichen durfte...\! Hehehe...\! Du bist der coolste Tutor aller Zeiten!
+message_110:
+  text: \n<SCHULLEITER>\}Wie ich schon sagte...\! kannst du es glauben...\! und sie...\! aber dann...\! mhmm...
+message_120:
+  text: <br>Die Geister heulen schon den ganzen Tag...<br>Ich bete für diese Nachbarschaft.<br>Jemand wird heute Nacht trauern.
+message_130:
+  text: \n<YELLOW BUN GRANNY>Oh, ich sehe du hast Freunde gefunden!\!<br>Hallo! Herzlich willkommen!
+message_131:
+  text: \n<YELLOW BUN GRANNY>Ihr seid alle so nett, eine einsame alte Dame an so einem schönen Tag zu besuchen.\! Ich bin mir sicher, dass es viel bessere Dinge gibt, die ihr mit eurer Zeit machen könntet.
+message_140:
+  text: \n<ALL-AMERICAN GUY>\Com[2]Hey! Das war ein später Hit!\! \Com[2]Wo zur Hölle ist die Flagge!?
+message_150:
+  text: \n<ALL-AMERICAN MOM>Der letzte Kuchen, den ich gebacken habe, roch ein wenig seltsam, als ich ihn aus dem Ofen nahm...\! Ich hoffe, ich verliere nicht mein Gespür!
+message_160:
+  text: \n<Ein Zwilling>Unser kleiner Bruder MIKHAEL ist dazu bestimmt, ein Bäckermeister zu werden...
+message_161:
+  text: \n<THE OTHER TWIN>Sobald wird er sein Schicksal akzeptieren...\! Es gibt kein Entkommen...
+message_162:
+  text: \n<A TWIN>\SINV[1]Dummer kleiner Bruder...\SINV[0]
+message_163:
+  text: \n<THE OTHER TWIN>\SINV[1]Dummer kleiner Bruder...\SINV[0]
+message_170:
+  text: \n<HEADPHONES KID>Seufz...\! Als ich jünger war, hatte ich zwei wirklich gute Freunde namens BRENT und JOY, aber sie fingen an, super ernst mit der Schule zu werden, also habe ich aufgehört, mit ihnen rumzuhängen.
+message_171:
+  text: \n<HEADPHONES KID>Ich frage mich, wie es ihnen heutzutage geht...
+message_180:
+  text: \n<WRINKLY FOREHEAD>Ich bin mir nicht wirklich sicher wie, aber dieser Müllhaufen ist über Nacht hier aufgetaucht.\! Ich habe das Gefühl, dass die RECYCULTISTS dahinter stecken...
+message_181:
+  text: \n<WRINKLY FOREHEAD>Sigh...\! Ich werde hier ewig putzen müssen.
+message_190:
+  text: \n<KLEINES MÄDCHEN>Mein großer Bruder MICHAEL hat mir erzählt, dass er heute von zu Hause weggeht, um Musiker zu werden...
+message_191:
+  text: \n<KLEINES MÄDCHEN>Ich sollte es eigentlich nicht... aber ich habe Dad aus Versehen davon erzählt.<br>Ich hoffe, MICHAEL wird nicht sauer auf mich sein...
+message_200:
+  text: \n<THICK EYEBROWS>Sniff...\! Oh...\! Ich war die letzten Jahre so hart zu MICHAEL...
+message_201:
+  text: \n<THICK EYEBROWS>Ich...\! Ich hoffe, dass ich ihn eines Tages wiedersehen werde...\! Vielleicht sogar im Fernsehen! Haha!
+message_210:
+  text: \n<PIGTAILS LADY>Danke nochmal für all eure Hilfe.<br>\!Ihr seid alle so echt nette Leute!
+message_221:
+  text: \n<CHECKERS GUY>Sieh dich heute Abend auf der Party! Wir werden auf dich warten!
+message_230:
+  text: \n<KEL'S DAD>Ihr solltet alle später am Abend vorbeikommen.\!<br>Du wirst auf jeden Fall einige meiner leckeren \c[3]HAMBURGERS\c[0] probieren wollen!
+message_231:
+  text: \n<KEL'S DAD>Aber für den Moment, geht und amüsiert euch.\!<br>Das Wetter ist heute großartig!
+message_240:
+  text: \n<KEL'S MOM>Tja, hallo Jungs! Schön zu sehen, dass ihr endlich etwas Zeit mit mir verbringt!
+message_241:
+  text: \n<KEL'S MOM>Bitte, bleib noch eine Weile.\!<br> Wir haben heute das beste Wetter!
+message_250:
+  text: \n<GRUFF GUY>Hey! Weißt du, ich habe einen Sohn und eine Tochter in deinem Alter.\! Ihre Namen sind VANCE und KIM!
+message_251:
+  text: \n<GRUFF GUY>Ihre Mutter und ich sind getrennt, seit sie klein waren...
+message_252:
+  text: \n<GRUFF GUY>Ich sehe sie nicht so oft, wie ich es gerne hätte, also stelle ich sicher, dass ich sie mit \c[3]CANDY\c[0] verwöhne, wenn ich sie sehe! Heh heh...
+message_254:
+  text: \n<GRUFF GUY>Sie sind gute Kinder... wirklich!\! Ich mache mir manchmal Sorgen um sie, da sie immer in Schwierigkeiten zu geraten scheinen, aber wenigstens haben sie sich gegenseitig...
+message_260:
+  text: \n<RED-GLASSES LADY>\}Das war wie die Zeit, als wir...\! ja...\! und dann...\! ehrlich gesagt, ich denke, dass...\! ja, definitiv...
+message_270:
+  text: \n<GOOD DOG>\SINV[1]Awwwwo\{ooo\{ooo!\!\SINV[0]\QUAKE[1] \{Arf, arf, arf!\QUAKE[0]
+message_280:
+  text: \n<POLLY>BASIL war in letzter Zeit ganz alleine, also ist er sicher einsam...
+message_281:
+  text: \n<POLLY>Es ist schön zu wissen, dass BASIL Freunde hat, die sich so sehr um ihn sorgen.
+message_290:
+  text: \n<PRECHER>Ach, ich fürchte, wir werden heute keine Predigt halten, aber du kannst diesen Ort gerne nutzen, um deine Gedanken zu sammeln.\! Jeder ist hier willkommen.
+message_300:
+  text: \n<SALLY>\SINV[1]Abuuuu... Ubuuubuuuubuu...\SINV[0]
+message_301:
+  text: SALLY verzog ihr Gesicht zu einer seltsamen Form.
+message_302:
+  text: SALLY hat an deiner Nase gezogen.
+message_303:
+  text: SALLY hat sich auf deinen Fuß gesetzt.
+message_304:
+  text: SALLY hat sich umgedreht.
+message_310:
+  text: \n<PONYTAIL GIRL>\sinv[1]Woo!\sinv[0]\! Mama sagt, dass wir heute Abend zu "GINO'S PIZZA" gehen dürfen!
+message_320:
+  text: \n<CLUMSY GUY>\SINV[1]Zzzzzzzzz...\! Schnarchen...\SINV[0]
+message_330:
+  text: \n<PONYTAIL LADY>Das...\! sniff...\! ist mein Lieblingsfilm überhaupt...\! sniff...
+message_340:
+  text: \n<CHECKERS GUY>Hey, Leute! Nur zur Erinnerung, dass wir heute Abend unsere Einweihungsparty feiern.\!<br>Jeder in der Straße ist eingeladen!
+message_341:
+  text: \n<CHECKERS GUY>Hoffe, dich heute Abend zu sehen!<br>Wir werden viel Essen haben.

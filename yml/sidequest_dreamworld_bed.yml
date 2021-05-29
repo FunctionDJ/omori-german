@@ -1,0 +1,108 @@
+message_0:
+  text: \mayBlast!\! Wo in aller Welt ist mein Taugenichts-Sohn?
+message_1:
+  text: \mayLetzte Nacht habe ich ihn gebeten, die Auswirkungen meiner neuesten Erfindung, dem \c[4]B.E.D.\c[0], zu analysieren, und ich bin schon gespannt auf die Ergebnisse!
+message_2:
+  text: \Ich hoffe, er macht nicht das, was ich denke...
+message_3:
+  text: Eine SPROUT MOLE, die auf einer B.E.D. schläft!<br>Wenn du nur etwas hättest, das ihn aufwecken könnte...
+message_10:
+  text: \n<SPORT MOLE>Huff... huff, huff...
+message_11:
+  text: \n<SPORT MOLE>Das ganze Training hat mich so hungrig gemacht!<br>Ich wünschte wirklich, ich hätte jetzt etwas \c[3]TOFU\c[0]...
+message_12:
+  text: Ein \c[3]TOFU\c[0] an die sehr verschwitzte SPORT MOLE geben?
+message_13:
+  text: \n<SPORTMOLE>Wow, danke für das \c[3]TOFU\c[0]! Das habe ich wirklich gebraucht.\!<br>Im Gegenzug, hier ist mein wertvollster Besitz.<br>Bitte pass gut auf ihn auf!
+message_20:
+  text: \who\}Psst... hey, Kinder!\! Ich konnte nicht umhin zu hören...\! dass dieser Typ PESSI etwas wertvolles fallen gelassen hat, richtig?! Etwas... wertvolles, vielleicht?\! <br>Ich kann dir vielleicht dabei helfen...
+message_21:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 10
+  text: \aubHmm, dieser Typ scheint furchtbar zwielichtig zu sein...<br>Was ist der Haken,\! \com[2]SHADY MOLE!?
+message_22:
+  text: \n<SHADY MOLE>\}A-Ähem!\! Wie du vielleicht schon weißt,\! sind wir SPROUT MOLES sehr intelligente und hochfunktionale Kreaturen.
+message_23:
+  text: \n<SHADY MOLE>\}Der Klügste von uns allen, der MAYOR, erschafft ein Gerät, das den SPROUT MOLES helfen wird, ihre Arbeit mit einer viel höheren Kapazität zu erledigen, als es bisher möglich war.
+message_24:
+  text: \n<SHADY MOLE>\}Ein sagenumwobenes Gerät der Legende, das, wenn es vollendet ist, die moderne Welt völlig revolutionieren wird!\! Er nennt es...\! Das \c[4]B.E.D.\c[0]!
+message_25:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 11
+  text: \aubThe \c[4]B.E.D.\c[0]?\! Wofür brauchst du das?
+message_26:
+  text: \n<SHADY MOLE>\\Com[2]Hey, keine Fragen!\! Besorg mir erst ein \c[4]B.E.D.\c[0] und dann reden wir.
+message_27:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 17
+  text: \kelA \c[4]B.E.D.\c[0], huh?\! Das scheint einfach genug zu sein!
+message_28:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 4
+  text: \aubWait, KEL! Ich weiß nicht...\! Er scheint furchtbar...\! Unzuverlässig...
+message_29:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 39
+  text: \herVielleicht sollten wir ihm einfach einen B.E.D. geben und sehen, was passiert.
+message_30:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 8
+  text: \aubWenn du so denkst, HERO...\!<br>aber irgendetwas an ihm reibt mich wirklich in die falsche Richtung...
+message_40:
+  text: \sle\Com[2]EEEEE\{EEEEE\{EEEEEEK!!!
+message_41:
+  text: \sleWer bist du!?
+message_42:
+  text: \sle\Com[2]Oh nein, ich bin spät dran!\! Könnte es sein, dass ich...\! Nein...
+message_43:
+  text: \le Ich muss verschlafen haben!\! ...\!<br>Aber...\! SPROUT MOLES verschlafen nicht!
+message_44:
+  text: \c[4]B.E.D.\c[0]...\c! Es ist...\! \quake[1]powerful.\quake[0]\! Vielleicht sogar\. \Beben[1]zu mächtig.\Beben[0]
+message_45:
+  text: \Ich erzähle Papa lieber davon!
+message_50:
+  text: \sle\Com[2]Dad! Dad! Ich bin da!
+message_51:
+  text: \mayBei den Göttern, mein Sohn! Wo bist du gewesen?
+message_52:
+  text: \sleI...\! Ich fürchte, ich habe eine schreckliche Nachricht...
+message_53:
+  text: \mayWas ist es, mein Sohn?\! Du weißt, dass du mir alles sagen kannst!
+message_54:
+  text: \leLetzte Nacht, während ich die \c[4]B.E.D.\c[0] getestet habe...\!<br>Ich...\! I...\! I...\! Ich...\quake[1]habe verschlafen...\quake[0]
+message_55:
+  text: \mayNein, das kann nicht sein!\! Wenn das, was du gesagt hast, wahr ist, dann...
+message_56:
+  text: \mayAlle meine Forschungen...\! Diese Erfindung...\! Das \c[4]B.E.D.\c[0]...\!<br>Es ist alles...\! \beben[1]zu mächtig.\beben[0]
+message_57:
+  text: \mayDu siehst, meine Theorie war, dass ein \c[4]B.E.D.\c[0] SPROUT MOLES helfen würde, eine gute Nachtruhe zu erlangen und somit die Produktivität während des Tages zu steigern, aber...
+message_58:
+  text: \mayWas nützt es, wenn dieselbe Erfindung stattdessen dazu führt, dass SPROUT MOLES an Produktivität verliert?
+message_59:
+  text: \mayDie \c[4]B.E.D.\c[0] hat das Potenzial für Großes, aber das aktuelle Risiko ist zu hoch!
+message_60:
+  text: \may\[2]Bei den Göttern, was habe ich getan?
+message_61:
+  text: \Ich kann diese gefährliche Technologie nicht auf die Welt loslassen, sonst wird unser bescheidenes Dorf vielleicht nie wieder aufwachen!
+message_62:
+  text: \may\Com[2]Hey, du da!\! Kind!\! Nimm dieses \c[4]B.E.D.\c[0] von uns weg.\!<br>Wir haben keinen Bedarf an solcher Macht!
+message_63:
+  text: \mayNow begone and speak not of what you saw here today!
+message_64:
+  text: \n<SPORT MOLE>Oh, na ja.<br>Wenn du mal ein paar \c[3]TOFU\c[0] entbehren willst, nehme ich gerne welche...
+message_65:
+  text: Du hast ein \c[4]B.E.D.\c[0]!
+message_66:
+  text: \n<SHADY MOLE>\Com[2]D-Täuschen mich meine Augen?
+message_67:
+  text: \n<SHADY MOLE>\}Ich kann es nicht glauben...\! Es ist... ein \c[4]B.E.D.\c[0]!\! Ein echter, echter, echter B.E.D.<br>Ich werde ihn in dieser Sekunde benutzen!
+message_68:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 10
+  text: <br>Wir haben dir geholfen, also solltest du uns auch helfen!
+message_69:
+  text: <br>Was soll die ganze Einstellung? <br>Es mag nicht so aussehen, aber ich bin ein Maulwurf, der sein Wort hält.
+message_70:
+  text: Benutze \c[4]BIG AIRHORN\c[0] auf der SLEEPY MOLE?
+message_71:
+  text: \sleBut...\! Ich mochte die \c[4]B.E.D.\c[0]...

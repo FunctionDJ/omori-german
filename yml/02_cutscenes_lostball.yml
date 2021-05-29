@@ -1,0 +1,130 @@
+message_0:
+  text: Grummel, grummel...\ber! Grummeln, grummeln, grummeln...\ber
+message_1:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 40
+  text: Hey, VAN? Stimmt etwas nicht mit BERLY?\!<br>Sie scheint ein wenig...\! aufgeregt zu sein.\
+message_2:
+  text: Oh...\! Was das angeht...\! Nun, du siehst...\n<VAN>
+message_3:
+  text: Seufz...\! Lass es mich erklären. \ber
+message_4:
+  text: <br>Com[2]Sieh dir diese Pole an!!!<br>Com[2]Kannst du es glauben!? \ber
+message_5:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 26
+  text: Was schauen wir uns an? \kel
+message_6:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 8
+  text: Ja, ich sehe es nicht. \aub
+message_7:
+  text: Genau!\! Der Tetherball ist weg.\!<br>VAN hier hat seine Arme benutzt und zu stark geschwungen, und jetzt ist der Ball weit weg irgendwo...\ber
+message_8:
+  text: Nie wieder zu sehen.\ber
+message_9:
+  text: Ich habe dir gesagt, dass du deine Arme nicht benutzen sollst, VAN.\!<br>Du musst deinen Kopf benutzen...\! so!\ber
+message_10:
+  text: Tut mir leid, BERLY...\!<br>Das ständige Kopfzerbrechen bereitet mir Kopfschmerzen.\n<VAN>
+message_11:
+  text: Das liegt daran, dass du nicht so einen harten Kopf hast wie ich!\ber
+message_12:
+  text: Oh! Irgendetwas hat mich gerade getroffen!<br>Ich bin mir sicher, dass ich den Ball irgendwo in diese Richtung wegfliegen gesehen habe!\n<VAN>
+message_13:
+  text: In den \c[11]VAST FOREST\c[0]?\! Ugh...\! Jetzt werden wir es nie finden.\! Es könnte genauso gut für immer verloren sein!\ber
+message_14:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 36
+  text: Hey, mach dir nichts draus, BERLY. Wir werden für dich nach dem Ball suchen!
+message_15:
+  text: Heh.\! Bist du sicher, dass du das tun willst?\!<br>\c[11]VAST FOREST\c[0] ist ein ziemlich gefährlicher Ort, weißt du?
+message_16:
+  text: Einmal geriet ich sogar in eine supergruselige Schlägerei mit dieser hässlichen<br>Pflanzenkreatur mit toten, leeren Augen und einem klaffenden Mund. \ber
+message_17:
+  text: Ich habe es natürlich überlistet, da ich ja cool und schlau bin und so.<br>Es gibt kein Monster im ganzen Universum, das mir davonlaufen kann!<br>
+message_18:
+  text: \Com[2]\SINV[2]\{BAHAHA\{HAHAH\{AHA!!\ber\}\}\LECLEAR
+message_19:
+  text: Sag OMORI, warum gehst du und deine Freunde nicht mit BERLY und hältst sie aus Schwierigkeiten heraus.\! Ich würde ja selbst gehen, aber...\n<VAN>
+message_20:
+  text: \Com[2]\SINV[1]VANNNNNN\{NNNNNNN!!!<br>\Com[2]BROWS lief wieder über BANGS!\SINV[0]\hap
+message_21:
+  text: Oh je, das ist mein Stichwort...<br>Ich komme, HAPPY!\n<VAN>
+message_22:
+  text: Seid sicher da draußen, Leute. Wir sehen uns, wenn du zurückkommst!\n<VAN>
+message_23:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 36
+  text: Komm schon, BERLY. Lass uns deinen \c[4]LOST BALL\c[0].\!<br>Wir müssen uns um nichts Sorgen machen, solange wir zusammen sind!\her
+message_24:
+  text: Ha, klar.\! Komm mir nur nicht in die Quere, wenn ich meine total erstaunlichen \c[1]HEADBUTT\c[0] Fähigkeiten zeige!\ber
+message_25:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 8
+  text: Ugh...\! Lasst uns das einfach hinter uns bringen.\aub
+message_26:
+  text: BERLY ist deiner Partei beigetreten.
+message_100:
+  text: Seid ihr bereit, meinen \c[4]LOST BALL\c[0] schon zu finden!?<br>\}Nicht, dass ich eure Hilfe bräuchte oder so...\ber
+message_38:
+  text: Wurde auch Zeit!\! Lass uns endlich gehen!\ Ich langweile mich zu Tode!\ber
+message_101:
+  text: \com[2]Was? Warum nicht!?! Ich schlafe hier ein!\ber
+message_102:
+  text: Eine einsame Tetherballstange.
+message_39:
+  text: Sniff sniff...\! sniff sniff...\ber
+message_40:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 22
+  text: BERLY, bitte... Ich verspreche, dass ich heute geduscht habe.\kel
+message_41:
+  text: Ich rieche...\! ...\! ...\! meinen \c[4]VERLORENEN BALL\c[0]!<br>\!Ich glaube...\ber
+message_42:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 28
+  text: Denkst du?\kel
+message_43:
+  text: Es ist irgendwo in der Nähe, ich kann es einfach spüren!<br>Du weißt, wie es geht, stell den Laden auf den Kopf!<br>
+message_27:
+  text: \{\com[2]SWEET! THERE'S MY \c[4]LOST BALL\c[0]!!!\ber
+message_28:
+  text: \{\sinv[1]YOINK!\ber
+message_29:
+  text: Endlich! Lass uns diesen bösen Jungen auf den Spielplatz bringen!<br> Mich juckt es, etwas Tetherball zu spielen!
+message_30:
+  text: Hey, so kommt man nicht zum Spielplatz!\! Du gehst in die falsche Richtung!\ber
+message_31:
+  text: Du hast einen \c[4]LOST BALL\c[0] gefunden.
+message_32:
+  text: Nun, das hat Spaß gemacht...\! nicht!\!<br>Ich werde ein bisschen Tetherball spielen gehen!\ber
+message_33:
+  text: Wir sehen uns später, Alligatoren! Ich bin weg! \ber
+message_34:
+  text: BERLY hat deine Party verlassen.
+message_35:
+  text: Aber im Ernst, komm zu mir, bevor du gehst.<br>Ich habe etwas Besonderes für dich.<br>
+message_36:
+  text: Hey, hier ist mein \c[4]LOST BALL\c[0] nicht hingegangen!\ Musst du irgendwo anders hin oder so? \ber
+message_37:
+  text: Wenn ihr irgendwo sein müsstet, hättet ihr es einfach sagen können!<br>Ich warte auf euch auf dem Spielplatz
+message_61:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 0
+  text: Hier ist eine Wurzel, aber es sieht so aus, als könnte man sie abschneiden.<br>Das sieht nach einem Job für dich aus, OMORI!<br>
+message_78:
+  faceset: MainCharacter_Mari
+  faceindex: 1
+  text: Oh, hallo nochmal an alle!<br>Ich wette, ihr seid alle müde von der Erkundung des "VAST FOREST"<br>
+message_79:
+  faceset: MainCharacter_Mari
+  faceindex: 0
+  text: Warum nimmst du nicht etwas Essen von meinem Picknick mit?<br>Das wird dir gut tun!<br>
+message_80:
+  faceset: MainCharacter_Mari
+  faceindex: 3
+  text: So, alles besser.\! Lass mich wissen, wenn du noch etwas brauchst.\mar
+message_81:
+  faceset: MainCharacter_Mari
+  faceindex: 0
+  text: Oh, und wenn du jemals verloren gehst oder nicht sicher bist, was du tun sollst, <br>sprich einfach mit mir! Ich kann dir helfen, wieder auf den richtigen Weg zu kommen!

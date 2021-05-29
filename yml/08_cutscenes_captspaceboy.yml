@@ -1,0 +1,134 @@
+message_0:
+  text: H-huh? Was ist passiert?\! W-Wo bin ich?\! W-wer bist du?\who
+message_1:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 37
+  text: Hallo, du! Wie fühlst du dich?\her
+message_2:
+  text: Oh, hallo...\! Ich bin CAPT. SPACEBOY!\!<br>Es ist mir ein Vergnügen, dich kennenzulernen-\cap
+message_3:
+  text: \quake[1]Aua, meine Brust!\quake[0]\cap
+message_4:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 4
+  text: Oh nein, geht es dir gut?<br>Du wurdest vorhin ein wenig wütend, also mussten wir...<br>
+message_5:
+  text: Ah...\! Ich verstehe...\! Meine andere Hälfte muss mich überlistet haben.\cap
+message_6:
+  text: Ich muss mich entschuldigen. Deine Handlungen waren wahrscheinlich gut begründet.<br>Ich hoffe nur, dass ich euch allen nicht zu viel Ärger bereitet habe.<br>
+message_7:
+  text: In letzter Zeit fällt es mir schwer, meine Emotionen zu kontrollieren.<br>Ich versuche mein Bestes, sie in Schach zu halten, aber es wird immer schwieriger.<br>
+message_8:
+  text: SCHÄTZCHEN...\! Sie war die Liebe meines Lebens...\!<br>Es ist fast unmöglich für mich, mir ein Leben ohne sie vorzustellen.\cap
+message_9:
+  text: Ich glaube, ich bin ein bisschen verloren.\cap
+message_10:
+  text: Dieses \c[4]SPECIAL MIXTAPE\c[0] ist voll mit meinen und SWEETHEARTs Lieblingssongs.\! Ich habe so viel Liebe hineingesteckt, um es für sie zu machen.\cap
+message_11:
+  text: Danke, dass ihr es mir zurückgegeben habt.<br>Das ist doch immer noch voller wertvoller Erinnerungen
+message_12:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 17
+  text: Eh...das ist kein Problem...\! Naja, jedenfalls nicht zu viel.\kel
+message_13:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 1
+  text: Ja, wir helfen gerne!
+message_14:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 37
+  text: Geh einfach weiter und ruhe dich aus.\her
+message_15:
+  text: Ich fürchte, dass keine Menge an Ruhe ein gebrochenes Herz wirklich heilen kann.\! Ich muss einen anderen Weg finden, um darüber hinwegzukommen...\cap
+message_16:
+  text: CAPT. SP- Ich meine, SPACE BOYFRIEND!\spb
+message_17:
+  text: Es tut mir so, so, so leid, aber ich habe sehr, sehr schreckliche Nachrichten.\!<br>Dein Lieblingsplanet, PLUTO, ist entkommen und wir können ihn nirgendwo finden.\spb
+message_18:
+  text: Sei nicht böse auf uns. Es tut uns leid!\spd
+message_19:
+  text: P-Bitte sei sanft...\spb
+message_20:
+  text: Ah, ich verstehe.\cap
+message_21:
+  text: Es ist okay, ihr zwei.\! Ich bin mir sicher, dass es sogar den Planeten langweilig wird, sich den ganzen Tag langsam zu drehen.\! Vielleicht war PLUTO nie dazu bestimmt, ein Planet zu sein.\cap
+message_22:
+  text: H-huh?\! Wirklich?\! Du bist also nicht böse auf uns?\spb
+message_23:
+  text: Meinst du es ernst, CAPT. SP- Ich meine, SPACE BOYFRIEND?\spd
+message_24:
+  text: Das weiß ich genau.\! Versammle den Rest der Crew.\!<br>Lasst uns zum \c[11]GEFROSTENEN SEE\c[0] gehen und ein paar \c[3]SNO-CONES\c[0] holen.\cap
+message_25:
+  text: Sich im Bett auszuruhen mag ein gebrochenes Herz nicht heilen, <BR>aber mit Freunden \c[3]SNO-CONES\c[0] zu essen könnte helfen!\cap
+message_26:
+  text: Außerdem musst du mich nicht mehr SPACE BOYFRIEND nennen.\!<br>Ich bin CAPT. SPACEBOY!\cap
+message_27:
+  text: W-Warte, was bedeutet das?
+message_28:
+  text: \{\sinv[1]\Com[2]WOOOOO... \|\{HOOOOO\{OOOOOOO!!\sinv[0]\spd
+message_29:
+  text: Der CAPTAIN ist zurück! Ich kann es kaum erwarten, es allen zu erzählen!<br>Los geht's, Alter!<brd
+message_30:
+  text: Direkt hinter dir, Kumpel!
+message_31:
+  text: Ich kann dir nicht genug danken für das, was du getan hast.\cap
+message_32:
+  text: Wer weiß, was mit mir und meiner Crew passiert wäre, wenn ihr alle nicht aufgetaucht wärt?
+message_33:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 1
+  text: <br>Wir sind einfach nur froh, dass du dich wieder wie du selbst fühlst.<br>
+message_34:
+  text: Du hast meinen Dank.\! Wenn du jemals etwas von mir oder den SPACE PIRATES brauchst, zögere bitte nicht zu fragen.\cap
+message_35:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 40
+  text: \herAktuell...\! Ich kann nicht glauben, dass ich das vergessen habe, aber...\! Wir sind eigentlich auf der Suche nach unserem Freund BASIL.
+message_36:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 40
+  text: \c[4]FLOWER CROWN\c[0] und trägt immer sein \c[4]PHOTO ALBUM\c[0] bei sich.\! Hast du ihn schon mal gesehen?
+message_41:
+  text: ...\! Nein, ich fürchte, das habe ich nicht...\!<br>Aber wenn ich etwas sehe, wirst du der Erste sein, der es erfährt.\cap
+message_46:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 4
+  text: BASIL...\! Wo könnte er hin sein?\aub
+message_47:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 5
+  text: Sniff...\! Schnüffel, schnüffel...\aub
+message_48:
+  text: \Com[2]Ah...\! Bitte weine nicht, kleine Lady!\cap
+message_49:
+  text: Hier, nimm das.\cap
+message_50:
+  text: Du hast ein \c[4]SNO-CONE TICKET\c[0]!
+message_51:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 12
+  text: Sniff...\! sniff...sniff...\! sniff...\! \beben[1]Eeeeehhh...\beben[0]\aub
+message_52:
+  text: Oh-oh...\! Bitte, kleine Lady... Nicht weinen!\!<br>Errr...\! Hier, nimm das auch!\cap
+message_53:
+  text: Du hast einen \c[4]TRAIN PASS\c[0].
+message_54:
+  text: Ich bin damit als Kind in Zügen herumgefahren...<br>Lange bevor ich SPACE CAPTAIN wurde
+message_55:
+  text: Wenn sogar ich vom Zugfahren zum Fliegen meines eigenen Raumschiffs übergehen kann, bin ich mir sicher, dass du deinen Freund finden kannst
+message_56:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 12
+  text: Sniff...sniff...\! Oh...\!<br>Schnüffel...\! O-Okay...\aub
+message_57:
+  text: Hey, CAPTAIN! Bist du bereit zu gehen?<br>Alle warten auf dich!<br>
+message_58:
+  text: Ah! Ja, halt dich fest. Ich komme!\cap
+message_59:
+  text: Du musst die Hoffnung nicht aufgeben, kleine Lady!\!<br>Wenn es zu schwer zu ertragen ist, versuche eine \c[3]SNO-CONE\c[0] zu essen!\!<br>Das macht die Sache vielleicht ein wenig leichter.\cap
+message_60:
+  text: Ich darf meine Crew nicht warten lassen.<br>Viel Glück mit allem, und nochmals vielen Dank!<br>
+message_61:
+  text: Das sieht aus wie \c[3]JUICE\c[0], schmeckt aber furchtbar!
+message_100:
+  text: Hier gibt es nichts.

@@ -1,0 +1,16 @@
+message_1:
+  text: \art\com[2]Bah! Mein Hund LUCAS ist wieder aus der Tür gelaufen.\! Er versucht immer, aus dem Haus zu kommen...\! Manchmal frage ich mich, ob er nur wegen des Essens hier lebt.
+message_2:
+  text: \artSigh...\! Wo ist er dieses Mal hin?
+message_3:
+  text: \n<GOOD DOG>\com[2]Bellen...\! \{Bellen, bellen!
+message_4:
+  text: \artSigh...\! LUCAS...\! Mach mir nicht so viele Sorgen.
+message_5:
+  text: \artHey, hast du LUCAS hierher zurückgeschickt?\! <br>Es tut mir leid für den Ärger.\! Hier, nimm das.
+message_6:
+  text: Du hast \c[13]PAINT BRUSH\c[0].
+message_7:
+  text: \n<GOOD DOG>\{\com[2]Bellen, bellen!\! \{Bellen!
+message_8:
+  text: Du hast \c[4]TRASH\c[0]...

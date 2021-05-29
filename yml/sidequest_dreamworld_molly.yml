@@ -1,0 +1,28 @@
+message_0:
+  text: \n<MOLLY>Hallo, ihr Lieben~ Es ist schön zu sehen, dass ihr noch lebt.\! Verzeiht mir für mein Verhalten vorhin.\! Meine Schwestern und ich neigen dazu, uns hinreißen zu lassen.\! Ich bin sicher, ihr versteht das.
+message_1:
+  text: \n<MOLLY>Würdest du dir die Mühe machen, mir bei etwas zu helfen?\!<br>Ich möchte mir einen neuen Körper bauen, aber wie du sehen kannst...\! Bin ich ein wenig handlungsunfähig.
+message_2:
+  text: \n<MOLLY>Ich benötige etwas \c[4]SCRAP METAL\c[0] von den WORM-BOTS, die um mein Labor herumschlittern. \! \sinv[1]Vielen Dank, meine Lieben!
+message_3:
+  text: \n<MOLLY>Ah! Du hast meine Materialien mitgebracht!\!<br>Das sollte reichen.\! Also, mal sehen...
+message_4:
+  text: \n<MOLLY>\sinv[1]Hmm~\sinv[0]
+message_5:
+  text: \n<MOLLY>\sinv[1]Hmmmmmmmmm~\sinv[0]
+message_6:
+  text: \n<MOLLY>\sinv[1]Hmmmmmmmmmmmmmmmmmmm~\sinv[0]
+message_7:
+  text: \n<MOLLY>...
+message_8:
+  text: \n<MOLLY>\Com[2]Bah!\! Dieser Metallkörper ist viel zu klobig...\!<br> Ich glaube, ich würde viel lieber nur als Kopf bleiben!
+message_9:
+  text: \n<MOLLY>Aber trotzdem... Ich sollte dich für deine Bemühungen belohnen...\!<br>Ah, ich weiß! Geh und nimm die hier!\!
+message_10:
+  text: Du hast \c[13]HIGH HEELS\c[0].
+message_12:
+  text: \n<MOLLY>Da ich keinen Körper mehr habe, werde ich sie nicht mehr brauchen!
+message_11:
+  text: <br>Keinen Körper zu haben ist so praktisch!<br>Ich wünschte, ich hätte schon früher daran gedacht!<br>
+message_13:
+  text: Ein harter, klobiger Körper.

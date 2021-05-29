@@ -1,0 +1,10 @@
+message_1:
+  text: Willst du dir die Zähne putzen?
+message_2:
+  text: Du hast dir die Zähne geputzt!<br>Dein Atem ist jetzt minzig frisch.
+message_3:
+  text: Du hast deine Zähne nicht geputzt.
+message_4:
+  text: Du hast heute deine Zähne geputzt.
+message_5:
+  text: Du hast dir heute nicht die Zähne geputzt.

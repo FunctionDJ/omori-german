@@ -1,0 +1,38 @@
+message_1:
+  text: \n<GELBES BUNTE GRANNY>Husten...\! husten...\! Entschuldigung...\! Tut mir leid, dass ich mich aufdränge, aber ihr seht wie vertrauenswürdige Leute aus.\! Meint ihr, ihr könnt mir helfen?
+message_2:
+  text: \n<YELLOW BUN GRANNY>Ich muss die Medikamente für diese Woche in der \c[11]PHARMACY\c[0] abholen, aber ich fühle mich im Moment ein bisschen schwach.\! Normalerweise schicke ich meine Tochter CHARLENE, aber sie ist im Moment nicht da.
+message_3:
+  text: \n<GELBES BUNTE GRANNY>Wären Sie so nett und heben es für mich auf?
+message_6:
+  text: Du hast ein \c[4]PRESCRIPTION\c[0] und \c[4]ID CARD\c[0].
+message_8:
+  text: \n<GELBES BUNTE GRANNY>Danke, Kinder.\! Sprich einfach mit dem Mann in der \c[11]APOTHEKE\c[0].\! Er wird es verstehen.
+message_9:
+  text: \n<PHARMACIST>Hmm...\! Hallo!\! Wie kann ich dir helfen?
+message_10:
+  text: Du hast dem Apotheker das Rezept und die ID-Karte gegeben.
+message_11:
+  text: \n<PHARMACIST>Ah, du bist hier um ein paar Medikamente abzuholen!
+message_12:
+  text: \n<PHARMACIST>...\! Oh, ich weiß, für wen das ist! Ich bringe es gleich raus.
+message_13:
+  text: Du hast \c[4]GRANNY'S MEDICINE\c[0].
+message_14:
+  text: Du hast \c[4]ID CARD\c[0].
+message_15:
+  text: \n<PHARMACIST>Sie holen heute ihre Medizin anstelle ihrer Tochter ab?
+message_16:
+  text: \n<PHARMACIST>Ich darf eigentlich keine Medikamente so herausgeben...\! aber ich mache für sie normalerweise eine Ausnahme, da sie keine Möglichkeit hat, selbst hierher zu kommen.
+message_17:
+  text: \n<PHARMACIST>Danke, dass du ihr geholfen hast. \! Habt einen schönen Tag, Kinder!
+message_18:
+  text: \n<PHARMACIST>Wenn du jemals \c[5]BANDAGES\c[0] oder \c[5]FIRST AID KITS\c[0] brauchst, habe ich hier alles für dich.
+message_20:
+  text: \n<GELBES BUNTE GRANNY>Oh, du bist zurückgekommen!
+message_21:
+  text: Du hast \c[4]GRANNY'S MEDICINE\c[0] und \c[4]ID CARD\c[0] an YELLOW BUN GRANNY gegeben.
+message_22:
+  text: <br>Husten...\!<br>Husten...\! Entschuldigen Sie...\!<br>Vielen Dank.\! Du warst eine große Hilfe!\!<br>Es ist schön zu sehen, dass die Jugend uns alten Leuten hilft.
+message_23:
+  text: \n<YELLOW BUN GRANNY>Ihr seid alle jederzeit in meinem Haus willkommen.

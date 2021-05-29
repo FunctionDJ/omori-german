@@ -1,0 +1,158 @@
+message_0:
+  text: \humSweep...\..sweep...\..
+message_1:
+  text: \humHalte sie hoch, ich!
+message_2:
+  text: \humNein, du stellst sie auf!
+message_3:
+  text: \hum\sinv[1]Weeeeeeeeeeeeeeeeeeee!!!
+message_4:
+  text: \humI'm calling your bluff!\! Du kannst mich nicht täuschen, mich!
+message_5:
+  text: \humDiese Hand kannst du nicht schlagen, ich!\! Ich gehe all-in!
+message_6:
+  text: \humTalk to me later, I'm in the middle of a game!
+message_7:
+  text: \humWah, ja...\! Mein größtes Meisterwerk...\! Schatz, Schatz!
+message_8:
+  text: \humNach meinen Berechnungen macht Lesen schlau!
+message_9:
+  text: \humHuff...\! Huff...\! Huff...\! Es steckt viel harte Arbeit darin, meinen Körperbau zu erhalten!
+message_10:
+  text: \humAhhh...\! Das ist das Leben...\! Sommerbräune, hier komme ich!
+message_50:
+  text: \n<SNALEY>Was für ein schön aussehender Pool!
+message_11:
+  text: \humSicher! Ich liebe es, Brücken zu bauen!
+message_12:
+  text: \humOkay! Wenn es das ist, was alle anderen machen...
+message_13:
+  text: \humAwww, Mann... Schon wieder Brückendienst?\!<br>Wann darf ich endlich was essen?
+message_22:
+  text: \humDu meinst bei dem großen Wasserfall unten im Süden? \! Okay! Ich werde mit dir um die Wette laufen!
+message_16:
+  text: \humEine Brücke, sagst du?
+message_21:
+  text: \humIch bin schon da!
+message_14:
+  text: \humDu willst mich als Sprungbrett benutzen, um deine zweideutige Agenda voranzutreiben?\! Klingt nach einem Plan!
+message_15:
+  text: \humIst es schon Bridge-Uhr?\! Die Zeit vergeht wirklich wie im Flug, hm?
+message_17:
+  text: \n<HUMPHREY BRIDGES, BRIDGE EXPERT>Endlich ist meine Zeit gekommen!
+message_18:
+  text: \n<HUMPHREY ELEVATORS, ELEVATOR EXPERT>Aufzüge sind besser als Brücken, aber ich nehme an, ich spiele erst einmal mit.
+message_19:
+  text: \humWell...\! ...\! Na gut!
+message_20:
+  text: \humEin weiser Wal sagte einmal... "Ja, okay!"
+message_27:
+  text: \humWir HUMPHREY in MEDUSA's Sektor sind stolz darauf, die Besten der Besten zu sein!
+message_23:
+  text: \humMEDUSA behandelt uns gut und füttert uns regelmäßig...\!<br>Das kann man von MARINA oder MOLLY nicht behaupten!
+message_24:
+  text: \humAlle HUMPHREY aus MARINAs Sektor verschwinden immer wieder, also bittet sie MEDUSA immer wieder um mehr...\!<br>Gulp...\! Ich hoffe, ich bin nicht der Nächste...
+message_25:
+  text: \humDu erkennst, dass MEDUSA wütend ist, weil sie hin und her läuft.\! Sie wird dich nie anschreien, aber trotzdem...\! Es ist ziemlich beängstigend.
+message_26:
+  text: \humWatch your step!\! Einige der verschütteten Flüssigkeiten sind nicht dazu bestimmt, von Menschen berührt zu werden!
+message_29:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 2
+  text: \aubHUMPHREY! Kannst du uns bitte helfen, eine Brücke zu bauen?
+message_30:
+  text: Wissenschaftlicher Hokuspokus.
+message_31:
+  faceset: 01_OMORI_BATTLE
+  faceindex: 0
+  text: \n<OMORI>...
+message_32:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 4
+  text: \aubBe careful!\! Ich traue diesem Kerl kein bisschen...
+message_33:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 31
+  text: \kelPuh...\! Ich war mir sicher, dass ihr mich wählen würdet...
+message_34:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 39
+  text: \Hier pass auf, okay?<br>Wenn es zu ernst wird, werde ich dich unterstützen.
+message_40:
+  text: \n<HUMPHREY>Ich lese gerade ein Buch über Klimaanlagen!<br>Es ist sehr informativ!
+message_41:
+  text: \n<HUMPHREY> Ich versuche mich zu entspannen...\! aber ich kann nicht aufhören, an dieses wirklich interessante Buch zu denken, das ich neulich über Klimaanlagen gelesen habe...
+message_42:
+  text: \n<HUMPHREY>Weißt du, worauf ich einfach verrückt bin?\! Klimaanlagen.\!<br>Ist das nicht das Größte?
+message_45:
+  text: \n<WISE HUMPHREY>\sinv[1]Hallo Wal, Freunde!\!\sinv[0]<br>Willst du einen HUMPHREY HINT für 300 CLAMS?\$
+message_46:
+  text: \n<WISE HUMPHREY>Ein weiser HUMPHREY sagte einmal...\!<br>"Zähle deine Feinde...\! Dann wird die Reihenfolge zum Sieg führen.\"
+message_110:
+  text: \n<WISE HUMPHREY>\com[2]Was!? Du hängst immer noch an dem hier?\!<br>Ugh...schön.\! Wie ist das?
+message_111:
+  text: \n<Weiser HUMPHREY>Ein weiser HUMPHREY sagte einmal...\! \"Zähle deine Feinde, um den Weg zu offenbaren...\! Dann, auf deiner Reise, beobachte das fallende Wasser.\"
+message_47:
+  text: \n<WISE HUMPHREY>Ein weiser HUMPHREY sagte einmal...<br>"Wenn alles andere versagt, versuche von links nach rechts zu lesen!"
+message_48:
+  text: \n<WISE HUMPHREY>Ein WISE HUMPHREY sagte einmal...<br>"Manchmal ist die Rückseite interessanter als die Vorderseite!"
+message_49:
+  text: \n<WISE HUMPHREY>Sorry, no can do!\! Ich kann einen HUMPHREY HINT nicht für weniger als 300 CLAMS verschenken!
+message_51:
+  text: \n<WISE HUMPHREY>\{\{\Com[2]\sinv[1]DEE-LICIOUS!!
+message_52:
+  text: \n<WISE HUMPHREY>Hier ist dein Tipp!\! Ich werde es nur einmal sagen.
+message_53:
+  text: \n<WISE HUMPHREY>Okay... Nun, wie du willst!
+message_54:
+  text: \n<WISE HUMPHREY>\sinv[1]Hallo Wal, Freunde!\!\sinv[0] Rätsel sind nicht jedermanns Sache.\! Wenn du feststeckst, kann ich dir ein wenig helfen...\! oder vielleicht auch viel!
+message_56:
+  text: \n<HUMPHREY>Ah... natürlich!\! Die Berechnungen sind so einfach, wenn man es so ausdrückt...
+message_57:
+  text: \n<HUMPHREY>So wenn ich das Ergebnis multipliziere...\! Subtrahiere durch Unendlich...\! Dann teile durch Null...\! Und trage die Eins...\! Das würde mich zu...\!<br>einer imaginären Zahl bringen!
+message_58:
+  text: \n<WISE HUMPHREY>\sinv[1]Hallöchen, Freunde!\!\sinv[0] Rätsel sind nicht jedermanns Sache, aber das ist jetzt ziemlich irrelevant.
+message_60:
+  text: \n<MUTANTHEART>\}H-Henno...
+message_61:
+  text: \n<MUTANTHEART>\}H-Henno!
+message_62:
+  text: MUTANTHEART hat dich zurückgestoßen.
+message_63:
+  text: \n<MUTANTHEART>\sinv[1]\}Henno~
+message_64:
+  text: MUTANTHEART scheint begeistert zu sein!
+message_65:
+  text: \n<MUTANTHEART>\}H...\! Henno?
+message_66:
+  text: Was würdest du gerne tun?
+message_67:
+  text: POKE
+message_68:
+  text: PET
+message_69:
+  text: KAMPF
+message_70:
+  text: NOTHING
+message_71:
+  text: Du hast MUTANTHEART gestochen.
+message_72:
+  text: Du streichelst MUTANTHEART.
+message_73:
+  text: Du streichelst die Abscheulichkeit.
+message_74:
+  text: Du hast die Abscheulichkeit gestoßen.
+message_100:
+  text: \n<HUMPHREY>Seufz...\! Hör dir an, wie sie da oben Spaß haben.\! Diese Teilzeitbeschäftigten haben es leicht.
+message_101:
+  text: \n<HUMPHREY>MEDUSA und ihre Schwestern haben die Welt seit Jahrhunderten erforscht.\! Diese Bücher sind die Früchte ihrer Arbeit!
+message_102:
+  text: \n<HUMPHREY> Egal wie oft ich dieses Experiment durchführe, es klappt nie so, wie es soll.\! Schätze, es ist an der Zeit, wieder in der Anleitung nachzuschlagen...
+message_103:
+  text: \n<HUMPHREY>\sinv[1]Zzzzzzzzzzzzzzzzzzzzzzzzz...
+message_104:
+  text: \n<HUMPHREY>Dieser ganze Schleim wird langsam zu einer echten Gefahr.\! Wir sollten wirklich darüber nachdenken, einen dieser Reinigungs-HUMPHREYs aus MOLLYs Sektor einzustellen.
+message_200:
+  text: \n<HUMPHREY>Gee... Du bist gerade reingekommen, als ich diese Röhre reparieren wollte!
+message_201:
+  text: \n<HUMPHREY>Ahh...endlich! Ein Raum ohne Wasserfall...\! Dieses helle weiße Licht ist perfekt für meine Sommerbräune!

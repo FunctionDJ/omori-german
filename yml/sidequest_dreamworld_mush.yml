@@ -1,0 +1,12 @@
+message_0:
+  text: \n<MUSH>Hallo, Fremder.\! Ich bin MUSH und mein Lebenstraum war es schon immer, gegessen und genossen zu werden.\! <br>Willst du mir endlich meinen Wunsch erfüllen und mich essen?
+message_1:
+  text: \n<MUSH>Oh, danke, Fremder.\!<br>Du weißt nicht, wie dankbar ich dafür bin!
+message_2:
+  text: \c[3]MUSH\c[0] war voller Aufregung, als er durchgekaut wurde.
+message_3:
+  text: \c[3]MUSH\c[0] gewährt 1 HERZ, 1 JUICE, 1 ATTACK, 1 DEFENSE, 1 SPEED und 1 LUCK!
+message_5:
+  text: Du hast \c[3]MUSH\c[0].
+message_4:
+  text: \n<MUSH>Oh...\! Okay, dann.

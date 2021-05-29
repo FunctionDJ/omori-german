@@ -1,0 +1,42 @@
+message_1:
+  text: \n<KEL'S DAD>\Com[2]Oh, doggarnit!\! KEL, dein alter Herr ist so ein Narr!\!<br>Wir sind bei einem schönen Picknick, aber ich habe die wichtigste Zutat vergessen...\! \c[4]FLEISCH\c[0]!
+message_2:
+  text: \n<KEL'S DAD>Könntest du etwas Zeit erübrigen und mir etwas von dem guten alten billigen Zeug im \c[11]OTHERMART\c[0] kaufen?
+message_3:
+  text: \n<KEL'S DAD>Hier ist etwas Geld...\! Sprich einfach mit dem MEAT MAN im Hinterzimmer. Er wird dir gleich etwas geben!
+message_4:
+  text: Du hast 20,00 $.
+message_5:
+  text: \n<OTHERMART LADY>HELLO!\! 你是要 Fleisch 吗? 是 $18.00!
+message_6:
+  text: \n<OTHERMART LADY>OK!\! \}}谢谢, 孩子!
+message_7:
+  text: Du hast \c[4]MEAT\c[0].
+message_20:
+  text: Du hast \c[4]MEAT\c[0] zu KEL'S DAD gegeben.
+message_8:
+  text: \n<KEL'S DAD>Danke, Champ! Das ist genau das, wonach ich gesucht habe!<br>Das gibt leckere \c[3]HAMBURGERS\c[0]...
+message_9:
+  text: \n<KEL'S DAD> Ihr solltet alle später am Abend vorbeikommen.\!<br> Du wirst definitiv etwas von dieser Köstlichkeit probieren wollen!
+message_10:
+  text: \n<KEL'S DAD>Aber für den Moment, geht und amüsiert euch.\!<br>Das Wetter ist heute großartig!
+message_11:
+  text: \n<KEL'S DAD>Hey, Champs!\! Hier ist ein Burger für jeden von euch, wie versprochen!
+message_12:
+  text: Du hast 4 \c[3]HAMBURGERS\c[0].\! Wow...
+message_13:
+  text: \n<KEL'S DAD>Es ist lange her, dass ich euch alle zusammen gesehen habe.\! <br>Erinnert mich an die Zeit, als ihr alle noch Kinder wart, haha...
+message_14:
+  text: \n<KEL'S DAD>\n[8]!\!<br>Viel Glück beim morgigen Umzug!
+message_15:
+  text: \n<KEL'S DAD>Erinnere dich daran, mich ab und zu zu besuchen... <Ich weiß, dass KEL ohne dich einsam sein wird!
+message_16:
+  faceset: MainCharacters_Faraway
+  faceindex: 19
+  text: \kelAwww, Dad...\! Hör auf damit... Du bringst mich in Verlegenheit...
+message_17:
+  text: \n<KEL'S DAD>\{\Com[2]\SINV[2]GAH\{AHAHA\{HAHAHA!!\}\SINV[0]
+message_18:
+  text: \n<KEL'S DAD>Hier ist eine Lektion von deinem alten Herrn.\! Wenn du älter wirst, wird es immer schwieriger, Freunde zu finden...
+message_19:
+  text: \n<KEL'S DAD>Wenn du also denkst, dass du einen guten hast...\! ist es wichtig, sie zu schätzen.\n Freunde können fürs Leben sein, hörst du!

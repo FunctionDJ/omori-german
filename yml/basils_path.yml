@@ -1,0 +1,306 @@
+message_0:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 19
+  text: \kelWhoa!\! Was ist das für eine hässliche Pflanzenkreatur?
+message_1:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 10
+  text: \aubDu weißt es nicht, KEL?\! Das ist eine SPROUT MOLE!
+message_2:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 0
+  text: \aubSPROUT MOLES sind hochintelligente Kreaturen, werden aber gefährlich bösartig, wenn sie sich verirren.
+message_3:
+  faceset: MainCharacter_Basil
+  faceindex: 1
+  text: \basHey, MR. SPROUT MOLE! Geht es dir da gut?
+message_4:
+  faceset: MainCharacter_Basil
+  faceindex: 0
+  text: \basA-Hast du dich zufällig verlaufen?
+message_5:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 46
+  text: \herUh-oh...\! Ich denke wir haben unsere Antwort!
+message_6:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 46
+  text: \her\[2]Passt auf, Leute! Er kommt direkt auf uns zu!
+message_10:
+  faceset: MainCharacter_Basil
+  faceindex: 6
+  text: \basPuh...\! Geht es allen gut?
+message_11:
+  faceset: MainCharacter_Basil
+  faceindex: 0
+  text: \basSorry...\! In letzter Zeit gab es hier eine Menge LOST SPROUT MOLES.\! Ich mag es nicht wirklich zu streiten, aber ich bin mir sicher, dass alles in Ordnung sein wird, jetzt wo du hier bist.
+message_12:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 1
+  text: \aubKeine Sorge, BASIL!\! Wir werden uns um die Dinge von hier aus kümmern!
+message_15:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 38
+  text: \herHey, OMORI!\! Jetzt, wo wir den Dreh beim Kämpfen raus haben...\! Hier ist ein Tagebuch, in dem wir alle netten Feinde, denen wir begegnen, festhalten können.
+message_16:
+  text: HERO hat dir das \c[4]FOE FACTS!\c[0] Journal gegeben.
+message_17:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 37
+  text: \hier, jetzt ist es in deiner TASCHE.\ Das Journal gehört dir, aber wir könnten auch manchmal mitmachen!
+message_18:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 38
+  text: \Herausfinden kannst du es über dein POCKET im PLAYER MENÜ, indem du \DII[escape] drückst.
+message_20:
+  faceset: MainCharacter_Basil
+  faceindex: 1
+  text: \basKommt her, Leute! Ich möchte euch allen etwas zeigen.
+message_21:
+  faceset: MainCharacter_Basil
+  faceindex: 2
+  text: \basDas sind Sonnenblumen.\! Sie heißen so, weil sie immer der Sonne zugewandt sind.
+message_22:
+  faceset: MainCharacter_Basil
+  faceindex: 1
+  text: \basSo möchte ich sein...\! jemand, der immer die positive Seite der Dinge sieht.
+message_23:
+  faceset: MainCharacter_Basil
+  faceindex: 0
+  text: \basDiese Blumen werden Maiglöckchen genannt. \! Es wird gesagt, dass sie böse Geister abwehren können und den Menschen helfen, eine bessere Zukunft zu sehen...
+message_24:
+  faceset: MainCharacter_Basil
+  faceindex: 1
+  text: \basIch schätze, dass sie mich deshalb an MARI erinnern!<br>Ich kann immer auf sie zählen, damit ich positiv bleibe!
+message_30:
+  faceset: MainCharacter_Basil
+  faceindex: 3
+  text: \basOh, nein! Es ist eine weitere LOST SPROUT MOLE!
+message_31:
+  faceset: MainCharacter_Basil
+  faceindex: 3
+  text: \bas\Com[2]Bitte, MR. SPROUT MOLE! Hör auf damit!<br>Du stampfst über all die Blumen...
+message_36:
+  faceset: MainCharacter_Basil
+  faceindex: 1
+  text: \basAh...\! Die meisten der Blumen sind unversehrt...\! Das ist eine Erleichterung!
+message_37:
+  faceset: MainCharacter_Basil
+  faceindex: 2
+  text: \bas Wir sind fast bei meinem Haus.\! Lass uns diesen Weg weitergehen!
+message_40:
+  faceset: MainCharacter_Basil
+  faceindex: 1
+  text: \basDas sind Rosen!<br>Kannst du erraten, an wen sie mich erinnern?
+message_41:
+  faceset: MainCharacter_Basil
+  faceindex: 2
+  text: \bas...\! Sie erinnern mich an HERO!\! Hast du richtig geraten?
+message_42:
+  faceset: MainCharacter_Basil
+  faceindex: 1
+  text: \basRosen gibt es in vielen verschiedenen Farben und haben ihre eigenen einzigartigen Bedeutungen.
+message_43:
+  faceset: MainCharacter_Basil
+  faceindex: 0
+  text: \basPinke Rosen symbolisieren Bewunderung... Orange Rosen symbolisieren Leidenschaft... Gelbe Rosen symbolisieren Freundschaft... und die Liste geht weiter!
+message_44:
+  faceset: MainCharacter_Basil
+  faceindex: 2
+  text: \basHERO erinnert mich an keine Rose im Besonderen.\!<br> Ich denke, HERO ist wie alle Rosen, denn er ist vielseitig und allseits beliebt!
+message_45:
+  faceset: MainCharacter_Basil
+  faceindex: 2
+  text: \basAh!\! Das sind eine Art von Blumen, die Gladiolen genannt werden!
+message_46:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 19
+  text: \kelDer Gladio-was?
+message_47:
+  faceset: MainCharacter_Basil
+  faceindex: 1
+  text: \basGladiolus! Auch bekannt als die "Schwertblume"!
+message_48:
+  faceset: MainCharacter_Basil
+  faceindex: 0
+  text: \basiert, wie du dir denken kannst, repräsentieren sie Charakterstärke.\! Jemand, der ehrlich ist, mit starken moralischen Werten...\! Jemand, der zu seinen Überzeugungen steht...
+message_49:
+  faceset: MainCharacter_Basil
+  faceindex: 1
+  text: \basDie Gladiole erinnert mich an AUBREY, denn sie ist sich immer treu!
+message_50:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 18
+  text: \kelOh, ich verstehe...<br>\!Du willst also damit sagen, dass AUBREY wirklich stur ist!
+message_51:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 10
+  text: \aubHey! Nein, bin ich nicht!
+message_52:
+  faceset: MainCharacter_Basil
+  faceindex: 6
+  text: \basHaha...\! Okay! Lass uns weitermachen!
+message_60:
+  faceset: MainCharacter_Basil
+  faceindex: 3
+  text: \bas\Com[2]Oh nein, nicht schon wieder!\! Bitte, MR. SPROUT MOLE! Hör auf zu zwirbeln!\! Du zerstörst all die Blumen!
+message_70:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 19
+  text: \kelWhoa! Wie heißen diese Blumen? Sie sind alle cool und stachelig!
+message_71:
+  faceset: MainCharacter_Basil
+  faceindex: 2
+  text: \basAktuell, KEL... Das ist ein Kaktus!\! Es ist eher eine Pflanze als eine Blume...\! Und es ist lustig, dass du fragst, denn sie erinnern mich an dich!
+message_72:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 1
+  text: \aubIst es, weil...\! er ein Arschloch ist?
+message_73:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 30
+  text: \kelHey!
+message_74:
+  faceset: MainCharacter_Basil
+  faceindex: 0
+  text: \basNun ja...\! Das auch, aber hauptsächlich, weil Kakteen von Natur aus sehr robuste und widerstandsfähige Pflanzen sind.<br><br>Sie brauchen nicht viel Pflege und können auch unter scheinbar unmöglichen Bedingungen überleben!
+message_75:
+  faceset: MainCharacter_Basil
+  faceindex: 1
+  text: \basIch denke, was ich sagen will... ist, dass sogar du dich um einen Kaktus kümmern könntest, KEL!
+message_76:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 18
+  text: \kelWhoa, klasse!\! Kakteen sind der Hammer!
+message_77:
+  faceset: MainCharacter_Basil
+  faceindex: 1
+  text: \basAh...\! Das sind weiße Tulpen.\!<br>Einfach, schlicht und knollig... genau wie OMORI!
+message_78:
+  faceset: MainCharacter_Basil
+  faceindex: 0
+  text: \basIch weiß es nicht... Ich finde es einfach nur süß.
+message_200:
+  text: \basDas sind Sonnenblumen.\! Sie heißen so, weil sie immer der Sonne zugewandt sind.
+message_201:
+  text: \basSo möchte ich sein...\! jemand, der immer die positive Seite der Dinge sieht.
+message_202:
+  text: \basDiese Blumen werden Maiglöckchen genannt. \! Es wird gesagt, dass sie böse Geister abwehren können und den Menschen helfen, eine bessere Zukunft zu sehen...
+message_203:
+  text: \basIch schätze, dass sie mich deshalb an MARI erinnern.<br>Ich kann mich immer auf sie verlassen, damit ich positiv bleibe.
+message_204:
+  text: \basRosen gibt es in vielen verschiedenen Farben und haben ihre eigenen einzigartigen Bedeutungen.
+message_205:
+  text: \basPinke Rosen symbolisieren Bewunderung... Orange Rosen symbolisieren Leidenschaft... Gelbe Rosen symbolisieren Freundschaft... und die Liste geht weiter.
+message_206:
+  text: \basHERO erinnert mich an keine Rose im Besonderen.\!<br> Ich denke, HERO ist wie alle Rosen, denn er ist vielseitig und universell beliebt.
+message_207:
+  text: \basDiese sind eine Art von Blume, die Gladiolen genannt werden, auch bekannt als "Schwertblume".
+message_208:
+  text: \basiert, wie du dir denken kannst, repräsentieren sie Charakterstärke.\! Jemand, der ehrlich ist, mit starken moralischen Werten...\! Jemand, der zu seinen Überzeugungen steht...
+message_209:
+  text: \basDie Gladiole erinnert mich an AUBREY, denn sie ist sich immer treu.
+message_210:
+  text: \basKakteen sind von Natur aus sehr robuste und widerstandsfähige Pflanzen.\! Sie brauchen nicht viel Pflege und können auch unter scheinbar unmöglichen Bedingungen überleben.
+message_211:
+  text: \basIch schätze, was ich sagen will... ist, dass sogar du dich um einen Kaktus kümmern könntest, KEL...
+message_213:
+  text: \bas Und das hier...\! Das sind weiße Tulpen.\! Tulpen sind keine sehr auffälligen Pflanzen.\! Sie sind nicht zu groß oder klein, nicht zu aufwendig oder extravagant.
+message_214:
+  text: \basWenn ich es anders ausdrücken könnte...\! Ich denke, ich würde sagen, dass...\! sie bequem sind.\! Einfach, bescheiden und perfekt.\!<br>Genau wie \n[8].
+message_80:
+  faceset: MainCharacter_Basil
+  faceindex: 3
+  text: \basAh! Nicht noch eine SPROUT MOLE!
+message_81:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 18
+  text: \kel Es ist alles gut, BASIL!\! Wir haben mittlerweile den Dreh raus!
+message_90:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 39
+  text: \herOh Mann, dieser Kampf ist ziemlich hart...\! Aber mach dir keine Sorgen!<br>Wir schaffen das, wenn wir zusammenarbeiten!
+message_91:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 38
+  text: \her Es sieht so aus, als müsste ich euch allen ein bisschen was über Teamwork beibringen!\! Versuchen wir es noch einmal, OMORI!<br>Wir werden ihn dieses Mal kriegen!
+message_92:
+  faceset: MainCharacter_Basil
+  faceindex: 6
+  text: \basP-Bitte tritt nicht auf die Blumen!
+message_93:
+  text: Eine Blume.
+message_100:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 39
+  text: \herHalte durch, OMORI! BASILs Haus ist nicht in dieser Richtung!
+message_101:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 1
+  text: \aubWo gehst du hin, OMORI?\!<br>Lass uns BASIL helfen, sein \c[4]FOTO ALBUM\c[0] zu sortieren!
+message_102:
+  faceset: MainCharacter_Basil
+  faceindex: 1
+  text: \basSind Sie bereit, die Fotos zurückzustellen, OMORI?<br>Ich warte hier, bis Sie bereit sind.
+message_156:
+  text: BASIL's \c[4]FOTO ALBUM\c[0].\! Sein wertvollster Besitz.
+message_163:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 37
+  text: \herAnd there you have it...\! HERO's BATTLE TUTORIAL 101!\! Und ich bin mir sicher, dass sich unser Teamwork im Laufe der Zeit verbessern wird, wenn wir mehr Schlachten schlagen!
+message_157:
+  faceset: MainCharacter_Basil
+  faceindex: 1
+  text: Wow, ihr Leute!\! Das war so unglaublich!\bas
+message_158:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 18
+  text: Ah, das war nichts... Heh, heh.\! Ich habe schon viel größere Kerle vermöbelt als den! Ich sollte dir eines Tages ein paar meiner Fähigkeiten beibringen!
+message_159:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 1
+  text: BASIL... Ich weiß, dass du nicht der Typ bist, der gerne kämpft...\! aber es ist gut zu wissen, wie man sich auch verteidigen kann!\aub
+message_160:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 39
+  text: Weißt du...\! Ich habe tatsächlich an einem Buch über Schlachten gearbeitet!\! Vielleicht können wir das nächste Mal alle zusammen lernen.\! Ich gebe es OMORI, damit sie es für den Moment aufbewahrt. \her
+message_169:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 38
+  text: \herAls wir stärker werden, werde ich den FOLLOW-UP Bereich des \c[4]SELBSTHILFE GUIDE\c[0] aktualisieren, also schau immer mal wieder rein!
+message_152:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 39
+  text: OMORI, du solltest wissen...\! Wenn wir EXP gewinnen und LEVEL UP, lernen wir manchmal auch \c[1]SKILLS\c[0].\her
+message_153:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 36
+  text: \c[1]SKILLS\c[0] sind mächtig und haben eine große Bandbreite an Effekten, aber jeder von uns kann sich nur an bis zu 4 \c[1]SKILLS\c[0] gleichzeitig erinnern.\her
+message_154:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 37
+  text: Nachdem du einen neuen \c[1]SKILL\c[0] erlernt hast, vergiss nicht, ihn im PLAYER MENU auszurüsten, okay? \her
+message_161:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 26
+  text: Ja, ja... Wir wissen es!\! Können wir jetzt zu BASILs Haus gehen?\kel
+message_162:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 47
+  text: Okay! Das ist alles, was ich zu sagen hatte!\! Geduld, KEL...\her
+message_165:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 39
+  text: Hmmm...\! Wir scheinen auf eine Menge Feinde mit EMOTION zu stoßen.\her
+message_166:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 38
+  text: \her Falls du es nicht wusstest, EMOTIONEN können bestimmen, wie stark oder schwach ein Angriff ist.\! HAPPY schlägt ANGRY...\! ANGRY schlägt SAD...\! und SAD schlägt HAPPY!
+message_167:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 38
+  text: Hier! Ich habe sogar eine Anleitung erstellt, wie sie funktionieren!\! Ich bin kein Künstler, aber ich denke, du wirst es verstehen.\! Ich stecke sie dir in die TASCHE, damit du sie dir später ansehen kannst.\her
+message_168:
+  text: Du hast ein \c[4]EMOTION CHART\c[0].
+message_170:
+  text: Willst du dir jetzt den \c[4]EMOTION CHART\c[0] ansehen?

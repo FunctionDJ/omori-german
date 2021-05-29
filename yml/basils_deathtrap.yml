@@ -1,0 +1,326 @@
+message_0:
+  faceset: MainCharacter_Basil
+  faceindex: 1
+  text: \basOMORI!
+message_1:
+  faceset: MainCharacter_Basil
+  faceindex: 0
+  text: \bas...
+message_2:
+  faceset: MainCharacter_Basil
+  faceindex: 1
+  text: \basDu bist es wirklich!<br>Gut, dass du hier bist... Ich bin so erleichtert.
+message_3:
+  faceset: MainCharacter_Basil
+  faceindex: 4
+  text: \basIch habe so sehr versucht, meinen Weg nach draußen zu finden, aber...<br>Dieser Ort ist riesig.<br>Ich habe mich immer wieder verlaufen...<br>nach einer Weile habe ich einfach aufgegeben...
+message_4:
+  faceset: MainCharacter_Basil
+  faceindex: 4
+  text: \basEs tut mir leid...\! Vielleicht hätte ich mich mehr anstrengen sollen...
+message_5:
+  faceset: MainCharacter_Basil
+  faceindex: 0
+  text: \bas Die ganze Zeit, die ich hier war, habe ich mein \c[4]FOTO ALBUM\c[0] durchgeschaut, um mir Gesellschaft zu leisten...
+message_6:
+  faceset: MainCharacter_Basil
+  faceindex: 2
+  text: \bas Wenn ich mich ängstlich fühlte, schaute ich mir all unsere glücklichen Erinnerungen zusammen an, um mich zu beruhigen...
+message_7:
+  faceset: MainCharacter_Basil
+  faceindex: 1
+  text: \basIch wusste, dass du kommen würdest, um mich zu retten, OMORI!<br>Du bist schließlich mein bester Freund!
+message_8:
+  faceset: MainCharacter_Basil
+  faceindex: 2
+  text: \basIch bin mir sicher, dass wir es schaffen werden, jetzt wo du hier bist!\!
+message_9:
+  faceset: MainCharacter_Basil
+  faceindex: 1
+  text: \basDieser Ort scheint ein wenig gefährlich zu sein, aber... Ich vertraue dir...
+message_10:
+  faceset: MainCharacter_Basil
+  faceindex: 1
+  text: \basFühr den Weg, OMORI!
+message_20:
+  faceset: MainCharacter_Basil
+  faceindex: 6
+  text: \basHey, OMORI...\! Ich habe mich gefragt...\!<br>Wissen Sie, wie ich hier gelandet bin?
+message_21:
+  faceset: MainCharacter_Basil
+  faceindex: 6
+  text: \bas Ich habe versucht, mich zu erinnern, aber meine Erinnerung ist irgendwie verschwommen...\!<br> Ich glaube...\! Ich habe mir ein Foto angesehen...\!<br>Ein Foto von \quake[1]\fn<OMORI_GAME>einer kaputten Geige...
+message_22:
+  faceset: MainCharacter_Basil
+  faceindex: 4
+  text: \basOder...\! hmm...\! Vielleicht habe ich mir das nur eingebildet?\! Ich bin mir nicht sicher...
+message_23:
+  faceset: MainCharacter_Basil
+  faceindex: 6
+  text: \basAhh...\! Und da ist auch noch etwas anderes, aber...
+message_24:
+  faceset: MainCharacter_Basil
+  faceindex: 1
+  text: \basHmm...\! es...\! es ist wahrscheinlich nichts.\!<br>Lasst uns schnell von hier verschwinden!
+message_29:
+  faceset: MainCharacter_Basil
+  faceindex: 2
+  text: \basHey, OMORI...
+message_30:
+  faceset: MainCharacter_Basil
+  faceindex: 2
+  text: \basIch habe mich nicht sicher gefühlt, also habe ich mich hier drin versteckt, aber ich bin froh, dass du es warst, der mich gefunden hat.
+message_31:
+  faceset: MainCharacter_Basil
+  faceindex: 2
+  text: \basHow is everyone?\!<br>Ich hoffe ihr habt euch nicht zu viele Sorgen um mich gemacht...\!<br>Ich kann es kaum erwarten, alle wieder zu sehen!
+message_40:
+  faceset: MainCharacter_Basil
+  faceindex: 6
+  text: \basH-Hey...\! OMORI...\! Ich habe darüber nachgedacht und...\! Ich denke, es gibt etwas, das ich dir sagen sollte...\!<br>Würdest du mich ganz schnell anhören?
+message_41:
+  faceset: MainCharacter_Basil
+  faceindex: 3
+  text: \basOMORI...?
+message_50:
+  faceset: MainCharacter_Basil
+  faceindex: 0
+  text: \basFühlst du dich gut, OMORI?\! Du verhältst dich irgendwie komisch...
+message_51:
+  faceset: MainCharacter_Basil
+  faceindex: 4
+  text: \basIst etwas passiert, während ich weg war?
+message_60:
+  faceset: MainCharacter_Basil
+  faceindex: 4
+  text: \basHey...\! Es tut mir wirklich leid, dass ich das anspreche, aber...\!<Br>Etwas hat mich wirklich beschäftigt...
+message_61:
+  faceset: MainCharacter_Basil
+  faceindex: 3
+  text: \bas Es geht...\! ähm...\! um MARI...\!<br>Wisst ihr vielleicht wovon ich rede?
+message_62:
+  faceset: MainCharacter_Basil
+  faceindex: 4
+  text: \basAck!\! Hier sind so viele Käfer drin...\! Ich mag diesen Ort nicht...
+message_63:
+  faceset: MainCharacter_Basil
+  faceindex: 3
+  text: \basOw!\! Diese Käfer tun wirklich weh...\! Ich glaube sie beißen mich!\! Ack! Ich kriege sie nicht weg!
+message_64:
+  faceset: MainCharacter_Basil
+  faceindex: 3
+  text: \basDa sind so viele von ihnen! Sie fressen mich auf! OMORI! Hilf mir!!!
+message_70:
+  faceset: MainCharacter_Basil
+  faceindex: 2
+  text: \basHey, OMORI...\! Bist...\! Hast du dich verlaufen?<br>Es ist... Es ist in Ordnung, wenn du es bist. Ich werde dich nicht verurteilen, versprochen!
+message_80:
+  faceset: MainCharacter_Basil
+  faceindex: 3
+  text: \basW-Wait...\! Ich bin...\! Es tut mir leid, OMORI.\!<br>Ich fühle mich nicht wirklich wie ich selbst.
+message_81:
+  faceset: MainCharacter_Basil
+  faceindex: 3
+  text: \basEtwas stimmt nicht...\!<br>Es gibt etwas, das ich dir sagen muss...\!<br>Bitte...\! OMORI...\! Wirst du mir zuhören?
+message_90:
+  faceset: MainCharacter_Basil
+  faceindex: 4
+  text: \basOMORI...\\^ Ich mag diesen Ort überhaupt nicht...\\\^<br>Es fühlt sich hier nicht sehr sicher an.\\\^
+message_91:
+  faceset: MainCharacter_Basil
+  faceindex: 2
+  text: \Aber...wenigstens haben wir uns. Haha...^
+message_92:
+  faceset: MainCharacter_Basil
+  faceindex: 4
+  text: \Eigentlich... gibt es da etwas, das mich wirklich beschäftigt... Würdest du mich anhören?
+message_100:
+  faceset: MainCharacter_Basil
+  faceindex: 0
+  text: \basiert ein Aufzug?\! Ich frage mich, wohin er führt.\! Vielleicht bringt er uns zurück nach Hause!
+message_101:
+  faceset: MainCharacter_Basil
+  faceindex: 6
+  text: <br>Kann ich etwas mit dir teilen?<br>Eigentlich...<br>wenn wir schon mal hier sind OMORI?
+message_102:
+  text: Wohin willst du gehen?
+message_103:
+  text: OTHERWORLD
+message_104:
+  text: WESTENWALD
+message_105:
+  text: SPROSSEN MAULWURF DORF
+message_106:
+  text: TIEFENBRUNNEN
+message_111:
+  text: SCHWARZER RAUM
+message_107:
+  faceset: MainCharacter_Basil
+  faceindex: 4
+  text: \basHalt dich fest, OMORI.\! I... Ich glaube, ich stecke fest.
+message_108:
+  faceset: MainCharacter_Basil
+  faceindex: 4
+  text: \basKönntest du mir helfen?
+message_109:
+  text: \basHnnn...\| Gggg...\| Huahhh...\| O... MORI...
+message_110:
+  faceset: MainCharacter_Basil
+  faceindex: 4
+  text: \basH-Hey, OMORI...\! Dieser Ort sieht nicht sehr sicher aus...\!<br>Vielleicht sollten wir versuchen, einen anderen Ausweg zu finden...
+message_120:
+  faceset: MainCharacter_Basil
+  faceindex: 6
+  text: \basHey, OMORI...<br>Es gibt da etwas, was ich dir sagen wollte...<br>Ich sehe ständig etwas in meinem Kopf...
+message_121:
+  faceset: MainCharacter_Basil
+  faceindex: 4
+  text: \basIch bin es und du...\! und...\!<br>Wir stehen nebeneinander...
+message_122:
+  faceset: MainCharacter_Basil
+  faceindex: 3
+  text: \bas...\! Und MARI...\! MARI ist auch da...\! aber...
+message_123:
+  faceset: MainCharacter_Basil
+  faceindex: 1
+  text: \basHERO! Du bist es!\! Was machst du denn hier?
+message_124:
+  faceset: MainCharacter_Basil
+  faceindex: 1
+  text: \basLook, OMORI! HERO ist hier!\! Lass uns ihm folgen!
+message_125:
+  faceset: MainCharacter_Basil
+  faceindex: 1
+  text: \basKEL!\! AUBREY!\! Es ist so schön, euch zu sehen, Jungs!!
+message_126:
+  faceset: MainCharacter_Basil
+  faceindex: 2
+  text: \basHow have you been?\! Hast du mich vermisst? Hehe...
+message_127:
+  faceset: MainCharacter_Basil
+  faceindex: 3
+  text: \basW-Wait...\! Was...\! Was macht ihr denn da?
+message_128:
+  faceset: MainCharacter_Basil
+  faceindex: 3
+  text: \basOMORI
+message_134:
+  text: Finger.
+message_130:
+  faceset: MainCharacter_Basil
+  faceindex: 4
+  text: \basH-Hey, OMORI...\! Du verhältst dich irgendwie kalt...\!<br>Habe ich etwas falsch gemacht?
+message_131:
+  faceset: MainCharacter_Basil
+  faceindex: 3
+  text: \bas\{Com[2]AHHH! \Com[2]WHAT'S HAPPENING!?
+message_132:
+  faceset: MainCharacter_Basil
+  faceindex: 3
+  text: \bas\Com[2]\{OMORI!!\! HELFEN SIE MIR!!!
+message_133:
+  faceset: MainCharacter_Basil
+  faceindex: 3
+  text: \bas\Com[2]\{PLEASE!!!!
+message_140:
+  faceset: MainCharacter_Basil
+  faceindex: 2
+  text: \basHey, ist das der Ausgang?\! Das war schnell... haha...\!
+message_141:
+  faceset: MainCharacter_Basil
+  faceindex: 1
+  text: \basIch bin so froh, dass du mein Freund bist, OMORI.\!<br>Du scheinst immer zu wissen, wie man mit allem umgeht...\!<br>Das bewundere ich wirklich.
+message_142:
+  faceset: MainCharacter_Basil
+  faceindex: 6
+  text: \basH-Hey, OMORI...\! Eigentlich...\! Sorry...\!<br>Bevor wir gehen, gibt es...\! ähm...
+message_143:
+  faceset: MainCharacter_Basil
+  faceindex: 6
+  text: \basDa gibt es etwas, das ich dir sagen muss...
+message_144:
+  faceset: MainCharacter_Basil
+  faceindex: 4
+  text: \basIt's...\! Es geht um MARI...
+message_145:
+  faceset: MainCharacter_Basil
+  faceindex: 3
+  text: \bas\Com[2]H-Huh?\! Was ist passiert!? \Com[2]Der Ausgang ist verschwunden!
+message_146:
+  faceset: MainCharacter_Basil
+  faceindex: 4
+  text: \basOh nein...\! OMORI...\!<br>Was machen wir jetzt?
+message_147:
+  faceset: MainCharacter_Basil
+  faceindex: 4
+  text: \basO-OMORI... !
+message_148:
+  faceset: MainCharacter_Basil
+  faceindex: 4
+  text: \basO-OMORI, hilf mir!
+message_150:
+  faceset: MainCharacter_Basil
+  faceindex: 2
+  text: \basHey! Das ist der Ausgang!\! Wir haben es endlich raus geschafft, OMORI!
+message_151:
+  faceset: MainCharacter_Basil
+  faceindex: 1
+  text: \basKomm schon, lass uns gehen! Alle warten auf uns!
+message_160:
+  text: katze
+message_161:
+  text: toast
+message_162:
+  text: spielzeug
+message_163:
+  text: spiel
+message_164:
+  text: tv
+message_165:
+  text: buch
+message_166:
+  text: datum
+message_167:
+  text: toast?
+message_168:
+  text: spaß
+message_169:
+  text: karten
+message_170:
+  text: schwer
+message_171:
+  text: kochen
+message_172:
+  text: sommer
+message_173:
+  text: freund
+message_174:
+  text: gegangen
+message_175:
+  text: cookies
+message_176:
+  text: kel
+message_177:
+  text: blok
+message_180:
+  text: \n<MARI?>Erweitere deinen Geist, OMORI!
+message_181:
+  text: \n<MARI?>Expandiere!
+message_182:
+  text: \n<MARI?>Erweitere deinen Geist!
+message_183:
+  text: \n<MARI?>Expandiere, OMORI!
+message_184:
+  text: \n<MARI?>\fn<OMORI_GAME>Erweitern...
+message_185:
+  text: \n<MARI?>\fn<OMORI_GAME>Erweitern...
+message_186:
+  text: \n<BLUEGIRL>Rede nicht mit mir.
+message_187:
+  text: \n<BLUECLOUD>Folge der Wolke!
+message_188:
+  text: Auf den Kopf gestellt.
+message_189:
+  text: \n<SKELE>Tanz, Skinboy!
+message_190:
+  text: Du hast ein schönes Nickerchen gemacht.

@@ -1,0 +1,76 @@
+message_0:
+  text: \n<DONUT GRANDMA>Meine Enkelin kommt selten zu Besuch, aber sie schickt mir ab und zu eine Postkarte!\! Es scheint ihr gut zu gehen!
+message_1:
+  text: \n<DONUT GRANDMA>Ich kann heute kaum noch sehen, aber ich kann immer noch einige<br>Formen ausmachen.\! Ich kann sagen...\! ihr seid alle ein paar seltsam aussehende Donuts!
+message_2:
+  text: \n<DONUT GRANDMA>\com[2]Huh?\! Was war das, Söhnchen?\! Hast du etwas gesagt?
+message_3:
+  text: \n<DONUT HOLE>\sinv[1]Uguuuuu!
+message_4:
+  text: \n<JELLY>Hehe...\! MISS PALMIE wird so überrascht sein, wenn ich ihr<br>diese \c[4]FOSSILIZED DANKESKARTE\c[0] gebe!\! Richtig, PEANUT?
+message_5:
+  text: \n<PEANUT>Mhmm!
+message_6:
+  text: \n<MAN ON FIRE>...\! Du hast einen besorgten Blick in deinen Augen...\! Ich kann sehen, dass dich ein Problem sehr beschäftigt...
+message_7:
+  text: \n<MAN ON FIRE>Lass mich dir etwas sagen, Kind.\! Wenn du weißt, dass eine<br>schwere und schwierige Zukunft vor dir liegt...\! alles was du brauchst ist Hoffnung!
+message_8:
+  text: \n<MAN ON FIRE>Sei hoffnungsvoll zu dir selbst und sei hoffnungsvoll für die Zukunft!\!<br>Ja!\! Alles ist möglich, wenn du daran glaubst!\! Und...\! wenn alles andere<br>versagt, wisse, dass zumindest ich an dich glauben werde, in Ordnung?
+message_9:
+  text: \n<MAN ON FIRE>Exzellent.\! Bitte nimm diese Lehre als ein Geschenk an.
+message_12:
+  text: HERO hat \c[1]SPICY FOOD\c[0] gelernt!
+message_11:
+  text: \n<MAN ON FIRE>Nun, wenn du mich entschuldigen würdest, ich muss los.
+message_10:
+  text: \n<MAN ON FIRE>Dann...\! Ich muss mich wiederholen!
+message_13:
+  text: \n<MAN ON FIRE>Exzellent.\! Wenn du mich jetzt entschuldigen würdest, ich muss los.
+message_20:
+  text: \n<ORANGE JOE und ORAGNE JOE>\sinv[1]Hoffnung und Tatkraft!\! Hoffnung und Elan!
+message_21:
+  text: \n<PALMIE>Willkommen in meinem Haus!\! Ich kümmere mich um Kinder, die keine eigene Familie haben.
+message_22:
+  text: \n<PALMIE>In letzter Zeit ist es hier ein bisschen leer, deshalb mache ich mir immer Sorgen, dass die Kinder, die übrig sind, anfangen, einsam zu werden...
+message_23:
+  text: \n<PALMIE>PEANUT und JELLY machen mir immer die seltsamsten Geschenke...\! Ich frage mich, was sie dieses Mal für mich haben?
+message_50:
+  text: \n<TOFU CONCONNASISSEUR>Ich bin der TOFU CONCONNASISSEUR!\!<br>Ich liebe alle Arten von \c[3]TOFU\c[0]!
+message_51:
+  text: \n<TOFU CONCONNASISSEUR>Jedes Stück von \c[3]TOFU\c[0] ist einzigartig und verdient es, individuell genossen zu werden!
+message_52:
+  text: \n<TOFU CONCONNASISSEUR>\c[3]TOFU\c[0] ist nicht für jeden, aber das bedeutet mehr \c[3]TOFU\c[0] für mich!
+message_53:
+  text: \n<TOFU CONCONNASISSEUR>Wenn du mir 10 \c[3]TOFU\c[0] gibst, gebe ich dir einen SNACK, den ich auf meinen vielen \c[3]TOFU\c[0]-bezogenen Reisen gesammelt habe!
+message_54:
+  text: \n<TOFU CONCONNASISSEUR>Willst du mir 10 \c[3]TOFU\c[0] gegen einen SNACK tauschen?
+message_55:
+  text: Du hast 10 \c[3]TOFU\c[0] an TOFU CONCONNASISSEUR gegeben.
+message_56:
+  text: \n<TOFU CONCONNASISSEUR>Wunderbar! Nimm dieses nicht ganz so leckere Essen im Tausch!
+message_59:
+  text: Du hast \c[3]\itemget\c[0]!
+message_58:
+  text: \n<TOFU CONCONNASISSEUR>Bitte genieße es so sehr, wie ich diese 10 sehr einzigartigen Stücke von \c[3]TOFU\c[0] genießen werde!
+message_57:
+  text: \n<TOFU CONCONNASISSEUR>Hey! Du hast keine 10 \c[3]TOFU\c[0]...
+message_60:
+  text: \n<ACTUAL MOLE>Du riechst wie Vater!\! Vater ist am Leben?\!<br>Ich habe ihn nicht mehr gesehen, seit er versehentlich in das Beschwörungsgewölbe geworfen wurde!
+message_61:
+  text: \n<ACTUAL MOLE>\com[2]Eindringlinge!\! Hinfort, lebendiger TOAST!
+message_62:
+  text: \n<ACTUAL MOLE>Unsere Meister schlafen nicht, also schlafen wir auch nicht.\! Tag ein...Tag aus...es ist \sinv[1]frisches Brot...frisches Brot...frisches Brot...\c[0]
+message_63:
+  text: \n<AKTUELLE MOLE>Die Meister erhalten in letzter Zeit immer mehr Anfragen.<br>Sie müssen bald an ihr Limit kommen.
+message_65:
+  text: \n<ACTUAL MOLE>Wie geht es Vater? Wird er bald zurückkehren?
+message_66:
+  text: \n<ACTUAL MOLE>\com[2]Besucher!\! Willkommen, lebendiger TOAST!
+message_67:
+  text: \n<ACTUAL MOLE>Ohne unsere Meister sind wir frei!\! Wir werden diesen Ort zu unserem neuen Zuhause machen!
+message_68:
+  text: \n<ACTUAL MOLE>Die Meister haben uns immer gut behandelt...\! Sniff...\! Ich werde BISCUITs Witze vermissen...
+message_70:
+  text: \n<WEE CACTUS>Grußworte.\! Danke, dass du mit mir sprichst.
+message_71:
+  text: Du hast 100 CLAMS!

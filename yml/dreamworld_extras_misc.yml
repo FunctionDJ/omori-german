@@ -1,0 +1,232 @@
+message_0:
+  text: Du hast in deiner Tasche nach einem SCHWARZEN SCHLÜSSEL gesucht...<br>aber er war nicht da.
+message_1:
+  text: \swh\Com[2]\{KANN KEINER HIER IRGENDWAS TUN!?!?
+message_2:
+  faceset: MainCharacter_Basil
+  faceindex: 0
+  text: \basHmm... verflixt...<br>Ich glaube, ich erinnere mich nicht mehr an die Reihenfolge all dieser Fotos...
+message_3:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 38
+  text: \herMach dir keine Sorgen, BASIL.\! OMORI hat wirklich ein gutes Gedächtnis, also bin ich mir sicher, dass wir das in kürzester Zeit herausfinden werden!
+message_4:
+  text: Du siehst, dass du allein im Spiegel bist.<br>Das gefällt dir nicht.
+message_5:
+  text: Du starrst in das Spiegelbild des Messers.<br>Es kennt dich gut.
+message_6:
+  text: Ein glänzendes Teleskop.\! Willst du dir die Aussicht ansehen?
+message_20:
+  text: Die Bewohner von \c[11]RAIN TOWN\c[0] sind in Gefahr!\! Es gibt zu viel Regen, der sich auf ihrem Land ausbreitet, und das macht sie unruhig!
+message_21:
+  text: Finde die Düse oben links auf der Karte und untersuche sie.
+message_22:
+  text: Der Regen nieselt, und die Bewohner von \c[11]RAIN TOWN\c[0] fühlen sich wieder wohl.
+message_40:
+  text: \n<WEEPING WILLOW>Seufz...\! Hey, ich bin es, WEEPING WILLOW, die Göttin des Sees.\!<br>Danke für die CLAMS, denke ich.
+message_41:
+  text: \Man sagt, dass man mit Geld Glück kaufen kann,<br>aber anscheinend funktioniert das nicht...
+message_42:
+  text: \n<WEEPING WILLOW>Kannst du etwas Lustiges für mich machen?<br>Vielleicht einen Witz erzählen?
+message_43:
+  text: \n<WEEPING WILLOW>...\! Es sieht nicht so aus, als hättest du Material dabei.\!<br>Komm wieder, wenn du einen oder zwei Witze hast.
+message_44:
+  text: \n<WEEPING WILLOW>Seufz...\! Okay, was ist es?
+message_45:
+  text: Willst du mit WEEPING WILLOW einen Witz aus dem<br>\c[4]JOKE BOOK\c[0] lesen?
+message_46:
+  text: Welchen Witz würdest du gerne lesen?
+message_47:
+  text: Du öffnest das \c[4]JOKE BOOK\c[0]...
+message_48:
+  text: Der Inhalt dieses Buches ist zu peinlich, um ihn laut vorzulesen.\! Vielleicht wäre jemand älteres dazu in der Lage.
+message_49:
+  text: \n<WEEPING WILLOW>Wirklich?\! Du hast mich umsonst hierher gerufen?
+message_50:
+  text: \n<WEEPING WILLOW>Seufz...\! Was für eine Zeitverschwendung...
+message_60:
+  text: \"Hast du von dem Restaurant auf dem Mond gehört?\"
+message_61:
+  text: \"Es gibt tolles Essen, aber keine Atmosphäre."
+message_62:
+  text: \"Warum hat die Vogelscheuche einen Preis gewonnen?\"
+message_63:
+  text: \"Weil er auf seinem Gebiet herausragend war.\"
+message_64:
+  text: \"Warum konnte das Fahrrad nicht von selbst aufstehen?"
+message_65:
+  text: \"Es waren zwei müde.\"
+message_66:
+  text: \"Wie baut ein Pinguin ein Haus?\"
+message_67:
+  text: \"Igloos es zusammen.\"
+message_68:
+  text: \"Wie nennt man Käse, der nicht von dir ist?\"
+message_69:
+  text: \"Nacho-Käse.\"
+message_70:
+  text: \"Was liegt auf dem Grund des Ozeans und zuckt?\"
+message_71:
+  text: \"Ein Nervenbündel.\"
+message_72:
+  text: \"Willst du einen Witz über den Bau hören?\"
+message_73:
+  text: \"Ich arbeite noch daran.\"
+message_74:
+  text: Du hast den Witz in deinem \c[4]JOKE BOOK\c[0] aufgeschrieben.
+message_75:
+  text: Du hast einen \c[4]JOKE BOOK\c[0]!
+message_90:
+  text: \n<WEEPING WILLOW>Sniff...\! Dieser Witz...\! Dieser Witz war so schlecht...\!<br>Es macht mich einfach...
+message_91:
+  text: \n<WEEPING WILLOW>Sniff...\! Sniff...\! \SINV[1]Wehhhhhhhhh...\SINV[0]
+message_92:
+  text: \n<WEEPING WILLOW>\SINV[1]Wehhhh...\SINV[0]\!\Com[2]\SINV[2]Weaa\{aaeeeeaahh\{hhhhhhhhhhhhh!!!\SINV[0]
+message_93:
+  text: \n<WEEPING WILLOW>\Com[2]\Quake[1]WEE\{\Com[2]AHHHH\{\Com[2]HHHHHH\{HHHHH\{HHHH!!!\Quake[0]
+message_94:
+  text: \n<WEEPING WILLOW>Sniff... \!Sniff... \!Hehe...
+message_95:
+  text: \n<WEEPING WILLOW>H-Hey...\! Der Witz ist ziemlich lustig...
+message_96:
+  text: \n<WEEPING WILLOW>\sinv[1]Hehehehe...
+message_97:
+  text: \n<WILLOW>Ah...\! Ich fühle mich jetzt ein wenig besser.
+message_98:
+  text: \n<WILLOW>Danke, dass ihr mich aufgemuntert habt, Reisende.
+message_99:
+  text: \n<WILLOW>Hier ist eine Belohnung für deine tapferen Bemühungen.
+message_100:
+  text: \n<WILLOW>Dies ist eine uralte Waffe von unbeschreiblicher Macht.
+message_101:
+  text: \n<WILLOW>Nur ein wahrer HERO ist in der Lage, es zu schwingen.
+message_102:
+  text: \n<WILLOW>Ah... Die Götter rufen nach mir.\!<br>Ich fürchte, es ist Zeit, mich zu verabschieden.
+message_103:
+  text: \n<WILLOW>Unsere gemeinsame Zeit war kurz, aber es war eine...\!<br>meist...\! angenehme Erfahrung.
+message_104:
+  text: \n<WILLOW>Vielleicht werden wir uns in einem anderen Leben wiedersehen.\!<br>So long, travelers! Es hat Spaß gemacht!
+message_110:
+  text: Du hast das \c[13]LOL SWORD\c[0].
+message_120:
+  text: Hast du Lust auf ein Versteckspiel?
+message_121:
+  text: 5...\! 4...\! 3...\! 2...\! 1...
+message_122:
+  text: Ich habe dich gefunden!
+message_123:
+  text: Willst du wieder spielen?
+message_140:
+  text: \n<TAXI DRIVER>Hey, Kleiner! Willst du irgendwo hingehen, wo es cool ist?<br>Du solltest zum \c[11]LAST RESORT\c[0] gehen!<br>Es ist der heißeste, trendigste Ort, an dem man dieser Tage sein kann!
+message_141:
+  text: \n<TAXI DRIVER>Ich kann dich dorthin bringen, wenn du willst, Junge!\! Das ist der letzte Schrei.
+message_142:
+  text: \n<TAXI DRIVER>Komm schon...\! Sei nicht schüchtern!\! Ich beiße nicht...\! viel.
+message_143:
+  text: \n<TAXI DRIVER>Hey, Kleiner! Willst du zurück zum \c[11]DEEP WELL\c[0] fahren?\! Ich fahre dich so viel du willst!\! Für mich ist das keine große Sache... Ich bekomme mein Gehalt! Keh heh!
+message_144:
+  text: \n<TAXI DRIVER>Hmm...\! Es scheint, als würdest du ein wenig zu kurz kommen...\!<br>Nun, das ist in Ordnung.\! Ich werde einfach alles nehmen, was du hast..
+message_145:
+  text: \n<TAXI DRIVER>Hey, warte eine Minute! Du hast gar nichts! <br>Du musst ganz schön reingelegt worden sein, Junge... Du tust mir leid.
+message_150:
+  text: \n<TAXI DRIVER>Ein bisschen holprig, aber gar nicht so schlecht.\! Komm jederzeit wieder, Junge.
+message_151:
+  text: \n<TAXI DRIVER>Komm jederzeit wieder, Junge.
+message_152:
+  text: \n<TAXI DRIVER>Brauchst du eine Mitfahrgelegenheit zurück zum \c[11]LAST RESORT\c[0]?\!<br>Alles für die rechte Hand des Bosses!
+message_153:
+  text: \n<TAXI DRIVER>Brauchst du eine Mitfahrgelegenheit zurück zum \c[11]LAST RESORT\c[0]?\!<br>Alles für dich, Boss!
+message_154:
+  text: \n<TAXI DRIVER>Brauchst du eine Mitfahrgelegenheit zurück zum \c[11]DEEP WELL\c[0]?<br>Alles für die rechte Hand des Bosses!
+message_155:
+  text: \n<TAXI DRIVER>Brauchst du eine Mitfahrgelegenheit zurück zum \c[11]DEEP WELL\c[0]?<br>Alles für dich, Boss!
+message_200:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 18
+  text: \kel\Com[2]\{\{FIRST!!!\}\}
+message_201:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 48
+  text: \herHuff... Huff...\! Die Leiter...
+message_202:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 48
+  text: \hier ist es einfach...\! Huff... Huff...\! Hört nie auf...
+message_203:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 18
+  text: \kel\sinv[1]\{\{BAHAHAHAHA!!!\}
+message_204:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 17
+  text: \kel\[2]Das ist ein kleiner Schritt für KEL...<br>und ein großer Schritt für KELKIND!!!
+message_205:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 10
+  text: \aubSo geht das nicht!
+message_206:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 18
+  text: \Du darfst nicht entscheiden, wie es läuft...<br>Du warst nicht zuerst hier!
+message_207:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 9
+  text: <br>Warte, warte...<br>Kom[2]<br>Ist das mein Arsch-Zertifikat<br>?
+message_208:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 10
+  text: \Nimm das Ding sofort runter!
+message_209:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 11
+  text: \aubWas ist, wenn es jemand sieht?
+message_210:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 19
+  text: <br>Sieh dir dieses Ding an, wie es im Wind flattert.
+message_211:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 23
+  text: \kel\sinv[1]So majestätisch...\ So schön...
+message_212:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 6
+  text: \aub\Com[2]\{HERO! TU WAS!}
+message_213:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 48
+  text: \her\}Huff... Huff...\!\{1... Sek... \!\}Huff... Huff...\!\{ Just... \}Huff... Huff...\!\{ Catching my breath... \}Huff... Huff...
+message_214:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 48
+  text: \Eigentlich...\!\} Huff... Huff...\{\}! Gib mir eine Minute...
+message_215:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 11
+  text: \aub... ... ...\! Vergiss es.
+message_216:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 40
+  text: \herMan, ich weiß, dass es einen Grund gibt, warum wir dieses Ding nie bestiegen haben, aber ich kann meinen Finger nicht darauf legen...
+message_217:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 39
+  text: \her Es liegt mir auf der Zunge...
+message_218:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 36
+  text: \herOh, na ja...\! Hier geht nichts!
+message_219:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 17
+  text: \kelHey OMORI, das ist nicht der richtige Weg zu BASILs Haus!
+message_250:
+  text: Hast du Lust auf einen Moonwalk?
+message_252:
+  text: Auf der Rückseite steht eine Nachricht geschrieben.
+message_253:
+  text: \"Bitte...mach nicht den gleichen Fehler, den ich gemacht habe...<br>\!-M\"
+message_300:
+  text: Die ERDE sieht friedlich aus.\!<br>Willst du sie stören?
+message_400:
+  text: Dieses Netz ist zu stark, um es zu zerschneiden.
