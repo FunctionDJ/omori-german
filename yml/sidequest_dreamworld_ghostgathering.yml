@@ -1,128 +1,239 @@
+
+# =========================================================================================
+# Ghost Gathering
+# ========================================================================================
+
+#Talk to Tophat Ghost
+
 message_0:
-  text: \n<TOPHAT GHOST>Meine Güte, was für ein tadelloses Timing!<br> Ich scheine mich in einer ziemlichen Zwickmühle befunden zu haben.
+      text: \n<ZYLINDER-GEIST>Meine Güte, welch perfektes Timing!\!<br>Es scheint, als befände ich mich in einer ziemlichen Zwangslage.
+
 message_1:
-  text: \n<TOPHAT GHOST>Ich habe Briefe an eine Reihe von Bekannten geschickt, in denen ich sie gebeten habe, an meinem eleganten Fest teilzunehmen...\! aber bis zu diesem Moment ist nicht ein einziger Eingeladener erschienen!\! Nicht ein einziger!
+      text: \n<ZYLINDER-GEIST>Ich habe Briefe an eine Anzahl Bekannter zugesandt, um sie zu diesem eleganten Festmahl von mir einzuladen ...\! doch bis zu diesem Zeitpunkt ist noch kein einziger Gast erschienen!\! Kein Einziger!
+
 message_2:
-  text: \n<TOPHAT GHOST>Das ist absurd.\! Ein kleinerer Geist wäre wütend, aber meine feineren Sinne sagen mir, dass sie sich vielleicht einfach auf dem Weg hierher verlaufen haben.
+      text: \n<ZYLINDER-GEIST>Das ist absurd.\! Ein niederer Geist wäre erzürnt, doch mein feiner Verstand sagt mir, dass sie sich lediglich auf dem Weg hierhier verirrt haben mögen.
+
 message_3:
-  text: \n<TOPHAT GHOST>Siehst du...\! als ich meine Einladungen verschickt habe...\! Hatte ich vergessen, eine Wegbeschreibung zum Veranstaltungsort beizulegen!
+      text: \n<ZYLINDER-GEIST>Wissen Sie...\! Als ich meine Einladungen verschickte...\! hatte ich eine Wegbeschreibung zum Veranstaltungsort vergessen!
+
 message_4:
-  text: \n<TOPHAT GHOST>Als wahrer Gentleman und Gastgeber weigere ich mich, diese Party zu beginnen, bis alle meine Gäste eingetroffen sind.
+      text: \n<ZYLINDER-GEIST>Als wahrer Gentleman und Gastgeber weigere ich mich, diese Feier einzuleiten, ehe all meine Gäste angekommen sind.
+
 message_5:
-  text: \n<TOPHAT GHOST>Wären Sie so freundlich, meinen Gästen zu helfen, den Weg hierher zu finden?
+      text: \n<ZYLINDER-GEIST>Wären Sie so nett, meiner Gästeschaft dabei zu helfen, ihren Weg hierher zu finden?
+
+#[Nod/Shake]
+#[Nod]
 message_6:
-  text: \n<TOPHAT GHOST>Danke, guter Herr!<br>Hier sind einige Karten mit Wegbeschreibungen zu meiner Party, gestempelt mit meinem persönlichen TOPHAT-Gütesiegel.
+      text: \n<ZYLINDER-GEIST>Danke, werter Herr!\!<br>Hier sind einige Karten mit Richtungen zu meiner Feier, und mit meinem eigenen persönlichen ZYLINDER-Gütesiegel gekennzeichnet.
+
 message_7:
-  text: \n<TOPHAT GHOST>Bitte gib jedem meiner Gäste diese Karten.<br>\!Sie werden dann sicher von alleine den Weg hierher finden.
+      text: \n<ZYLINDER-GEIST>Bitte liefern Sie diese Karten an jeden meiner Gäste.<br>\!Sicherlich werden sie dann den Weg hierher allein finden.
+
 message_8:
-  text: Du hast 6 \c[4]SPOOKY MAPS\c[0].
+      text: Du erhältst 6 \c[4]SPUKHAFTE KARTEN\c[0].
+#[Shake]
 message_9:
-  text: \n<TOPHAT GHOST>Hmph... Das ist eine Schande.\! Würdest du wirklich einen alten Geist wie mich dieses Festmahl ganz allein genießen lassen?
+      text: \n<ZYLINDER-GEIST>Hmpf... Das ist sehr schade.\! Würden Sie wirklich einen alten Geist wie mich dieses Festmahl ganz allein genießen lassen?
+#Talk to Beard GHOST
+
 message_10:
-  text: \n<BEARD GHOST>Hmm...\! Warte, wo wollte ich noch mal hin?<br>Verdammt, mein Gedächtnis ist nicht mehr das, was es mal war...
+      text: \n<VOLLBART-GEIST>Hmm...\! Moment, wo wollte ich nochmal hin?\!<br>Verflixt, mein Gedächtnis ist nicht mehr, was es früher war...
+
 message_11:
-  text: Du hast eine \c[4]SPOOKY MAP\c[0] an BEARD GHOST gegeben.
+      text: Du gibst VOLLBART-GEIST eine \c[4]SPUKHAFTE KARTE\c[0].
+
 message_12:
-  text: \n<BEARD GHOST>Eh? Was hast du da?<br>Eine Karte zu TOPHAT's Party?<br> Hoo, das ist es wirklich!
+      text: \n<VOLLBART-GEIST>Hä? Was hast du da?\!<br>Eine Karte zum Fest vom ollen ZYLINDER?\! Hui, tatsächlich!
+
 message_13:
-  text: \n<BEARD GHOST>Ich gehe besser, bevor das ganze Essen kalt wird.\!<br>Hier komme ich, All-you-can-eat-Buffet!
+      text: \n<VOLLBART-GEIST>Ich mach' mich lieber auf den Weg, bevor das ganze Essen kalt wird.\!<br>All-you-can-eat-Buffet, hier komme ich!
+
+#Talk to Glasses GHOST
+
 message_14:
-  text: \n<GLASSES GHOST>Hier bin ich, allein wie eine Muschel...\! seufz...\! Das eine Mal, dass ich zu einer Party eingeladen bin und nicht weiß, wo sie ist...
+      text: \n<BRILLE-GEIST>Ich bin so allein, allein wie ein Stein...\! Seufz...\! Da bin ich ein Mal zu einer Party eingeladen, und weiß nicht, wo sie stattfindet...
+
 message_15:
-  text: Du hast eine \c[4]SPOOKY MAP\c[0] an GLASSES GHOST gegeben.
+      text: Du gibst BRILLE-GEIST eine \c[4]SPUKHAFTE KARTE\c[0].
+
 message_16:
-  text: \n<GLASSES GHOST>O-Oh! Ich fasse es nicht! Ist das eine Karte zu TOPHATs Party?\!<br> Du bist ein echter Lebensretter, weißt du das?\!<br> Ich beeile mich besser...\! Es klingt, als würde es ein Knaller werden!
+      text: \n<BRILLE-GEIST>O-Oh! Ich glaub's ja nicht! Ist das eine Karte zu ZYLINDERs Party?\!<br>Du bist ein echter Lebensretter, weißt du das?\!<br>Ich beeile mich lieber...\! Das wird wohl ein Knaller!
+
+
+#Talk to Mustache GHOST
+
 message_17:
-  text: <br>Ich bin nur ein verlorener, schwebender Schnurrbart, der seinen Tag durchlebt!
+      text: \n<SCHNURRBART-GEIST>Beachte mich nicht!\!<br>Ich bin nur ein verirrter, schwebender Schnurrbart, der seinen Tag verbringt.
+
 message_18:
-  text: Du hast eine \c[4]SPOOKY MAP\c[0] an MUSTACHE GHOST gegeben.
+      text: Du gibst SCHNURRBART-GEIST eine \c[4]SPUKHAFTE KARTE\c[0].
+
 message_19:
-  text: \n<MUSTACHE GHOST>Whoa, warte eine Sekunde! Was haben wir denn hier?\!<br>Wegweiser zu TOPHATs Party?\!<br>Tja, na ja... Ich mache mich besser aus dem Staub!
+      text: \n<SCHNURRBART-GEIST>Oha, Sekunde mal! Was haben wir denn hier?\!<br>Eine Wegbeschreibung zu ZYLINDERs Fete?\!<br>Tja, na sowas... Ich hau lieber ab!
+
 message_20:
-  text: \n<MUSTACHE GHOST>\Com[2]Die Party fängt erst an, wenn ich da bin!\!<br>\quake[1]Hyok, hyok, hyok... snort... hyok, hyok, hyok! \quake[0]
+      text: \n<SCHNURRBART-GEIST>\Com[2]Die Feier fängt nicht an, bis ich ankomme!\!<br>\quake[1]Hyok, hyok, hyok... grunz... hyok, hyok, hyok! \quake[0]
+
+#Talk to Princess GHOST
+
 message_21:
-  text: \n<PRINZESSIN GHOST>Oh je, es scheint, dass ich mich schon wieder verirrt habe...<br>Oh... wie ungeschickt von mir.
+      text: \n<PRINZESSIN-GEIST>Ach herrje, es scheint, als hätte ich mich einmal mehr verirrt...\!<br>Oh... wie ungeschickt von mir.
+
 message_22:
-  text: Du hast eine \c[4]SPOOKY MAP\c[0] an PRINCESS GHOST gegeben.
+      text: Du gibst PRINZESSIN-GEIST eine \c[4]SPUKHAFTE KARTE\c[0].
+
 message_23:
-  text: \n<PRINZESSIN GHOST>Oh, meine Güte! Was ist das?<br>Eine Karte zu Sir TOPHATs Party? Ja, das ist sie!
+      text: \n<PRINZESSIN-GEIST>Oh je! Was ist das?\!<br>Eine Karte zu Herrn ZYLINDERs Feier? Aber ja, in der Tat ist es das!
+
 message_24:
-  text: \n<PRINZESSIN GHOST>Ich muss mich jetzt zur Party beeilen.<br>Zu spät zu kommen ist unpassend für eine Prinzessin!
+      text: \n<PRINZESSIN-GEIST>Ich muss nun zur Feier eilen.<br>Verspätungen sind ungebührlich für eine Prinzessin!
+
+
+#Talk to Propeller GHOST
+
 message_25:
-  text: \n<PROPELLER GHOST>Sniff... Schnüffel... Komm schon...\!<br>Warum musste ich gehen und mich wieder verlaufen?
+      text: \n<PROPELLER-GEIST>Schnief... Schnief... Komm schon...\!<br>Warum muss ich mich schon wieder verirren?
+
 message_26:
-  text: Du hast eine \c[4]SPOOKY MAP\c[0] an PROPELLER GHOST gegeben.
+      text: Du gibst PROPELLER-GEIST eine \c[4]SPUKHAFTE KARTE\c[0].
+
 message_27:
-  text: \n<PROPELLER GHOST>Oh... Hi...\! Hm? Ist das eine Karte?\! Warte, ich kann TOPHATs Siegel darauf sehen!\! Du meine Güte! Das muss die Wegbeschreibung zur Party sein!<br>Vielen Dank, lieber Fremder!
+      text: \n<PROPELLER-GEIST>Oh... Hi...\! Häh? Ist das eine Karte?\! Warte, ich kann ZYLINDERs Siegel darauf sehen!\! Menschenskind! Das müssen die Richtungen zur Party sein!<br>Vielen Dank, lieber Fremder!
+
 message_28:
-  text: \n<PROPELLER GHOST>Ich werde mit dir auf der Party reden!
+      text: \n<PROPELLER-GEIST>Wir sehen uns auf der Party!
+
+#Talk to Sunhat GHOST
+
 message_29:
-  text: \n<SUNHAT GHOST>Huh, das sieht nicht richtig aus.\!<br>Ich muss irgendwo falsch abgebogen sein...
+      text: \n<SONNENHUT-GEIST>Hm, hier stimmt was nicht.\!<br>Ich bin wohl irgendwo falsch abgebogen...
+
 message_30:
-  text: Du hast einen \c[4]SPOOKY MAP\c[0] an SUNHAT GHOST gegeben.
+      text: Du gibst SONNENHUT-GEIST eine \c[4]SPUKHAFTE KARTE\c[0].
+
 message_31:
-  text: \n<SUNHAT GHOST>Was ist das? Eine Karte?\!<br>Oh, mein... sie hat sogar TOPHATs Siegel!\!<br>Nun werde ich in der Lage sein, zur Party zu gelangen.
+      text: \n<SONNENHUT-GEIST>Was ist das? Eine Karte?\!<br>Oh je... da ist sogar ZYLINDERs Siegel drauf!\!<br>Jetzt kann ich die Feier erreichen.
+
 message_32:
-  text: \n<SUNHAT GHOST>Danke, Kinder!\!<br>Ich muss jetzt gehen, ich bin sowieso schon hinter dem Zeitplan.
+      text: \n<SONNENHUT-GEIST>Danke, Kinder!\!<br>Ich muss nun los, ich bin so schon hinter dem Zeitplan.
+
+#Talking to other Ghosts before talking to Tophat GHOST
+
 message_33:
-  text: BEARD GHOST schaut sich ziellos um, als ob er sich verlaufen hätte.
+      text: BART-GEIST schaut sich mit verirrtem Blick um.
+
 message_34:
-  text: GLASSES GHOST schaut sich ziellos um, als ob es verloren wäre.
+      text: BRILLEN-GEIST schaut sich mit verirrtem Blick um.
+
 message_35:
-  text: MUSTACHE GHOST schaut sich ziellos um, als ob es sich verlaufen hätte.
+      text: SCHNURRBART-GEIST schaut sich mit verirrtem Blick um.
+
 message_36:
-  text: PRINCESS GHOST schaut sich ziellos um, als ob es sich verlaufen hätte.
+      text: PRINZESSIN-GEIST schaut sich mit verirrtem Blick um.
+
 message_37:
-  text: PROPELLER GHOST schaut sich ziellos um, als ob es sich verlaufen hätte.
+      text: PROPELLER-GEIST schaut sich mit verirrtem Blick um.
+
 message_38:
-  text: SUNHAT GHOST schaut sich ziellos um, als ob es sich verlaufen hätte.
+      text: SONNENHUT-GEIST schaut sich mit verirrtem Blick um.
+
+#Talking to ZYLINDER-GEIST before collecting all the Ghosts
+
 message_39:
-  text: \n<TOPHAT GHOST>Es gibt 6 \c[4]SPOOKY MAPS\c[0] mit Wegbeschreibungen zu meiner Party.\!<br>Jede ist mit meinem persönlichen TOPHAT-Siegel versehen.
+      text: \n<ZYLINDER-GEIST>Es gibt 6 \c[4]SPUKHAFTE KARTEN\c[0], die zu meiner Feier führen.\!<br>Jede ist mit meinem eigenen persönlichen ZYLINDER-Gütesiegel gekennzeichnet.
+
 message_40:
-  text: \n<TOPHAT GHOST>Bitte gib jedem meiner Gäste diese Karten.<br>\!Sie werden dann sicher von alleine den Weg hierher finden.
+      text: \n<ZYLINDER-GEIST>Bitte liefern Sie diese Karten an jeden meiner Gäste.<br>\!Sicherlich werden sie dann den Weg hierher allein finden.
+
+#Talking to ZYLINDER-GEIST after collecting all ghosts
+
 message_41:
-  text: \n<TOPHAT GHOST>\Com[2]\{HUZZAH! DAS FEST IST GERETTET!!
+      text: \n<ZYLINDER-GEIST>\Com[2]\{HURRA! DAS FESTMAHL IST GERETTET!!
+
 message_42:
-  text: \n<TOPHAT GHOST>Nun...\!<br>\{\Sinv[1]LET THE FESTIVITIES BEGIN!!!\}\Sinv[0]
+      text: \n<ZYLINDER-GEIST>Nun...\!<br>\{\Sinv[1]MÖGEN DIE FESTLICHKEITEN BEGINNEN!!\}\Sinv[0]
+
+#GHOSTS DO A DANCE
+
 message_50:
-  text: \n<BEARD GHOST>Diese Party ist sensationell!\! Hier ist eine Kleinigkeit, die ich auf dem Weg hierher aufgeschnappt habe.\! Es ist nicht viel, aber es ist alles, was ich habe!
+      text: \n<VOLLBART-GEIST>Dieses Fest ist sensationell!\! Hier ist 'ne Kleinigkeit, die ich auf dem Weg hierher mitgenommen hab.\! Is' nich' viel, aber mehr hab ich nich'!
+
 message_51:
-  text: \n<GLASSES GHOST>Ah...\! Diese Party ist genau so, wie ich sie mir vorgestellt habe.\! Danke, dass du mich hierher geführt hast und so.\! Dies ist ein Geschenk für dich!
+      text: \n<BRILLE-GEIST>Ah...\! Diese Party ist genau, wie ich sie mir vorstellte.\! Danke fürs Wegweisen und so.\! Hier ist ein Geschenk für dich!
+
 message_52:
-  text: \n<MUSTACHE GHOST>Was für eine unglaubliche Party!\! TOPHAT GHOST setzt die Messlatte jedes Mal höher!\! Ich bin euch etwas schuldig, Freunde. Hier, nimm das!
+      text: \n<SCHNURRBART-GEIST>Welch eine unglaubliche Fete!\! ZYLINDER-GEIST legt die Messlatte jedes Mal höher!\! Ich schulde euch etwas, Freunde. Hier, nehmt das!
+
 message_53:
-  text: \n<PRINCESS GHOST>Was für eine großartige Feier!\! Es ist euch allen zu verdanken, dass dies möglich war.\! Bitte nehmt dieses Angebot von mir an!
+      text: \n<PRINZESSIN-GEIST>Welch ein prachtvolles Fest!\! Es ist euch allen zu verdanken, dass dies möglich wurde.\! Bitte nehmt diese Gabe von mir an!
+
 message_54:
-  text: \n<PROPELLER GHOST>Gee willikers! Ich kann nicht glauben, dass ich hier bin!\! Und ich wette, ich sehe super cool aus, wenn ihr alle mit mir redet...\! Ihr wisst einfach, dass ich mich bei euch revanchieren muss!
+      text: \n<PROPELLER-GEIST>Oh, Junge! Ich kann nicht glauben, dass ich hier bin!\! Und ich seh' bestimmt supercool aus, so wie ihr alle mit mir redet...\! Ist doch klar, dass ich mich revanchieren muss!
+
 message_55:
-  text: \n<SUNHAT GHOST>Dankeschön, Kinder!\! Jetzt, wo ich auf dieser Party bin, ist es viel einfacher, mein Leben nach dem Tod zu genießen!\! Ihr müsst dies als Gegenleistung dafür nehmen, dass ihr meinen Tag erhellt habt!
+      text: \n<SONNENHUT-GEIST>Danke, Kinder!\! Da ich nun auf dieser Feier bin, ist mein Nachleben um einiges leichter zu genießen!\! Ihr müsst dies dafür annehmen, dass ihr meinen Tag versüßt habt!
+
 message_56:
-  text: \n<TOPHAT GHOST>Meine guten Männer! Ihr habt meine ewige Dankbarkeit.\! Genießt dieses Geschenk von mir!
+      text: \n<ZYLINDER-GEIST>Meine Herren! Sie haben meine ewige Dankbarkeit.\! Erfreuen Sie sich an diesem Präsent von mir!
+
 message_57:
-  text: \n<TOPHAT GHOST>Bitte nimm dir etwas Zeit und genieße die gute Gesellschaft!
+      text: \n<ZYLINDER-GEIST>Bitte nehmen Sie sich etwas Zeit, und genießen Sie die gute Gesellschaft!
+
+#==
+
+#beard
 message_60:
-  text: Du hast einen \c[3]WAFFLE\c[0].
+      text: Du erhältst eine \c[3]WAFFEL\c[0].
+
+#glasses
 message_61:
-  text: Du hast \c[4]DEAD BATTERIES\c[0].
+      text: Du erhältst \c[4]LEERE BATTERIEN\c[0].
+
+#mustache
 message_62:
-  text: Hast du \c[3]FRUIT JUICE? \c[0]
+      text: Du erhältst \c[3]FRUCHTSAFT?\c[0]
+
+#princess
 message_63:
-  text: Du hast einen \c[5]PRESENT\c[0].
+      text: Du erhältst ein \c[5]GESCHENK\c[0].
+
+#propeller
 message_64:
-  text: Du hast ein \c[5]GROSSES GUMMI-BAND\c[0].
+      text: Du erhältst ein \c[5]GROSSES GUMMIBAND\c[0].
+
+#sunhat
 message_65:
-  text: Du hast \c[3]LIFE JAM\c[0].
+      text: Du erhältst \c[3]LEBENSGELEE\c[0].
+
+#tophat
 message_66:
-  text: Du hast einen \c[13]TOPHAT\c[0].
+      text: Du erhältst einen \c[13]ZYLINDER\c[0].
+
+
+#==
+
+#beard
 message_70:
-  text: \n<BEARD GHOST>Sieh dir all dieses Essen an!
+      text: \n<BART-GEIST>Schaut euch all das Essen an!
+
+#glasses
 message_71:
-  text: \n<GLASSES GHOST>Ah...\! Diese Party ist genau so, wie ich sie mir vorgestellt habe.
+      text: \n<BRILLEN-GEIST>Ah...\! Diese Party ist genau, wie ich sie mir vorstellte.
+
+#mustache
 message_72:
-  text: \n<MUSTACHE GHOST>\quake[1]Hyok, hyok, hyok... snort... hyok, hyok, hyok!\quake[0]
+      text: \n<SCHNURRBART-GEIST>\quake[1]Hyok, hyok, hyok... grunz... hyok, hyok, hyok!\quake[0]
+
+#princess
 message_73:
-  text: \n<PRINCESS GHOST>Die Dekorationen sind dieses Jahr erstklassig!
+      text: \n<PRINZESSIN-GEIST>Die Dekorationen sind dieses Jahr erstklassig!
+
+#propeller
 message_74:
-  text: \n<PROPELLER GHOST>Ich wette, ich sehe gerade super cool aus...
+      text: \n<PROPELLER-GEIST>Ich seh' jetzt bestimmt supercool aus...
+
+#sunhat
 message_75:
-  text: \n<SUNHAT GHOST>Nun, da ich auf dieser Party bin, ist es viel einfacher, das Leben nach dem Tod zu genießen!
+      text: \n<SONNENHUT-GEIST>Da ich nun auf dieser Feier bin, ist mein Nachleben um einiges leichter zu genießen!

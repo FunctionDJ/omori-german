@@ -1,0 +1,128 @@
+message_0:
+  text: \n<TOPHAT GHOST>Meine Güte, was für ein tadelloses Timing!<br> Ich scheine mich in einer ziemlichen Zwickmühle befunden zu haben.
+message_1:
+  text: \n<TOPHAT GHOST>Ich habe Briefe an eine Reihe von Bekannten geschickt, in denen ich sie gebeten habe, an meinem eleganten Fest teilzunehmen...\! aber bis zu diesem Moment ist nicht ein einziger Eingeladener erschienen!\! Nicht ein einziger!
+message_2:
+  text: \n<TOPHAT GHOST>Das ist absurd.\! Ein kleinerer Geist wäre wütend, aber meine feineren Sinne sagen mir, dass sie sich vielleicht einfach auf dem Weg hierher verlaufen haben.
+message_3:
+  text: \n<TOPHAT GHOST>Siehst du...\! als ich meine Einladungen verschickt habe...\! Hatte ich vergessen, eine Wegbeschreibung zum Veranstaltungsort beizulegen!
+message_4:
+  text: \n<TOPHAT GHOST>Als wahrer Gentleman und Gastgeber weigere ich mich, diese Party zu beginnen, bis alle meine Gäste eingetroffen sind.
+message_5:
+  text: \n<TOPHAT GHOST>Wären Sie so freundlich, meinen Gästen zu helfen, den Weg hierher zu finden?
+message_6:
+  text: \n<TOPHAT GHOST>Danke, guter Herr!<br>Hier sind einige Karten mit Wegbeschreibungen zu meiner Party, gestempelt mit meinem persönlichen TOPHAT-Gütesiegel.
+message_7:
+  text: \n<TOPHAT GHOST>Bitte gib jedem meiner Gäste diese Karten.<br>\!Sie werden dann sicher von alleine den Weg hierher finden.
+message_8:
+  text: Du hast 6 \c[4]SPOOKY MAPS\c[0].
+message_9:
+  text: \n<TOPHAT GHOST>Hmph... Das ist eine Schande.\! Würdest du wirklich einen alten Geist wie mich dieses Festmahl ganz allein genießen lassen?
+message_10:
+  text: \n<BEARD GHOST>Hmm...\! Warte, wo wollte ich noch mal hin?<br>Verdammt, mein Gedächtnis ist nicht mehr das, was es mal war...
+message_11:
+  text: Du hast eine \c[4]SPOOKY MAP\c[0] an BEARD GHOST gegeben.
+message_12:
+  text: \n<BEARD GHOST>Eh? Was hast du da?<br>Eine Karte zu TOPHAT's Party?<br> Hoo, das ist es wirklich!
+message_13:
+  text: \n<BEARD GHOST>Ich gehe besser, bevor das ganze Essen kalt wird.\!<br>Hier komme ich, All-you-can-eat-Buffet!
+message_14:
+  text: \n<GLASSES GHOST>Hier bin ich, allein wie eine Muschel...\! seufz...\! Das eine Mal, dass ich zu einer Party eingeladen bin und nicht weiß, wo sie ist...
+message_15:
+  text: Du hast eine \c[4]SPOOKY MAP\c[0] an GLASSES GHOST gegeben.
+message_16:
+  text: \n<GLASSES GHOST>O-Oh! Ich fasse es nicht! Ist das eine Karte zu TOPHATs Party?\!<br> Du bist ein echter Lebensretter, weißt du das?\!<br> Ich beeile mich besser...\! Es klingt, als würde es ein Knaller werden!
+message_17:
+  text: <br>Ich bin nur ein verlorener, schwebender Schnurrbart, der seinen Tag durchlebt!
+message_18:
+  text: Du hast eine \c[4]SPOOKY MAP\c[0] an MUSTACHE GHOST gegeben.
+message_19:
+  text: \n<MUSTACHE GHOST>Whoa, warte eine Sekunde! Was haben wir denn hier?\!<br>Wegweiser zu TOPHATs Party?\!<br>Tja, na ja... Ich mache mich besser aus dem Staub!
+message_20:
+  text: \n<MUSTACHE GHOST>\Com[2]Die Party fängt erst an, wenn ich da bin!\!<br>\quake[1]Hyok, hyok, hyok... snort... hyok, hyok, hyok! \quake[0]
+message_21:
+  text: \n<PRINZESSIN GHOST>Oh je, es scheint, dass ich mich schon wieder verirrt habe...<br>Oh... wie ungeschickt von mir.
+message_22:
+  text: Du hast eine \c[4]SPOOKY MAP\c[0] an PRINCESS GHOST gegeben.
+message_23:
+  text: \n<PRINZESSIN GHOST>Oh, meine Güte! Was ist das?<br>Eine Karte zu Sir TOPHATs Party? Ja, das ist sie!
+message_24:
+  text: \n<PRINZESSIN GHOST>Ich muss mich jetzt zur Party beeilen.<br>Zu spät zu kommen ist unpassend für eine Prinzessin!
+message_25:
+  text: \n<PROPELLER GHOST>Sniff... Schnüffel... Komm schon...\!<br>Warum musste ich gehen und mich wieder verlaufen?
+message_26:
+  text: Du hast eine \c[4]SPOOKY MAP\c[0] an PROPELLER GHOST gegeben.
+message_27:
+  text: \n<PROPELLER GHOST>Oh... Hi...\! Hm? Ist das eine Karte?\! Warte, ich kann TOPHATs Siegel darauf sehen!\! Du meine Güte! Das muss die Wegbeschreibung zur Party sein!<br>Vielen Dank, lieber Fremder!
+message_28:
+  text: \n<PROPELLER GHOST>Ich werde mit dir auf der Party reden!
+message_29:
+  text: \n<SUNHAT GHOST>Huh, das sieht nicht richtig aus.\!<br>Ich muss irgendwo falsch abgebogen sein...
+message_30:
+  text: Du hast einen \c[4]SPOOKY MAP\c[0] an SUNHAT GHOST gegeben.
+message_31:
+  text: \n<SUNHAT GHOST>Was ist das? Eine Karte?\!<br>Oh, mein... sie hat sogar TOPHATs Siegel!\!<br>Nun werde ich in der Lage sein, zur Party zu gelangen.
+message_32:
+  text: \n<SUNHAT GHOST>Danke, Kinder!\!<br>Ich muss jetzt gehen, ich bin sowieso schon hinter dem Zeitplan.
+message_33:
+  text: BEARD GHOST schaut sich ziellos um, als ob er sich verlaufen hätte.
+message_34:
+  text: GLASSES GHOST schaut sich ziellos um, als ob es verloren wäre.
+message_35:
+  text: MUSTACHE GHOST schaut sich ziellos um, als ob es sich verlaufen hätte.
+message_36:
+  text: PRINCESS GHOST schaut sich ziellos um, als ob es sich verlaufen hätte.
+message_37:
+  text: PROPELLER GHOST schaut sich ziellos um, als ob es sich verlaufen hätte.
+message_38:
+  text: SUNHAT GHOST schaut sich ziellos um, als ob es sich verlaufen hätte.
+message_39:
+  text: \n<TOPHAT GHOST>Es gibt 6 \c[4]SPOOKY MAPS\c[0] mit Wegbeschreibungen zu meiner Party.\!<br>Jede ist mit meinem persönlichen TOPHAT-Siegel versehen.
+message_40:
+  text: \n<TOPHAT GHOST>Bitte gib jedem meiner Gäste diese Karten.<br>\!Sie werden dann sicher von alleine den Weg hierher finden.
+message_41:
+  text: \n<TOPHAT GHOST>\Com[2]\{HUZZAH! DAS FEST IST GERETTET!!
+message_42:
+  text: \n<TOPHAT GHOST>Nun...\!<br>\{\Sinv[1]LET THE FESTIVITIES BEGIN!!!\}\Sinv[0]
+message_50:
+  text: \n<BEARD GHOST>Diese Party ist sensationell!\! Hier ist eine Kleinigkeit, die ich auf dem Weg hierher aufgeschnappt habe.\! Es ist nicht viel, aber es ist alles, was ich habe!
+message_51:
+  text: \n<GLASSES GHOST>Ah...\! Diese Party ist genau so, wie ich sie mir vorgestellt habe.\! Danke, dass du mich hierher geführt hast und so.\! Dies ist ein Geschenk für dich!
+message_52:
+  text: \n<MUSTACHE GHOST>Was für eine unglaubliche Party!\! TOPHAT GHOST setzt die Messlatte jedes Mal höher!\! Ich bin euch etwas schuldig, Freunde. Hier, nimm das!
+message_53:
+  text: \n<PRINCESS GHOST>Was für eine großartige Feier!\! Es ist euch allen zu verdanken, dass dies möglich war.\! Bitte nehmt dieses Angebot von mir an!
+message_54:
+  text: \n<PROPELLER GHOST>Gee willikers! Ich kann nicht glauben, dass ich hier bin!\! Und ich wette, ich sehe super cool aus, wenn ihr alle mit mir redet...\! Ihr wisst einfach, dass ich mich bei euch revanchieren muss!
+message_55:
+  text: \n<SUNHAT GHOST>Dankeschön, Kinder!\! Jetzt, wo ich auf dieser Party bin, ist es viel einfacher, mein Leben nach dem Tod zu genießen!\! Ihr müsst dies als Gegenleistung dafür nehmen, dass ihr meinen Tag erhellt habt!
+message_56:
+  text: \n<TOPHAT GHOST>Meine guten Männer! Ihr habt meine ewige Dankbarkeit.\! Genießt dieses Geschenk von mir!
+message_57:
+  text: \n<TOPHAT GHOST>Bitte nimm dir etwas Zeit und genieße die gute Gesellschaft!
+message_60:
+  text: Du hast einen \c[3]WAFFLE\c[0].
+message_61:
+  text: Du hast \c[4]DEAD BATTERIES\c[0].
+message_62:
+  text: Hast du \c[3]FRUIT JUICE? \c[0]
+message_63:
+  text: Du hast einen \c[5]PRESENT\c[0].
+message_64:
+  text: Du hast ein \c[5]GROSSES GUMMI-BAND\c[0].
+message_65:
+  text: Du hast \c[3]LIFE JAM\c[0].
+message_66:
+  text: Du hast einen \c[13]TOPHAT\c[0].
+message_70:
+  text: \n<BEARD GHOST>Sieh dir all dieses Essen an!
+message_71:
+  text: \n<GLASSES GHOST>Ah...\! Diese Party ist genau so, wie ich sie mir vorgestellt habe.
+message_72:
+  text: \n<MUSTACHE GHOST>\quake[1]Hyok, hyok, hyok... snort... hyok, hyok, hyok!\quake[0]
+message_73:
+  text: \n<PRINCESS GHOST>Die Dekorationen sind dieses Jahr erstklassig!
+message_74:
+  text: \n<PROPELLER GHOST>Ich wette, ich sehe gerade super cool aus...
+message_75:
+  text: \n<SUNHAT GHOST>Nun, da ich auf dieser Party bin, ist es viel einfacher, das Leben nach dem Tod zu genießen!

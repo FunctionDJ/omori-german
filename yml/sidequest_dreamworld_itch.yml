@@ -1,18 +1,42 @@
+# =========================================================================================
+# Itch
+# ========================================================================================
+
+#Talk to Dino 4's Top Half
+
 message_1:
-  text: \n<SCOTT>\sinv[1]Howdy-ho, youngins'!\sinv[0]\!<br> Könntet ihr mir einen Gefallen tun?\!<br>Ich brauche dich, um ein Jucken für mich zu kratzen...
+      text: \n<SCOTT>\sinv[1]Howdy-ho, Kleine!\sinv[0]\!<br>Könntet ihr mir 'n Gefallen tun?\!<br>Ich hätt' gern, dass ihr mich da kratzt, wo's mich juckt...
+
 message_2:
-  text: \n<SCOTT>Es ist auf meinem Hintern, also kann ich nicht wirklich dran kommen.\!<br>Ugh...\! Es bringt mich einfach absolut um!
+      text: \n<SCOTT>Und zwar auf meiner Unterseite, wo ich halt nich' hinkomm'.\!<br>Ach...\! Ich \sinv[1]halt's einfach nich' aus!\sinv[0]
+
+#Talk to Dino 4's Bottom Half
+
 message_3:
-  text: Du hast SCOTTs Hintern gekratzt.
+      text: Du kratzt SCOTTs Unterseite.
+
+#Screen shakes
+
 message_4:
-  text: \n<SCOTT>\sinv[1]Ahhh...\! Viel besser...\sinv[0]
+      text: \n<SCOTT>\sinv[1]Ahhh...\! Viel besser...\sinv[0]
+
+#Talk to Dino 4's Top Half
+
 message_5:
-  text: \n<SCOTT>Hey! Ihr müsst die Kinder sein, die meinen Juckreiz gekratzt haben.<br>Was für ein \sinv[1]riesiges Relief\sinv[0]...
+      text: \n<SCOTT>Hey! Ihr seid wohl die Kinder, die mein Jucken wegbekommen haben.\!<br>Mann, bin \sinv[1]ich erleichtert\sinv[0]...
+
 message_6:
-  text: \n<SCOTT>Hier, nimm das.\!<br>Wir haben eigentlich zu viele von diesen Dingern.\!<br>Ich bin mir sicher, dass es auf die eine oder andere Weise nützlich sein wird!
+      text: \n<SCOTT>Hier, nehmt das.\!<br>Wir haben eigentlich zu viele von den Dingern.\!<br>Ihr könnt sicher irgendwie was damit anfangen!
+
 message_7:
-  text: Du hast einen \c[13]HARD HAT\c[0].
+      text: Du erhältst einen \c[13]SCHUTZHELM\c[0].
+
 message_10:
-  text: \n<SCOTT>Bleibt sicher, Kinder!\! Ich kann euch wirklich nicht genug danken!
+      text: \n<SCOTT>Passt auf euch auf, Kinder!\! Ich kann euch echt nich' genug danken!
+
+#Quest complete
+
+#After quest dialogue
+
 message_8:
-  text: \n<SCOTT>Hey!\! Ihr seid die Kinder, die mein Jucken gekratzt haben!<br>Das war eine \sinv[1]riesige Erleichterung!\sinv[0]
+      text: \n<SCOTT>Hey!\! Ihr seid die Kinder, die mein Jucken wegbekommen haben.\!<br>Das hat mich \sinv[1]so erleichtert!\sinv[0]

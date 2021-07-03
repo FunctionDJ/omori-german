@@ -1,0 +1,17 @@
+
+# =========================================================================================
+# Sidequest: Toilet Seat
+# =========================================================================================
+
+#Examine toilet seat
+message_0:
+      text: Die Klobrille ist oben.\! Runterklappen?
+
+#yes/no
+
+#if yes
+message_1:
+      text: Du hast die Klobrille heruntergeklappt.
+
+message_2:
+      text: ...\! Du hast dich übergeben.

@@ -1,0 +1,41 @@
+
+# =========================================================================================
+# Sidequest: Fix Arcade Machine
+# =========================================================================================
+
+#Talk to Gino without arcade piece
+
+message_1:
+      text: \n<BRILLENMANN>Seufz...\! Verdammt...\! Ich versuche gerade, diesen alten Arcade-Automaten zu reparieren, <br>aber mir fehlt ein seltenes und wichtiges Stück...
+
+message_2:
+      text: \n<BRILLENMANN>Anscheinend wurde es an dieser Stelle einfach abgebissen.\! Ich frage mich, wo es sein könnte...
+
+#Talk to Gino with arcade piece
+
+message_4:
+      text: \n<BRILLENMANN>\com[2]Hey!\! Das ist das fehlende \c[4]AUTOMATENSTÜCK\c[0], das ich gesucht habe!\! K-Könnte ich es dir vielleicht abnehmen?
+
+#[Nod/Shake]
+#[Nod]
+
+message_8:
+      text: Du gibst dem BRILLENMANN das \c[4]AUTOMATENSTÜCK\c[0].
+
+message_5:
+      text: \n<BRILLENMANN>Alles klar, cool!\! So, mal sehen...
+#[Arcade Machine boots up]
+message_6:
+      text: \n<BRILLENMANN>Na also...\! So gut wie neu!
+#[Shake]
+message_7:
+      text: \n<BRILLENMANN>\com[2]A-A-A-Aber wieso!?
+
+message_9:
+      text: \n<BRILLENMANN>Hier! Nimm diese \c[4]CD\c[0] als Dank!
+
+message_10:
+      text: \n<BRILLENMANN>Ich habe sie letzte Woche bei \c[11]HOBBEEZ\c[0] gekauft, ohne zu merken, dass ich sie bereits besaß...
+
+message_11:
+      text: \n<BRILLENMANN>So, wenn du mich nun entschuldigst...\! <br>Ich muss...\! ähh...\! sicherstellen, dass dieses Spiel richtig funktioniert...

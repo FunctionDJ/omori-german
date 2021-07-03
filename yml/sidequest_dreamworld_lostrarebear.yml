@@ -1,22 +1,41 @@
+
+# =========================================================================================
+# Lost Rare Bear
+# ========================================================================================
+
+#Talk to Candlie
+
 message_0:
-  text: \n<CANDLIE>Sniff...\! Sniff...\! Ich kann meinen \c[4]TEDDY BEAR\c[0] nirgends finden...
+      text: \n<KERZI>Schnief...\! Schnief...\! Ich kann meinen \c[4]TEDDYBÄR\c[0] nirgendwo finden...
+
 message_1:
-  text: \n<CANDLIE>Das letzte Mal, als ich ihn hatte...<br>Ich bin mir ziemlich sicher, dass ich durch ein großes rosa Schloss gewandert bin...
+      text: \n<KERZI>Als ich ihn das letzte Mal hatte...\!<br>Da lief ich in einem großen rosaroten Schloss umher, ganz sicher...
+
 message_2:
-  text: \n<CANDLIE>Wenn du ihn jemals findest, könntest du ihn zu mir zurückbringen?<br>Ich wette, er ist wirklich einsam...
+      text: \n<KERZI>Wenn du ihn je mal findest, könntest du ihn mir zurückgeben?\!<br>Er ist bestimmt richtig einsam...
+
+#Talk to Candlie after getting Rare Bear:
 message_3:
-  text: \n<CANDLIE>Sniff...\! Schnüffel...
+      text: \n<KERZI>Schnief...\! Schnief...
+
 message_4:
-  text: \n<CANDLIE>Oh, das ist mein \c[4]TEDDY BEAR\c[0]!
+      text: \n<KERZI>Oh, das ist mein \c[4]TEDDYBÄR\c[0]!
+
 message_5:
-  text: Du hast den \c[4]TEDDY BEAR\c[0] an CANDLIE gegeben.
+      text: Du gibst KERZI den \c[4]TEDDYBÄR\c[0].
+
 message_6:
-  text: \n<CANDLIE>Ich bin so froh, dass du wieder da bist, TEDDY!
+      text: \n<KERZI>Ich bin so froh, dich wieder zu haben, TEDDY!
+
 message_7:
-  text: \n<CANDLIE>Danke, dass du ihn mir zurückgegeben hast!\! Hier ist ein kleines Geschenk für dich...\! Es ist nicht viel, aber ich hoffe es gefällt dir.
+      text: \n<KERZI>Danke, dass du ihn mir zurückgebracht hast!\! Hier ist ein kleines Geschenk für dich...\! Es ist nicht viel, aber ich hoffe, es gefällt dir.
+
 message_8:
-  text: Du hast eine \c[13]RUBBER DUCK\c[0].
+      text: Du erhältst eine \c[13]GUMMIENTE\c[0].
+
 message_9:
-  text: \n<CANDLIE>Komm schon, TEDDY! Was sollen wir zuerst spielen?\!<br>Oh, ich weiß! Möchtest du eine Tasse Tee?
+      text: \n<KERZI>Komm, TEDDY! Was sollten wir zuerst spielen?\!<br>Oh, ich weiß! Möchtest du ein Tässchen Tee?
+
 message_10:
-  text: CANDLIE und TEDDY feiern eine Teeparty.
+      text: KERZI und TEDDY halten eine Teeparty.
+#KERZI and TEDDY have a tea party.

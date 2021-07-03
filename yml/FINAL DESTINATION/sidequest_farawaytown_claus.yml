@@ -1,0 +1,94 @@
+# =========================================================================================
+# Sidequest: Claus
+# =========================================================================================
+
+#Cutscene: Claus Leaves 1   FISH 1
+
+message_1:
+      text: \n<ORANGE KATZE>\sinv[1]Schnurr...\! Mriau...
+
+#Claus walks off in the direction of Basil's street
+
+message_2:
+      text: Die Katze hinterlässt dir ein Geschenk.
+
+message_3:
+      text: Du erhältst \c[4]MÜLL\c[0]...
+
+#Cutscene: Claus Leaves 2   FISH 2
+
+message_4:
+      text: \n<ORANGE KATZE>\sinv[1]Mriau?\! Mrriiiaaauu...
+
+#Claus walks off in the direction of Player's street
+
+message_5:
+      text: Die Katze hinterlässt dir ein Geschenk.
+
+message_6:
+      text: Du erhältst \c[4]MÜLL\c[0]...
+
+
+#Cutscene: Claus Leaves 3   FISH 3
+
+message_7:
+    text: \n<ORANGE KATZE>\sinv[1]Ariau...\! Ariau?\! Mriau...
+
+#Claus walks off in the direction of Town Plaza
+
+message_8:
+    text: Die Katze hinterlässt dir ein Geschenk.
+
+message_9:
+    text: Du erhältst \c[4]LUFTPOLSTERFOLIE\c[0]!
+
+
+#Cutscene: Claus Leaves 4   FISH 4
+
+message_10:
+    text: \n<ORANGE KATZE>\sinv[1]Mrriiiaaaauu...\! Schnurr...\! Schnurr...\! Schnurr...
+
+#Claus walks off in the direction of Trash Fortress
+
+message_11:
+    text: Die Katze hinterlässt dir ein Geschenk.
+
+message_12:
+    text: Du erhältst eine \c[4]MUSCHELSCHALE\c[0]!
+
+
+#Cutscene: Claus Leaves 5   FISH 5
+
+message_13:
+    text: \n<ORANGE KATZE>Mriau!\! Mriauu...\! Mriau!
+
+#Claus walks off in the direction of Graveyard
+
+message_14:
+    text: Die Katze hinterlässt dir ein Geschenk.
+
+message_15:
+    text: Du erhältst eine \c[4]RUHIGE CD\c[0]!
+
+#Cutscene: Claus Leaves 6   FISH 6
+
+message_16:
+    text: Du erkennst das Grab neben der Katze wieder.
+
+message_17:
+    text: \n<ORANGE KATZE>\sinv[1]Mriau?
+
+message_18:
+    text: Die Katze hinterlässt dir ein Geschenk.
+
+message_19:
+    text: Du erhältst ein \c[4]AUTOMATENSTÜCK\c[0]!
+
+message_20:
+    text: Du hast das Gefühl, du wirst diese Katze nicht mehr wiedersehen.
+
+message_21:
+    text: Die ORANGE KATZE sieht hungrig aus.\! Willst du ihr \c[3]FISCH\c[0] zu fressen geben?
+
+message_22:
+    text: Du hast keinen \c[3]FISCH\c[0] dabei.

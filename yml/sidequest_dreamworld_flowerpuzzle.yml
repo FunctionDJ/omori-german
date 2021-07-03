@@ -1,16 +1,32 @@
+
+# =========================================================================================
+# Flower puzzle
+# ========================================================================================
+#Copy from Demo
+
+
 message_0:
-  text: \daiIch möchte jemandem Blumen schenken, aber er ist nur an Puzzles interessiert...\! Wenn ich nur ein \c[4]FLOWER PUZZLE\c[0] oder so finden könnte...\! Vielleicht würde er mich dann bemerken...
+    text: \daiIch will jemandem Blumen schenken, aber er ist nur an Puzzlen interessiert...\! Wenn ich doch nur ein \c[4]BLUMENPUZZLE\c[0] oder so finden könnte...\! Vielleicht würde er mich dann beachten...
+
 message_1:
-  text: \daiIst das ein \c[4]FLOWER PUZZLE\c[0]?\! Für mich?\! ...\!<br>\}Vielleicht wird NEB mich jetzt endlich bemerken!
+    text: \daiIst das ein \c[4]BLUMENPUZZLE\c[0]?\! Für mich?\! ...\!<br>\}Vielleicht wird NEB mich jetzt endlich beachten!
+
 message_2:
-  text: \dai...
+    text: \dai...
+
 message_3:
-  text: \dai\Com[2]Oh nein, ich habe seinen Namen gesagt! Bitte tu so, als ob du das nicht gehört hättest...
+    text: \dai\Com[2]Oh nein, ich hab seinen Namen gesagt! Bitte tu so, als hättest du das nicht gehört...
+
 message_4:
-  text: \daiThank you for the \c[4]FLOWER PUZZLE\c[0]!\! Hier ist ein Geschenk als Gegenleistung...\!<br>Ich habe vorhin einen Haufen davon gepflückt!\! Sind sie nicht schön?
+    text: \daiDanke für das \c[4]BLUMENPUZZLE\c[0]!\! Hier ist ein Geschenk zurück...\!<br>Ich habe vorhin ganz viele gepflückt!\! Sind sie nicht hübsch?
+
 message_5:
-  text: Du hast einen \c[13]DAISY\c[0] von DAISY bekommen!
+    text: Du erhältst eine \c[13]MARGERITE\c[0] von MARGARETE!
+
 message_6:
-  text: \daiIch frage mich, wann ich ihm das geben soll...
+    text: \daiI-Ich frage mich, wann ich ihm das geben sollte...
+
+# =========================================================================================
+
 message_7:
-  text: Du siehst etwas Glänzendes zwischen den Trümmern...
+    text: Du siehst etwas Glänzendes im Abfall...

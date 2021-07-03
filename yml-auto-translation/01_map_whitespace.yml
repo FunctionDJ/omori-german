@@ -1,0 +1,112 @@
+message_0:
+  text: Eine weiße Tür wirft einen schwachen Schatten.\!<br>Was möchtest du gerne tun?
+message_1:
+  text: DIE TÜR ÖFFNEN
+message_2:
+  text: NICHTS TUN
+message_3:
+  text: Du starrst die Tür an.
+message_4:
+  text: \n<MEWO>Meow?\! (Wartest du darauf, dass etwas passiert?)
+message_404:
+  text: \n<MEWO>Meow?\! (Hier gibt es nicht viel zu tun, oder?)
+message_405:
+  text: \n<MEWO>Meow?\! (Oder doch nicht?)
+message_406:
+  text: \n<MEWO>Meow?\! (Suchst du nach einem Ausweg?)
+message_407:
+  text: \n<MEWO>Miau...\! (Es gibt immer einen...\|aber...)
+message_408:
+  text: \n<MEWO>Meow?\! (Wartest du darauf, dass etwas passiert?)
+message_409:
+  text: \n<MEWO>Miau?\! (Wann kommt Mama zurück?)
+message_5:
+  text: Du hast deinen Laptop hochgefahren.
+message_6:
+  text: Was würdest du gerne tun?
+message_7:
+  text: BLICK AUF DIE TASTATUR
+message_8:
+  text: AUF DEN BILDSCHIRM STARREN
+message_40:
+  text: ÖFFNE DEIN JOURNAL
+message_9:
+  text: ABMELDEN
+message_10:
+  text: Du starrst auf den Bildschirm.
+message_11:
+  text: Die Hitze des Laptops wärmte deinen Schoß. Es fühlte sich gut an.
+message_12:
+  text: Du kannst den Laptop nicht von dieser Seite aus benutzen.
+message_13:
+  text: Dein Skizzenbuch.\!\lb Wirf einen Blick hinein?
+message_14:
+  text: 'YES'
+message_15:
+  text: 'NO'
+message_16:
+  text: Eine Taschentuchbox, um deine Sorgen wegzuwischen.
+message_17:
+  text: Eine Glühbirne hängt von der Decke, wo auch immer sie ist.\!\lb<br>Siehst du in die Glühbirne?
+message_18:
+  text: Drinnen ist es stockdunkel. \! Du kannst nichts sehen.
+message_19:
+  text: Etwas ist in der Nähe gefallen.
+message_20:
+  text: Du hast ein \v[49].\!\lb <br>Du kannst dein Spiegelbild deutlich in der Klinge sehen.
+message_30:
+  text: Drinnen ist es stockdunkel. \! Du kannst nichts sehen.
+message_21:
+  text: Du kannst nicht ohne eine Waffe gehen.
+message_31:
+  text: Du hast ein BLURRY PHOTO.
+message_32:
+  text: Du hast ein SHINY KNIFE.
+message_100:
+  text: Eine weiße Tür wirft einen schwachen Schatten.\!<br>Was möchtest du gerne tun?
+message_101:
+  text: DIE TÜR ÖFFNEN
+message_102:
+  text: DIE TÜR ANSTARREN
+message_103:
+  text: Du starrst auf die Tür.
+message_104:
+  text: \n<CAT>Miau?
+message_105:
+  text: Nur ein Haufen Rauschen.
+message_106:
+  text: Was würdest du gerne tun?
+message_107:
+  text: BLICK AUF DIE TASTATUR
+message_108:
+  text: AUF DEN BILDSCHIRM STARREN
+message_109:
+  text: ABMELDEN
+message_110:
+  text: Du starrst auf den Bildschirm.
+message_112:
+  text: Du kannst den Laptop nicht von dieser Seite aus benutzen.
+message_113:
+  text: Ein Skizzenbuch.\!\lb Wirf einen Blick hinein?
+message_114:
+  text: 'YES'
+message_115:
+  text: 'NO'
+message_116:
+  text: Eine Taschentuchbox.
+message_117:
+  text: Eine Glühbirne hängt von der Decke, wo auch immer sie ist.\!\lb<br>Siehst du in die Glühbirne?
+message_118:
+  text: Drinnen ist es stockdunkel. \! Du kannst nichts sehen.
+message_120:
+  faceset: 01_OMORI_BATTLE
+  faceindex: 0
+  text: \n<OMORI>...
+message_121:
+  text: Eine Glühbirne hängt von der Decke.\!\lb<br>Willst du sie zerstören?
+message_125:
+  text: Du hast \c[1]RED HANDS\c[0] gelernt.
+message_126:
+  text: Du hast eine Karte gefunden.
+message_200:
+  text: Eine schwarze Tür wirft einen schweren Schatten.\!<br>Was möchtest du tun?

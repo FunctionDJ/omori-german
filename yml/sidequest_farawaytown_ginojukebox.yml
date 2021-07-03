@@ -1,92 +1,158 @@
+
+# =========================================================================================
+# Sidequest: Gino's Jukebox
+# =========================================================================================
+
+#Examine the Jukebox
+
 message_1:
-  text: EINE JUKEBOX.\! Sieht so aus, als ob es \c[4]CDs\c[0] spielen kann!
+      text: Eine JUKEBOX.\! Anscheinend kann sie \c[4]CDs\c[0] abspielen!
+
+#If CD is in inventory
 message_2:
-  text: Eine alte JUKEBOX.\! <br>Willst du deine \c[4]\v[829]\c[0] für die JUKEBOX spenden?
+      text: Eine alte JUKEBOX.\! <br>Willst du deine \c[4]\v[829]\c[0] der JUKEBOX spenden?
+
 message_3:
-  text: Du hast den \c[4]\v[829]\c[0] in GINOs JUKEBOX eingefügt.
+      text: Du legst die \c[4]\v[829]\c[0] in GINOs JUKEBOX ein.
+
 message_4:
-  text: Willst du einen Song aus der JUKEBOX spielen?
+      text: Willst du einen Song aus der JUKEBOX abspielen?
+
 message_5:
-  text: Willst du einen Song aus der JUKEBOX spielen?
+      text: Willst du einen Song aus der JUKEBOX abspielen?
+
 message_6:
-  text: Welches Lied möchtest du spielen?
+      text: Welchen Song willst du abspielen?
+
 message_7:
-  text: Eine alte JUKEBOX.\! <br>Willst du alle deine \c[4]CDs\c[0] an die JUKEBOX spenden?
+      text: Eine alte JUKEBOX.\! <br>Willst du all deine \c[4]CDs\c[0] der JUKEBOX spenden?
+
+# Filenames
 message_20:
-  text: jb_slimegirls
+      text: jb_slimegirls
+
 message_21:
-  text: jb_clover
+      text: jb_clover
+
 message_22:
-  text: jb_toby
+      text: jb_toby
+
 message_23:
-  text: jb_lumena
+      text: jb_lumena
+
 message_24:
-  text: jb_samm
+      text: jb_samm
+
 message_25:
-  text: jb_tofie
+      text: jb_tofie
+
 message_26:
-  text: jb_banshee
+      text: jb_banshee
+
 message_27:
-  text: jb_madeleine
+      text: jb_madeleine
+
 message_28:
-  text: jb_shirpower
+      text: jb_shirpower
+
 message_29:
-  text: jb_james
+      text: jb_james
+
 message_30:
-  text: jb_omniboi
+      text: jb_omniboi
+
 message_31:
-  text: jb_voia
+      text: jb_voia
+
 message_32:
-  text: jb_secret
+      text: jb_secret
+
+# Song names
 message_200:
-  text: NOSTALGIC CD
+      text: NOSTALGISCHE CD
+
 message_201:
-  text: CELESTIAL CD
+      text: HIMMLISCHE CD
+
 message_202:
-  text: MERRY CD
+      text: FRÖHLICHE CD
+
 message_203:
-  text: DEVILISH CD
+      text: TEUFLISCHE CD
+
 message_204:
-  text: ANDERSWELTLICHE CD
+      text: ANDERWELTLICHE CD
+
 message_205:
-  text: LIVELY CD
+      text: LEBHAFTE CD
+
 message_206:
-  text: BRUTAL CD
+      text: BRUTALE CD
+
 message_207:
-  text: ETHEREAL CD
+      text: ÄTHERISCHE CD
+
 message_208:
-  text: GHOULISH CD
+      text: SCHAURIGE CD
+
 message_209:
-  text: TRANQUIL CD
+      text: RUHIGE CD
+
 message_210:
-  text: CHILL CD
+      text: LOCKERE CD
+
 message_211:
-  text: DYNAMIC CD
+      text: DYNAMISCHE CD
+
 message_212:
-  text: SECRET CD
+      text: GEHEIME CD
+
+#[yes/no]
+
+#if yes
+#Changes BGM to CD
+
+#if no
+#Exit Jukebox
+
+# Jukebox NPC
+# Chatting about currently playing music/artist
 message_50:
-  text: \n<RAI>Ich kenne diesen Song!\! Dies ist ein Cover von \"HANGING WITH THE BOYS\" von SLIME GIRLS.
+      text: \n<RAI>Ich kenne diesen Song!\! Das ist ein Cover von \"HANGING WITH THE BOYS\" von SLIME GIRLS.
+
 message_60:
-  text: \n<RAI>Ich kenne diesen Song!\! Dies ist ein Cover von \"WHITE SPACE\" von CLOVER & SEALIFE.
+      text: \n<RAI>Ich kenne diesen Song!\! Das ist ein Cover von \"WHITE SPACE\" von CLOVER & SEALIFE.
+
 message_70:
-  text: \n<RAI>Ich kenne diesen Song!\! Dies ist ein Originalsong von TOBY FOX.
+      text: \n<RAI>Ich kenne diesen Song!\! Das ist ein Originalsong von TOBY FOX.
+
 message_80:
-  text: \n<RAI>Ich kenne diesen Song!\! Dies ist ein Cover von \"WORLD'S END VALENTINE\" von LUMENA_TAN.
+      text: \n<RAI>Ich kenne diesen Song!\! Das ist ein Cover von \"WORLD'S END VALENTINE\" von LUMENA_TAN.
+
 message_90:
-  text: \n<RAI>Ich kenne diesen Song!\! Dies ist ein Cover von \"STARDUST DIVING\" von SAMM NEILAND.
+      text: \n<RAI>Ich kenne diesen Song!\! Das ist ein Cover von \"STARDUST DIVING\" von SAMM NEILAND.
+
 message_100:
-  text: \n<RAI>Ich kenne diesen Song!\! Dies ist ein Cover von \"NOT-SO-EMPTY-HOUSE\" von TOFIE.
+      text: \n<RAI>Ich kenne diesen Song!\! Das ist ein Cover von \"NOT-SO-EMPTY-HOUSE\" von TOFIE.
+
 message_110:
-  text: \n<RAI>Ich kenne diesen Song!\! Dies ist ein Cover von \"UNDERWATER PROM QUEENS\" von BANSHEEBEAT.
+      text: \n<RAI>Ich kenne diesen Song!\! Das ist ein Cover von \"UNDERWATER PROM QUEENS\" von BANSHEEBEAT.
+
 message_120:
-  text: \n<RAI>Ich kenne diesen Song!\! Dies ist ein Cover von \"SNOW FOREST - A SINGLE FLOWER BLOOMS\" von MADELEINE GLENN.
+      text: \n<RAI>Ich kenne diesen Song!\! Das ist ein Cover von \"SNOW FOREST - A SINGLE FLOWER BLOOMS\" von MADELEINE GLENN.
+
 message_130:
-  text: \n<RAI>Ich kenne diesen Song!\! Dies ist ein Cover von \"NOT-SO-EMPTY-HOUSE\" von SHIRPOWER.
+      text: \n<RAI>Ich kenne diesen Song!\! Das ist ein Cover von \"NOT-SO-EMPTY-HOUSE\" von SHIRPOWER.
+
 message_140:
-  text: \n<RAI>Ich kenne diesen Song!\! Dies ist ein Cover von \"PYREFLY FOREST - CAT'S CRADLE\" von JAMES ROACH.
+      text: \n<RAI>Ich kenne diesen Song!\! Das ist ein Cover von \"PYREFLY FOREST - CAT'S CRADLE\" von JAMES ROACH.
+
 message_150:
-  text: \n<RAI>Ich kenne diesen Song!\! Dies ist ein Cover von \"LOST AT A SLEEPOVER\" von OMNIBOI.
+      text: \n<RAI>Ich kenne diesen Song!\! Das ist ein Cover von \"LOST AT A SLEEPOVER\" von OMNIBOI.
+
 message_160:
-  text: \n<RAI>Ich kenne diesen Song!\! Dies ist ein Cover von \"GOOD FOR HEALTH BAD FOR IMAGINATION\" von VOIA.
+      text: \n<RAI>Ich kenne diesen Song!\! Das ist ein Cover von \"GOOD FOR HEALTH BAD FOR IMAGINATION\" von VOIA.
+
+#secret track
 message_170:
-  text: \n<RAI>Hmm...\! Ich weiß nichts über dieses Lied.
+      text: \n<RAI>Hmm...\! Ich kenne diesen Song überhaupt nicht.

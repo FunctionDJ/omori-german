@@ -18,4 +18,4 @@ jobs:
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           tag: ${{ steps.create_tag.outputs.tag }}
-          artifact: omori_de.zip
+          artifacts: omori_de.zip

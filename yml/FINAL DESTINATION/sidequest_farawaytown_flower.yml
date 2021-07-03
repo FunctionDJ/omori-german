@@ -1,0 +1,19 @@
+# =========================================================================================
+# Sidequest: Flower
+# =========================================================================================
+
+#Talk to Charlie
+
+
+message_1:
+      faceset: MainCharacters_Faraway
+      faceindex: 0
+      text: \aubWas machst du hier, CHARLIE?\!<br>Ich wusste nicht, dass du Blumen magst...
+
+message_2:
+      text: \cha...
+
+message_3:
+      text: CHARLIE gibt dir eine \c[4]BLUMENKLAMMER\c[0].
+
+#CHARLIE walks O.S.
