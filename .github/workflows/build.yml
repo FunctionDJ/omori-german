@@ -11,4 +11,5 @@ jobs:
       - uses: softprops/action-gh-release@v1
         with:
           files: omori_de.zip
-        env: ${{ github.token }}
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
