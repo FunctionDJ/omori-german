@@ -8,8 +8,14 @@ jobs:
       - uses: actions/setup-node@v2
       - run: npm install
       - run: npm run build
-      - uses: softprops/action-gh-release@v1
-        with:
-          files: omori_de.zip
+
+      - uses: anothrNick/github-tag-action@1.35.0
+        id: create_tag
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - uses: ncipollo/release-action@v1
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          tag: ${{ steps.create_tag.outputs.tag }}
+          artifact: omori_de.zip
