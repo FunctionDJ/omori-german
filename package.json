@@ -2,7 +2,6 @@
   "name": "omori_de",
   "version": "1.0.0",
   "description": "",
-  "exports": "./build.js",
   "type": "module",
   "scripts": {
     "build": "node ./scripts/build.js"

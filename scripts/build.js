@@ -1,8 +1,8 @@
-import { promises as fs } from "fs"
+import fs from "fs/promises"
 import zip from "bestzip"
 
 ;(async () => {
-  const mod = await fs.readFile("./mod.json").then(JSON.parse)
+  const mod = JSON.parse(await fs.readFile("./mod.json"))
 
   const includes = Object.values(mod.files).flat()
 
