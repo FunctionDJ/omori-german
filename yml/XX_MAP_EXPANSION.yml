@@ -1,0 +1,1266 @@
+# Status: Not checked
+# Translated by: Haj
+
+#DREAM WORLD MAP EXPANSION DETAIL:
+
+##------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+#PARTY STAT BOOSTS
+
+##------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+#Omori ALL Buff --- Branch Coral:
+#Map: Deeper Well Whirlpool
+#New Assets: Omori sinking into a pool
+
+#------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+#Kel HEART Buff --- Pluto in the Wall:
+#Talk to Pluto in Construction alcove after defeating him in Mr. Jawsum's Room.
+
+message_0:
+    text: \pluAh. Das ist eine Überraschung, Kinder! Bist du gekommen, um wieder mit mir zu kämpfen?
+#*Pluto laughs*
+
+message_1:
+    text: \plu\Com[2]\sinv[2]\{GWAHA\{HAHA\{HAHAHAHA!!\}
+
+message_2:
+    text: \pluIch verstehe dich gut...<br>Ich spüre immer noch die Nachwirkungen unseres hitzigen Kampfes.<br> Es war eine Erinnerung, die ich für immer in Ehren halten werde!
+
+message_3:
+    text: \pluIhr seid alle unglaublich stark geworden, aber wie bei allem, gibt es noch Luft nach oben.
+
+#*Pluto walks in front of KEL*
+
+message_4:
+    text: \plu\Com[2]\c[1]FLEX\c[0] für mich, KEL!<br>Zeig mir, was ich dir beigebracht habe!
+
+message_5:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 19
+    text: \kelJa, Sir! PLUTO, Sir!
+
+#*Kel flexes*
+
+message_6:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 18
+    text: \kel\{\{\com[2]HOO-HA!!\}
+
+message_7:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 16
+    text: \kelKEL ist bereit für Action! Also, auf wen schlage ich ein!?
+#*Wait*
+
+message_8:
+    text: \plu...
+
+#*Pluto faces away*
+
+message_9:
+    text: \pluNein, ich fürchte, da irrst du dich.
+
+#*Pluto turns to KEL and walks forward 1 step*
+
+message_10:
+    text: \pluBei dieser Herausforderung werde ich nicht deine Kraft testen, <br>sondern deine Ausdauer...<br>.
+
+#*PLUTO flexes*
+
+message_11:
+    text: \pluMach dich auf was gefasst, KEL! Ich werde mich nicht zurückhalten.
+
+#*Screen turns black*
+#*Wait*
+
+message_12:
+    text: KEL hat 50 HERZEN erhalten.<br>...und einen Zahn verloren.
+
+#*Wait*
+#*Screen returns*
+
+#Talk to PLUTO:
+message_13:
+    text: \plu\Com[2]\sinv[2]\{GWAHA\{HAHA\{HAHAHAHA!!\}
+
+#*Pluto laughs*
+#*Pluto launches off*
+
+#------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+#Aubrey JUICE Buff --- Smashing \n<VAN>
+#Talk to BERLY after completing Lost Ball Quest after DAY 1 - SW
+#Note: This is not available during Deep Well night, but should be available again in epilogue.
+
+#*Party needs to be placed to the left bottom side.*
+#*Maybe playing cards or something.*
+
+#*VAN is talking to HAPPY, BROWS, and BANGS about something.*
+
+#BERLY looks around and is frustrated because no one is paying attention to her.
+message_20:
+    text: \n<BERLY>Grummel, grummel...
+#BERLY hops.
+message_21:
+    text: \n<BERLY>Hey, VAN! Komm her für mich!
+
+#*HAPPY hops and then HAPPY, BROWS, and BANGS walk off---screen.*
+
+message_22:
+    text: \n<VAN>Hm? Wolltest du etwas, BERLY?
+
+message_23:
+    text: \n<BERLY>Ja, stell dich hier hin und schau in diese Richtung.
+
+message_24:
+    text: \n<VAN>Okie-doki!
+#*VAN turns right from AUBREY*
+
+message_25:
+    text: \n<BERLY>AUBREY, komm her!
+
+#*AUBREY gets up.*
+message_26:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 8
+    text: \aubWas willst du jetzt, BERLY?
+
+message_27:
+    text: \n<BERLY>AUBREY!\! \sinv[1]AUBREY, AUBREY, AUBREY...\sinv[0]\!<br>Was ist das für ein frecher Ton? Komm schon! Wir sind beste Freunde!
+
+message_28:
+    text: \n<BERLY>Siehst du den großen Typ da drüben?
+
+message_29:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 8
+    text: \aubIch weiß, wer VAN ist...
+
+message_30:
+    text: \n<BERLY>Großartig!\! Mach weiter und verpass ihm einen guten Schlag für mich!
+
+message_31:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 10
+    text: \aub\com[2]W-Was!? Warum!?! Was ist, wenn er verletzt wird?
+
+message_32:
+    text: \n<BERLY>Wieso fragst du andauernt!? Kannst du nicht einmal etwas tun, ohne zu denken!?
+
+#*BERLY jumps.*
+message_33:
+    text: \n<BERLY>Na los! Schlag!
+
+#Talk to VAN as not---\aub
+#*BERLY jumps.*
+message_34:
+    text: \n<BERLY>Hey! Ich habe nach AUBREY gefragt! Nicht du!
+
+#Talk to VAN as \aub
+#*AUBREY smashes VAN.*
+#*VAN does not move.*
+
+message_35:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 8
+    text: \aubOkay, da. Ich hab's geschafft. Und was jetzt?
+
+message_36:
+    text: \n<BERLY>Mach es noch mal! Tu es, bis ich Stopp sage!
+
+#*AUBREY smashes VAN.*
+
+message_37:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 11
+    text: \aubOkay...\! Aber...\! Was mache ich genau?
+
+message_38:
+    text: \n<BERLY>Keine Fragen! Nur Schlagen!
+
+#*AUBREY smashes VAN.*
+#*AUBREY smashes VAN.*
+#*AUBREY smashes VAN.*
+
+message_39:
+    text: \n<BERLY>Du kommst voran, denke ich!<br>Komm schon, du schaffst es!<br> Ausdauer! Ausdauer!
+
+message_40:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 6
+    text: \aubHuff...huff...\!<br>Wie lange muss ich das noch machen!?
+
+message_41:
+    text: \n<BERLY>Bis ich Stopp sage! Werd jetzt nicht langsamer!
+
+#*AUBREY smashes VAN.*
+#*AUBREY smashes VAN.*
+#*AUBREY smashes VAN.*
+
+message_42:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 7
+    text: \aubHuff... Huff...\! Hilfe! Meine Arme fühlen sich wie Nudeln an!
+
+message_43:
+    text: \n<BERLY>Halte durch! Du bist fast am Ziel!
+
+#*AUBREY smashes VAN.*
+#*AUBREY smashes VAN.*
+#*AUBREY smashes VAN.*
+#*AUBREY smashes VAN.*
+#*AUBREY smashes VAN.*
+#*AUBREY smashes VAN.*
+
+message_44:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 11
+    text: \aubIch glaube... \! Ich werd ohnmächtig.
+
+message_45:
+    text: \n<BERLY>Bitte...\! Nur noch ein Schlag...
+
+message_46:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 6
+    text: \aubHuff... Huff... Huff...
+
+message_47:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 10
+    text: \aub\sinv[2]\{HIII\{IIYAAAA\{AAHHHHHH!!!
+
+#*AUBREY smashes VAN.*
+
+message_48:
+    text: AUBREY hat 50 SAFT gewonnen!
+
+message_49:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 7
+    text: \aubHuff...\! Was sollte... huff...\! das denn?
+
+message_50:
+    text: \n<BERLY>...
+
+#BERLY is frustrated.
+
+message_51:
+    text: \n<BERLY>Nee, eigentlich nichts. Mir war nur langweilig.<br>Aber ehrlich gesagt...<br>ist das auch ziemlich langweilig.
+
+message_52:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 10
+    text: \aub\Com[2]\{\quake[1]WAS!?\! HUFF...\! DAS WAR ALLES!?\quake[0]
+
+message_53:
+    text: \n<BERLY>Hey, wenigstens hast du was davon! Ich langweile mich hier immer noch! Grummel... grummel...
+
+message_54:
+    text: \n<BERLY>Komm schon, VAN...\! Lass uns ein bisschen Tetherball spielen.
+
+#BERLY and VAN walk to the tetherball pole area
+
+message_55:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 11
+    text: \aubHuff...\! Huff...\!<br>I...\! Huff...\! Ich verstehe BERLY einfach überhaupt nicht....
+
+
+#---- If you try to leave
+
+message_56:
+    text: \n<BERLY>Hey, komm zurück! Ich habe nicht gesagt, dass du schon gehen darfst!
+
+#------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+#Hero ATTACK Buff --- \n<MR. SCAREBRO>
+#New Assets: Scarebro and knocked---over Scarebro
+#In CLUB SANDWICH in LAST RESORT
+
+message_70:
+    text: \n<MR. SCAREBRO>Hey, Brüder! Amüsiert ihr euch alle hier im \c[11]CLUB SANDWICH\c[0]?\!<br>? Ich weiß, dass ich...
+
+message_71:
+    text: \n<MR. SCAREBRO>Meine Freunde sagen mir, dass ich ein gutes Menschenkenntnis habe.
+
+message_72:
+    text: \n<MR. SCAREBRO>Ah. \! Ja, ich kann es jetzt sehen...\! Du da, im gestreiften Anzug! Weißt du, was dein Problem ist, Bruder? Du bist einfach viel zu nett.
+
+message_73:
+    text: \n<MR. SCAREBRO>Ich könnte dich beleidigen, deine Freunde beleidigen und deine Mutter beleidigen, und du würdest immer noch keinen Finger an mich legen. Stimmt's nicht, Bruder?
+
+message_74:
+    text: \n<MR. SCAREBRO>Und was jetzt, Bruder? Nimmst du das einfach so hin? Nein... Du kannst mich nicht einfach so gehen lassen, Bruder.
+
+message_75:
+    text: \n<MR. SCAREBRO>Gib mir einen guten Schlag, Bruder. Los. Tu es, Bruder.
+
+#Talk to SCAREBRO as not---\n<HERO>
+message_76:
+    text: \n<MR. SCAREBRO>Hey, nicht du, Bro. Ich rede mit dem Bro im gestreiften Anzug!
+
+#Talk to SCAREBRO as \n<HERO>
+message_77:
+    text: Möchtest du SCAREBRO schlagen?
+#[YES/NO]
+
+#---
+#[YES]
+#*HERO softly rams into SCAREBRO*
+message_78:
+    text: \n<MR. SCAREBRO>Was war das, Bruder?! Du würdest mir doch nichts vorenthalten, oder?
+
+message_79:
+    text: \n<MR. SCAREBRO>Ein Bruder würde so etwas nicht tun. Versuch's nochmal. Du kannst es schaffen, Bruder.
+
+message_80:
+    text: Möchtest du SCAREBRO schlagen?
+#[YES/NO]
+
+#*HERO rams into SCAREBRO*
+#*SCAREBRO falls over*
+
+message_81:
+    text: HERO hat 20 ATTACK erhalten.
+
+message_82:
+    text: \n<MR. SCAREBRO>Bruder...
+
+message_83:
+    text: \n<MR. SCAREBRO>Ja, Bruder. \! Einfach so...
+
+#Talk to \n<MR. SCAREBRO>
+
+message_84:
+    text: \n<MR. SCAREBRO>Ja, Bruder. \! Einfach so...
+
+#---
+
+#[NO]
+message_85:
+    text: \n<MR. SCAREBRO>Komm schon, Bruder! \! Ich will einen guten Schlag!
+
+#------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+#------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+#Omori Mushrooms --- Mushroom Man:
+#New Assets: Mushroom Man Turnaround, Mushroom Open, Mushroom Closed
+
+#Mushroom Man can be found by eating the mushrooms in the water in SW Library.
+
+message_100:
+    text: Ein verdächtig aussehender Pilz.\!<br>Möchtest du mal reinbeißen?
+
+#Bulbs before learning skill:
+
+message_101:
+    text: Eine harte Birne.\! du hörst, wie etwas im Inneren zappelt.
+
+#Intro:
+
+#*MUSHROOM MAN pops out of crater when you go close to it*
+
+message_102:
+    text: \n<J. SHROOM>Du!\! Zwiebelige! Deine Augen... Sie sagen mir, dass du dich danach sehnst zu lernen!
+
+message_103:
+    text: \n<J. SHROOM>Ausgezeichnet!\! Exzellent, exzellent...\!<br>Ich werde es dir beibringen. \! Komm.
+
+#*MUSHROOM MAN walks to purple bud behind him*
+
+#Talk to MUSHROOM MAN.
+message_104:
+    text: \n<J. SHROOM>Hmm... Du hast nicht das gleiche Funkeln in den Augen wie der Zwiebelkopf! Er ist der Einzige, den ich unterrichten werde!
+
+message_105:
+    text: \n<J. SHROOM>Du bist gekommen!\! Hervorragend!\!<br>Nun pass auf.\! Die harten Zwiebeln, wie die hinter mir, halten Kreaturen wie mich fest.<br>Allerdings sind wir nicht in der Lage, mit eigenen Mitteln zu entkommen.
+
+message_106:
+    text: \n<J. SHROOM>Mit einer sehr spezifischen und komplizierten Schneidetechnik könnte man uns von unserem Kumpelschicksal befreien.
+
+message_107:
+    text: \n<J. SHROOM>Allerdings dauert es Jahre, vielleicht sogar Jahrzehnte, diese Technik zu beherrschen!!! Wenn du dich bereit erklärst, es zu lernen, kann man nicht sagen, wie lange es dauern wird!
+
+message_108:
+    text: \n<J. SHROOM>Doch mit der Zeit, glaube ich, wirst du Großes vollbringen! bist du bereit, die Herausforderung anzunehmen und mein Jünger zu werden?
+#[YES/NO]
+
+#[YES]
+#*Screen turns black*
+
+message_109:
+    text: OMORI hat lange Zeit trainiert.
+
+#*Screen returns*
+
+message_110:
+    text: \n<MASTER J. SHROOM>Ausgezeichnet! Exzellent, exzellent...<br>Du bist so sehr gewachsen!<br> Im Gegensatz zu... dieser Zwiebel hinter mir...<br><br>Schneide es jetzt mit deiner perfektionierten Technik, damit es leben kann!
+
+#Talk to MASTER
+
+message_111:
+    text: \n<J. SHROOM>Excellent! Excellent, Excellent...
+
+
+message_112:
+    text: \n<YOUNG SHROOM>Endlich bin ich frei!\! Ausgezeichnet, ausgezeichnet...
+
+message_113:
+    text: \n<YOUNG SHROOM>Nimm das! Es ist ein Geschenk von mir!
+
+message_114:
+    text: Du hast \c[5]LÖWENZAHN\c[0] bekommen!
+
+message_115:
+    text: \n<YOUNG SHROOM>Excellent! Excellent, excellent...
+#------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+#Aubrey Loot --- \n<LARGE FACE>
+#Somewhere in excavation
+#New Assets: Face Guy Turnaround, Wall Face, Cave Hole
+
+#Faces before learning skill: A peculiar face is indented into the wall.\!<br>You are not sure what this means.
+
+#Intro:
+
+message_119:
+    text: Ein merkwürdiges Gesicht ist in die Wand eingedrückt.<br>Du bist dir nicht sicher, was es bedeuten soll.
+
+message_120:
+    text: \n<LARGE FACE>Diese...\! Hohlräume, die ich markiere.\!<br>In ihnen...\! habe ich meine wertvollsten Gegenstände versteckt...\! Ja.
+
+message_121:
+    text: \n<LARGE FACE>Ich schlage mein Gesicht, um mich zu erinnern...<br>Aber nur leicht...<br>Noch härter und es würde brechen.
+
+message_122:
+    text: \n<LARGE FACE>Schlag...\! Noch härter...\! Und es wird brechen.
+
+#After smashing wall next to \n<LARGE FACE>
+
+message_123:
+    text: \n<LARGE FACE>Mein wertvollster Besitz...
+
+#------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+#Club Sandwich:
+#map439
+#New Assets: Reuben at Counter, Hoagie Turnaround
+
+#You can enter CLUB SANDWICH after getting HERO back from LAST RESORT.
+
+#Last Resort:
+#Scarebro
+#Sprout Mole Mike
+#Gator Guy (Multiple)
+#Earth
+
+#Pyrefly Forest:
+#Pinkbeard
+#Sir Maximus IV
+#Actual Mole
+#Rosa
+
+#Otherworld:
+#Ems
+#Nose
+#Space Pirate (Multiple)
+#Rare Rare Bear
+
+#Club doors before learning skill:
+#*CLUB DOOR slit opens*
+
+message_130:
+    text: \n<???>Was ist das Passwort?
+
+message_131:
+    text: \n<???>...
+message_132:
+    text: \n<???>Kein Passwort, kein Zutritt!
+
+#*CLUB DOOR slit closes*
+
+#Intro:
+
+#If HERO is not leader:
+#*CLUB DOOR slit opens*
+
+message_133:
+    text: \n<???>Was ist das Passwort?
+
+message_134:
+    text: \n<???>...
+
+message_135:
+    text: \n<???>Kein Passwort, kein Zutritt!
+
+#*CLUB DOOR slit closes*
+
+message_136:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 37
+    text: \herOh, hey! Das ist dieser Ort! \! Wollt ihr Jungs reinkommen? JAWSUM hat mir einmal das Passwort verraten, damit ich eine seiner Besorgungen erledigen konnte.
+
+message_137:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 38
+    text: \herIch liebe diese Jungs! Sie sind sehr lustig.
+
+#If HERO is leader:
+message_138:
+    text: \n<???>Was ist das Passwort?
+
+message_139:
+    text: \n<???>...
+
+message_140:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 37
+    text: \herHey, HOAGIE! Ich bin es, HERO!<br>Das Passwort lautet ☐☐☐☐☐☐☐.
+
+message_141:
+    text: \n<HOAGIE>HERO, mein Mann! Willkommen, willkommen!<br>Die Tür ist nicht verschlossen. Kommt nur rein!
+
+#---------------
+
+#Talk to REUBEN at 1ST location:
+
+message_150:
+    text: \n<REUBEN>Ich und HOAGIE sind die Besitzer dieses Ladens...<br>Er ist der Muskel... und ich bin der Muskel.
+
+#Talk to REUBEN again.
+
+message_151:
+    text: \n<REUBEN>\c[3]FRUCHTSAFT\c[0] darf nicht an Minderjährige gereicht werden. Du kennst die Regeln!\!<br>Aber du bist immer willkommen zu bleiben und die Musik zu genießen.
+
+#Talk to REUBEN again.
+
+message_152:
+    text: \n<REUBEN>Wir haben alle unsere Probleme. Wenn du mal abschalten musst, bin ich für dich da. Hier, trink einen \c[3]TRAUBENSAFT\c[0] auf mich.
+
+message_153:
+    text: Du bekommst einen \c[3]TRAUBENSAFT\c[0]!
+
+#Talk to REUBEN at 2ND and 3RD location:
+
+message_154:
+    text: \n<REUBEN>\c[3]FRUCHTSAFT\c[0] darf nicht an Minderjährige gereicht werden. Du kennst die Regeln!\!<br>Aber du bist immer willkommen zu bleiben und die Musik zu genießen.
+
+#Talk to REUBEN again.
+
+message_155:
+    text: \n<REUBEN>Wir haben alle unsere Probleme. Wenn du mal abschalten musst, bin ich für dich da. Hier, trink einen \c[3]TRAUBENSAFT\c[0] auf mich.
+
+message_156:
+    text: Du bekommst einen \c[3]TRAUBENSAFT\c[0]!
+
+#Talk to REUBEN at 4TH location:
+
+message_157:
+    text: \n<REUBEN>Ich und HOAGIE sind die Besitzer dieses Ladens...<br>Er ist der Muskel... und ich bin der Muskel.
+
+#Talk to REUBEN again.
+message_158:
+    text: \n<REUBEN>Ich und HOAGIE haben diesen Ort von Grund auf aufgebaut.<br>Jetzt haben wir Gönner, die aus der ganzen Welt zu uns kommen.<br>Nichts übertrifft dieses Gefühl.
+
+#Talk to REUBEN again.
+message_159:
+    text: \n<REUBEN>Wir bekommen ab und zu ein paar interessante Charaktere, aber normalerweise ist es ein Ort zum Entspannen.<br><br>Fühlt sich die meiste Zeit nicht einmal wie Arbeit an, har har!<br>Außer wenn sich das Geschirr stapelt...
+
+message_160:
+    text: \n<REUBEN>HOAGIE sagt immer, dass wir wie für den Himmel gemacht sind. Er ist ein wenig rau, aber er versteht mich einfach, weißt du?
+
+#Talk to REUBEN again.
+message_161:
+    text: \n<REUBEN>Wir haben alle unsere Probleme. Wenn du mal abschalten musst, bin ich für dich da. Hier, trink einen \c[3]TRAUBENSAFT\c[0] auf mich.
+
+message_162:
+    text: You got a \c[3]TRAUBENSAFT\c[0]!
+
+#Talk to HOAGIE at all locations:
+
+message_163:
+    text: \n<HOAGIE>Fühlt euch wie zu Hause, Kinder.<br>Jeder Freund von HERO ist ein Freund von mir.
+
+#Talk to HOAGIE after talking to REUBEN at 4TH location (once only):
+
+message_164:
+    text: \n<HOAGIE>Hat REUBEN wieder über mich geredet?\! Ich habe ihm gesagt, dass er das nicht tun soll.\! ...\! Aber eh...\! Es ist egal...\! Ich kann nicht wütend auf den Typ bleiben.
+
+#------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+#VAST FOREST
+
+#------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+#Barking Dog:
+#New Assets: Barking Dog
+#map426
+
+
+#Every time you enter the dog house, there will be a barking noise.
+#There is a 30% chance of seeing the dog in a few random locations around the map (maybe 3-4).
+
+#When you see the dog, you can walk into it. When you do this, it barks and then fades away. When the dog is fading, Player cannot move. There is no dialogue.
+
+#If you see the dog 3 times in a row (i.e. get lucky) and walk into him all three times, on the last time, when he fades away he'll bark 3 times, then give you an item.
+
+message_175:
+    text: Du hast etwas in deiner Hand gespürt.
+
+message_176:
+    text: Du bekommst \itemget.
+
+#Items you can get from dog:
+#Can
+#Rubber Band
+#Hot Dog
+#Life Jam
+#Cherry Soda
+#Sparkler
+
+#This can be repeated indefinitely. (Rate can be adjusted based on testing. If the rate is too high, maybe after X times, the dog doesn't come back.)
+
+
+#------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+#Budgirls:
+#map426
+#When examining a bud, it opens and makes a noise, then withdraws into its bulb.
+#Sometimes, after it opens, it gives you an item before it withdraws.
+#There is no dialogue.
+
+#------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+#PYREFLY FOREST
+
+#------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+#Waterfall:
+#map160
+#Examining the waterfall in Pyrefly Forest will allow Omori to teleport to a map behind it. (Club Sandwich Alcove --- Map 433)
+
+#Before overcoming Fear of Drowning, it shows the fear border.
+
+#------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+#SPROUT MOLE COLONY
+
+#------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+#Whack---A---Sprout---Mole:*Optional
+#Aubrey can whack sprout moles that pop out of the holes in this map.
+#If she whacks all the sprout moles in a certain time period, a watermelon falls from the sky.
+
+#Every time you enter the room, the sprout moles refresh their configuration. Maybe 5 or so instances.
+
+#The prizes are distributed at % chance.
+#50%: TOFU
+#50%: LIFE JAM
+#After you have won LIFE JAM four times, you can only win TOFU.
+
+#------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+#SWEETHEART'S CASTLE
+
+#------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+#SW Statue Pose Change:
+#New Assets: SW Statue Poses, SW Statue Change Transition Animation
+
+#When examining any statue in SW Castle, it will change to one of these poses at random.
+
+#------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+#Fanmail Graveyard:
+#While traveling through the fanmail graveyard, there is some shaking happening that stops the party from moving. SFX should accompany this to make it seem like they're setting up for something upstairs. Maybe you can also hear the sprout moles rehearsing the wedding song for a few seconds.
+
+#------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+#Pet Jail:
+
+#When examining the gates, random chance of one of these messages:
+
+message_185:
+  text: Die gefangenen Kreaturen sehen unruhig aus.
+
+message_186:
+  text: Die gefangenen Kreaturen sehen traurig aus.
+
+message_187:
+  text: Die gefangenen Kreaturen wollen frei sein.
+
+message_188:
+  text: Die gefangenen Kreaturen brauchen Ihre Hilfe.
+
+#Switch:
+message_190:
+    text: Willst du die Kreaturen freilassen?
+
+#[YES/NO]
+
+#[YES]
+message_191:
+    text: Bist du dir da ganz sicher?
+
+#[YES/NO]
+
+#[YES]
+#*The gates go up and the creatures swarm the party*
+
+#------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+#Magic Cake Slices:
+
+message_199:
+    text: Ein Erdbeerkuchen.\!<br>Möchtest du einen Bissen nehmen?
+#[YES/NO]
+
+#Library Cake:
+message_200:
+    text: Ein Erdbeerkuchen, der wie eine Rübe riecht.<br>Willst du mal reinbeißen?
+#[YES/NO]
+
+#SW Room Cake:
+message_201:
+    text: Ein Erdbeerkuchen, der nach Rosmarin duftet.<br>Willst du mal reinbeißen?
+#[YES/NO]
+
+#Servant's Room Cake:
+message_202:
+    text: Ein Erdbeerkuchen, der nach Müll riecht.<br>Willst du mal reinbeißen?
+#[YES/NO]
+
+#Ballroom Cake:
+message_203:
+    text: Ein Erdbeerkuchen, der nach Meer riecht.<br>Willst du mal reinbeißen?
+#[YES/NO]
+
+#------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+#\n<KEEPER OF THE CASTLE>
+#New Assets: Keeper, Keeper Touch
+
+#Enter through the wall. You can just run into it.
+
+#Intro:
+message_204:
+    text: \n<KEEPER OF THE CASTLE>Ihr seid mutig, mit mir zu sprechen, meine Kleinen.<br>Sagt mir. Gefällt dir das Schloss von SWEETHEART?
+
+message_205:
+    text: \n<KEEPER OF THE CASTLE>Dieses Mädchen.\! Sie war sehr raffiniert. Diese Behausung. Sie nimmt die Form der tiefsten Sehnsüchte an. Ein Ort, an den man zurückkehrt. Ein Ort, den man sein Zuhause nennen kann.
+
+message_206:
+    text: \n<KEEPER OF THE CASTLE>SWEETHEART kam vor langer Zeit zu mir, ein armes Mädchen aus der Wüste...\! und flehte mich auf ihren Knien an, diesen Ort zu ihrem zu machen.
+
+message_207:
+    text: \n<KEEPER OF THE CASTLE>Ich habe ihr gegeben, was sie wollte. \! Ein Schloss voller Reichtümer, Diener, die sie befehligen konnte, eine Bühne, auf der sie ihre Macht zur Schau stellen konnte.
+
+message_208:
+    text: \n<KEEPER OF THE CASTLE>Und doch... will sie immer noch mehr...! Es muss ein Fluch sein.
+
+message_209:
+    text: \n<KEEPER OF THE CASTLE>Bald wird sie gehen und nicht mehr zurückkehren. Das weiß ich.
+
+message_210:
+    text: \n<KEEPER OF THE CASTLE>Und wenn ich der Meinung bin, dass sie ihr Zuhause woanders gefunden hat, werde ich nach einem neuen Besitzer suchen.
+
+message_211:
+    text: \n<KEEPER OF THE CASTLE>Zu dieser Zeit kehrst du zu mir zurück. \! Du, mit den leeren Augen.\! Deine Seele ist gespalten, aber du kannst nur einen Weg wählen.\! Es wird interessant sein zu sehen, was du aus dieser Behausung machen wirst.
+
+#Return in Epilogue after Intro:
+
+message_212:
+    text: \n<KEEPER OF THE CASTLE>Ihr seid mutig, wieder mit mir zu sprechen, ihr jungen Leute.
+
+message_213:
+    text: \n<KEEPER OF THE CASTLE>Die Zeit ist vergangen.\!<br>SWEETHEART ist gegangen und wird nicht zurückkehren.\! Ich weiß das.<br>Und jetzt ist es Zeit für mich, einen neuen Besitzer zu suchen.
+
+message_214:
+    text: \n<KEEPER OF THE CASTLE>Du mit den leeren Augen.\! Du bist jetzt hier.\! Deine Seele ist gespalten, aber du kannst nur einen Weg wählen.\! Es wird interessant sein, zu sehen, was Sie aus dieser Behausung machen werden.
+
+message_215:
+    text: \n<KEEPER OF THE CASTLE>Möchten Sie diese Macht?
+#[YES/NO]
+
+#---
+
+#[YES]
+
+message_230:
+    text: \n<KEEPER OF THE CASTLE>\c[11]SWEETHEART'S SCHLOSS\c[0] wird nicht mehr existieren.\!<br>Sind Sie sicher, dass es das ist, was Sie wollen?
+#[YES/NO]
+
+#*Keeper extends tendril to OMORI's head*
+message_231:
+    text: \n<KEEPER OF THE CASTLE>Dann gewähre ich Ihnen das Eigentum an diesem Ort.
+
+#*Screen turns white*
+#Player and party are ported to Sprout Mole Colony outside of SW Stage door, but now the door is replaced with an FA door.
+#Entering door will port Player and party to Boring Room --- map449.
+
+#---
+
+#[NO]
+message_240:
+    text: \n<KEEPER OF THE CASTLE>Du wirst deine Meinung noch früh genug ändern.<br>Alle Seelen sehnen sich nach dem, was sie Heimat nennen.
+
+#Intro (If you speak to the Keeper for the first time in epilogue):
+
+message_241:
+    text: \n<KEEPER OF THE CASTLE>Ihr seid mutig, mit mir zu sprechen, meine Kleinen.<br>Sagt mir. Gefällt dir das Schloss von SWEETHEART?
+
+message_242:
+    text: \n<KEEPER OF THE CASTLE>Dieses Mädchen.\! Sie war sehr raffiniert. Diese Behausung. Sie nimmt die Form der tiefsten Sehnsüchte an. Ein Ort, an den man zurückkehrt. Ein Ort, den man sein Zuhause nennen kann.
+
+message_243:
+    text: \n<KEEPER OF THE CASTLE>SWEETHEART kam vor langer Zeit zu mir, ein armes Mädchen aus der Wüste, und flehte mich auf ihren Knien an, diesen Ort zu ihrem zu machen.
+
+message_244:
+    text: \n<KEEPER OF THE CASTLE>Ich habe ihr gegeben, was sie wollte. \! Ein Schloss voller Reichtümer, Diener, die sie befehligen konnte, eine Bühne, auf der sie ihre Macht zur Schau stellen konnte.
+
+message_245:
+    text: \n<KEEPER OF THE CASTLE>Und doch... will sie immer noch mehr...! Es muss ein Fluch sein.
+
+message_246:
+    text: \n<KEEPER OF THE CASTLE>Sie ist gegangen und wird nicht zurückkehren. \! Ich weiß das. \! Und jetzt ist es an der Zeit für mich, einen neuen Besitzer zu suchen.
+
+message_247:
+    text: \n<KEEPER OF THE CASTLE>Du, mit den leeren Augen.\! Du bist jetzt hier.\! Deine Seele ist gespalten, aber du kannst nur einen Weg wählen.\! Es wird interessant sein, zu sehen, was Sie aus dieser Behausung machen werden.
+
+message_248:
+    text: \n<KEEPER OF THE CASTLE>Gefällt Ihnen diese Macht?
+#[YES/NO]
+
+#---
+
+#[YES]
+
+message_255:
+    text: \n<KEEPER OF THE CASTLE>SWEETHEART's Schloss wird nicht mehr existieren.<br>Sind Sie sicher, dass Sie das wollen?
+#[YES/NO]
+
+#*Keeper extends tendril to OMORI's head*
+message_256:
+    text: \n<KEEPER OF THE CASTLE>Dann gewähre ich Ihnen das Eigentum an diesem Ort.
+
+#*Screen turns white*
+#Player and party are ported to Sprout Mole Colony outside of SW Stage door, but now the door is replaced with an FA door.
+#Entering door will port Player and party to Boring Room --- map449.
+
+#---
+
+#[NO]
+message_257:
+    text: \n<KEEPER OF THE CASTLE>Du wirst deine Meinung noch früh genug ändern.<br>Alle Seelen sehnen sich nach dem, was sie Heimat nennen.
+
+#Note: Boring room will have the same flavor text play as the ones in BASIL's memories. (The smell of laundry fills the air, etc.) PLAYER and party can stop moving when the dialogue pops up.
+
+#------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+#Portal to Heaven or Hell:
+#New Assets: White Shine, Red Shine
+
+#Stand still on vent as Omori for 9 seconds.
+
+#White light shines from the bottom of the vent if Heaven.
+#Red light shines if Hell.
+
+#While walking through Heaven, Something appears.
+#The camera pans to it, then it quickly runs into you and dissipates. Then camera returns to party.
+
+#While walking through Hell, Player appears.
+#The camera pans to Player, then Player stares, then walks away off screen. Then camera returns to party.
+
+#Happens only once.
+#Camera lock on both maps. Only of needed.
+
+#------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+#Popcorn Girl:
+#New Assets: Popcorn Girl Turnaround
+
+#There's a girl selling popcorn in Sweetheart's Theater Room.
+
+message_270:
+    text: \$\n<POPCORN GIRL>Heya, willst du etwas Popcorn? kostet nur 80 CLAMS.
+#[YES/NO]
+
+message_271:
+    text: \n<POPCORN GIRL>Ja! Hier, bitte sehr! Es ist \c[3]POPCORN\c[0]!
+
+message_272:
+    text: \n<POPCORN GIRL>Ja, okay. Das ist in Ordnung.
+
+message_273:
+    text: Du hast \c[3]POPCORN\c[0] bekommen.
+
+message_274:
+    text: \n<POPCORN GIRL>Hey, das sind nicht genug CLAMS für \c[3]POPCORN\c[0].
+
+#Note: I think this is set up as a shop. Ask Ocean how he did it.
+
+#------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+#FORGOTTEN PIER
+
+#------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+#Ghosts Walking on Water:
+#New Assets: Ghosts Turnarounds
+
+
+#While swimming with MARI through Forgotten Pier, ghosts should be walking along the water every now and then. When you get into proximity of them, they disappear.
+#Maybe add Ghosts in house
+
+#Note: If walking looks funny, try to make them levitate instead.
+
+#------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+#Ghosts Hiding behind Trees:
+
+#While going through map209, there should be ghosts hiding behind the trees that appear and laugh (like children playing) only when PLAYER isn't looking directly at them. When PLAYER looks away, the children go back to hiding behind the trees and the laughing stops.
+
+#------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+#LAST RESORT
+
+#------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+#Lost Keycard:
+#New Assets: Keycard (Recolor SGL one)
+
+
+message_280:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 18
+    text: \kelIst das nicht ein cooler Aufzug?\!<br>Es riecht irgendwie nach Parfüm und Rauch.
+
+#KEL turns to MARI.
+#KEL Exclamation
+
+message_281:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 19
+    text: \kelOh, hallo MARI!
+
+message_282:
+    faceset: MainCharacter_Mari
+    faceindex: 3
+    text: \marHallo, ihr zwei!
+
+#KEL walks to Elevator.
+
+message_283:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 26
+    text: \kelAlso...<br>\!Wenn ich das richtig verstanden habe, ist AUBREY also im 5. Stock.
+
+#*KEL tries to press elevator button*
+
+message_284:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 27
+    text: \kel...\! Warum funktioniert das nicht?
+
+#KEL presses the button a bunch of times
+
+message_285:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 31
+    text: \kelOh, ja! Das habe ich total vergessen!\! Wir brauchen eine \c[4]SCHLÜSSELKARTE\c[0] für das hier!
+
+message_286:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 19
+    text: \kelDu hast mir meine weggenommen, weil ich es ständig verloren habe...<br>Ich schwöre aber, dass sie von allein verschwinden!
+
+message_287:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 18
+    text: \kelVersuchen wir, in den anderen Stockwerken nach einem zu suchen.<br>\!Es muss hier irgendwo eine \c[4]SCHLÜSSELKARTE\c[0] geben!
+
+#*Find KEY CARD next to Creepy Doll in a Hotel Room*
+
+#You found a KEY CARD.\!
+#You can now access the 5TH FLOOR of the LAST RESORT.
+
+#------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+#Haunted Hotel Doll:
+#New Assets: Creepy Doll, Omori Doll
+
+
+#Examine doll:
+message_300:
+    text: Eine Puppe mit einem leeren Gesicht.<br>Sie sieht nicht so aus, als würde sie hierher gehören.<br>Willst du sie wegwerfen?
+#[YES/NO]
+
+#If you throw away, when you exit the room, the lights go off and on. If you go back into the room, the doll is back on the bed.
+
+#If you do this 3 times, the next time you enter the room, the doll turns into an OMORI doll.
+
+#Examine OMORI doll:
+message_301:
+    text: Eine Puppe mit einem bekannten Gesicht.
+
+message_302:
+    text: Die Augen der Puppe wurden ausgehöhlt. Willst du hineinschauen?
+
+#------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+#UNDERWATER HIGHWAY
+
+#------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+#Rope Bridge:
+#Top of Map215
+
+#Examine bridge:
+message_310:
+    text: Eine durchsichtige Brücke spannt sich über den Graben.<br>Willst du sie überqueren?
+
+#------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+#Alternate Toll Booth Dialogue:
+
+#If you say “NO” to any Toll Booth payment dialogue:
+
+message_320:
+    text: \n<GATOR GUY>Hey, warte mal eine Sekunde! Du bist... HERO, nicht wahr?! Du bist der Lieblingsmann vom Boss!
+
+message_321:
+    text: \n<GATOR GUY>Entschuldigung, Sir. Da hätte ich Sie fast nicht erkannt. Diese Sonnenbrille ist eine Nuance zu dunkel, weißt du, was ich meine?
+
+message_322:
+    text: \n<GATOR GUY>Auch wenn du der Liebling des Chefs bist, Regeln sind Regeln...! Aber vielleicht kann ich dir einen faireren Preis anbieten...
+
+message_323:
+    text: \n<GATOR GUY>Wie klingt \v[1012] CLAMS?\$
+
+message_326:
+    text: \n<GATOR GUY>Wie klingt \v[1001] CLAMS?\$
+
+message_327:
+    text: \n<GATOR GUY>Wie klingt \v[979] CLAMS?\$
+#[YES/NO]
+
+#[YES]
+message_324:
+    text: \n<GATOR GUY>Danke, Mann. Leg ein gutes Wort für mich beim Chef ein, ja?
+
+#[NO]
+message_325:
+    text: \n<GATOR GUY>Mann, ist das dein Ernst? \! Ich verschenke nicht an jeden etwas, weißt du?
+
+#------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+#DEEPER WELL
+
+#------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+#Map BGM bs_nawa
+#Branch Coral Facts:
+
+#Talk to BRANCH CORAL as not-OMORI:
+message_330:
+    text: Eine Astkoralle murmelt.
+
+#Talk to BRANCH CORAL as OMORI.
+
+message_331:
+    text: \n<BRANCH CORAL>Es ist lange her, dass du dich so weit vorgewagt hast.<br><br><br>Tiefere Schichten seiner Welt öffnen sich, während der DREAMER immer verzweifelter wird.<br><br>Auch die Vorstellungskraft ist begrenzt.
+
+#*wait*
+message_332:
+    text: \n<BRANCH CORAL>Sie haben Fragen, die ich beantworten kann.\!<br>Antworten, die du vergessen hast.
+
+message_333:
+    text: \n<BRANCH CORAL>Ich werde es für dich auslegen.<br>Wenn du neugierig bist, wirst du wählen.
+
+#---
+
+#[MY LOST FRIEND]
+message_335:
+    text: MEIN VERLORENER FREUND
+#[THE BIG YELLOW CAT]
+message_336:
+    text: DIE GROSSE GELBE KATZE
+#[WHITE SPACE]
+message_337:
+    text: WEISSER RAUM
+
+#---
+
+message_340:
+    text: \n<BRANCH CORAL>Du möchtest mehr über deinen VERLORENEN FREUND erfahren?
+#[YES/NO]
+
+#[YES]
+#*Everything except for the BRANCH CORAL, OMORI, and a small pool under the BRANCH CORAL are blacked out.*
+
+message_341:
+    text: \n<BRANCH CORAL>Der Freund, den du verloren hast, ist nicht in dieser Welt.<br>An dem Tag, an dem er verschwunden worden ist, Lebt er an einerm anderen Ort weiter.
+
+message_342:
+    text: \n<BRANCH CORAL>Er ist etwas Besonderes für dich. \! Ein Schicksalsfaden verbindet euch beide miteinander. \! Er kann diesen Ort nicht alleine verlassen.
+
+message_343:
+    text: \n<BRANCH CORAL>Um ihn zurückzuholen, musst du auch dich selbst verschwinden lassen, aber auf eine Weise, die für diese Welt natürlich ist.\! Im \c[11]GEDANKENRAUM\c[0].
+
+message_344:
+    text: \n<BRANCH CORAL>Diese Reise nähert sich deinem Ende.<br>Du weißt bereits, was du zu tun hast, DREAMER.
+
+#---
+
+message_350:
+    text: \n<BRANCH CORAL>Sie möchten mehr über DIE GROSSE GELBE KATZE erfahren?
+
+#[YES]
+#*Everything except for the BRANCH CORAL, OMORI, and a small pool under the BRANCH CORAL are blacked out.*
+
+message_351:
+    text: \n<BRANCH CORAL>Bevor diese Welt erschaffen wurde, gab es drei große Geschöpfe... das älteste, das weiseste und das beliebteste.
+
+message_352:
+    text: \n<BRANCH CORAL>Der Älteste lebt, aber er ist nicht mehr derselbe wie früher.
+
+message_353:
+    text: \n<BRANCH CORAL>Das Alter hat sein Gewissen entfernt und er hat sich zu einem Parasiten in sich selbst entwickelt. Er lebt hier, gleich hinter dieser Höhle.
+
+message_354:
+      text: \n<BRANCH CORAL>Das Weiseste hat gegen ihre Vernunft eine Handlung begangen, die dem Willen des DREAMERS entgegengesetzt war.\! Es ist eine Tat, die nicht einmal mir bekannt ist.
+
+message_355:
+    text: \n<BRANCH CORAL>Als Ergebnis wurde das ihrer Weisheit beraubt und in die Isolation verbannt...\! ein spezielles Gefängnis irgendwo tief, tief unten.
+
+message_356:
+    text: \n<BRANCH CORAL>Das letzte und beliebteste, die GROSSE GELBE KATZE, wurde ausgewählt, um über das wertvollste Zimmer des DREAMERs zu wachen.
+
+message_357:
+    text: \n<BRANCH CORAL>Er ist auch heute noch der Liebling des DREAMERs...er beobachtet fleißig...er wartet darauf, dass etwas passiert.
+
+#---
+
+message_365:
+    text: \n<BRANCH CORAL>Sie möchten mehr über den \c[11]WEISSEN RAUM\c[0] erfahren?
+
+#[YES]
+#&Everything except for the BRANCH CORAL, OMORI, and a small pool under the BRANCH CORAL are blacked out.*
+
+message_366:
+    text: \n<BRANCH CORAL>In dem \c[11]WEISSEN RAUM\c[0] zu sein, bedeutet, nichts zu sein.
+
+message_367:
+    text: \n<BRANCH CORAL>Der \c[11]WEISSE RAUM\c[0] ist Leere, ein Zuhause ohne Wärme.<br>Ein Ort zum Überleben, aber nicht zum Leben.
+
+message_368:
+    text: \n<BRANCH CORAL>Trotzdem kann Ihr Gewissen nicht ausgelöscht werden.<br>Es wird immer einen Weg hinein finden.
+
+message_369:
+    text: \n<BRANCH CORAL>Selbst im \c[11]WEISSEN RAUM\c[0] wird es die Form annehmen...<br>und wenn man es will, wird sich etwas bilden, um es zu unterwerfen.
+
+message_370:
+    text: \n<BRANCH CORAL>Eine hängende schwarze Glühbirne...\! die Verdrängung einer Idee.
+
+message_371:
+    text: \n<BRANCH CORAL>...
+
+message_372:
+    text: \n<BRANCH CORAL>Ja. \! Vielleicht ist es an der Zeit, zuzugeben, dass du ein Mensch bist, DREAMER.
+
+#---
+
+#After any selection:
+message_373:
+    text: \n<BRANCH CORAL>Gibt es noch etwas, über das Sie gerne mehr wissen möchten?
+
+#---
+
+#After choosing all 3 selections and attempting to exit out of menu:
+
+#*Wait*
+message_374:
+    text: \n<BRANCH CORAL>Du hast gut zugehört. \! Ich habe dir Wissen gewährt, aber wisse, dass ich dir hier auch Macht gewähren kann.
+
+message_375:
+    text: \n<BRANCH CORAL>Es gibt eine Herausforderung, die dir in dieser Welt sehr helfen wird.<br>Es ist einfach, ohne nachzudenken... und wenn du es schaffst, werde ich auch der weg sein.
+
+message_376:
+    text: \n<BRANCH CORAL>Ich biete dir dieses Opfer an. \! Wirst du diese Gelegenheit nutzen?
+#[YES/NO]
+
+#[YES]
+message_377:
+    text: \n<BRANCH CORAL>Ich verstehe. \! Bleib ganz ruhig, DREAMER.
+
+#*wait*
+#*OMORI sinks into the floor*
+#*OMORI teleports to a dark cave with the branch with PLAYER's head at the end*
+
+#As OMORI walks closer, the head turns into an apple.
+
+#Examine tree:
+message_378:
+    text: An diesem Baum hängt ein roter, saftiger \c[3]APFEL\c[0].
+
+message_379:
+    text: Möchtest du den \c[3]APFEL\c[0] essen?
+#[YES/NO]
+
+#*Screen turns black*
+#*Crunch noises*
+
+message_380:
+    text: OMORI hat 50 HEART erhalten.<br>\!OMORI hat 50 JUICE erhalten.
+
+
+message_381:
+    text: OMORI hat 10 ATTACK erhalten.<br>\!OMORI hat 10 DEFENSE erhalten.<br>\!OMORI hat 10 SPEED erhalten.
+
+#*Screen returns to OMORI in front of BRANCH CORAL*
+
+#BRANCH CORAL is grayed out/dead.
+
+#Examine BRANCH CORAL:
+message_382:
+    text: Eine Astkoralle. Sie ist nicht lebendig.
+
+#[NO]
+#nothing
+
+#Attempt to leave room
+#*Screen turns black*
+#*Screen returns to OMORI in front of BRANCH CORAL*
+
+message_388:
+    text: \n<BRANCH CORAL>Möchtest du diese Herausforderung aufgeben?
+#[YES]
+
+message_383:
+    text: \n<BRANCH CORAL>Wie ich sehe, hast du einen anderen Weg gewählt.<br>Mein Angebot bleibt jedoch offen.
+
+message_384:
+    text: \n<BRANCH CORAL>Wenn du noch viel stärker werden willst, sprich mich einfach nochmal an.
+
+#Talk to BRANCH CORAL again:
+
+message_385:
+    text: \n<BRANCH CORAL>Wie ich sehe, bist du zurückgekehrt. Ich sage es noch einmal...
+
+message_386:
+    text: \n<BRANCH CORAL>Es gibt eine Herausforderung, die dir in dieser Welt sehr helfen wird.<br>Es ist einfach, ohne nachzudenken... und wenn du es schaffst, werde ich auch der weg sein.
+
+message_387:
+    text: \n<BRANCH CORAL>Ich biete dir dieses Opfer an. \! Wirst du diese Gelegenheit nutzen?
+
+#*Follow same sequence as above.*
+
+
+#CLUB SANDWICH JUICE
+
+message_390:
+    text: Jeder hat 5 JUICE erhalten! 

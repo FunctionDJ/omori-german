@@ -1,3 +1,7 @@
+# Status: Not fully finished
+# Translated by: Lugitaro 🐉#0893
+# Checked by: FirstTroph#9096 (panaxyn), ~ฅ^•ﻌ•^ฅ~#2706 (Mewo)
+
 # =========================================================================================
 # Cutscene: FALLEN PHOTO
 # =========================================================================================
@@ -343,7 +347,7 @@ message_95:
 message_96:
     faceset: MainCharacters_DreamWorld
     faceindex: 8
-    text: \aubWow, schon über deinen Tierstein hinweg?
+    text: \aubWow, schon über deinen Taschenkiesel hinweg?
 
 message_97:
     faceset: MainCharacters_DreamWorld

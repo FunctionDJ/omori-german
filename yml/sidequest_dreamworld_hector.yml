@@ -1,0 +1,84 @@
+# Status: Not fully finished
+# Translated by: Lugitaro 🐉#0893
+
+# =========================================================================================
+# Pet Rock
+# ========================================================================================
+
+#Cutscene: KEL loses HECTOR in Otherworld Ladder II
+
+message_0:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 20
+    text: \kelW-wartet... Stoppt mal, Leute!\! ...\! Mist...\!<br>Wo ist er?\! Ich hatte ihn gerade eben!
+
+message_1:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 39
+    text: \herWo ist wer?
+
+message_2:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 29
+    text: \kel\c[13]HECTOR\c[0], mein Taschenkiesel!\! Ich schwöre, ich hatte ihn eben noch in meiner TASCHE.
+
+message_3:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 33
+    text: \kel\sinv[1]\Com[2]NEE\{EEEE\{EEEIIII\{IIIIIIN!!!
+
+message_4:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 33
+    text: \kel\{\Com[2]\sinv[1]\c[13]HECTOOOO\{OOOOOO\{OOOOOOR\c[0]!!!
+
+message_5:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 21
+    text: \kelEr muss aus meiner TASCHE gefallen sein, als ich<br>nicht aufpasste...
+
+message_6:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 23
+    text: \kelEs tut mir leid, \c[13]HECTOR\c[0]... Ich hätte vorsichtiger sein sollen...
+
+message_7:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 11
+    text: \aubWas soll das Getue? Es ist bloß ein Stein, oder?
+
+message_8:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 30
+    text: \kelSag das ja nicht!\!<br>Er ist nicht bloß ein Stein...
+
+message_9:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 30
+    text: \kel\Com[2]\{ER IST TEIL DER FAMILIE!!!
+
+message_10:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 46
+    text: \herKeine Sorge! Er taucht bestimmt bald wieder auf, KEL.
+
+message_11:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 47
+    text: \her\}Wahrscheinlich...
+
+message_12:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 22
+    text: \kelDas hoffe ich aber...
+
+message_13:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 23
+    text: \kelWarte auf mich, \c[13]HECTOR\c[0]!\!<br>Ich werde dich finden...\! Ich verspreche es!
+
+message_15:
+    text: \n<HEATHER>Wir werden immer stolz auf dich sein, mein Sohn.
+
+message_16:
+    text: \n<HEATHER JR.>Folge deinen Träumen, Brüderchen!

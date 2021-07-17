@@ -1,0 +1,562 @@
+# Status: Finished
+# Translated by: ~ฅ^•ﻌ•^ฅ~#2706 (Mewo)
+# Corrections by: Lugitaro 🐉#0893, Function#5603
+
+# =========================================================================================
+# Cutscene: Neighbors Room Intro, DAY 0 PART 1
+# =========================================================================================
+
+#Area Block
+
+message_0:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 1
+      text: Das ist nicht der Weg zum Spielplatz, du Dummerchen!\aub
+
+#TRIGGER: ENTER NEIGHBORS ROOM
+
+#upon seeing OMORI, AUBREY runs across the cards to greet him.
+
+message_1:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 2
+      text: Hi OMORI! Wir haben schon gehofft, dass du uns bald besuchen kommen würdest.\!<br>Willst du mit uns Karten spielen?\! <br>Wir wollten gerade eine neue Runde anfangen!\aub
+
+#AUBREY looks behind her.
+
+message_2:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 4
+      text: Oh!\! Ups...\! Oder doch nicht...\aub
+
+#KEL looks at AUBREY and jumps.
+
+message_3:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 30
+      text: Ach Menno... \Com[2]Was soll das denn, AUBREY!?\!<br>Du hast alles durcheinander gebracht!\!<br>Ich war sogar am Gewinnen!\kel
+
+message_4:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 39
+      text: Ach, KEL. Du brauchst nicht gleich sauer werden.\!<br>Es ist doch nur ein Spiel.\her
+
+#KEL looks at HERO
+
+message_5:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 30
+      text: Komm mir jetzt nicht damit, HERO!<br>\!Das sagst du nur, weil du am Verlieren warst.\kel
+
+message_6:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 42
+      text: ...\her
+
+# =========================================================================================
+# Aubrey's Dialogue before Omori gives her the PlantEgg
+# =========================================================================================
+
+message_10:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 9
+    text: \aubWarum ist \n[3] immer so gemein zu mir!?\! <br>Weißt du, neulich hat dieser Nichtsnutz mein \c[13]PLÜSCHTIER\c[0] gestohlen und irgendwo in diesem Zimmer versteckt.
+
+message_11:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 10
+    text: \aubWarum würde er sowas machen?\! Er ist so kindisch...\! <br>Ich meine, was habe ich ihm jemals getan!?
+
+message_12:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 1
+    text: \aubOh, Ich weiß!\! Kannst du mein \c[13]PLÜSCHTIER\c[0] für mich finden, \n[1]?\! Bitte, bitte, bitte!
+
+
+# =========================================================================================
+# Kel's Dialogue
+# =========================================================================================
+
+message_13:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 16
+    text: \kelYo \n[1], schau mal was ich neulich gefunden hab!
+
+message_14:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 17
+    text: \kelEs ist ein Taschenkiesel... Ist er nicht der Wahnsinn?
+
+message_15:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 35
+    text: Ein kleiner Taschenkiesel schaut dich aus \n[3]s TASCHE an.
+
+message_16:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 18
+    text: \kel\{ICH WERDE IHN \c[13]HECTOR\c[0] NENNEN!!\}
+
+message_126:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 16
+    text: \kel\}Und nur als Geheimnis zwischen dir und mir...\!<br>Du kannst ihn jederzeit sehen, indem du mein AUSRÜSTEN im SPIELERMENÜ checkst!
+
+message_17:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 28
+    text: \kel\SINV[1]Maaaaaaannnnnnnnnnnnn...\sinv[0]\!<br>AUBREY kriegt immer alles, was sie will.
+
+# =========================================================================================
+# Hero's Dialogue
+# =========================================================================================
+
+message_18:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 37
+    text: \herWie geht’s, wie steht’s, \n[1]? Wir haben auf dich gewartet!
+
+message_19:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 40
+    text: \her\n[3] und \n[2] sind wieder ständig nur am Streiten.\!<br>Man
+    könnte denken, dass die es nach einer Weile satt haben, aber beide sind so voller Energie.
+
+# =========================================================================================
+# Cutscene: PLÜSCHTIER
+# =========================================================================================
+
+#TRIGGER: OMORI finds AUBREYs PLÜSCHTIER, and returns the PLÜSCHTIER to AUBREY
+
+message_27:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 3
+      text: I-ist das...?\! Kann das sein?\aub
+
+#AUBREY does a twirl.
+
+message_28:
+      text: AUBREY schnappt sich das \c[13]PLÜSCHTIER\c[0] von dir.
+
+#AUBREY turns to KEL.
+
+message_29:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 1
+      text: Hey, KEL!\! Schau mal, mein \c[13]PLÜSCHTIER!\c[0]\aub
+
+#KEL looks at AUBREY and jumps.
+
+message_30:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 30
+      text: \Com[2]W-Was zum?\! Woher hast du das?\kel
+
+message_31:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 1
+      text: OMORI hat es gefunden!\!<br>Zum Glück habe ich echte Freunde!\aub
+
+message_32:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 39
+      text: Das hast du verdient, KEL.\!<br>Du solltest wissen, dass man andere
+      nicht ärgert.\her
+
+#KEL looks at HERO.
+
+message_33:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 24
+      text: Aber AUBREY hat angefangen...\!<br>Sie macht sich lustig über mein Muttermal<br>auf meinem...\kel
+
+message_34:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 1
+      text: Auf deinem...\! was?\aub
+
+message_35:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 27
+      text: ...\kel
+
+#HERO looks at AUBREY
+
+message_36:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 43
+      text: AUBREY...\her
+
+
+message_37:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 9
+      text: Nagut...\aub
+
+# =========================================================================================
+# Aubrey's Dialogue after Omori gives her PlantEgg
+# =========================================================================================
+
+message_38:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 1
+    text: \aubDanke, \n[1]! Ich wusste, dass ich auf dich zählen kann.\!<br>Du bist der Beste!
+
+# =========================================================================================
+# Hero's Dialogue after Omori gives Aubrey PlantEgg
+# =========================================================================================
+
+message_39:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 37
+    text: \herHey, \n[1]! Gut, dass das erledigt ist.\! Die beiden scheinen ständig aneinander zu geraten.
+
+message_43:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 38
+    text: \herMARI und BASIL haben uns zu einem Picknick am Spielplatz
+    eingeladen!\!<br>Wolltest du zu ihnen?
+
+message_40:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 38
+    text: \herNadann alle zusammen...\!<br>Lasst uns zu MARI und BASIL gehen!
+
+message_41:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 37
+    text: \herOkay, keine Sorge!\! Wir bleiben hier.
+
+message_42:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 37
+    text: \herHey, \n[1]!\! Bist du bereit zu gehen?
+
+#IF YOU GO TO WHITE SPACE AND THEN RETURN TO NEIGHBOR'S ROOM
+
+message_50:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 37
+    text: \herHey, OMORI! Willkommen zurück!\! Bist du bereit zu gehen?
+
+#DAY 1 PYREFLY
+
+message_51:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 37
+    text: \herNadann alle zusammen...\!<br>Lasst uns BASIL finden!
+
+#AFTER SGL
+
+message_52:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 37
+    text: \herNadann alle zusammen...\!<br>Lasst uns Entdecken gehen!
+
+# =========================================================================================
+# Cutscene: STUMP ENTRANCE
+# =========================================================================================
+
+#TRIGGER: ENTER STUMP ENTRANCE
+
+#KEL, HERO, and OMORI pop out of the stump.
+
+message_58:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 18
+      text: \{\sinv[1]OH, YEAH!! ENDLICH FRISCHE LUFT!!\!\}<br>Man muss die
+      Natur einfach lieben.\! Nadann, auf geht‘s!\kel
+
+#KEL, HERO, and OMORI start walking to FOREST PLAYGROUND.
+  #AUBREY is off screen
+
+message_59:
+      text: \Com[2]Hey, wartet ne Sekunde!\aub
+
+  #AUBREY pops out of the stump half-way
+
+message_60:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 10
+      text: Leute, helft mir! Ich stecke fest.\aub
+
+#HERO begins walking toward stump but is blocked by KEL.
+
+message_61:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 17
+      text: \SINV[1]Nur wenn du bitte sagst!\SINV[0]\kel
+
+message_62:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 8
+      text: KEL, hör auf rumzualbern und hol mich hier raus.\aub
+
+message_63:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 24
+      text: Okay, okay... \}Na gut.\kel
+
+#KEL pulls AUBREY out of the stump.
+
+message_64:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 9
+      text: Hmpf!\! Hast lange genug gebraucht!\aub
+
+message_65:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 24
+      text: ‘Tschuldigung, Prinzesschen...\kel
+
+# =========================================================================================
+# Cutscene: Mari and Basil
+# =========================================================================================
+
+#TRIGGER: enter Forest Playground
+
+#AUBREY runs to MARI.
+
+message_86:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 3
+      text: \{MARI! BASIL!\aub
+
+message_87:
+      faceset: MainCharacter_Mari
+      faceindex: 0
+      text: Oh, hallo AUBREY! Hallo, alle zusammen!\!<br>Wie geht es euch?\mar
+
+message_88:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 10
+      text: \{KEL IST WIEDER GEMEIN ZU MIR!!\aub
+
+message_89:
+      faceset: MainCharacter_Mari
+      faceindex: 2
+      text: Oh, nein!\! Nicht schon wieder...\! Wie kann er nur?\mar
+
+message_90:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 25
+      text: Pshh, Ich bin nicht gemein!\! AUBREY ist bloß am Rumheulen.\kel
+
+message_91:
+      faceset: MainCharacter_Mari
+      faceindex: 2
+      text: Nadann, KEL!\! Das ist ein starkes Argument von dir.\! <br>Jetzt weiß ich nicht, wem ich glauben soll!\mar
+
+message_92:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 30
+      text: \{GLAUB MIR!!\kel\}
+
+message_93:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 10
+      text: \{NEIN, GLAUB MIR!!\aub\}
+
+message_94:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 40
+      text: Seufz...\! Jetzt kommt mal zur Ruhe, ihr zwei...\!<br>\}Warum ist es
+      immer das Gleiche?\her
+
+message_95:
+      faceset: MainCharacter_Mari
+      faceindex: 3
+      text: Kopf hoch, HERO! Schau dich doch an, so verantwortlich.\mar
+
+message_96:
+      faceset: MainCharacter_Mari
+      faceindex: 7
+      text: Das mag ich an dir so sehr... hihi...\mar
+
+message_97:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 47
+      text: Komm schon, MARI!\! Nicht jetzt...\her
+
+message_98:
+      faceset: MainCharacter_Mari
+      faceindex: 6
+      text: Oh HERO, du weißt doch ich mach nur Spaß.\!<br>Du bist so süß, wenn du in Verlegenheit gerätst!\mar
+
+message_99:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 40
+      text: ...\her
+
+message_100:
+      faceset: MainCharacter_Mari
+      faceindex: 3
+      text: Hihihi...\mar
+
+message_101:
+      faceset: MainCharacter_Mari
+      faceindex: 0
+      text: : Während wir auf euch gewarteten, haben BASIL und Ich durch sein
+      \c[4]FOTOALBUM\c[0] geschaut!\! Wollt ihr mit reinschauen?\mar
+
+message_102:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 1
+      text: Natürlich!\!<br>Immerhin...\! sind wir die auf den Fotos, oder?\aub
+
+message_103:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 17
+      text: \{BASIL, BASIL! GUCK DIR DAS AN!!\kel
+
+#Kel does a pose
+
+message_104:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 18
+      text: \Com[2]Komm schon, BASIL! Mach ein Foto von mir!\kel
+
+#Short pause
+
+message_105:
+      faceset: MainCharacter_Basil
+      faceindex: 2
+      text: Tut mir leid, KEL. Ich mache nur Fotos von Leuten, wenn sie es am wenigsten erwarten!\bas
+
+message_106:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 38
+      text: Du magst es, Fotos von Leuten aufzunehmen, die natürlich sind, wenn sie nicht vor einer Kamera stehen, stimmt's BASIL?\her
+
+message_107:
+      faceset: MainCharacter_Basil
+      faceindex: 1
+      text: Ja...\! Da ist etwas Besonderes an Leuten wie sie ihr eigenes Leben leben.\! Das sind die Momente, die ich festhalten möchte!\bas
+
+message_108:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 19
+      text: Also...\! müssenw wir einfach so tun, als ob du nicht da wärst?\kel
+
+message_109:
+      faceset: MainCharacter_Basil
+      faceindex: 0
+      text: Haha...\! Ja, so könnte man es sagen denke ich.\bas
+
+message_110:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 16
+      text: Klar, kann ich machen!\kel
+
+#Kel looks away.
+
+message_111:
+      faceset: MainCharacter_Mari
+      faceindex: 0
+      text: Wolltest du uns dein \c[4]FOTOALBUM\c[0] zeigen, BASIL?\mar
+
+message_112:
+      faceset: MainCharacter_Basil
+      faceindex: 0
+      text: Ah, okay...\! aber es ist nichts Besonderes.\bas
+
+message_113:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 2
+      text: Oh, BASIL! Hör auf an dir zu zweifeln!\!<br>Ich bin sicher sie sind toll.\aub
+
+message_114:
+      faceset: MainCharacter_Basil
+      faceindex: 6
+      text: Du hast recht, AUBREY.\!<br>Tut mir Leid...\! Ich versuche, mehr an mich zu glauben.\bas
+
+#Basil takes out FOTOALBUM.
+#Party surrounds Basil, except Kel.
+
+message_115:
+      faceset: MainCharacter_Basil
+      faceindex: 1
+      text: Hier!\! So können wir es alle sehen.\bas
+
+message_116:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 39
+      text: Die Fotos sind alle so schön, BASIL.\!<br>Du weißt wirklich, wie man
+      einen Augenblick festhält!\her
+
+message_117:
+      faceset: MainCharacter_Basil
+      faceindex: 0
+      text: Danke...\! Ich habe aber nicht alle gemacht.\!<br>MARI klaut
+      manchmal gerne meine Kamera.\bas
+
+message_118:
+      faceset: MainCharacter_Mari
+      faceindex: 6
+      text: Nur manchmal!\mar
+
+message_119:
+      faceset: MainCharacter_Basil
+      faceindex: 1
+      text: Hey, Ich habe eine Idee!\! Wollt ihr bei mir zu Hause abhängen?\bas
+
+message_127:
+      faceset: MainCharacter_Basil
+      faceindex: 1
+      text: Vor kurzem habe ich kleine Sprossen eingepflanzt und wollte sie allen zeigen.\! Kommt schon! Sie sind echt niedlich!\bas
+
+message_120:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 17
+      text: Ja gerne, klingt nach Spaß!\! Los geht's!\kel
+
+#Hero walks 1 step down.
+
+message_121:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 39
+      text: Es ist südlich vom Spielplatz, richtig?\her
+
+message_122:
+      faceset: MainCharacter_Basil
+      faceindex: 1
+      text: Genau, das ist der Weg!\bas
+
+message_123:
+      faceset: MainCharacter_Mari
+      faceindex: 1
+      text: \marHmm...\! Ich denke ich verzichte lieber.\! Geht ruhig vor und
+      habt Spaß!\mar
+
+message_130:
+      faceset: MainCharacter_Mari
+      faceindex: 0
+      text: \marAber wenn ihr erschöpft seid, könnt ihr immer bei meinen Picknicks vorbeikommen!
+
+message_131:
+      faceset: MainCharacter_Mari
+      faceindex: 6
+      text: Ich werde immer Erfrischungen da haben...\! und du kannst bei meinem
+      Picknickkorb sogar SPEICHERN!\mar
+
+message_132:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 37
+      text: \herAwww... Danke, MARI!\! Du tust immer so viel für uns!
+
+message_124:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 3
+      text: Tschüss, MARI! Bis zum nächsten Mal!\aub
+
+message_125:
+      faceset: MainCharacter_Mari
+      faceindex: 3
+      text: : Jetzt geht und habt Spaß!<br>\!Ihr wisst ja, wo ihr mich findet!\mar
+
+# =========================================================================================
+# NEIGHBOUR'S ROOM DOOR
+# =========================================================================================
+
+message_200:
+      text: Deine Freunde warten auf dich.

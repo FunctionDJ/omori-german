@@ -1,0 +1,146 @@
+# Status: Not checked
+# Translated by: ✨ Jasuanti 🌸#7924
+
+# =========================================================================================
+# Dreamworld NPC dialogue
+# =========================================================================================
+
+#VOGEL SIGN NAMES:
+#MR. PAPAGEI: GRAWK!
+#MRS. CHICKEN: BAWK, BAWK!
+#MR. MÖWE: CAWWWW!
+#MR. PINGUIN: BRRRRRRR!
+#MRS. FLAMINGO: GRAA! GRAA!
+#MR. VOGEL: KER-CRAA...
+#MRS. PAPAGEI: CHEEP!
+
+
+
+
+message_0:
+      text: \n<MR. PAPAGEI>Squak!\! (\i[6]\c[11]WINDRAD-WALD\c[0])\!<br>Squak, squak!\! (\i[3]\c[11]NEBELIGE BRÜCKE\c[0])
+
+message_1:
+      text: \n<MR. PAPAGEI>Squak!\! (\i[5]\c[11]BAHNHOF\c[0])\!<br>Squak, squak!\! (\i[4]\c[11]NEBELIGE BRÜCKE\c[0])
+
+message_2:
+      text: \n<MR. PAPAGEI>Squak!\! (Die Schlange beginnt hier.)
+
+message_3:
+      text: \n<MRS. PAPAGEI>Fiep!\! (\i[1]\c[11]OTHERWORLD CAMPINGPLATZ\c[0])\!<br>Fiep, fiep!\! (\i[4]\c[11]CATTAIL FIELD\c[0])
+
+message_4:
+      text: \n<MRS. PAPAGEI>Fiep!\! (\i[3]\c[11]OTHERWORLD SEE\c[0])\!<br>Fiep, fiep!\! (\i[4]\c[11]OTHERWORLD CAMPINGPLATZ\c[0])\!<br>Fiep, fiep, fiep!\! (\i[1]\c[11]MÜLLHALDE\c[0])
+
+message_5:
+      text: \n<MRS. PAPAGEI>Fiep!\! (\i[6]\c[11]CATTAIL FIELD\c[0])\!<br>Fiep, fiep!\! (\i[4]\c[11]OTHERWORLD CAMPINGPLATZ\c[0])\!<br>Fiep, fiep, fiep!\! (\i[2]\c[11]ZUGEFRORENER SEE\c[0])
+
+message_6:
+      text: \n<MR. PINGUIN>Brrrrrrr!\! (Verlasst diesen Ort!)\!<br>Brr... Brrrrr!\! (Unterzeichnet, SXH)
+
+message_7:
+      text: \n<MR. PINGUIN>Brrrrrrr!\! (Kehrt um, solange ihr es noch könnt...)\!<br>Brr... Brrrrr!\! (Unterzeichnet, SXH)
+
+message_8:
+      text: \n<MR. PINGUIN>Brrrrrrr!\! (Hier ist rein garnichts... Verschwindet!)\!<br>Brr... Brrrrr!\! (Unterzeichnet, SXH)
+
+message_9:
+      text: \n<MR. PINGUIN>Brrrrrrr!\! (Zieht Leine! Lasst mich in dieser miserablen Existenz bleiben!)\!<br>Brr... Brrrrr!\! (Unterzeichnet, SXH)
+
+message_10:
+      text: \n<MR. PINGUIN>Brrrrrrr!\! (Es wäre närrisch, fortzufahren.\!<br>Hätte mir das doch jemand gesagt...)\!<br>Brr... Brrrrr!\! (Unterzeichnet, SXH)
+
+message_11:
+      text: \n<MR. PINGUIN>Brrrrrrr!\! (Alles ist erlaubt in der Liebe und im Krieg...\! es schmerzt aber dennoch, wenn man verliert...)\!<br>Brr... Brrrrr!\! (Unterzeichnet, SXH)
+
+message_12:
+      text: \n<MR. PINGUIN>Brrrrrrr!\! (Sowie ich, werdet ihr durch dem Aufstieg nichts erreichen.\! Es ist sinnlos.)\!<br>Brr... Brrrrr!\! (Unterzeichnet, SXH)
+
+message_36:
+      text: \n<MR. PINGUIN>Brrrrrrr!\! (Sucht ja nicht nach mir...\! Nur die Kälte leistet mir Gesellschaft.)\!<br>Brr... Brrrrr!\! (Unterzeichnet, SXH)
+
+
+#DIRECTIONS:
+#UP: \i[1]
+#DOWN: \i[2]
+#RIGHT: \i[3]
+#LEFT: \i[4]
+#UP LEFT: \i[5]
+#UP RIGHT: \i[6]
+#DOWN LEFT: \i[7]
+#DOWN RIGHT: \i[8]
+
+message_13:
+      text: \n<MRS. FLAMINGO>Graa!\! (\i[1]\c[11]DIE KÖNIGLICHE KÜCHE\c[0])\!<br>Graa, graa!\! (\i[1]\c[11]DIENERQUARTIER\c[0])\!<br>Graa, graa, graa!\! (\i[8]\c[11]DER KÖNIGLICHE BALLSAAL\c[0])
+
+message_14:
+      text: \n<MRS. FLAMINGO>Graa!\! (\i[1]\c[11]DIE KÖNIGLICHEN GEMÄCHER\c[0])\!<br>Graa, graa!\! (\i[7]\c[11]DIE KÖNIGLICHE GALLERIE\c[0])\!<br>Graa, graa, graa!\! (\i[7]\c[11]DIE KÖNIGLICHE BIBLIOTHEK\c[0])
+
+message_15:
+      text: \n<MRS. FLAMINGO>Graa!\! (\i[1]\c[11]DIE KÖNIGLICHE GALLERIE\c[0])\!<br>Graa, graa!\! (Die Ausstellung dieses Monats ist...)\!<br>Graa, graa, graa!\! (\"WERKE VON SWEETHEART\")
+
+message_16:
+      text: \n<MRS. FLAMINGO>Graa!\! (\i[1]\c[11]DIE KÖNIGLICHE BIBLIOTHEK\c[0])\!<br>Graa, graa!\! (Als Erinnerung... Kein Lesen ohne Erlaubnis.)
+
+message_17:
+      text: \n<MRS. FLAMINGO>Graa!\! (\i[1]\c[11]DER KÖNIGLICHE BALLSAAL\c[0])\!<br>Graa, graa!\! (Als Erinnerung... Karaoke gibt es NUR freitags.)
+
+message_18:
+      text: \n<MRS. FLAMINGO>Graa!\! (\i[1]\c[11]AUFZUG ZU DEN KÖNIGLICHEN GEMÄCHERN\c[0])\!<br>Graa, graa!\! (Als Erinnerung... Zutritt verboten, es sei denn du bist ein schöner Verehrer SWEETHEARTs.)<br>Graa, graa, graa!\! (Oder du bist CASTELLA.)
+
+message_19:
+      text: \n<MRS. FLAMINGO>Graa!\! (\i[1]\c[11]DAS KÖNIGLICHE BAD\c[0])\!<br>Graa, graa!\! (Als Erinnerung... Der Pool muss regelmäßig erneuert werden.)
+
+message_20:
+      text: \n<MRS. FLAMINGO>Graa!\! (\i[1]Besondere Hölle nur für dich, Schätzchen...)\!<br>Graa, graa!\! (Unterzeichnet, SWH)
+
+message_21:
+      text: \n<MR. MÖWE>Cawww!\! (\i[1]\c[11]VERLASSENE BAUSTELLE\c[0])\!<br>Cawww, cawwwww!\! (\i[4]\c[11]MAUTSTRASSE\c[0])
+
+message_22:
+      text: \n<MR. MÖWE>Cawww!\! (\i[1]\c[11]VERLASSENE BAUSTELLE\c[0])\!<br>Cawww, cawwwww!\! (\i[4]\i[3]\c[11]MAUTSTRASSE\c[0])
+
+message_23:
+      text: \n<MR. MÖWE>Cawww!\! (\i[1]\c[11]LETZTER HALT\c[0])\!<br>Cawww, cawwwww!\! (\i[4]\i[3]\c[11]ENDLOSE AUTOBAHN\c[0])
+
+message_24:
+      text: \n<MR. MÖWE>Cawww!\! (\i[4]\i[3]\c[11]ENDLOSE AUTOBAHN\c[0])
+
+message_25:
+      text: \n<MR. MÖWE>Cawww!\! (Krahh...chtung!)\!<br>Cawww, cawwwww!\! (Im Pool spukt es!)
+
+message_26:
+      text: \n<MR. MÖWE>Cawww!\! (Krahh...chtung!)\!<br>Cawww, cawwwww!\! (Pool im Bau.)
+
+message_27:
+      text: \n<MR. MÖWE>Cawww!\! (Hier ist das Ende der Autobahn.)
+
+message_28:
+      text: \n<MR. VOGEL?>Ker-craa...\! (Komisches Wachstum.)\!<br>Ker-craa... aaa...\! (Wird nach der Zerstörung wieder regenerieren.)
+
+message_29:
+      text: \n<MR. VOGEL?>Ker-craa...\! (Intelligentes Wachstum.)\!<br>Ker-craa... aaa...\! (Formt sich nach einem Schlag nützlicherweise in eine Brücke um.)
+
+message_30:
+      text: \n<MR. VOGEL?>Ker-craa...\! (MARINA's 667. Experiment.)\!<br>Ker-craa... aaa...\! (Krahh...chtung... Fasst nicht das Glas an.)
+
+message_31:
+      text: \n<MR. VOGEL?>Ker-craa...\! (Feldstudie in Bearbeitung. Bitte nicht stören.)
+
+message_32:
+      text: \n<MR. VOGEL?>Ker-craa...\! (Laborarbeit am Laufen. Bitte nur wenig stören.)
+
+message_33:
+      text: \n<MR. MÖWE>Cawww!\! (MUSIKALISCHE MUSCHELN im Training.)\!<br>Cawww, cawwwww!\! (Bitte zeigt ihnen eure Unterstützung.)
+
+message_34:
+      text: \"TRETET HERVOR!\"<br>\!\"STIMMEN DREI ÜBEREIN, GIBT ES EINEN PREIS!\"
+
+message_35:
+      text: \n<VOGELWURF>Squak?
+
+message_37:
+      text: \n<MRS. FLAMINGO>Graa!\! (ROSAs bescheidene Stube!)\!<br>Graa, graa!\! (Der \#1 SWEETHEART-Fan der Welt!)
+
+message_100:
+      text: \i[4]\c[11]ZUGSTATION\c[0]<br>\i[3]\c[11]WINDRAD-WALD<br>\i[2]\c[11]BASILS HAUS\c[0]
