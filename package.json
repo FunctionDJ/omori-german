@@ -11,6 +11,7 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "bestzip": "^2.2.0"
+    "bestzip": "^2.2.0",
+    "js-yaml": "^4.1.0"
   }
 }

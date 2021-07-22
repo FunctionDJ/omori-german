@@ -1,0 +1,1 @@
+- check all files for äöüßÄÖÜ in UTF-8 encoding because some files are kaputt

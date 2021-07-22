@@ -121,8 +121,7 @@ message_18:
 message_19:
     faceset: MainCharacters_DreamWorld
     faceindex: 40
-    text: \her\n[3] und \n[2] sind wieder ständig nur am Streiten.\!<br>Man
-    könnte denken, dass die es nach einer Weile satt haben, aber beide sind so voller Energie.
+    text: \her\n[3] und \n[2] sind wieder ständig nur am Streiten.\!<br>Man könnte denken, dass die es nach einer Weile satt haben, aber beide sind so voller Energie.
 
 # =========================================================================================
 # Cutscene: PLÜSCHTIER
@@ -162,8 +161,7 @@ message_31:
 message_32:
       faceset: MainCharacters_DreamWorld
       faceindex: 39
-      text: Das hast du verdient, KEL.\!<br>Du solltest wissen, dass man andere
-      nicht ärgert.\her
+      text: Das hast du verdient, KEL.\!<br>Du solltest wissen, dass man andere nicht ärgert.\her
 
 #KEL looks at HERO.
 
@@ -216,8 +214,7 @@ message_39:
 message_43:
     faceset: MainCharacters_DreamWorld
     faceindex: 38
-    text: \herMARI und BASIL haben uns zu einem Picknick am Spielplatz
-    eingeladen!\!<br>Wolltest du zu ihnen?
+    text: \herMARI und BASIL haben uns zu einem Picknick am Spielplatz eingeladen!\!<br>Wolltest du zu ihnen?
 
 message_40:
     faceset: MainCharacters_DreamWorld
@@ -266,8 +263,7 @@ message_52:
 message_58:
       faceset: MainCharacters_DreamWorld
       faceindex: 18
-      text: \{\sinv[1]OH, YEAH!! ENDLICH FRISCHE LUFT!!\!\}<br>Man muss die
-      Natur einfach lieben.\! Nadann, auf geht‘s!\kel
+      text: \{\sinv[1]OH, YEAH!! ENDLICH FRISCHE LUFT!!\!\}<br>Man muss die Natur einfach lieben.\! Nadann, auf geht‘s!\kel
 
 #KEL, HERO, and OMORI start walking to FOREST PLAYGROUND.
   #AUBREY is off screen
@@ -362,8 +358,7 @@ message_93:
 message_94:
       faceset: MainCharacters_DreamWorld
       faceindex: 40
-      text: Seufz...\! Jetzt kommt mal zur Ruhe, ihr zwei...\!<br>\}Warum ist es
-      immer das Gleiche?\her
+      text: Seufz...\! Jetzt kommt mal zur Ruhe, ihr zwei...\!<br>\}Warum ist es immer das Gleiche?\her
 
 message_95:
       faceset: MainCharacter_Mari
@@ -398,8 +393,7 @@ message_100:
 message_101:
       faceset: MainCharacter_Mari
       faceindex: 0
-      text: : Während wir auf euch gewarteten, haben BASIL und Ich durch sein
-      \c[4]FOTOALBUM\c[0] geschaut!\! Wollt ihr mit reinschauen?\mar
+      text: Während wir auf euch gewarteten, haben BASIL und Ich durch sein \c[4]FOTOALBUM\c[0] geschaut!\! Wollt ihr mit reinschauen?\mar
 
 message_102:
       faceset: MainCharacters_DreamWorld
@@ -483,14 +477,12 @@ message_115:
 message_116:
       faceset: MainCharacters_DreamWorld
       faceindex: 39
-      text: Die Fotos sind alle so schön, BASIL.\!<br>Du weißt wirklich, wie man
-      einen Augenblick festhält!\her
+      text: Die Fotos sind alle so schön, BASIL.\!<br>Du weißt wirklich, wie man einen Augenblick festhält!\her
 
 message_117:
       faceset: MainCharacter_Basil
       faceindex: 0
-      text: Danke...\! Ich habe aber nicht alle gemacht.\!<br>MARI klaut
-      manchmal gerne meine Kamera.\bas
+      text: Danke...\! Ich habe aber nicht alle gemacht.\!<br>MARI klaut manchmal gerne meine Kamera.\bas
 
 message_118:
       faceset: MainCharacter_Mari
@@ -527,8 +519,7 @@ message_122:
 message_123:
       faceset: MainCharacter_Mari
       faceindex: 1
-      text: \marHmm...\! Ich denke ich verzichte lieber.\! Geht ruhig vor und
-      habt Spaß!\mar
+      text: \marHmm...\! Ich denke ich verzichte lieber.\! Geht ruhig vor und habt Spaß!\mar
 
 message_130:
       faceset: MainCharacter_Mari
@@ -538,8 +529,7 @@ message_130:
 message_131:
       faceset: MainCharacter_Mari
       faceindex: 6
-      text: Ich werde immer Erfrischungen da haben...\! und du kannst bei meinem
-      Picknickkorb sogar SPEICHERN!\mar
+      text: Ich werde immer Erfrischungen da haben...\! und du kannst bei meinem Picknickkorb sogar SPEICHERN!\mar
 
 message_132:
       faceset: MainCharacters_DreamWorld
@@ -554,7 +544,7 @@ message_124:
 message_125:
       faceset: MainCharacter_Mari
       faceindex: 3
-      text: : Jetzt geht und habt Spaß!<br>\!Ihr wisst ja, wo ihr mich findet!\mar
+      text: Jetzt geht und habt Spaß!<br>\!Ihr wisst ja, wo ihr mich findet!\mar
 
 # =========================================================================================
 # NEIGHBOUR'S ROOM DOOR
