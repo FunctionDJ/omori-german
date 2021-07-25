@@ -197,22 +197,22 @@ message_69:
 # -----------------------------------------------
 
 message_100:
-    text: Was will %1 und seine Freunde tuen?
+    text: Was wollen %1 und seine Freunde tuen?
 
 message_101:
     text: Was will \n[8] tuen?
 
 message_102:
-    text: Was will %1 und %2 tuen?
+    text: Was wollen %1 und %2 tuen?
 
 message_103:
-    text: Was will \n[8] und seine Freunde tuen?
+    text: Was wollen \n[8] und seine Freunde tuen?
 
 message_104:
     text: Was will %1 tuen?
 
 message_105:
-    text: Verwendung an wen?
+    text: Auf wen anwenden?
 
 message_106:
     text: Drücke \DII[shift] um die Seite zu wechseln.
