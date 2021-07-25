@@ -1,0 +1,1056 @@
+### Translation: Finished
+### Editing: None
+
+### Translated by: Haj#1217
+
+# =========================================================================================
+# QUEST TRACKER
+# =========================================================================================
+
+#Intro 1:
+#MARI says this as her first message depending on who is LEADER:
+#Note: The first time you talk to a new MARI, she'll have an intro message that takes priority over this message.
+
+# =========================================================================================
+
+#If OMORI is leader:
+message_0:
+    faceset: MainCharacter_Mari
+    faceindex: 3
+    text: \marHi, OMORI! Wie ich sehe, hast du wieder ein starres Gesicht.\!<br> Du solltest mehr lächeln! Ich habe dein Lächeln immer gemocht.
+
+#If AUBREY is leader:
+message_1:
+    faceset: MainCharacter_Mari
+    faceindex: 3
+    text: \marNa, hallo, AUBREY! Du siehst heute niedlich aus.<br>Du pflegst deine Haare immer so gut.
+
+#If KEL is leader:
+message_2:
+    faceset: MainCharacter_Mari
+    faceindex: 6
+    text: \marYo KEL, was ist los! Du siehst aus, als wärst du noch ein bisschen größer geworden.\! Vielleicht wirst du eines Tages sogar größer sein als HERO, hehe...
+
+#If HERO is leader:
+message_3:
+    faceset: MainCharacter_Mari
+    faceindex: 7
+    text: \marNa, du Hübscher!\. Oder vielleicht bevorzugst du...\!<br>Was gibt's, Schätzchen?
+# =========================================================================================
+
+#Intro 2:
+#MARI says this after Intro 1.
+
+# =========================================================================================
+
+message_10:
+    faceset: MainCharacter_Mari
+    faceindex: 1
+    text: \marAlsoooo... soll ich dir bei etwas helfen?<br>Alles was es dich kostet ist deine Liebe!
+
+# =========================================================================================
+
+#Outro:
+#MARI says this after you exit the QUEST TRACKER menu.
+
+# =========================================================================================
+
+message_15:
+    faceset: MainCharacter_Mari
+    faceindex: 0
+    text: \marIch hoffe, ein wenig geholfen zu haben.<br>Ich werde hier sein, wenn du mich brauchst.
+
+# =========================================================================================
+
+#Outro 2 - Scarecrow Gift: - UNUSED
+#If you complete the STICK IN THE MUD SIDE QUEST, MR. SCARECROW will give extra gifts to you through MARI.
+
+# =========================================================================================
+
+message_20:
+    faceset: MainCharacter_Mari
+    faceindex: 2
+    text: \marAuf Wiedersehen, MR. VOGELSCHEUSCHE... Fröhliches Abenteuer!\.\^
+
+#message_21:
+#    text: You got \c[3]\itemget\c[0]!
+
+#message_22:
+#    faceset: MainCharacter_Mari
+#    faceindex: 6
+#    text: \marEnjoy it, OMORI! You deserve it!
+
+#[RANDOM ITEM LIST / % CHANCE]
+#Tofu 15%
+#Cherry Soda 15%
+
+#Fries 10%
+#Ramen 10%
+#Tasty Soda 10%
+#Blueberry Smoothie 10%
+#Rubberband 10%
+#Air Horn 10%
+
+#Life Jam 5%
+#Watermelon Juice 5%
+
+# =========================================================================================
+
+#Quest Completed:
+
+# =========================================================================================
+
+#message_25:
+#    faceset: MainCharacter_Mari
+#    faceindex: 6
+#    text: \marYou completed this quest already!<br>Looks like you don't need my help after all, hehe...\.\^
+
+# =========================================================================================
+
+#Quest Name: STUFFED TOY
+
+# =========================================================================================
+
+#This quest never has a Quest Accepted message, as you have to complete it before you have access to the Quest Tracker.
+#However, it still appears in the COMPLETE category with the Quest Completed message.
+
+message_26:
+    faceset: MainCharacter_Mari
+    faceindex: 6
+    text: \marHey, du hast AUBREYs \c[13]STOFFTIER\c[0] gefunden! \. Ich wette, KEL war darüber nicht sehr begeistert.\.\^
+
+# =========================================================================================
+
+#Quest Name: BASIL'S HOUSE
+
+# =========================================================================================
+
+message_30:
+      faceset: MainCharacter_Mari
+      faceindex: 2
+      text: \marWart ihr nicht alle auf dem Weg zu BASILs Haus? Ich denke, ich setze dieses Mal aus, aber macht weiter und amüsiert euch! \.\^^
+
+message_31:
+      faceset: MainCharacter_Mari
+      faceindex: 3
+      text: \marNa dann viel Spaß! \. Du weißt, wo du mich findest.\^^
+
+# =========================================================================================
+
+#Quest Name: MISSING
+
+# =========================================================================================
+
+#Quest Accepted 1:
+
+#message_35:
+#      faceset: MainCharacter_Mari
+#      faceindex: 4
+#      text: \marOh, no... BASIL suddenly disappeared...<br>I can't find a trace of him anywhere!\.\^
+
+#message_36:
+#      faceset: MainCharacter_Mari
+#      faceindex: 2
+#      text: \marThere must be a way to find BASIL...<br>Is there something you know that we don't, OMORI?\.\^
+
+#Quest Accepted 2 (Night 2: Deep Well+):
+
+#message_37:
+#      faceset: MainCharacter_Mari
+#      faceindex: 4
+#      text: \marAhh... What was this one again?<br>Ah, right! Of course! Our friend, BASIL, is missing!\.\^
+
+#message_38:
+#      faceset: MainCharacter_Mari
+#      faceindex: 2
+#      text: \marThere must be a way to save him...<br>Do you have any ideas of where to start, OMORI?\.\^
+
+#Quest Completed: !!![QUEST IS DELETED FROM QUEST TRACKER]!!!
+
+
+# =========================================================================================
+
+#Quest Name: CAPTAIN OF THE SPACE PIRATES
+
+# =========================================================================================
+
+#Quest Accepted:
+
+message_40:
+      faceset: MainCharacter_Mari
+      faceindex: 4
+      text: \marOh-oh! Sieht so aus, als ob das MIXTAPE von SPACE BOYFRIEND versehentlich weggeworfen wurde. Könnte es vielleicht irgendwo auf dem \c[11]SCHROTTPLATZ\c[0] sein?\.\^
+
+#After getting SBF'S MIXTAPE:
+
+message_41:
+      faceset: MainCharacter_Mari
+      faceindex: 6
+      text: \marSuper! Du hast endlich das \c[4]SPEZIAL-MIXTAPE\c[0].\ gefunden. Jetzt musst du es nur noch an SPACE BOYFRIEND zurückgeben!\.\^
+
+#Quest Completed:
+
+message_42:
+      faceset: MainCharacter_Mari
+      faceindex: 1
+      text: \marPuh... Das war ein bisschen chaotisch... aber wenigstens ist alles gut geworden.\. Hoffentlich kann jetzt CAPT. SPACEBOY in der Lage sein, etwas Frieden zu finden.\.\^
+
+message_43:
+      faceset: MainCharacter_Mari
+      faceindex: 5
+      text: \marSchnell, OMORI! ROSA hat das \c[4]SPEZIAL-MIXTAPE\c[0]!\. Du darfst sie nicht entkommen lassen!\^
+
+# =========================================================================================
+
+#Quest Name: FRONT-ROW TICKETS
+
+# =========================================================================================
+
+#Quest Accepted:
+
+message_45:
+      faceset: MainCharacter_Mari
+      faceindex: 2
+      text: \marEs scheint, als wärt ihr alle über \c[4]SHOW TICKETS\c[0] zu einem spannenden neuen Theater gestoßen..\. Wenn ihr Zeit habt, solltet ihr alle vorbeikommen und zusehen.!\.\^
+
+#After being thrown in SW Dungeon:
+
+message_50:
+      faceset: MainCharacter_Mari
+      faceindex: 5
+      text: \marEs mag so aussehen, als gäbe es kein Entkommen aus \c[11]SWEETHEART'S SCHLOSS\c[0], aber gib die Hoffnung nicht auf.\ Es muss einen Weg hier raus geben!\.\^
+
+#After reaching SW Garden:
+
+message_55:
+      faceset: MainCharacter_Mari
+      faceindex: 4
+      text: \marDie SPROUT MOLES scheinen sich auf ein großes Event vorzubereiten...\. Was könnte SWEETHEART gerade vorhaben?\.\^
+
+#message_56:
+#      faceset: MainCharacter_Mari
+#      faceindex: 2
+#      text: \marAll the SPROUT MOLES blocking the entrance earlier must have gone somewhere! You should ask around and see if anyone knows of a hidden exit...\.\^
+
+#Quest Completed:
+
+message_60:
+      faceset: MainCharacter_Mari
+      faceindex: 4
+      text: \marEs sieht so aus, als hättest du es geschafft, dich aus den fängen von SWEETHEART zu befreien...\. aber nur knapp. Lass uns hoffen, dass du ihr nie wieder über den Weg läufst.\.\^
+
+# =========================================================================================
+
+#Quest Name: MISSING FRIENDS
+
+# =========================================================================================
+
+#After getting Kel:
+
+message_75:
+      faceset: MainCharacter_Mari
+      faceindex: 6
+      text: \marEs ist so schön, dich und KEL wieder vereint zu sehen!<br>AUBREY und HERO müssen auch irgendwo in der Nähe sein.<br><br>KEL, du hast gesagt, dass wir AUBREY im fünften Stock finden können, richtig?<br>. Du solltest dort zuerst anfangen!\.\^
+
+#Quest Completed:
+
+message_80:
+      faceset: MainCharacter_Mari
+      faceindex: 3
+      text: \marJuhu! Es ist so schön, alle wieder zusammen zu sehen!\.\^
+
+# =========================================================================================
+
+#Quest Name: HECTOR THE ROCK
+
+# =========================================================================================
+
+#Quest Accepted:
+
+message_85:
+      faceset: MainCharacter_Mari
+      faceindex: 4
+      text: \marVerflucht... KELs Steinchen, \c[13]HECTOR\c[0], ist aus seiner Tasche gefallen.\. Tut mir leid, KEL. Ich bin nicht sicher, wo er ist, aber gib nicht auf!\.\^
+
+message_86:
+      faceset: MainCharacter_Mari
+      faceindex: 2
+      text: \marHECTOR mag jetzt eine Familie haben, aber \c[13]HECTOR JUNIOR\c[0] scheint wirklich glücklich zu sein, hier zu sein.\. Verliere ihn dieses Mal nicht, KEL.\.\^
+
+
+# =========================================================================================
+
+#Quest Name: DAISY'S DILEMMA
+
+# =========================================================================================
+
+#Quest Accepted:
+
+
+message_90:
+      faceset: MainCharacter_Mari
+      faceindex: 6
+      text: \marAwww... DAISY versucht ihren Schwarm mit einem \c[4]BLUMEN PUZZLE\c[0] auf sich aufmerksam zu machen.\. Wie niedlich!\. Ich glaube, ich habe gesehen, wie MIKAL vor einer Weile eins weggeworfen hat.\. Vielleicht kannst du es irgendwo finden!\^
+
+#After getting FLOWER PUZZLE:
+
+message_95:
+      faceset: MainCharacter_Mari
+      faceindex: 3
+      text: \marHey, Du hast das \c[4]BLUMEN PUZZLE\c[0]!\. War DAISY nicht auf der Suche nach einem, um ihren Schwarm zu geben?\. Es ist ziemlich offensichtlich, wer es ist. \. \}<br>Hust, hust... Es ist NEB... Hehe...\.\^
+
+message_96:
+      faceset: MainCharacter_Mari
+      faceindex: 0
+      text: \marYay! DAISY hat jetzt ein \c[4]BLUMEN PUZZLE\c[0] für NEB , aber will sie es ihm jemals geben?\. Schau bald Mal rein, um es herauszufinden!\.\^
+
+# =========================================================================================
+
+#Quest Name: STICK IN THE MUD
+
+# =========================================================================================
+
+#Quest Accepted:
+
+message_100:
+      faceset: MainCharacter_Mari
+      faceindex: 4
+      text: \marMR. SCARECROWs Freunde haben sich auf dem \c[11]KATZENFELD\c[0].\ verstreut. Du solltest sie wieder vereinen. Er scheint ein wenig einsam zu sein...\.\^
+
+
+# =========================================================================================
+
+#Quest Name: STRANGE REQUEST
+
+# =========================================================================================
+
+#Quest Accepted:
+
+message_105:
+      faceset: MainCharacter_Mari
+      faceindex: 2
+      text: \marTVMÄDCHEN hat dich gebeten, ein paar Sachen von einer \c[4]KOMISCHEN LISTE\c[0] zu besorgen, auf der ein paar seltsame Sachen stehen. Wie seltsam!\.\^
+
+#After getting DOOHICKEY, THINGAMABOB, and WHATCHAMACALLIT:
+
+message_110:
+      faceset: MainCharacter_Mari
+      faceindex: 2
+      text: \marHey! Es sieht so aus, als hättest du alles, was TVMÄDCHEN von ihrer \c[4]KOMISCHEN LISTE\c[0] wollte.\. Du solltest sie zu ihr bringen.\. Ich bin mir sicher, dass sie etwas Erstaunliches...\. und Seltsames machen wird.\.\^
+
+message_111:
+      faceset: MainCharacter_Mari
+      faceindex: 0
+      text: \marTVMÄDCHEN hat die ganze Zeit nur versucht, ihre KAFFE-MASCHINE zu reparieren.\. Hast du deinen kostenlosen \c[3]KAFFE\c[0] bekommen?\.\^
+# =========================================================================================
+
+#Quest Name: THE B.E.D.
+
+# =========================================================================================
+
+#Quest Accepted
+
+message_115:
+      faceset: MainCharacter_Mari
+      faceindex: 2
+      text: \marSCHATTENWURF ist also auf der Suche nach einem \c[4]B.E.T.T.\c[0], nicht wahr? \. BÜRGERMEISTER MOLE könnte das alles wissen! \. Er führt Experimente mit seinem Sohn im Keller unter der Schule durch.\.\^
+
+#After talking to MAYOR MOLE:
+
+message_120:
+      faceset: MainCharacter_Mari
+      faceindex: 4
+      text: \marBÜRGERMEISTER MOLE scheint ziemlich damit beschäftigt zu sein, sich Sorgen um seinen Sohn zu machen...\. Vielleicht wird er uns helfen, wenn wir seinen Sohn zuerst finden.\.\^
+
+#After getting B.E.D.:
+
+message_125:
+      faceset: MainCharacter_Mari
+      faceindex: 2
+      text: \marDurch merkwürdige Umstände hast du ein \c[4]B.E.T.T.\c[0] bekommen!<br>\.Aber ist es wirklich in Ordnung, es SCHATTENWURF zu geben?\.\^
+
+message_126:
+      faceset: MainCharacter_Mari
+      faceindex: 2
+      text: \marNaja, SCHATTENWURF hat jetzt das \c[4]B.E.T.T.\c[0]...\. Ich frage mich, was er dafür damit böses vorhat.\.\^
+
+# =========================================================================================
+
+#Quest Name: SWEATY SNACK
+
+# =========================================================================================
+
+#Quest Accepted w/o TOFU:
+
+message_130:
+      faceset: MainCharacter_Mari
+      faceindex: 2
+      text: \marEine sehr verschwitzter SPROSSWURF ist auf der Suche nach etwas \c[3]TOFU\c[0]...\. Du solltest schon \c[3]TOFU\c[0] haben, richtig? \. Es ist überall!\.\^
+
+message_131:
+      faceset: MainCharacter_Mari
+      faceindex: 4
+      text: \marIch kann nicht wissen, ob \c[3]TOFU\c[0] genug Nährstoffe für all die Übungen liefert, die SPROSSWURF macht. Kein Wunder, dass er so müde ist.\.\^
+
+#message_132:
+#      text: You got \c[3]TOFU\c[0]!
+
+#Quest Accepted W/ TOFU:
+
+#message_135:
+#      faceset: MainCharacter_Mari
+#      faceindex: 2
+#      text: \marA very sweaty SPROUT MOLE is looking for some \c[3]TOFU\c[0]... You should already have \c[3]TOFU\c[0], right? It's everywhere!\.\^
+
+# =========================================================================================
+
+#Quest Name: FASCINATING LITERATURE
+
+# =========================================================================================
+
+#Quest Accepted:
+
+message_140:
+      faceset: MainCharacter_Mari
+      faceindex: 2
+      text: \marDEMI ist von seinen Büchern gelangweilt und sucht nach etwas Spannenderem zum Lesen...\. Vielleicht findest du ja irgendwo in einer Bibliothek eins.\.\^
+
+#After getting INTERESTING BOOK:
+
+message_146:
+      faceset: MainCharacter_Mari
+      faceindex: 0
+      text: \marHey! Das \c[4]INTERESSANTE BUCH\c[0], das du da hast, sieht ziemlich interessant aus. \. Ich wette, DEMI würde sowas gerne lesen!\.\^
+
+message_145:
+      faceset: MainCharacter_Mari
+      faceindex: 0
+      text: \marDEMI wird mit dem Buch, das du ihm gegeben hast, sehr beschäftigt sein. Es war einfach sehr interessant.\.\^
+
+# =========================================================================================
+
+#Quest Name: SON OF A SPACE PIRATE
+
+# =========================================================================================
+
+#Quest Accepted:
+
+message_150:
+      faceset: MainCharacter_Mari
+      faceindex: 2
+      text: \marNach dem ganzen SWEETHEART-Fiasko scheint der Captain der SPACE PIRATES wieder verschwunden zu sein...\. Vielleicht führen dich diese \c[4]BATTERIEN\c[0] irgendwie zu ihm.\.\^
+
+#message_151:
+#      faceset: MainCharacter_Mari
+#      faceindex: 4
+#      text: \marWhere could he have gone? I sure hope he's okay...
+
+#After defeating SPACE EX-HUSBAND:
+
+message_155:
+      faceset: MainCharacter_Mari
+      faceindex: 2
+      text: \marWow! Du hast mit SPACE EX-HUSBAND auf dem Gipfel eines Berges gekämpft?\. Das klingt...\. wirklich dramatisch...\. Er sollte jetzt auf dem Heimweg sein.\. Du solltest ihn mal besuchen gehen, um sicher zu gehen!\.\^
+
+message_156:
+      faceset: MainCharacter_Mari
+      faceindex: 0
+      text: \marCAPT. SPACEBOY hat neben SWEETHEART.\ eine Menge, wofür er lebt. Er wird sicher bald wieder durch das Universum schweben!\.\^
+
+
+# =========================================================================================
+
+#Quest Name: CARE PACKAGE
+
+# =========================================================================================
+
+#Quest Accepted:
+
+message_160:
+      faceset: MainCharacter_Mari
+      faceindex: 5
+      text: \marDu hast die edle Aufgabe übernommen, ein wertvolles Paket sicher zu BRUDER WURF in der \c[11]SPROSSWURF KOLONIE\c[0].\ zu bringen. Wage es nicht, ihn zu enttäuschen!\.\^
+
+message_161:
+      faceset: MainCharacter_Mari
+      faceindex: 0
+      text: \marEs waren 99 \c[3]TOFU\c[0] in dem \c[4]VERSANDPAKET\c[0]?\. BRUDER WURF kann BRUDER WURF so gut kennen.\.\^
+
+# =========================================================================================
+
+#Quest Name: GHOST PARTY
+
+# =========================================================================================
+
+#Quest Accepted:
+
+message_165:
+      faceset: MainCharacter_Mari
+      faceindex: 0
+      text: \marTOPHAT GHOST wird seine Party erst feiern, wenn all seine Gäste eingetroffen sind, also liegt es an dir, sie zu versammeln.\. Du willst doch auch eine \c[11]GEISTER PARTY\c[0] sehen, nicht wahr?\.\^
+
+message_166:
+      faceset: MainCharacter_Mari
+      faceindex: 0
+      text: \marDank dir sind alle Gäste nicht ganz so pünktlich zur GHOST PARTY erschienen... aber immerhin sind sie da! Warum gehst du nicht zu ihren Feierlichkeiten?\.\^
+
+message_167:
+      faceset: MainCharacter_Mari
+      faceindex: 0
+      text: \marIch wette, du hattest so viel Spaß auf der \c[11]GEISTER PARTY\c[0].\. Wann habt ihr alle gelernt, wie man tanzt?\.\^
+
+
+# =========================================================================================
+
+#Quest Name: Itchy
+
+# =========================================================================================
+
+#Quest Accepted:
+
+message_170:
+      faceset: MainCharacter_Mari
+      faceindex: 2
+      text: \marDer Brachiosaurus SCOTT kann einen Juckreiz nicht an einer bestimmten Stelle kratzen...\. Ich schätze...\. das überlässt...\. er dir...\.\^
+
+message_171:
+      faceset: MainCharacter_Mari
+      faceindex: 0
+      text: \marDer Juckreiz wurde gekratzt! \. SCOTT sollte besser dankbar sein.\. Nicht jeder würde das für ihn tun.\.\^
+
+# =========================================================================================
+
+#Quest Name: BERLY'S LOST BALL
+
+# =========================================================================================
+
+#Quest Accepted:
+
+message_175:
+      faceset: MainCharacter_Mari
+      faceindex: 2
+      text: \marVAN hat BERLYs \c[4]VERLORENEN BALL\c[0] irgendwo tief in den \c[11]WESTENEN WALD\c[0] geworfen.\. Er kann nicht allzu weit gefallen sein.\.\^
+
+#After getting BERLY'S BALL:
+
+message_180:
+      faceset: MainCharacter_Mari
+      faceindex: 6
+      text: \marSchön! Du hast BERLY's \c[4]VERLORENEN BALL\c[0] zurückbekommen.\. Ich habe gehört, sie will dir sogar etwas als Dankeschön geben.\. <br>Wie selten für sie!\.\^
+
+message_181:
+      faceset: MainCharacter_Mari
+      faceindex: 0
+      text: \marWow! BERLY hat dir ein \c[4]ARSCH-ZERTIFIKAT\c[0]?\ gegeben. Ich wette, sie war die ganze Nacht auf, um sich das auszudenken.\.\^
+
+# =========================================================================================
+
+#Quest Name: THE CONVICTION OF ORANGE JOE
+
+# =========================================================================================
+
+#Quest Accepted:
+
+message_185:
+      faceset: MainCharacter_Mari
+      faceindex: 1
+      text: \marDie ganze Zeit über hat ORANGE JOE nie aufgehört, nach seinem lange verschollenen Bruder zu suchen.\. Seine Entschlossenheit ist so inspirierend...\. Wer kann das schon? \. Sein Bruder könnte näher sein, als wir alle denken...\.\^
+
+message_186:
+      faceset: MainCharacter_Mari
+      faceindex: 0
+      text: \mar\sinv[1]Hoffnung und Tatkraft! Hoffnung und Kraft! \sinv[0]\. Sag es mit mir, OMORI!\. \sinv[1]Hoffnung und Tatkraft! Hope and vigor!\sinv[0]\.\^
+
+# =========================================================================================
+
+#Quest Name: A GOOD LISTENER
+
+# =========================================================================================
+
+#Quest Accepted:
+
+message_190:
+      faceset: MainCharacter_Mari
+      faceindex: 4
+      text: \marCANDLIE hat ihren \c[4]TEDDY BÄR\c[0] verloren und kann ihn nirgends finden.\. Seufz...\. Wer wird sich jetzt ihre Sorgen anhören?\.\^
+
+#After getting \c[4]TEDDY BEAR\c[0]:
+
+message_195:
+      faceset: MainCharacter_Mari
+      faceindex: 0
+      text: \marHey! Dieser \c[4]TEDDY BÄR\c[0], den du da hast, sieht so aus, als würde er CANDLIE gehören.\. Du solltest ihn ihr zurückgeben...<br>Ich bin mir sicher, dass sie ihn sehr vermisst.\.\^
+
+message_196:
+      faceset: MainCharacter_Mari
+      faceindex: 0
+      text: \marCANDLIE muss so froh sein, ihren \c[4]TEDDY BÄR\c[0] wieder zu haben. Jetzt wird sie nicht mehr einsam sein.\.\^
+
+# =========================================================================================
+
+#Quest Name: THE WHEREABOUTS OF DUCKIE JR.
+
+# =========================================================================================
+
+#Quest Accepted:
+
+message_200:
+      faceset: MainCharacter_Mari
+      faceindex: 4
+      text: \marOh nein! DUCKIE JR. wird vermisst! Ich bin sicher, seine Eltern sind furchtbar besorgt um ihn...\.\^
+
+#After talking to DUCKIE JR.:
+
+message_205:
+      faceset: MainCharacter_Mari
+      faceindex: 3
+      text: \marPuh... Sieht so aus, als ob DUCKIE JR. seinen Kopf in den Wolken hatte.\. Du bist manchmal auch so, OMORI.\. Du solltest nachsehen und sicherstellen, dass DUCKIE JR. sicher nach Hause gekommen ist!\.\^
+
+message_206:
+      faceset: MainCharacter_Mari
+      faceindex: 1
+      text: \marSieht so aus, als ob DUCKIE JR. seinen Kopf in den Wolken hatte. Du bist manchmal auch so, OMORI!\.\^
+
+# =========================================================================================
+
+#Quest Name: MARINA'S OPERATION
+
+# =========================================================================================
+
+#Quest Accepted:
+
+message_210:
+      faceset: MainCharacter_Mari
+      faceindex: 3
+      text: \marMARINA bittet darum, dass du ihr etwas \c[4]RATTENFLEISCH\c[0] für ihren neuen Körper besorgst...\. Klingt fragwürdig, aber sie weiß , was sie tut...\. Glaub Ich...\.\^
+
+#After getting RAT MEAT:
+
+message_215:
+      faceset: MainCharacter_Mari
+      faceindex: 4
+      text: \marDu hast das \c[4]RATTENFLEISCH\c[0] gefunden, nach dem MARINA gefragt hat! \. Du solltest das \c[4]RATTENFLEISCH\c[0] zu MARINA bringen, bevor es anfängt zu schimmeln...\.\^
+
+message_216:
+      faceset: MainCharacter_Mari
+      faceindex: 4
+      text: \marIch hoffe, MARINA mag ihren brandneuen Körper.\. Obwohl...\. Ihre Experimente wahrscheinlich nicht...\.\^
+
+
+# =========================================================================================
+
+#Quest Name: MEDUSA'S EXPERIMENT
+
+# =========================================================================================
+
+#Quest Accepted:
+
+message_220:
+      faceset: MainCharacter_Mari
+      faceindex: 3
+      text: \marMEDUSA bittet dich, ihr etwas \c[4]ROTZ\c[0] für ihren neuen Körper zu besorgen...\. Klingt fragwürdig, aber sie weiß, was sie tut...\. wahrscheinlich.\.\^
+
+#After getting SNOT:
+
+message_225:
+      faceset: MainCharacter_Mari
+      faceindex: 0
+      text: \marDu hast den \c[4]ROTZc[0] gefunden, nach dem MEDUSA gefragt hat!\. Du solltest wahrscheinlich den \c[4]ROTZ\c[0] zu MEDUSA geben, bevor es überall herumsabbert...\.\^
+
+message_226:
+      faceset: MainCharacter_Mari
+      faceindex: 4
+      text: \marMEDUSA macht ihren eigenen Körper, huch...\. Kein Wunder, dass sie den perfekten Körperbau hat.\.\^
+
+# =========================================================================================
+
+#Quest Name: MOLLY'S ANALYSIS
+
+# =========================================================================================
+
+#Quest Accepted:
+
+message_230:
+      faceset: MainCharacter_Mari
+      faceindex: 3
+      text: \marMOLLY bittet dich darum, dass du ihr etwas \c[4]SCHROTT-METALL\c[0] für ihren neuen Körper besorgst...\. Klingt fragwürdig, aber sie weiß, was sie tut...\. Nehme ich mal an.\.\^
+
+#After getting SCRAP METAL:
+
+message_235:
+      faceset: MainCharacter_Mari
+      faceindex: 0
+      text: \marDu hast das \c[4]SCHROTT-METALL\c[0] gefunden, nach dem MOLLY gefragt hat!\. Ich frage mich, ob sie wirklich so einen Metallkörper will...<br>Scheint ein bisschen klobig zu sein.\.\^
+
+message_236:
+      faceset: MainCharacter_Mari
+      faceindex: 3
+      text: \marEs scheint, als ob MOLLY vollkommen glücklich damit ist, nur ein Kopf zu sein.\. Ich kann sehen, woher sie kommt. \. Sie muss sich jetzt um so viel weniger Sorgen machen.\.\^
+
+# =========================================================================================
+
+#Quest Name: PRESENT FOR PALMIE
+
+# =========================================================================================
+
+#Quest Accepted:
+
+message_240:
+      faceset: MainCharacter_Mari
+      faceindex: 0
+      text: \marIch hoffe, PALMIE mag ihr \c[4]DANKE FOSSIL\c[0].\. Es ist definitiv... einzigartig.\.\^
+
+message_241:
+      faceset: MainCharacter_Mari
+      faceindex: 1
+      text: \marERDNUSS und GELEE wollen PALMIE ein Dankeschön dafür geben, dass sie sich um sie gekümmert hat.\. Gibt es in \c[11]ORANGE OASIS\c[0] nicht einen Ort, an dem man alle möglichen besonderen Dinge finden kann?\.\^
+
+
+# =========================================================================================
+
+#Quest Name: WEAK MINDS
+
+# =========================================================================================
+
+#Quest Accepted:
+
+message_245:
+      faceset: MainCharacter_Mari
+      faceindex: 2
+      text: \marKITE KID ist deiner Meinung nach eines der Windräder im \c[11]FLOATING FOREST\c[0] kaputt. \. Ich frage mich, ob es eine Möglichkeit gibt, es zu reparieren.\.\^
+
+message_246:
+      faceset: MainCharacter_Mari
+      faceindex: 2
+      text: \marDie Windräder scheinen sich jetzt alle zu drehen.\. Du weißt, was KEL immer sagt. \. Wenn es nicht funktioniert...\. wirf etwas dagegen!\.\^
+
+# =========================================================================================
+
+#Quest Name: THE CALL OF INSPIRATION
+
+# =========================================================================================
+
+#Quest Accepted:
+
+#whats this for?
+message_250:
+      faceset: MainCharacter_Mari
+      faceindex: 0
+      text: \marBERLY sagt, dass sie auf der Suche nach dem perfekten Material ist, das sie zu ihrer nächsten erstaunlichen Leistung inspirieren soll... um die ultimative Waffe zu erschaffen!\.\^
+
+message_251:
+      faceset: MainCharacter_Mari
+      faceindex: 6
+      text: \marWow, diese \c[13]COOLE NUDEL\c[0] ist viel cooler als eine normale \c[13]POOL NUDEL\c[0]!\. Es muss jetzt so viel leistungsfähiger sein.\.\^
+
+
+# =========================================================================================
+
+#Quest Name: PESSI'S THING
+
+# =========================================================================================
+
+#Quest Accepted:
+
+message_255:
+      faceset: MainCharacter_Mari
+      faceindex: 2
+      text: \marPESSI scheint etwas Wertvolles verloren zu haben.<br>Vielleicht kannst du ihm helfen, indem du seine Schritte in \c[11]SPROSSWURF-DORF\c[0] zurückverfolgst..\.\^
+
+
+#After getting PESSI'S THING:
+
+message_261:
+      faceset: MainCharacter_Mari
+      faceindex: 0
+      text: \marJuhu! Du hast \c[4]PESSI'S DING\c[0] von ROSA zurückbekommen.\.<br>Ah... ich verstehe...\. Das ist so eine Sache. \. Nun, wer bin ich, dass ich darüber urteilen kann?\. Geh und gib es ihm zurück.\.\^
+
+message_260:
+      faceset: MainCharacter_Mari
+      faceindex: 4
+      text: \marPESSI wird ewig in dieser Schlange warten...\. Sollte ihm jemand sagen, dass die Party schon vorbei ist?\.\^
+
+# =========================================================================================
+
+#Quest Name: WEEPING WILLOW
+
+# =========================================================================================
+
+#Quest Accepted:
+
+message_265:
+      faceset: MainCharacter_Mari
+      faceindex: 2
+      text: \marDie Göttin des Sees sieht in diesen Tagen nicht sehr glücklich aus. Vielleicht können ein paar Witze sie aufheitern!\. Stell sicher, dass du ein \c[4]Witzbuch\c[0] hast, um sie alle aufzuschreiben.\.\^
+
+message_266:
+      faceset: MainCharacter_Mari
+      faceindex: 3
+      text: \marDie meisten Witze, die ich gesehen habe, sind ziemlich schlecht...\. aber es muss doch einen Witz geben, der weniger schlecht ist als die anderen.\.\^
+
+message_267:
+      faceset: MainCharacter_Mari
+      faceindex: 2
+      text: \marVon all den Witzen war das derjenige, der sie zum Lachen brachte? Nun, ich schätze, Humor ist für jeden anders.\.\^
+
+# =========================================================================================
+
+#Quest Name: MISSING
+
+# =========================================================================================
+
+#MARI's dialogue for the BASIL IS MISSING quest will first display this text if you talk to her directly after the cutscene at the picnic:
+
+#Forest Playground
+message_270:
+      faceset: MainCharacter_Mari
+      faceindex: 4
+      text: \marWo könnte BASIL sein?\. Ich dachte, er wäre bei dir, OMORI...\. Du hast ihn zuletzt in seinem Haus gesehen, richtig? \. Vielleicht solltest du deine Schritte zurückverfolgen.\.\^
+
+#Path to Basil (II)
+message_271:
+      faceset: MainCharacter_Mari
+      faceindex: 4
+      text: \marBASILs Haus ist nur diesen Weg entlang.\. Ich hoffe, BASIL geht es gut...\. Er kommt nicht gut allein klar...\.\^
+
+#==========================
+#After you visit BASIL's house (after getting Hangman), MARI's dialogue for the BASIL IS MISSING quest changes depending on the map you are in.
+
+#Forest Playground
+message_272:
+        faceset: MainCharacter_Mari
+        faceindex: 4
+        text: \marWo könnte BASIL sein?\. Könnte er irgendwo in \c[11]VAST FOREST\c[0] sein?\. BASIL würde nicht einfach so alleine losziehen... \. Vielleicht ist ihm etwas zugestoßen...\.\^
+
+#Path to Basil (II)
+message_273:
+        faceset: MainCharacter_Mari
+        faceindex: 4
+        text: \marEs sieht nicht so aus, als ob BASIL nach allem irgendwo in \c[11]VAST FOREST\c[0] ist... Ich frage mich, wohin er sich verirrt haben könnte.\.\^
+
+#Kite Kid
+message_274:
+      faceset: MainCharacter_Mari
+      faceindex: 4
+      text: \marWürde BASIL den ganzen Weg bis hierher wandern? Soweit ich sehen kann, gab es nichts Ungewöhnliches.\. Nur Bäume, Windrädchen und der Wind.\.\^
+
+#Orange Oasis
+message_275:
+      faceset: MainCharacter_Mari
+      faceindex: 2
+      text: \marGlaubst du, BASIL ist irgendwie hier vorbei gekommen?\. Ich bin sicher, er hätte mich gegrüßt, wenn er mich gesehen hätte.\. Ich hätte ihn mit so vielen CARAMELL-ÄPFELN gefüttert, auch wenn er keine Süßigkeiten mag!\.\^
+
+#Rain town
+message_276:
+      faceset: MainCharacter_Mari
+      faceindex: 0
+      text: \marEs ist unwahrscheinlich, dass BASIL hier in der Nähe ist, obwohl ich deiner Meinung nach BASIL diesen Ort gemocht hätte.\. Alle VEGGIE KIDS hätten ihn auch gemocht. Stell dir nur vor... BASIL liest den VEGGIE KIDS ein Buch zur Märchenstunde vor...\. Bezaubernd!\.\^
+
+#Otherworld campsite
+message_277:
+        faceset: MainCharacter_Mari
+        faceindex: 2
+        text: \marKönnte BASIL die Leiter bis nach \c[11]OTHERWORLD\c[0] hinaufgeklettert sein?\. Du kannst versuchen, herumzufragen, um zu sehen, ob ihn Leute gesehen haben.<br>Die SPACE PIRATES gleich nördlich von hier könnten ein guter Anfang sein.\.\^
+
+#Frozen Lake
+message_278:
+        faceset: MainCharacter_Mari
+        faceindex: 4
+        text: \marIch habe BASIL hier nicht gesehen, aber ich glaube nicht, dass er von allein hierher gekommen wäre. Er mag das kalte Wetter wirklich nicht...\.\^
+
+
+#Junkyard IV
+message_279:
+      faceset: MainCharacter_Mari
+      faceindex: 4
+      text: \marDu kannst von hier oben einen wirklich guten Blick auf den gesamten \c[11]SCHROTTPLATZ\c[0] werfen...\. aber ich sehe BASIL nirgends.<br><br>Es ist allerdings seltsam...\. Ich hätte schwören können, dass ich BASIL vorhin in der Nähe des Campingplatzes gesehen habe...\. aber vielleicht habe ich mich geirrt.\.\^
+
+#Junkyard IX  (Same as Junkyard IV)
+message_280:
+      faceset: MainCharacter_Mari
+      faceindex: 4
+      text: \marDu kannst von hier oben einen wirklich guten Blick auf den gesamten \c[11]SCHROTTPLATZ\c[0] werfen...\. aber ich sehe BASIL nirgends.<br><br>Es ist allerdings seltsam...\. Ich hätte schwören können, dass ich BASIL vorhin in der Nähe des Campingplatzes gesehen habe...\. aber vielleicht habe ich mich geirrt.\.\^
+
+#Pyrefly IV
+message_281:
+      faceset: MainCharacter_Mari
+      faceindex: 4
+      text: \marIch habe nachgedacht...\. Vielleicht musste BASIL in aller Eile irgendwohin, wo es wichtig war...\. Aber wo sollte er hingegangen sein? Und warum würde er uns nichts davon erzählen?<br> Ich hoffe nur, dass er nicht in Schwierigkeiten geraten ist... und dass er irgendwo in Sicherheit ist.\.\^
+
+#Pyrefly to SM town
+message_282:
+        faceset: MainCharacter_Mari
+        faceindex: 4
+        text: \mar\sinv[1]Seufz...\sinv[0]\. Ich habe überall nachgeschaut, aber es sieht auch nicht so aus, als ob BASIL in dieser Gegend ist...\. Wir dürfen nicht aufgeben...\. BASIL braucht uns!\.\^
+
+#Sproutmole Town I
+message_283:
+        faceset: MainCharacter_Mari
+        faceindex: 0
+        text: \marHey! Es sieht so aus, als ob die \c[4]SHOW TICKETS\c[0], die du gefunden hast, hier verwendet werden können.\. Aber es würde vielleicht helfen, sich zuerst nach BASIL umzusehen.<br><br>Denkst du, die SPROSSWÜRFE können etwas wissen?\. Es schadet nie, zu fragen!\.\^
+
+#Underground Dungeon
+message_284:
+      faceset: MainCharacter_Mari
+      faceindex: 4
+      text: \marWas wäre, wenn BASIL Ärger mit SWEETHEART bekäme und sie ihn einsperren würde?\. Dieser Ort ist so groß...\. Irgendwo muss es Antworten geben!\.\^
+
+#Servant's Quarter (Same as Underground Dungeon)
+message_285:
+      faceset: MainCharacter_Mari
+      faceindex: 4
+      text: \marWas wäre, wenn BASIL Ärger mit SWEETHEART bekäme und sie ihn einsperren würde?\. Dieser Ort ist so groß...\. Irgendwo muss es Antworten geben!\.\^
+
+#==========================
+#After the Swim switch, MARI will play the same dialogue across all picnics. This should override any previous unique dialogue.
+
+#The following picnics will only ever play this new generic dialogue:
+message_286:
+      faceset: MainCharacter_Mari
+      faceindex: 2
+      text: \marHmm... BASIL ist verschwunden, hm? \. Könnte er hier irgendwo sein?\. Du kennst ihn besser als wir, OMORI!\.\^
+
+message_287:
+      faceset: MainCharacter_Mari
+      faceindex: 4
+      text: \marVerdammt...\. Es sieht auch nicht so aus, als wäre BASIL in SWEETHEARTs Schloss gewesen.\. Wo könnte er sonst hingegangen sein?\.\^
+
+#Last Resort
+#Last Resort Elevator
+#Construction
+#End of the Highway
+#Baking Room
+
+#==========================
+#After going into SGL, the entire quest string will disappear across all picnics, so these MARI will never display the quest.
+
+#Marina Room 3
+#Medusa Maze 1
+#Molly Main Room
+#Path to Basil (BS)
+#Frozen Forest VII
+#Frozen Forest IX
+
+# =========================================================================================
+
+#Quest Name: LEAFIE
+
+# =========================================================================================
+
+#Quest Accepted:
+
+message_400:
+      faceset: MainCharacter_Mari
+      faceindex: 4
+      text: \marOMORI...\. Du... hast zugestimmt, Hasen für LEAFIE zu töten? AUBREY wird sauer sein, weißt du.\.\^
+
+#Quest Complete:
+
+message_401:
+      faceset: MainCharacter_Mari
+      faceindex: 4
+      text: \marIch kann nicht sagen, dass ich begeistert bin...\. aber herzlichen Glückwunsch...\. du bist jetzt ein Hasenmörder.\.\^
+
+
+# =========================================================================================
+
+#Quest Name: Rain town
+
+# =========================================================================================
+
+#Quest Accepted:
+
+message_402:
+      faceset: MainCharacter_Mari
+      faceindex: 4
+      text: \marEs scheint einfach ein bisschen zu viel zu regnen. Es muss doch etwas geben, das diesen VEGGIE Kinder helfen kann.\.\^
+
+#Quest Complete:
+
+message_403:
+      faceset: MainCharacter_Mari
+      faceindex: 4
+      text: \marDu kannst dir nicht die Schuld dafür geben, was mit \c[11]Regenstadt\c[0].\ passiert ist. Du hast nur versucht zu helfen...\. Richtig?\.\^
+
+#Quest Complete II:
+
+message_408:
+      faceset: MainCharacter_Mari
+      faceindex: 6
+      text: \marDie VEGGIE Kinder sind wieder gesund. Ich hoffe, sie wachsen heran und werden wunderbare VEGGIE Erwachsene!\.\^
+
+
+# =========================================================================================
+
+#Quest Name: Squizzards
+
+# =========================================================================================
+
+#Quest Accepted:
+
+message_404:
+      faceset: MainCharacter_Mari
+      faceindex: 2
+      text: \marFARMER JIM muss eine wirklich harte Zeit mit diesen lästigen Krabbeltieren haben.\. Hilf ihm, diese ekligen Kreaturen loszuwerden!\.\^
+
+#Quest Complete:
+
+message_405:
+      faceset: MainCharacter_Mari
+      faceindex: 3
+      text: \marSEACOWS sind so süß! Jetzt, wo es weniger Krabbeltiere auf der Farm gibt, haben sie auch mehr Platz, um herumzumuhen, hehe.\.\^
+
+
+# =========================================================================================
+
+#Quest Name: Feed Humphrey
+
+# =========================================================================================
+
+#Quest Accepted:
+
+message_406:
+      faceset: MainCharacter_Mari
+      faceindex: 2
+      text: \marWhoa! Das ist ein \c[4]RIESEN-CHECK\c[0] für 1000000 CLAMS! Ich kenne keine Bank in der Nähe, aber ich kenne jemanden, der scharf auf CLAMS sein könnte.\.\^
+
+#Quest Complete:
+
+message_407:
+      faceset: MainCharacter_Mari
+      faceindex: 2
+      text: \marHUMPHREY ist jetzt satt und glücklich.\. Alles ist wieder gut!\. Menschen sind einfach nicht sie selbst, wenn sie hungrig sind. is nen Snickers und der Hunger ist gegessen ^^!\.\^
+
+
+# =========================================================================================
+
+#Quest Name: Mari after collecting black letters
+
+# =========================================================================================
+
+#Quest Accepted:
+
+#message_410:
+#      faceset: MainCharacter_Mari
+#      faceindex: 2
+#      text: \marYou've been quite busy! Let's go back to \c[14]NEIGHBORS ROOM\c[0] and play cards! You deserve a break!\.\^
+
+#Quest Complete:
+
+#message_411:
+#      faceset: MainCharacter_Mari
+#      faceindex: 2
+#      text: \marGlad you could get to play a bit of cards, did you win? Hope you had fun!\.\^
+
+# =========================================================================================
+
+#Quest Name: Mari after collecting black letters in the fog
+
+# =========================================================================================
+
+#Quest Accepted:
+
+message_420:
+      faceset: MainCharacter_Mari
+      faceindex: 7
+      text: \marIch habe ein Gerücht über ein altes leerstehendes Haus südlich des Spielplatzes gehört.\. Ich frage mich...\. ob es wirklich leer ist, hehe...\.\^
