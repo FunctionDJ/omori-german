@@ -13,6 +13,7 @@ jobs:
         id: create_tag
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          DEFAULT_BUMP: patch
 
       - uses: ncipollo/release-action@v1
         with:

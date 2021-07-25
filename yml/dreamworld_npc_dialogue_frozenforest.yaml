@@ -1,0 +1,119 @@
+### Translation: 95%
+### Editing: None
+
+### Translated by: ✨ Jasuanti 🌸#7924
+
+# =========================================================================================
+# Dreamworld NPC dialogue
+# =========================================================================================
+
+# ==============FROZEN FOREST====================================
+
+
+                        #====NIGHT 1-2 and Night 2====
+
+#FISHING BEAR
+#Location: Frozen Lake
+message_0:
+      text: \n<FISCHERBÄR>Ich warte auf den nächsten großen Fang!
+
+#SNOW CONE JASH
+#FROZEN Lake
+#DREAMWORLD Shop yaml
+
+                        #====NIGHT 3 and 4====
+#FISHING BEAR
+#Location: Frozen Lake
+#Same as NIGHT 1-2.
+
+#SNOW CONE JASH
+#Location: Frozen Lake
+#Same as NIGHT 1-2.
+
+#SNOWGLOBE 1
+#Location: Frozen Forest
+message_1:
+      text: Du schaust in die SCHNEEKUGEL.\! Du siehst ein Auto, das im Schnee feststeckt.\! Einige Kinder malen im Nebel auf den Rücksitz-Fenstern.
+
+#SNOWGLOBE 2
+#Location: Frozen Forest
+message_2:
+      text: Du schaust in die SCHNEEKUGEL.\! Du siehst ein kleines Haus auf einem verschneiten Hügel.\! Es sieht warm aus.
+
+#SNOWGLOBE 3
+#Location: Frozen Forest
+message_3:
+      text: Du schaust in die SCHNEEKUGEL.\! Du siehst Kinder, die auf einem steilen Hügel Schlitten fahren.\! Sieht so aus, als hätten sie Spaß.
+
+#MOUNTAIN
+message_10:
+      text: Du findest dich am Fuße des Berges wieder.
+
+message_11:
+      text: Du findest dich dort wieder, wo du hergekommen bist.
+
+#====
+
+#FISHING
+
+message_20:
+      text: Du hast einen SPROSSWURF geangelt!<br>\!Und wirfst ihn zurück in den See.
+
+message_21:
+      text: Du hast einen alten Stiefel geangelt...<br>\!Und wirfst ihn zurück in den See.
+
+message_23:
+      text: Du hast eine Krabbe geangelt!<br>\!Und wirfst sie zurück in den See.
+
+message_24:
+      text: Du hast einen Oktopus geangelt!<br>\!Und wirfst ihn zurück in den See.
+
+message_25:
+      text: Du hast Atommüll geangelt...<br>\!Und wirfst ihn zurück in den See.
+
+message_26:
+      text: Du hast einen Verkaufsautomaten geangent!
+
+message_27:
+      text: Du hast ein \"O\" geangelt.<br>\!Und wirfst es zurück in den See.
+
+message_29:
+      text: Du hast eine Orange geangelt.<br>\!Und wirfst sie zurück in den See.
+
+message_30:
+      text: Du hast FLASCHENPOST geangelt!
+
+message_31:
+      text: \n<MESSAGE IN A BOTTLE>\"When the Moon hits your eye like a big pizza pie, that's _____.\"
+
+#Show Choices OMORI, AUBREY, KEL, HERO
+
+message_32:
+      text: Du hast einen Plastikfisch geangelt...<br>\!Und wirfst ihn zurück in den See.
+
+message_33:
+      text: Du hast einen echten Fisch geangelt!<br>\!Und wirfst ihn zurück in den See.
+
+message_34:
+      text: Du hast \c[3]TOFU\c[0] geangelt!
+
+message_35:
+      text: Du hast \c[3]MARMELEBEN\c[0] geangelt!
+
+message_36:
+      text: Erfolgslos...
+
+message_40:
+      text: OMORI
+
+message_41:
+      text: AUBREY
+
+message_42:
+      text: KEL
+
+message_43:
+      text: HERO
+
+message_44:
+      text: Du wirfst die Flasche zurück in den See.
