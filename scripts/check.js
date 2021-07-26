@@ -1,32 +1,23 @@
 import {
-  getYmlFiles, hasCorrectExtension, readYml
+  getYmlFiles, loadJson, readYml, runMain, validateBrokenChars, validateKnown, validateYml
 } from "./lib.js"
+import path from "path"
 
-import yaml from "js-yaml"
+runMain(async report => {
+  const ymlFiles = await getYmlFiles()
+  const wwwIndex = await loadJson("www-index")
 
-const ymlFiles = await getYmlFiles()
+  for (const filename of ymlFiles) {
+    const filepath = `languages/en/${filename}`
+  
+    validateKnown(filename, filepath, wwwIndex, report)
+  
+    const content = await readYml(filename)
 
-let hasErrors = false
+    validateYml(content, filename, report)
+  
+    const absoluteFilePath = path.resolve(`www/languages/en/${filename}`)
 
-const report = error => {
-  console.error(error)
-  hasErrors = true
-}
-
-for (const filename of ymlFiles) {
-  if (!hasCorrectExtension(filename)) {
-    report(`${filename} has wrong extension`)
+    validateBrokenChars(filename, content, report, absoluteFilePath)
   }
-
-  const content = await readYml(filename)
-
-  try {
-    yaml.load(content, { filename })
-  } catch (error) {
-    report(error.message)
-  }
-}
-
-if (hasErrors) {
-  process.exit(1)
-}
+})

@@ -1,10 +1,10 @@
 {
-  "id": "omori_german",
-  "name": "Deutsche Übersetzung für OMORI",
-  "description": "-",
+  "id": "omori-german",
+  "name": "OMORI German",
+  "description": "Deutsche Übersetzung für OMORI",
   "version": "0.0",
   "files": {
-    "text": [ "yml/" ],
-    "assets": [ "fonts/" ]
+    "text": ["www/languages/en/"],
+    "assets": ["www/fonts/"]
   }
 }
