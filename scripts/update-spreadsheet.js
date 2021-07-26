@@ -1,10 +1,10 @@
-// lade .env
-await import("dotenv").then(d => d.config())
-
 import { GoogleSpreadsheet } from "google-spreadsheet"
 import fs from "fs/promises"
 import { getCredits } from "./lib/get-credits.js"
 import axios from "axios"
+import { loadEnv } from "./lib"
+
+loadEnv()
 
 const credsString = await fs.readFile("./spreadsheet-credentials.json", "utf-8")
 const creds = JSON.parse(credsString)

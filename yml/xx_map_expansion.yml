@@ -1105,7 +1105,7 @@ message_340:
 #*Everything except for the BRANCH CORAL, OMORI, and a small pool under the BRANCH CORAL are blacked out.*
 
 message_341:
-    text: \n<BRANCH CORAL>Der Freund, den du verloren hast, ist nicht in dieser Welt.<br>An dem Tag, an dem er verschwunden worden ist, Lebt er an einerm anderen Ort weiter.
+    text: \n<BRANCH CORAL>Der Freund, den du verloren hast, ist nicht in dieser Welt.<br>An dem Tag, an dem er entfernt wurde, wurde er woanders neugeboren.
 
 message_342:
     text: \n<BRANCH CORAL>Er ist etwas Besonderes für dich. \! Ein Schicksalsfaden verbindet euch beide miteinander. \! Er kann diesen Ort nicht alleine verlassen.
@@ -1229,7 +1229,7 @@ message_381:
 
 #Examine BRANCH CORAL:
 message_382:
-    text: Eine Astkoralle. Sie ist nicht lebendig.
+    text: Eine Astkoralle. Sie lebt nicht.
 
 #[NO]
 #nothing
