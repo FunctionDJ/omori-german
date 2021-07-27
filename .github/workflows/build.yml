@@ -20,18 +20,20 @@ jobs:
       - name: Build changelog
         id: changelog
         uses: mikepenz/release-changelog-builder-action@v2.1.0
+        with:
+          failOnError: true
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       
       - name: Rename artifact
-        run: mv "omori-german.zip" "omori-german-{{ steps.tag.outputs.tag }}.zip"
+        run: mv "omori-german.zip" "omori-german-${{ steps.tag.outputs.tag }}.zip"
 
       - name: Create release
         uses: ncipollo/release-action@v1
         with:
           body: ${{ steps.changelog.outputs.changelog }}
           tag: ${{ steps.tag.outputs.tag }}
-          artifacts: omori-german-{{ steps.tag.outputs.tag}}.zip
+          artifacts: omori-german-${{ steps.tag.outputs.tag}}.zip
           artifactErrorsFailBuild: true
-          name: Omori German Translation {{ steps.tag.outputs.tag }}
+          name: Omori German Translation ${{ steps.tag.outputs.tag }}
           token: ${{ secrets.GITHUB_TOKEN }}
