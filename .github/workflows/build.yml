@@ -9,14 +9,29 @@ jobs:
       - run: npm install
       - run: npm run build
 
-      - uses: anothrNick/github-tag-action@1.35.0
-        id: create_tag
+      - name: Create tag
+        uses: anothrNick/github-tag-action@1.35.0
+        id: tag
         env:
+          WITH_V: true
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           DEFAULT_BUMP: patch
 
-      - uses: ncipollo/release-action@v1
+      - name: Build changelog
+        id: changelog
+        uses: mikepenz/release-changelog-builder-action@{latest-release}
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      
+      - name: Rename artifact
+        run: mv "omori-german.zip" "omori-german-{{ steps.tag.outputs.tag }}.zip"
+
+      - name: Create release
+        uses: ncipollo/release-action@v1
         with:
+          body: ${{ steps.changelog.outputs.changelog }}
+          tag: ${{ steps.tag.outputs.tag }}
+          artifacts: omori-german-{{ steps.tag.outputs.tag}}.zip
+          artifactErrorsFailBuild: true
+          name: Omori German Translation {{ steps.tag.outputs.tag }}
           token: ${{ secrets.GITHUB_TOKEN }}
-          tag: ${{ steps.create_tag.outputs.tag }}
-          artifacts: omori-german.zip
