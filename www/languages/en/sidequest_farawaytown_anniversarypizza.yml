@@ -1,0 +1,82 @@
+### Translation: Finished
+### Editing: None
+
+### Translated by: Haj#1217
+
+# =========================================================================================
+# Sidequest: Anniversary Pizza
+# =========================================================================================
+
+#Talk to Sarahs mom in anniversary day
+
+message_1:
+      text: \n<PONYTAIL LADY>Heute ist der Hochzeitstag für meinen Mann und mich, aber er hat es den ganzen Tag nicht erwähnt...\! Ich frage mich, ob er es vergessen hat...
+
+message_2:
+      text: \n<PONYTAIL LADY>Seufz...\! Vielleicht war ich in letzter Zeit zu hart zu ihm.\! Er hat in letzter Zeit etwas zugenommen, und ich habe ihn deswegen wirklich genervt.
+
+message_3:
+      text: \n<PONYTAIL LADY>Ich habe versucht, ihn auf Diät zu setzen, aber ich habe Angst, dass er es zu persönlich nimmt...\! Ich möchte nur, dass er besser auf sich aufpasst!
+
+message_4:
+      text: \n<PONYTAIL LADY>Du verstehst das, nicht wahr?
+
+# [yes / no]
+
+# [if yes]
+message_5:
+      text: \n<PONYTAIL LADY>Danke...\! Weißt du, vielleicht kann heute Abend eine Ausnahme sein!\!<br>Wir feiern immerhin 15 Jahre unserer Ehe!
+
+message_6:
+      text: \n<PONYTAIL LADY>Er schwärmt immer von \c[11]GINO'S PIZZA\c[0] und wie gut sie ist...\! Ich denke darüber nach, eine \c[3]GANZE PIZZA\c[0] zu kaufen, damit wir sie als Familie teilen können.\! Was hältst du davon?
+
+#[yes / no]
+
+#if yes a 2nd time
+
+message_7:
+      text: \n<PONYTAIL LADY>\com[2]Ja! Es ist okay, hin und wieder fettige Speisen zu essen!\!<br>Alles in Maßen!
+
+#SARAH'S MOM walks to PIZZA MAN at Ginos
+
+message_8:
+      text: \n<PONYTAIL LADY>Ich hätte gerne eine \c[3]GANZE PIZZA\c[0], bitte!
+
+message_20:
+      text: \n<PIZZA MAN>Kommt sofort!
+
+message_21:
+      text: \n<PIZZA MAN>Bitte sehr! Bitte genießen Sie diese köstliche \c[3]GANZE PIZZA\c[0]!\! Mmm...
+
+message_25:
+      text: \n<PONYTAIL LADY>Vielen Dank!
+
+message_26:
+      text: \n<PONYTAIL LADY>Und danke für deine Anregung!\! Ich bin sicher, mein Mann wird es lieben!
+
+# [if no choice is picked]
+
+message_9:
+      text: \n<PONYTAIL LADY>Oh, ich verstehe...
+
+# =========================================================================================
+#Talk to Sarah's Dad after annivery PIZZA
+# =========================================================================================
+
+message_10:
+      text: \n<CLUMSY GUY>Puh... Es sieht so aus, als ob alles irgendwie geklappt hat...
+
+message_11:
+      text: \n<CLUMSY GUY>Schnief... Meine Frau ist so fürsorglich...\!<br>Ich bin so glücklich, dass ich sie habe.
+
+message_12:
+      text: \n<CLUMSY GUY>Sie hat mir sogar meine Lieblingssache überhaupt besorgt...\!<br>Ich meine nur...\! außer ihr, natürlich...
+
+message_13:
+      text: \n<CLUMSY GUY>\Com[2]Es ist eine \c[3]WHOLE PIZZA\c[0] von \c[11]GINO'S PIZZA\c[0]!
+
+message_14:
+      text: \n<CLUMSY GUY>Weißt du was?\! Ich bin so glücklich darüber, wie dieser Tag verlaufen ist...\! nimm dir \c[3]EIN STÜCK VON EINER PIZZA\c[0]!
+
+message_15:
+      text: \n<CLUMSY GUY>Du hast mir vorhin wirklich geholfen.\!<br>Sag Bescheid, wenn du mal Hilfe brauchst. Ich schulde dir was!
