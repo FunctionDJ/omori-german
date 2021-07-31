@@ -1,7 +1,8 @@
 ### Translation: Finished
-### Editing: None
+### Editing: Finished
 
 ### Translated by: Lugitaro 🐉#0893
+### Edited by: Haj#1217
 ### Checked by: FirstTroph#9096 (panaxyn)
 
 # =========================================================================================
@@ -21,7 +22,7 @@ message_4:
     text: \tvgHast du das alles kapiert?
 
 message_5:
-    text: \tvgAlles, was du brauchst, sollte auf der \c[11]MÜLLHALDE\c[0] sein.\!<br>Danke, Kumpel! Hast was gut bei mir.
+    text: \tvgAlles, was du brauchst, sollte auf dem \c[11]SCHROTTPLATZ\c[0] sein.\!<br>Danke, Kumpel! Hast was gut bei mir.
 
 message_6:
     text: \tvgHäh?\! Was soll das heißen, es war zu schnell für dich?
@@ -70,13 +71,13 @@ message_37:
     text: \tvgSo, wenn du mich jetzt entschuldigst, ich hab wichtige Geschäfte, um die ich mich kümmern muss.
 
 message_29:
-    text: \n<KAFFEEMASCHINE>S-S-S-Sie kochen nun \c[3]KAFFEE\c[0]!\!<br>Er wird nach dieser Werbepause fertig sein!
+    text: \n<KAFFEEMASCHINE>D-D-D-Du kochst nun \c[3]KAFFEE\c[0]!\!<br>Er wird nach dieser Werbepause fertig sein!
 
 message_30:
-    text: \n<KAFFEEMASCHINE>\Com[2]\{\Sinv[1]G-G-G-GLÜCKWUNSCH!!\!\Sinv[1]\}<br>Ihr \c[3]KAFFEE\c[0] ist fertig!
+    text: \n<KAFFEEMASCHINE>\Com[2]\{\Sinv[1]G-G-G-GLÜCKWUNSCH!!\!\Sinv[1]\}<br>dein \c[3]KAFFEE\c[0] ist jetzt fertig!
 
 message_31:
-    text: \n<KAFFEEMASCHINE>M-M-M-Möchten Sie nun Ihren \c[3]KAFFEE\c[0]?
+    text: \n<KAFFEEMASCHINE>M-M-M-Möchtest du nun deinen \c[3]KAFFEE\c[0]?
 
 message_32:
     text: Eine Stimme ertönte aus der KAFFEEMASCHINE.

@@ -35,5 +35,5 @@ jobs:
           tag: ${{ steps.tag.outputs.tag }}
           artifacts: omori-german-${{ steps.tag.outputs.tag}}.zip
           artifactErrorsFailBuild: true
-          name: Omori German Translation ${{ steps.tag.outputs.tag }}
+          name: OMORI German Translation ${{ steps.tag.outputs.tag }}
           token: ${{ secrets.GITHUB_TOKEN }}

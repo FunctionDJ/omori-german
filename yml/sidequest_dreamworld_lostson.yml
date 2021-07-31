@@ -1,7 +1,8 @@
 ### Translation: Finished
-### Editing: None
+### Editing: Finished
 
 ### Translated by: Lugitaro 🐉#0893
+### Edited by: Haj#1217
 
 # =========================================================================================
 # Lost Son
@@ -10,10 +11,10 @@
 #Talk to Mr DUCKIE
 
 message_0:
-      text: \n<HERR ENTI>Entschuldigung für die Störung, aber habt ihr meinen Sohn irgendwo gesehen?\! Wir schauten weniger als eine Sekunde weg, und er ist schon wieder abgehauen!
+      text: \n<HERR ENTI>Entschuldigung für die Störung, aber habt ihr meinen Sohn irgendwo gesehen?\! Wir haben nicht weniger als eine Sekunde weg geschaut, und er ist schon wieder abgehauen!
 
 message_1:
-      text: \n<HERR ENTI>Könntet ihr für mich Ausschau nach ihm halten?\!<br>Ihr werdet schon wissen, wenn ihr ihn seht.\! Er sieht genau so aus wie ich! Haha!
+      text: \n<HERR ENTI>Könntet ihr für mich nach ihm ausschau halten?\!<br>Ihr werdet ihn schon erkennen, wenn ihr ihn seht.\! Er sieht genau so aus wie ich! Haha!
 
 #Talk to ENTI JR
 
@@ -27,10 +28,10 @@ message_4:
       text: \n<ENTI JR>Wenn ich groß bin, will ich ein WELTRAUMKAPITÄN sein!\!<br>Dann kann ich diesen Ausblick die ganze Zeit haben!
 
 message_5:
-      text: \n<ENTI JR>Oh, Mist...\! Wie lange bin ich hier schon?
+      text: \n<ENTI JR>Oh, Mist...\! Wie lange bin ich denn hier schon?
 
 message_6:
-      text: \n<ENTI JR>Mama und Papa machen sich wahrscheinlich richtig Sorgen um mich...\!<br>Ich gehe lieber schnell heim!
+      text: \n<ENTI JR>Mama und Papa machen sich wahrscheinlich richtig Sorgen um mich...\!<br>Ich gehe lieber schnell Heim!
 
 #ENTI JR walks off
 
