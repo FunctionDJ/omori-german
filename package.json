@@ -3,17 +3,19 @@
   "type": "module",
   "scripts": {
     "prepare": "husky install",
-    "build": "node scripts/build",
-    "credit": "node scripts/credit",
-    "test": "node scripts/check"
+    "build": "npm test && node scripts/build",
+    "test": "node scripts/check",
+    "toggle": "node scripts/toggle"
   },
   "devDependencies": {
-    "axios": "^0.21.1",
-    "bestzip": "^2.2.0",
+    "archiver": "^5.3.0",
     "dotenv": "^10.0.0",
     "fast-glob": "^3.2.7",
     "google-spreadsheet": "^3.1.15",
     "husky": "^7.0.0",
-    "js-yaml": "^4.1.0"
+    "imagemin": "^8.0.0",
+    "imagemin-pngquant": "^9.0.2",
+    "js-yaml": "^4.1.0",
+    "terser": "^5.7.1"
   }
 }

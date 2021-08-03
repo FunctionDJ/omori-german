@@ -1,7 +1,8 @@
 ### Translation: Finished
-### Editing: None
+### Editing: Partial
 
 ### Translated by: Schackowski#5364
+### Edited by: ✨ Jasuanti 🌸#7924
 
 # =========================================================================================
 # ** TEMPLATE DIALOGUE
@@ -14,7 +15,7 @@ message_1:
     text: WERTE
 
 message_2:
-    text: GEFÜHLE
+    text: EMOTIONEN
 
 message_3:
     text: FOLGEANGRIFFE
@@ -23,7 +24,7 @@ message_100:
     text: FÄHIGKEITEN
 
 message_101:
-    text: AUSRÜSTUNGSGEGENSTÄNDE
+    text: AUSRÜSTUNG
 
 message_102:
     text: SPIELZEUGE
@@ -38,10 +39,10 @@ message_4:
     text: Über welche WERTE möchtest du mehr erfahren?
 
 message_5:
-    text: LEBENSLEISTE
+    text: HERZEN
 
 message_6:
-    text: Die LEBENSLEISTE zeigt dir an, wie viel Schaden du erleiden kannst, bevor du GEGRILLT wirst.\! Freunde die GEGRILLT sind, können nicht weiter kämpfen!
+    text: Die HERZEN zeigt dir an, wie viel Schaden du erleiden kannst, bevor du GETOASTET wirst.\! Freunde die GETOASTET sind, können nicht weiter kämpfen!
 
 message_7:
     text: SAFT
@@ -80,7 +81,7 @@ message_18:
     text: Die GENAUIGKEIT beeinflusst die Chance einen Gegner zu treffen.\! Je geringer deine GENAUIGKEIT ist, desto wahrscheinicher ist es, dass Attacken daneben gehen.
 
 message_19:
-    text: ENERGIELEISTE
+    text: ENERGIE
 
 message_20:
     text: ENERGIE ist ein gemeinsamer Wert, welcher von allen Freuden geteilt wird und wird benötigt, um FOLGEANGRIFFE auszuführen.\! Um mehr über ENERGIE zu erfahren, sieh im FOLGEANGRIFFE-Kapitel nach.
@@ -96,7 +97,7 @@ message_21:
     text: ÜBERBLICK
 
 message_22:
-    text: EMOTIONEN können bestimmen, wie effektiv ein Angriff ist.\! FREUDE schlägt WUT...\! WUT schlägt TRAUER...\! und TRAUER schlägt FREUDE!<br><br>EMOTIONEN wirken sich auch auf die WERTE von Freunden und Feinden aus.\! Bitte beachte das EMOTIONENDIAGRAMM in deiner WICHTIGEN TASCHE für eine einfache Visualisierung.
+    text: EMOTIONEN können bestimmen, wie effektiv ein Angriff ist.\! FREUDE schlägt WUT...\! WUT schlägt TRAUER...\! und TRAUER schlägt FREUDE!<br>EMOTIONEN wirken sich auch auf die WERTE von Freunden und Feinden aus.\! Bitte beachte das EMOTIONENDIAGRAMM in deiner WICHTIGEN TASCHE für eine einfache Visualisierung.
 
 message_300:
     text: Außerdem können die EMOTIONEN besiegter Gegner Bonuseffekte gewähren.\! FRÖHLICHE Gegner haben eine höhere Quote Items und MUSCHELN fallen zu lassen, während WÜTENDE Gegner mehr EXP geben werden.<br>Traurigerweise, geben TRAURIGE Gegner keine Extraboni, sind aber einfacher zu besiegen.
@@ -117,13 +118,13 @@ message_27:
     text: TRAUER
 
 message_28:
-    text: Ein TRAURIGER Freund/Feind hat eine erhöhte VERTEIDIGUNG, aber eine verringerte GESCHWINDIGKEIT.\! Ein Teil des Schadens, der dem LEBEN zugefügt werden würde, wird stattdessen SAFT zugefügt.
+    text: Ein TRAURIGER Freund/Feind hat eine erhöhte VERTEIDIGUNG, aber eine verringerte GESCHWINDIGKEIT.\! Ein Teil des Schadens, der HERZEN zugefügt werden würde, wird stattdessen SAFT zugefügt.
 
 message_29:
     text: Wenn ein Freund/Gegner sogar noch TRAURIGER wird, dann wird er DEPRESSIV.
 
 message_30:
-    text: Ein DEPRESSIVER Freund/Feind hat eine noch höhere VERTEIDIGUNG und eine noch niedrigere GESCHWINDIGKEIT.\! Ein Teil des Schadens, der dem LEBEN zugefügt werden würde, wird stattdessen SAFT zugefügt.
+    text: Ein DEPRESSIVER Freund/Feind hat eine noch höhere VERTEIDIGUNG und eine noch niedrigere GESCHWINDIGKEIT.\! Ein Teil des Schadens, der HERZEN zugefügt werden würde, wird stattdessen SAFT zugefügt.
 
 message_31:
     text: WUT
@@ -148,10 +149,10 @@ message_35:
     text: ÜBERBLICK
 
 message_36:
-    text: Ein NACHFOLGEANGRIFF ist ein zusätzlicher Angriff, welcher ein Freund nach dem eigentlichen Anfriff ausführen kann.
+    text: Ein NACHFOLGEANGRIFF ist ein zusätzlicher Angriff, welcher ein Freund nach dem eigentlichen Angriff ausführen kann.
 
 message_37:
-    text: Um ein NACHFOLGEANGRIFF auszuführen, greife an und drücke dann die Taste, die dem NACHFOLGEANGRIFF entspricht, den du verwenden möchtest.
+    text: Um einen NACHFOLGEANGRIFF auszuführen, greife an und drücke dann die Taste, die dem NACHFOLGEANGRIFF entspricht, den du verwenden möchtest.
 
 message_38:
     text: ENERGIE
@@ -171,7 +172,7 @@ message_42:
     text: OMORI
 
 message_43:
-    text: Über welche von OMORI's NACHFOLGEANGRIFFEN möchtest du mehr erfahren?
+    text: Über welchen von OMORIs NACHFOLGEANGRIFFEN möchtest du mehr erfahren?
 
 message_44:
     text: ERNEUT ANGREIFEN
@@ -209,7 +210,7 @@ message_250:
     text: AUBREY
 
 message_50:
-    text: Über welche von AUBREY's NACHFOLGEANGRIFFEN möchtest du mehr erfahren?
+    text: Über welchen von AUBREYs NACHFOLGEANGRIFFEN möchtest du mehr erfahren?
 
 message_51:
     text: OMORI ANSCHAUEN
@@ -253,7 +254,7 @@ message_57:
     text: KEL
 
 message_202:
-    text: Über welche von KEL's NACHFOLGEANGRIFFEN möchtest du mehr erfahren?
+    text: Über welchen von KELs NACHFOLGEANGRIFFEN möchtest du mehr erfahren?
 
 message_58:
     text: ZU OMORI PASSEN
@@ -271,13 +272,13 @@ message_60:
     text: ZU AUBREY PASSEN
 
 message_61:
-    text: KEL wirft den Ball zu AUBREY, die ihn aus dem Park wirft und einem zufälligen Gegner Schaden zufügt!
+    text: KEL wirft den Ball zu AUBREY, die ihn weghämmert, und einem zufälligen Gegner Schaden zufügt!
 
 message_161:
-    text: KEL wirft den Ball zu AUBREY, die ihn aus dem Park wirft und einem zufälligen Gegner großen Schaden zufügt!
+    text: KEL wirft den Ball zu AUBREY, die ihn weghämmert, und einem zufälligen Gegner großen Schaden zufügt!
 
 message_261:
-    text: KEL wirft den Ball zu AUBREY, die ihn aus dem Park wirft und einem zufälligen Gegner sehr großen Schaden zufügt!
+    text: KEL wirft den Ball zu AUBREY, die ihn weghämmert, und einem zufälligen Gegner sehr großen Schaden zufügt!
 
 message_62:
     text: ZU HERO PASSEN
@@ -297,43 +298,43 @@ message_64:
     text: HERO
 
 message_203:
-    text: Über welche von HERO's NACHFOLGEANGRIFFEN möchtest du mehr erfahren?
+    text: Über welchen von HEROs NACHFOLGEANGRIFFEN möchtest du mehr erfahren?
 
 message_65:
-    text: NACH OMORI RUFEN
+    text: OMORI RUFEN
 
 message_66:
-    text: HERO ruft OMORI.\! OMORI greift an, dann heilt HERO OMORI mit 15% von OMORIs LEBEN durch ermutigenden Worte.
+    text: HERO ruft OMORI.\! OMORI greift an, dann heilt HERO OMORI mit 15% von OMORIs HERZEN durch ermutigende Worte.
 
 message_166:
-    text: HERO ruft OMORI.\! OMORI greift an, dann heilt HERO OMORI mit 25 % von OMORIs LEBEN und 10 % von OMORIs SAFT durch ermutigende Worte.
+    text: HERO ruft OMORI.\! OMORI greift an, dann heilt HERO OMORI mit 25 % von OMORIs HERZEN und 10 % von OMORIs SAFT durch ermutigende Worte.
 
 message_266:
-    text: HERO ruft OMORI.\! OMORI greift an, dann heilt HERO OMORI mit 40% von OMORIs LEBEN und 20% von OMORIs SAFT durch ermutigende Worte.
+    text: HERO ruft OMORI.\! OMORI greift an, dann heilt HERO OMORI mit 40% von OMORIs HERZEN und 20% von OMORIs SAFT durch ermutigende Worte.
 
 message_67:
-    text: NACH AUBREY RUFEN
+    text: AUBREY RUFEN
 
 message_68:
-    text: HERO ruft AUBREY.\! AUBREY greift an, dann heilt HERO AUBREY mit 15% von AUBREYSs LEBEN durch ermutigenden Worte.
+    text: HERO ruft AUBREY.\! AUBREY greift an, dann heilt HERO AUBREY mit 15% von AUBREYs HERZEN durch ermutigende Worte.
 
 message_168:
-    text: HERO ruft AUBREY.\! AUBREY greift an, dann heilt HERO AUBREY mit 25 % von AUBREYSs LEBEN und 10 % von AUBREYSs SAFT durch ermutigende Worte.
+    text: HERO ruft AUBREY.\! AUBREY greift an, dann heilt HERO AUBREY mit 25 % von AUBREYs HERZEN und 10 % von AUBREYs SAFT durch ermutigende Worte.
 
 message_268:
-    text: HERO ruft AUBREY.\! AUBREY greift an, dann heilt HERO AUBREY mit 40% von AUBREYSs LEBEN und 20% von AUBREYSs SAFT durch ermutigende Worte.
+    text: HERO ruft AUBREY.\! AUBREY greift an, dann heilt HERO AUBREY mit 40% von AUBREYs HERZEN und 20% von AUBREYs SAFT durch ermutigende Worte.
 
 message_69:
-    text: NACH KEL RUFEN
+    text: KEL RUFEN
 
 message_70:
-    text: HERO ruft KEL.\! KEL greift an, dann heilt HERO KEL mit 15% von KELSs LEBEN durch ermutigenden Worte.
+    text: HERO ruft KEL.\! KEL greift an, dann heilt HERO KEL mit 15% von KELs HERZEN durch ermutigendeHERZEN Worte.
 
 message_170:
-    text: HERO ruft KEL.\! KEL greift an, dann heilt HERO KEL mit 25 % von KELs LEBEN und 10 % von KELs SAFT durch ermutigende Worte.
+    text: HERO ruft KEL.\! KEL greift an, dann heilt HERO KEL mit 25 % von KELs HERZEN und 10 % von KELs SAFT durch ermutigende Worte.
 
 message_270:
-    text: HERO ruft KEL.\! KEL greift an, dann heilt HERO KEL mit 40% von KELs LEBEN und 20% von KELs SAFT durch ermutigende Worte.
+    text: HERO ruft KEL.\! KEL greift an, dann heilt HERO KEL mit 40% von KELs HERZEN und 20% von KELs SAFT durch ermutigende Worte.
 
 #-----
 #SKILLS
@@ -354,13 +355,13 @@ message_74:
     text: Jeder Freund kann bis zu 4 \c[1]FÄHIGKEITEN\c[0] auf einmal ausgerüstet haben.
 
 message_75:
-    text: Du kannst auswählen, welche \c[1]FÄHIGKEITEN\c[0] jeder Freund haben soll über das SPIELMENÜ.
+    text: Du kannst über das SPIELMENÜ auswählen, welche \c[1]FÄHIGKEITEN\c[0] jeder Freund haben soll.
 
 #---
 #EQUIPS
 
 message_205:
-    text: Über welche AUSRÜSTUNGSGEGENSTÄNDE möchzest du mehr erfahren?
+    text: Über welche AUSRÜSTUNG möchtest du mehr erfahren?
 
 message_76:
     text: WAFFEN
@@ -378,13 +379,13 @@ message_79:
 #TOYS
 
 message_80:
-    text: SPIELZEUGE werden benutzt, um Freunde zu unterstützen oder Gegnern Schaden zu zufügen.\! Sie könne nicht außerhalb des Kampfes benutzt werden.
+    text: SPIELZEUGE werden benutzt, um Freunde zu unterstützen oder Gegnern Schaden zu zufügen.\! Sie können nicht außerhalb des Kampfes benutzt werden.
 
 #----
 #LEVELING UP
 
 message_81:
-    text: OMORI und nicht GEGRILLTE Freunde bekommen EXP nach jedem Kampf and non-TOAST.\! Wenn eine bestimmte Menge an EXP gesammelt wurde, wird der Freund AUFLEVELN. Once a certain amount of EXP is reached, that friend will LEVEL UP.
+    text: OMORI und nicht GETOASTETE Freunde bekommen EXP nach jedem Kampf.\! Wenn eine bestimmte Menge an EXP gesammelt wurde, wird der Freund AUFLEVELN.
 
 message_82:
     text: Wenn ein Freund auflevelt, dann erhöhen sich seine Werte und er wird gelegentlich eine neue \c[1]FÄHIGKEIT\c[0] erlernen!

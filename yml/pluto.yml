@@ -142,7 +142,7 @@ message_22:
     text: \whoIch verstehe! Wundervolle Namen für solch wunderbare junge Leute!
 
 message_23:
-    text: \pluMein Name ist PLUTO, und ich bin ein vagabundierender Planet...\!<br>Ein Einzelgänger, sozusagen.\! Ich entschuldige mich<br>für die Unannehmlichkeiten.
+    text: \pluMein Name ist PLUTO, und ich bin ein vagabundierender Planet...\!Ein Einzelgänger, sozusagen.\! Ich entschuldige mich<br>für die Unannehmlichkeiten.
 
 message_24:
     text: \pluAber...\! Ich denke, meine Bestimmung ist es nicht, lediglich als Dekoration zu dienen.
@@ -196,7 +196,7 @@ message_33:
 #message 18
 
 message_34:
-    text: \pluDiese Erkenntnis hat mein inneres Feuer wieder erglühen lassen!\!<br>Und da ihr mir so selbstlos geholfen habt, muss ich mich revanchieren!
+    text: \pluDiese Erkenntnis hat mein inneres Feuer wieder erglühen lassen!\!Und da ihr mir so selbstlos geholfen habt, muss ich mich revanchieren!
 
 message_35:
     text: \plu...\! Ähem!\! Ich bin nun PLUTO von "PLUTOS WELTRAUMLINIE".\!<br>Bitte tut so, als wärt ihr soeben an einer Transportstation angekommen.

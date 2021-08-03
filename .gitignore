@@ -1,6 +1,7 @@
 /node_modules/
 /omori-german.zip
 /yml-auto-translation/
+/notes.txt
 
 .env
 /spreadsheet-credentials.json

@@ -12,4 +12,4 @@ const entries = await fg("**", {
   cwd: decryptDir
 })
 
-await writeJson("www-index", entries)
+await writeJson("json/www-index.json", entries)

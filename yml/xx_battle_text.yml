@@ -1,4 +1,4 @@
-### Translation: Demo-only
+### Translation: Finished
 ### Editing: None
 
 ### Translated by: Meta#5256
@@ -27,7 +27,7 @@ message_1002:
 
 message_1:
    text: >
-    SPACE EX-BOYFRIEND can't be more HAPPY!
+    SPACE EX-BOYFRIEND kann nicht FRÖHLICHER werden!
 # COMMENT
 
 message_2:
@@ -55,45 +55,45 @@ message_5:
 
 message_10:
    text: >
-    \>KITE KID: \<Lass mich dir die wahre Kraft von mir und meinem Drachen zeigen!
+    \>DRACHENKIND: \<Lass mich dir die wahre Kraft von mir und meinem Drachen zeigen!
 
 # Before Kid's Kite "Repair"
 
 message_11:
    text: >
-    \>KITE KID: \<Du denkst wirklich, du kannst uns besiegen?
+    \>DRACHENKIND: \<Du denkst wirklich, du kannst uns besiegen?
 
 message_12:
    text: >
-    \>KITE KID: \<Überdenk das nochmal!
+    \>DRACHENKIND: \<Überdenk das nochmal!
 
 # GETTING WEAKER (25%)
 
 message_13:
    text: >
-    \>KITE KID: \<Nein... Das kann nicht sein...
+    \>DRACHENKIND: \<Nein... Das kann nicht sein...
 
 message_14:
    text: >
-    \>KITE KID: \<Der Wind...\!<br>Er wird schwächer!
+    \>DRACHENKIND: \<Der Wind...\!<br>Er wird schwächer!
 
 
 # AFTER DEFEAT
 
 message_15:
    text: >
-    \>KITE KID: \<Aber ich und mein Drachen haben eine unzertrennliche Freundschaft...
+    \>DRACHENKIND: \<Aber ich und mein Drachen haben eine unzertrennliche Freundschaft...
 
 message_16:
    text: >
-    \>KITE KID: \<Wie konnten wir nur verlieren?
+    \>DRACHENKIND: \<Wie konnten wir nur verlieren?
 
 
 # AFTER VICTORY
 
 message_17:
    text: >
-    \>KITE KID: \<Haha! Wie der Wind es vorhergesehen hat!\! Ich und mein Drachen sind unschlagbar.
+    \>DRACHENKIND: \<Haha! Wie der Wind es vorhergesehen hat!\! Ich und mein Drachen sind unschlagbar.
 
 
 # ============Enemy:  PLUTO
@@ -180,19 +180,19 @@ message_32:
 
 message_33:
    text: >
-    \>KING CRAWLER: \<<br>\quake[1]\}Kishkishkishkishkish...
+    \>KÖNIG KRABBLER: \<<br>\quake[1]\}Kishkishkishkishkish...
 
 # Getting Weaker:
 
 message_34:
    text: >
-    \>KING CRAWLER: \<<br>\quake[1]\}Ssssssssssssssssssss...
+    \>KÖNIG KRABBLER: \<<br>\quake[1]\}Ssssssssssssssssssss...
 
 # After Victory:
 
 message_35:
    text: >
-    \>KING CRAWLER: \<<br>\quake[1]\}KISHKISHKISHKISHKISH!!
+    \>KÖNIG KRABBLER: \<<br>\quake[1]\}KISHKISHKISHKISHKISH!!
 
 # ============Enemy:  Bandito Mole
 
@@ -449,25 +449,25 @@ message_112:
 
 message_84:
    text: >
-    \>REVERSE MERMAID: \<Struggles your from comes strength.
+    \>UMKEHR-MEHRJUNGFRAU: \<Kämpfe deinen aus Stärke.
 
 # Getting Weaker:
 
 message_85:
    text: >
-    \>REVERSE MERMAID: \<Up giving in lies weakness greatest our.
+    \>UMKEHR-MEHRJUNGFRAU: \<Aufgeben im liegt Schwäche größte unsere.
 
 # After Defeat:
 
 message_86:
    text: >
-    \>REVERSE MERMAID: \<It of part a but, life of opposite the not is death.
+    \>UMKEHR-MEHRJUNGFRAU: \<Davon Teil ein sondern, Leben vom Gegenteil das nicht ist Tod der.
 
 # After Victory:
 
 message_87:
    text: >
-    \>REVERSE MERMAID: \<Lose to how learn you unless win can't you.
+    \>UMKEHR-MEHRJUNGFRAU: \<Verliert man wie, lernst nicht du wenn, gewinnen nicht kannst du.
 
 # ============Enemy:  Mr. Jawsome
 
@@ -496,7 +496,7 @@ message_91:
 
 message_92:
    text: >
-    \>MR. JAWSUM: \<Der GATOR GUY der sie umlegt bekommt kostenlose Pizza...\!<br>\quake[1]Die Geht auf mich!
+    \>MR. JAWSUM: \<Der KROKO KERL der sie umlegt bekommt kostenlose Pizza...\!<br>\quake[1]Die Geht auf mich!
 
 # Getting Weaker:
 
@@ -752,7 +752,7 @@ message_138:
 
 message_139:
    text: >
-    \>PERFECTHEART: \<Ah.\! You have bested me.
+    \>PERFECTHEART: \<Ah.\! Du hast mich übertroffen.
 
 message_140:
    text: >
@@ -774,13 +774,13 @@ message_142:
 
 message_143:
    text: >
-    \>HUSH PUPPY: \<<br>\}\quake[1]Shh...\! Seid leise, WIRKLICH leise...
+    \>STILLES HÜNDCHEN: \<<br>\}\quake[1]Shh...\! Seid leise, WIRKLICH leise...
 
 # After Defeat
 
 message_144:
    text: >
-    \>HUSH PUPPY: \<<br>\}\quake[1]Shhhhhhhhhhhh...
+    \>STILLES HÜNDCHEN: \<<br>\}\quake[1]Shhhhhhhhhhhh...
 
 # ============Enemy:  NEFARIOUS Chip
 
@@ -794,17 +794,17 @@ message_145:
 
 message_146:
    text: >
-    \>NEFARIOUS CHIP: \<Mamma-mia...
+    \>SCHÄNDLICHER CHIP: \<Mamma-mia...
 
 message_147:
    text: >
-    \>NEFARIOUS CHIP: \<...\! Ziemlich...\!<br>Ziemlich heiß hier, nicht?
+    \>SCHÄNDLICHER CHIP: \<...\! Ziemlich...\!<br>Ziemlich heiß hier, nicht?
 
 # After Defeat:
 
 message_148:
    text: >
-    \>NEFARIOUS CHIP: \<Molto triste...
+    \>SCHÄNDLICHER CHIP: \<Molto triste...
 
 # After Victory:
 
@@ -1028,7 +1028,7 @@ message_189:
 
 message_190:
    text: >
-    \>THE MAVERICK: \<It's only... \!Huff...\! Es ist nur eine Frage der Zeit bis ihr vor erschöpfung umkippt!
+    \>THE MAVERICK: \<Es ist nur... \!Huff...\! Es ist nur eine Frage der Zeit bis ihr vor erschöpfung umkippt!
 
 message_191:
    text: >
@@ -1320,47 +1320,47 @@ message_255:
 
 message_256:
    text: >
-    \>THE RECYCLEPATH: \<<br>Brüder! Wir müssen uns verbünden!<br>Die Heilige Tonne ruft uns!
+    \>RECYCLEPATH: \<<br>Brüder! Wir müssen uns verbünden!<br>Die Heilige Tonne ruft uns!
 
 # Before ‘Throw Trash':
 
 message_257:
    text: >
-    \>THE RECYCLEPATH: \<<br>Fort mit dir, nicht-recyclender Feind!
+    \>RECYCLEPATH: \<<br>Fort mit dir, nicht-recyclender Feind!
 
 message_258:
    text: >
-    \>THE RECYCLEPATH: \<<br>Mag die Kraft des Gummi-Handschuh dich bezwingen !
+    \>RECYCLEPATH: \<<br>Mag die Kraft des Gummi-Handschuh dich bezwingen !
 
 # Getting Weaker:
 
 message_259:
    text: >
-    \>THE RECYCLEPATH: \<<br>Oh, Heilige Tonne im Himmel...
+    \>RECYCLEPATH: \<<br>Oh, Heilige Tonne im Himmel...
 
 message_260:
    text: >
-    \>THE RECYCLEPATH: \<<br>Bitte stell mir die macht zur verfühgung die Feinde zu Recyclen!
+    \>RECYCLEPATH: \<<br>Bitte stell mir die macht zur verfühgung die Feinde zu Recyclen!
 
 # After Defeat:
 
 message_261:
    text: >
-    \>THE RECYCLEPATH: \<<br>Oh warum, Heilige Tonne?
+    \>RECYCLEPATH: \<<br>Oh warum, Heilige Tonne?
 
 message_262:
    text: >
-    \>THE RECYCLEPATH: \<<br>Hast du uns vergessen!?
+    \>RECYCLEPATH: \<<br>Hast du uns vergessen!?
 
 # After Victory:
 
 message_263:
    text: >
-    \>THE RECYCLEPATH: \<<br>Huzzah! Uns wurde der Sieg geschenkt!
+    \>RECYCLEPATH: \<<br>Huzzah! Uns wurde der Sieg geschenkt!
 
 message_264:
    text: >
-    \>THE RECYCLEPATH: \<<br>Hail der Heiligen Tonne im Himmel!
+    \>RECYCLEPATH: \<<br>Hail der Heiligen Tonne im Himmel!
 
 # ============Enemy:  Extras
 
@@ -1392,12 +1392,12 @@ message_269:
 # Snow Angel Pierce Heart Skill
 message_270:
    text: >
-    \>SNOW ANGEL: \<\quake[1]Acta deos numquam mortalia fallunt...
+    \>SCHNEE ENGEL: \<\quake[1]Acta deos numquam mortalia fallunt...
 
 # Hush Puppy Muffled Scream
 message_271:
    text: >
-    \>HUSH PUPPY: \<\quake[1]\}Mhpm...\! Mmphhhhh...\!<br>Phrmmm...\! \quake[1]MMMMMMMPPPHHHH!!\quake[0]
+    \>STILLES HÜNDCHEN: \<\quake[1]\}Mhpm...\! Mmphhhhh...\!<br>Phrmmm...\! \quake[1]MMMMMMMPPPHHHH!!\quake[0]
 
 # ============Enemy:  Humphrey
 # Humphrey Swarm Intro
@@ -1539,11 +1539,11 @@ message_295:
 # ANGRY MOLE
 message_296:
    text: >
-    \>HERO: \<Ah! Sieht so aus als währe dieser SPROUT MOLE SAUER! \!Genau wie wir, fühlt der SPROUT MOLES also auch EMOTIONEN.
+    \>HERO: \<Ah! Sieht so aus als währe dieser SPROSSWURF SAUER! \!Genau wie wir, fühlt der SPROSSWURF also auch EMOTIONEN.
 
 message_297:
    text: >
-    \>HERO: \<Weil dieser SPROUT MOLE SAUER ist, ist seine ATTACK höher.
+    \>HERO: \<Weil dieser SPROSSWURF SAUER ist, ist seine ATTACK höher.
 
 message_298:
    text: >
@@ -1557,7 +1557,7 @@ message_299:
 # HAPPY MOLE
 message_300:
    text: >
-    \>HERO: \<Oh! \!Achso... \!Dieser SPROUT MOLE ist FROH!
+    \>HERO: \<Oh! \!Achso... \!Dieser SPROSSWURF ist FROH!
 
 message_301:
    text: >
@@ -1570,15 +1570,15 @@ message_302:
 # SAD MOLE
 message_303:
    text: >
-    \>HERO: \<Hmm... \!Dieser SPROUT MOLE sieht ein bisschen TRAURIG aus... \!Seht ihr wie er sich in Embryonalstellung zusammen gerollt hat?
+    \>HERO: \<Hmm... \!Dieser SPROSSWURF sieht ein bisschen TRAURIG aus... \!Seht ihr wie er sich in Embryonalstellung zusammen gerollt hat?
 
 message_304:
    text: >
-    \>HERO: \<Das heißt das er nicht so viel schaden macht wie normalerweise...<br><br>Aber dafür nimmt er auch weniger Schaden und verliert stattdessen JUICE.
+    \>HERO: \<Das heißt das er nicht so viel schaden macht wie normalerweise...<br><br>Aber dafür nimmt er auch weniger Schaden und verliert stattdessen SAFT.
 
 message_305:
    text: >
-    \>KEL: \<WIe traurig...\!<br>Lasst uns ihm von seinem Elend befreien!
+    \>KEL: \<Wie traurig...\!<br>Lasst uns ihm von seinem Elend befreien!
 
 # YE OLD SPROUT MOLE
 message_306:
@@ -1591,11 +1591,11 @@ message_307:
 
 message_308:
    text: >
-    \>HERO: \<Das ist unsere gemeinsame ENERGY!
+    \>HERO: \<Das ist unsere gemeinsame ENERGIE!
 
 message_309:
    text: >
-    \>HERO: \<Wenn wir unsere ENERGY benutzen können wir ihn schlagen!\! Greif einfach an und sie zu was passiert!
+    \>HERO: \<Wenn wir unsere ENERGIE benutzen können wir ihn schlagen!\! Greif einfach an und sie zu was passiert!
 
 message_310:
    text: >
@@ -1603,7 +1603,7 @@ message_310:
 
 message_311:
    text: >
-    \>HERO: \<Nachdem du angegriffen hast, kannst du für eine kurze Zeit deine ENERGY für einen Folge-Angriff verwenden.
+    \>HERO: \<Nachdem du angegriffen hast, kannst du für eine kurze Zeit deine ENERGIE für einen Folge-Angriff verwenden.
 
 message_312:
    text: >
@@ -1615,19 +1615,19 @@ message_313:
 
 message_314:
    text: >
-    \>HERO: \<Als er uns angegriffen hat, hast du gemerkt wie unsere ENERGY hochgegangen ist?
+    \>HERO: \<Als er uns angegriffen hat, hast du gemerkt wie unsere ENERGIE hochgegangen ist?
 
 message_315:
    text: >
-    \>HERO: \<Wenn wir Schaden nehmen bekommen wir auch ENERGY!\! Denk einfach an ein Mittel um nocheinmal ein Comeback zu machen!
+    \>HERO: \<Wenn wir Schaden nehmen bekommen wir auch ENERGIE!\! Denk einfach an ein Mittel um nocheinmal ein Comeback zu machen!
 
 message_316:
    text: >
-    \>HERO: \<Super... Wir sind voll mit ENERGY!\! Das ist der richtige Zeitpunkt unsere Spezial Angriffe einzusetzen!
+    \>HERO: \<Super... Wir sind voll mit ENERGIE!\! Das ist der richtige Zeitpunkt unsere Spezial Angriffe einzusetzen!
 
 message_317:
    text: >
-    \>HERO: \<OMORI...\! Nachdem du angegriffen hast drücke \DII[down] um RELEASE ENERGY!
+    \>HERO: \<OMORI...\! Nachdem du angegriffen hast drücke \DII[down] um ENERGIE FREIZUSETZEN!
 
 message_318:
    text: >
@@ -1660,17 +1660,17 @@ message_341:
 
 
 message_344:
-   text: LIFE JAM GUY wartet darauf das ihr den LIFE JAM benutzt.
+   text: LEBENS MARMELADE TYP wartet darauf das ihr den LEBENS MARMELADE benutzt.
 
 message_345:
-   text: LIFE JAM GUY wartet darauf das ihr den LIFE JAM benutzt.
+   text: LEBENS MARMELADE TYP wartet darauf das ihr den LEBENS MARMELADE benutzt.
 
 message_346:
-   text: LIFE JAM GUY wartet darauf das ihr den LIFE JAM benutzt.
+   text: LEBENS MARMELDA TYP wartet darauf das ihr den LEBENS MARMELADE benutzt.
 
 message_347:
    text: >
-    \>LIFE JAM GUY: \<Benutzt den \c[3]LIFE JAM\c[0]!\!<br>Er funktioniert wirklich!
+    \>LIFE JAM GUY: \<Benutzt die \c[3]LEBENS MARMELDE\c[0]!\!<br>Er funktioniert wirklich!
 
 
 # =========================================================================================
@@ -1743,79 +1743,79 @@ message_364:
 
 message_400:
    text: >
-    \>GATOR GUY: \<Wer hat gesagt du dürftest deinen Posten verlassen?\! Zurück zur Arbeit!
+    \>KROKO KERL: \<Wer hat gesagt du dürftest deinen Posten verlassen?\! Zurück zur Arbeit!
 
 message_401:
    text: >
-    \>GATOR GUY: \<Du schon wieder?\! Wir müssen dir wohl noch eine Lektion beibringen!
+    \>KROKO KERL: \<Du schon wieder?\! Wir müssen dir wohl noch eine Lektion beibringen!
 
 message_402:
    text: >
-    \>GATOR GUY: \<Weiter kommst du nicht!\! MR. JAWSUM wird nicht erfreut sein dich wieder zusehen.
+    \>KROKO KERL: \<Weiter kommst du nicht!\! MR. JAWSUM wird nicht erfreut sein dich wieder zusehen.
 
 message_403:
    text: >
-    \>GATOR GUY: \<Gut Freundchen... Diesesmal kommst du nicht an mir vorbei!
+    \>KROKO KERL: \<Gut Freundchen... Diesesmal kommst du nicht an mir vorbei!
 
 message_404:
    text: >
-    \>GATOR GUY: \<Du kleiner Unruhestifter...\! Was hast du jetzt vor?
+    \>KROKO KERL: \<Du kleiner Unruhestifter...\! Was hast du jetzt vor?
 
 message_405:
    text: >
-    \>GATOR GUY: \<You know the drill, boys.\! Eighty-six 'em.
+    \>KROKO KERL: \<Ihr wisst wie's läuft, Jungens.\! Zeit fürn Achntsechziger.
 
 message_406:
    text: >
-    \>GATOR GUY: \<Was machst du denn hier!? Du verstößt gegen den Vertrag!
+    \>KROKO KERL: \<Was machst du denn hier!? Du verstößt gegen den Vertrag!
 
 message_407:
    text: >
-    \>GATOR GUY: \<Es gibt jetzt zwei von euch!? Wartet bis der Boss Wind davon bekommt!
+    \>KROKO KERL: \<Es gibt jetzt zwei von euch!? Wartet bis der Boss Wind davon bekommt!
 
 message_408:
    text: >
-    \>GATOR GUY: \<Es gibt jetzt drei von euch!? Wartet bis der Boss Wind davon bekommt!
+    \>KROKO KERL: \<Es gibt jetzt drei von euch!? Wartet bis der Boss Wind davon bekommt!
 
 message_409:
    text: >
-    \>GATOR GUY: \<Hast deinen Posten wieder aufgegeben? Jetzt hast du Ärger am Hals, keh heh...
+    \>KROKO KERL: \<Hast deinen Posten wieder aufgegeben? Jetzt hast du Ärger am Hals, keh heh...
 
 message_410:
    text: >
-    \>GATOR GUY: \<Bist du's nicht langsam leid rausgeworfen zu werden, Kleiner!?
+    \>KROKO KERL: \<Bist du's nicht langsam leid rausgeworfen zu werden, Kleiner!?
 
 message_411:
    text: >
-    \>GATOR GUY: \<Hey, kid! Reich mal'n paar  \v[1001] CLAMS rüber und wir machens dir diesesmal was leichter.
+    \>KROKO KERL: \<Hey, kid! Reich mal'n paar  \v[1001] CLAMS rüber und wir machens dir diesesmal was leichter.
 
 message_412:
    text: >
-    \>GATOR GUY: \<War ne schöne Sache mit dir zu Handeln!
+    \>KROKO KERL: \<War ne schöne Sache mit dir zu Handeln!
 
 message_413:
    text: >
-    \>GATOR GUY: \<Tsk, tsk... Sorry, Kumpel.<br>Du hast leider nicht genug!
+    \>KROKO KERL: \<Tsk, tsk... Sorry, Kumpel.<br>Du hast leider nicht genug!
 
 message_414:
    text: >
-    \>GATOR GUY: \<Tsk, tsk... Wie schade!
+    \>KROKO KERL: \<Tsk, tsk... Wie schade!
 
 # ============PLUTO EXPANDED
 # =====After Using Flex
 message_415:
    text: >
-    \>PLUTO: \<Beeindruckender Fortschritt, junger KEL!\! Dein \c[1]FLEX\c[0] hat sich ziemlich verbessert!
+    \>PLUTO: \<Beeindruckender Fortschritt, junger KEL!\! Dein \c[1]FLEXEN\c[0] hat sich ziemlich verbessert!
 
 # ============SPROUT MOLE EATER
 # =====Summoning and eating sprout moles
 message_416:
    text: >
-    Ein SPROUT MOLE taucht auf!
+    Ein SPROSSWURF taucht auf!
 
 message_417:
    text: >
-    KING CRAWLER isst einen SPROUT MOLE!
+    KÖNIG KRABBLER isst einen SPROSSWURF!
 
 # ============JUNKYARD EXTRA
 
@@ -1829,7 +1829,7 @@ message_419:
 
 message_420:
    text: >
-    KEL findet eine \c[5]CAN\c[0]!
+    KEL findet eine \c[5]DOSE\c[0]!
 
 message_421:
    text: >
@@ -1837,15 +1837,15 @@ message_421:
 
 message_422:
    text: >
-    KEL findet ein \c[5]RUBBER BAND\c[0]!
+    KEL findet ein \c[5]GUMMIBAND\c[0]!
 
 message_423:
    text: >
-    KEL Findet ein Stück \c[3]CHOCOLATE\c[0]!
+    KEL Findet ein Stück \c[3]SCHOKOLADE\c[0]!
 
 message_424:
    text: >
-    KEL findet eine Dose \c[3]CHERRY SODA\c[0]!
+    KEL findet eine Dose \c[3]KIRSCH SODA\c[0]!
 
 message_425:
    text: >
@@ -1853,11 +1853,11 @@ message_425:
 
 message_426:
    text: >
-    KEL gewinnt \v[1002] CLAMS!
+    KEL gewinnt \v[1002] MUSCHELN!
 
 message_427:
    text: >
-    KEL verliert \v[1002] CLAMS...
+    KEL verliert \v[1002] MUSCHELN...
 
 # =========================================================================================
 # Battle Quotes: DW
@@ -1914,7 +1914,7 @@ message_455:
 # ============MUSSEL KEL FLEX
 message_456:
    text: >
-    Die MUSCHEL sieht KEL's \c[1]FLEX\c[0] und fühlt sich ihm unterlegen...
+    Die MUSCHEL sieht KEL's \c[1]FLEXEN\c[0] und fühlt sich ihm unterlegen...
 
 # ============HUMPHREY POISON
 message_457:
@@ -1957,7 +1957,7 @@ message_465:
 # ============Kite Kid Repair
 message_469:
    text: >
-    KITE KID repariert seinen DRACHEN.
+    DRACHENKIND repariert seinen DRACHEN.
 
 # ============Kite Kid Wind
 message_470:
@@ -2075,7 +2075,7 @@ message_543:
 
 message_544:
    text: >
-    \}That girl is a threat to this neighborhood.\| There's no hope for sinners like her!
+    \}Das Balg schadet der Nachbarschaft.\| Für solche Sünder gibts kein Erbarmen!
 
 message_545:
    text: >
@@ -2189,102 +2189,102 @@ message_613:
 
 message_614:
    text: >
-    Everyone who is SAD became weaker.
+    Jeder der TRAURIG ist wurde noch trauriger.
 
 # ============Kite Kid Epilouge
 message_620:
    text: >
-    \>KITE KID: \<Wir sind eins mit dem Wind!
+    \>DRACHENKIND: \<Wir sind eins mit dem Wind!
 
 message_621:
    text: >
-    \>KITE KID: \<Solange der Wind weht sind wir unschlagbar!
+    \>DRACHENKIND: \<Solange der Wind weht sind wir unschlagbar!
 
 # ============Space Ex-Husband
 # An image appears
 message_630:
    text: >
-    \>SPACE EX-HUSBAND: \<Alas! I see a memory before me!
+    \>SPACE EX-HUSBAND: \<Alas! Ich seh eine Erinnerrung vor meinen Augen!
 
 # Happy Memories
 message_631:
    text: >
-    \>SPACE EX-HUSBAND: \<It's me... and my SWEETHEART...\! kissing on her glorious stage!
+    \>SPACE EX-HUSBAND: \<Ich... und meine SWEETHEART...\! Wir küssen auf ihrer grandiosen Bühne!
 
 message_632:
    text: >
-    \>SPACE EX-HUSBAND: \<It's me... and my SWEETHEART...\! staring at the night sky together!
+    \>SPACE EX-HUSBAND: \<Ich... und meine SWEETHEART...\! Wie wir zusammen in den Nachthimmel starren!
 
 message_633:
    text: >
-    \>SPACE EX-HUSBAND: \<It's me... and my SWEETHEART...\! gazing into each other's eyes!
+    \>SPACE EX-HUSBAND: \<Ich... und meine SWEETHEART...\! Wie wir uns gegenseitig in die Augen gucken!
 
 # Sad Memories
 message_634:
    text: >
-    \>SPACE EX-HUSBAND: \<It's me... alone...\! throwing away my \c[4]SPECIAL MIXTAPE\c[0]...
+    \>SPACE EX-HUSBAND: \<Ich... alleine...\! Wie ich mein \c[4]SPEZIAL MIXTAPE\c[0] wegwerfe...
 
 message_635:
    text: >
-    \>SPACE EX-HUSBAND: \<It's me... alone...\! weeping in my king-sized bed...
+    \>SPACE EX-HUSBAND: \<Ich... alleine...\! Weinend in meinem königsgroßen Bett...
 
 message_636:
    text: >
-    \>SPACE EX-HUSBAND: \<It's me... alone...\! holding a picture of my dear SWEETHEART...
+    \>SPACE EX-HUSBAND: \<Ich... alleine...\! Wie ich ein Bild meiner liebsten SWEETHEART halte...
 # Angry Memories
 message_637:
    text: >
-    \>SPACE EX-HUSBAND: \<It's my SWEETHEART... but she's...\! swinging her mace at me!
+    \>SPACE EX-HUSBAND: \<Es ist meine SWEETHEART... aber sie...\! Schwingt ihre Keule nach mir!
 
 message_638:
    text: >
-    \>SPACE EX-HUSBAND: \<It's my SWEETHEART... but she's...\! in the arms of another man!
+    \>SPACE EX-HUSBAND: \<Es ist SWEETHEART... aber sie...\! ist in den Armen eines anderen Mannes!
 
 message_639:
    text: >
-    \>SPACE EX-HUSBAND: \<It's my SWEETHEART... but she's...\! throwing my things across the room!
+    \>SPACE EX-HUSBAND: \<SWEETHEART... sie...\! Schmeißt meine Sachen in ihrem Zimmer rum!
 
 # Beggining of Fight: Mechanic indication
 message_640:
    text: >
-    \>SPACE EX-HUSBAND: \<All I have left are my memories...
+    \>SPACE EX-HUSBAND: \<Alles was mir noch übrig bleibt sind meine Erinnerrungen...
 
 message_641:
    text: >
-    \>SPACE EX-HUSBAND: \<But even they cannot make me feel anymore.
+    \>SPACE EX-HUSBAND: \<Aber selbst die muntern mich jetzt nicht mehr auf.
 
 # Correct answer: Happy
 message_642:
    text: >
-    \>SPACE EX-HUSBAND: \<Ah...\! I still do think fondly of those times...
+    \>SPACE EX-HUSBAND: \<Ah...\! Ich denke immernoch liebevoll an diese Zeiten zurück...
 
 # Correct answer: Sad
 message_643:
    text: >
-    \>SPACE EX-HUSBAND: \<Oh...\! I can't believe she's really gone...
+    \>SPACE EX-HUSBAND: \<Oh...\! Ich kann nicht glauben das sie wirklich weg ist...
 
 # Correct answer: Angry
 message_644:
    text: >
-    \>SPACE EX-HUSBAND: \<GAH!\! HOW DARE SHE TREAT ME THAT WAY!
+    \>SPACE EX-HUSBAND: \<GAH!\! WAS WAGT SIE SICH MICH SO ZU BEHANDELN!
 
 #message_645:
 #   text: >
-#    \>SPACE EX-HUSBAND: \<I GAVE HER MY HEART AND SHE THREW IT AWAY SO EASILY!
+#    \>SPACE EX-HUSBAND: \<ICH HAB IHR MEIN HERZ GESCHENKT UND SIE HAT ES EINFACH SO WEGGEWORFEN!
 
 # Wrong answer
 message_646:
    text: >
-    \>SPACE EX-HUSBAND: \<Sigh...\! No one truly understands the depths of my pain.
+    \>SPACE EX-HUSBAND: \<Sigh...\! Niemand wird jemals das Ausmaß meiner Schmerzen verstehen.
 
 message_647:
    text: >
-    \>SPACE EX-HUSBAND: \<If I do not feel...\! then the pain can no longer reach me.
+    \>SPACE EX-HUSBAND: \<Wenn ich nichts fühlen könnte...\! Dann könnte mich der Schmerz nicht mehr ereichen.
 
 # Changing back to neutral
 message_648:
    text: >
-    \>SPACE EX-HUSBAND: \<Nay! I must guard my HEART.\! I must become one... with the ice...
+    \>SPACE EX-HUSBAND: \<Nay! Ich muss mein HERZ beschützen.\! Ich muss eins... mit dem Eis werden...
 
 # ============Mutant Heart
 # Start
@@ -2294,15 +2294,15 @@ message_660:
 # Happy
 message_661:
    text: >
-    \>MUTANTHEART: \<\}\sinv[1]HAPPY...\. Bitte!
+    \>MUTANTHEART: \<\}\sinv[1]FROH...\. Bitte!
 # Sad
 message_662:
    text: >
-    \>MUTANT HEART: \<\}\sinv[1]SAD...\. Bitte...
+    \>MUTANT HEART: \<\}\sinv[1]TRAURIG...\. Bitte...
 # Angry
 message_663:
    text: >
-    \>MUTANT HEART: \<\}\sinv[1]ANGRY...\. Bitte.
+    \>MUTANT HEART: \<\}\sinv[1]WUT...\. Bitte.
 
 # Wrong
 message_664:
@@ -2323,13 +2323,13 @@ message_750:
 
 message_751:
    text: >
-    You tried to FOCUS...\|<br>Aber die Übelkeit überwältigt dich.
+    Du versuchst dich zu FOKUSSIEREN...\|<br>Aber die Übelkeit überwältigt dich.
 
 # ============PERSIST (Something)
 
 message_752:
    text: >
-    You tried to PERSIST...\|<br>Aber du konntest nicht ruhig bleiben.
+    Du versuchst zu BEHARREN...\|<br>Aber du konntest nicht ruhig bleiben.
 
 
 # =========================================================================================
@@ -2489,62 +2489,62 @@ message_925:
 
 message_926:
     text: >
-      SPACE EX-BOYFRIEND became ANGRY!
+      SPACE EX-BOYFRIEND ist WÜTEND!
 
 message_927:
     text: >
-      SPACE EX-BOYFRIEND became ENRAGED!
+      SPACE EX-BOYFRIEND ist EMPÖRT!
 
 message_928:
     text: >
-      SPACE EX-BOYFRIEND became FURIOUS!
+      SPACE EX-BOYFRIEND ist ZORNIG!
 
 message_929:
     text: >
-      SWEETHEART became HAPPY!
+      SWEETHEART ist FROH!
 
 message_930:
     text: >
-      SWEETHEART became ECSTATIC!
+      SWEETHEART ist BEGEISTERT!
 
 message_931:
     text: >
-      SWEETHEART became MANIC!
+      SWEETHEART ist MANISCH!
 
 message_932:
     text: >
-      UNBREAD TWINS became SAD...
+      UNBREAD TWINS sind TRAURIG...
 
 message_933:
     text: >
-      UNBREAD TWINS became DEPRESSED...
+      UNBREAD TWINS sind DEPRIMIERT...
 
 message_934:
     text: >
-      UNBREAD TWINS became MISERABLE...
+      UNBREAD TWINS sind VERZWEIFELT...
 
 message_935:
     text: >
-      LIFE JAM GUY spilled some \c[3]LIFE JAM\c[0]!
+      LEBENS MARMELADE TYP verschüttet etwas \c[3]LEBENS MARMELADE\c[0]!
 
 message_936:
     text: >
-      \>LIFE JAM GUY: \<Genießt die Kostproben!\! Auf wiedersehen, haha!
+      \>LEBENS MARMELADE TYP: \<Genießt die Kostproben!\! Auf wiedersehen, haha!
 
 message_937:
     text: >
 
 message_938:
     text: >
-      SPACE EX-BOYFRIEND can no longer become HAPPY or SAD!
+      SPACE EX-BOYFRIEND kann nicht mehr FROH oder TRAURIG werden!
 
 message_939:
     text: >
-      SWEETHEART can no longer become SAD or ANGRY!
+      SWEETHEART kann nicht mehr TRAURIG oder WÜTEND werden!
 
 message_940:
     text: >
-      UNBREAD TWINS can no longer become HAPPY or ANGRY!
+      UNBREAD TWINS können nicht mehr FRÖHLICH oder WÜTEND werden!
 
 #=======
 #DOROTHI ON TRAIN
@@ -2578,15 +2578,15 @@ message_950:
 
 message_951:
     text: >
-     \>SNALEY: \<Wow fighting is hard.\!<br>Let me try again!
+     \>SNALEY: \<Wow Kämpfen ist wirklich Hart.\!<br>Lasst's mich nochmal versuchen!
 
 message_952:
     text: >
-     \>SNALEY: \<I don't know if I'm cut out for this...
+     \>SNALEY: \<Ich weiß nicht ob ich dafür gemacht bin...
 
 message_953:
     text: >
-     \>SNALEY: Okay das reicht.\!<br>Thank you for the lesson.
+     \>SNALEY: Okay das reicht.\!<br>Danke für die kleine Lektion.
 
 #----------------------------
 # ** IN BATTLE: SNALEY 2
@@ -2602,7 +2602,7 @@ message_955:
 
 message_956:
     text: >
-     \>SNALEY: I also learned how to do FOLLOW-UP SKILLS!\! Here let me show you!
+     \>SNALEY: Ich weiß jetzt auch wie man FOLLOW-UP TRICKS macht!\! Hier ich zeigs euch!
 
 message_957:
     text: >
@@ -2618,7 +2618,7 @@ message_958:
 
 message_959:
     text: >
-     \>SNALEY: You guys aren't the only ones who can use EMOTIONS!
+     \>SNALEY: Ihr typchens seid nicht die einzigen die mit EMOTIONEN arbeiten!
 
 message_960:
     text: >
@@ -2626,8 +2626,8 @@ message_960:
 
 message_961:
    text: >
-    SNALEY is SAD...
+    SNALEY ist TRAURIG...
 
 message_962:
    text: >
-    SNALEY is HAPPY!
+    SNALEY ist FROH!

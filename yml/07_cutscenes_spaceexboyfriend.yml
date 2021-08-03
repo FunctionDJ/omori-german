@@ -10,7 +10,7 @@
 #Trigger: Entering SBF's House with SWEETHEART MIXTAPE.
 
 message_0:
-      text: Na, da werd's! Ihr Kinder habt es wirklich geschafft!\! Es ist ein wenig dreckig, aber es ist wirklich unser verlorenes \c[4]SPEZIAL-MIXTAPE\c[0]!\!<br>Danke vielmals, Junge.\spg
+      text: Na sieh' mal an! Ihr Kinder habt es wirklich geschafft!\! Es ist ein wenig dreckig, aber es ist wirklich unser verlorenes \c[4]SPEZIAL-MIXTAPE\c[0]!\!<br>Danke vielmals, Junge.\spg
 
 message_1:
       text: Hiermit wird SPACE BOYFRIEND endlich wieder aufwachen!\spg
@@ -67,22 +67,22 @@ message_10:
 message_11:
       faceset: MainCharacters_DreamWorld
       faceindex: 19
-      text: Oh, Ich weiß! I'll blast this \c[4]SPEZIAL-MIXTAPE\c[0] on his boombox.\!<br>He's gotta wake up to that!\kel
+      text: Oh, Ich weiß! Ich werde das \c[4]SPEZIAL-MIXTAPE\c[0] auf seinem Ghettoblaster dröhnen.\!<br>Davon muss er wieder aufwachen!\kel
 
 #HERO jumps.
 
 message_12:
       faceset: MainCharacters_DreamWorld
       faceindex: 40
-      text: In that case, we should probably get rid of that \c[4]SPEZIAL-MIXTAPE\c[0] after all.\! Listening to the songs might be way too emotional for him.\her
+      text: In dem Fall sollten wir wohl doch das \c[4]SPEZIAL-MIXTAPE\c[0] entsorgen.\!  Musik hören könnte viel zu emotional für ihn sein.\her
 
 message_13:
       faceset: MainCharacters_DreamWorld
       faceindex: 36
-      text: Give it here, OMORI. I'll keep it safe.\her
+      text: Gib her, OMORI. Ich pass' drauf auf.\her
 
 message_14:
-      text: HERO reached into your POCKET.
+      text: HERO griff in deine TASCHE.
 
 #HERO is confused.
 
@@ -150,7 +150,7 @@ message_28:
       text: Viel besser!\! Nun, wo war ich...?\! Ach ja!\sbf
 
 message_29:
-      text: \Com[2]Ihr dummen Kinder!\!<br>Ich muss euch schon danken, dafür dass ihr mich aus diesem erbärmlichen Zustand rausgeholt habt.\!<br> sick Ich wurde satt vom so tun, also ob ich krank im Bett liegen würde.\sbf
+      text: \Com[2]Ihr dummen Kinder!\!<br>Ich muss euch schon danken, dafür dass ihr mich aus diesem erbärmlichen Zustand rausgeholt habt.\!<br>Mir hat's gereicht, so zu tun, also ob ich krank im Bett liegen würde.\sbf
 
 message_30:
       text: Wie ich es immer sage...\! <br>\{\quake[1]GEFÜHLE SIND FÜR WEICHEIER!!\sbf\}

@@ -17,7 +17,7 @@
 message_0:
     faceset: MainCharacter_Mari
     faceindex: 3
-    text: \marHi, OMORI! Wie ich sehe, hast du wieder ein starres Gesicht.\!<br> Du solltest mehr lächeln! Ich habe dein Lächeln immer gemocht.
+    text: \marHi, OMORI! Wie ich sehe, hast du wieder ein starres Gesicht.\!<br>Du solltest mehr lächeln! Ich habe dein Lächeln immer gemocht.
 
 #If AUBREY is leader:
 message_1:
@@ -541,7 +541,7 @@ message_180:
 message_181:
       faceset: MainCharacter_Mari
       faceindex: 0
-      text: \marWow! BERLY hat dir ein \c[4]ARSCH-ZERTIFIKAT\c[0]?\ gegeben. Ich wette, sie war die ganze Nacht auf, um sich das auszudenken.\.\^
+      text: \marWow! BERLY hat dir ein \c[4]NUSS-ZERTIFIKAT\c[0] gegeben?\. Ich wette, sie war die ganze Nacht auf, um sich das auszudenken.\.\^
 
 # =========================================================================================
 
@@ -820,7 +820,7 @@ message_271:
 message_272:
         faceset: MainCharacter_Mari
         faceindex: 4
-        text: \marWo könnte BASIL sein?\. Könnte er irgendwo in \c[11]VAST FOREST\c[0] sein?\. BASIL würde nicht einfach so alleine losziehen... \. Vielleicht ist ihm etwas zugestoßen...\.\^
+        text: \marWo könnte BASIL sein?\. Könnte er irgendwo im \c[11]RIESENWALD\c[0] sein?\. BASIL würde nicht einfach so alleine losziehen... \. Vielleicht ist ihm etwas zugestoßen...\.\^
 
 #Path to Basil (II)
 message_273:

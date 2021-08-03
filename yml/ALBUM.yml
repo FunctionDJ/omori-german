@@ -273,7 +273,7 @@ dreamworld_message2:
 dreamworld_message3:
     background: 0
     position: 2
-    text: \"HERO arbeitet noch an seinem Blumenkranz.<br>\!Er braucht zwar ein bisschen, aber er kapiert es.\!<br>.Seine Hartnäkigkeit ist bewundernswert.\"
+    text: \"HERO arbeitet noch an seinem Blumenkranz.<br>\!Er braucht zwar ein bisschen, aber er kapiert es.\!<br>.Seine Hartnäckigkeit ist bewundernswert.\"
 
 dreamworld_message4:
     background: 0

@@ -38,10 +38,10 @@ message_204:
       text: \n<SNO-CONE JASH>I am JASH of many talents and master of many trades.
 
 message_205:
-      text: \n<SCHNE-BECHER-JASH>Bitte warten Sie, meine Damen und Herren.\! Bevor Sie gehen...<br>möchte ich mich bei Ihnen für Ihre Kundschaft bei JASH bedanken.
+      text: \n<SCHNÖ-WAFFEL-JASH>Bitte warten Sie, meine Damen und Herren.\! Bevor Sie gehen...<br>möchte ich mich bei Ihnen für Ihre Kundschaft bei JASH bedanken.
 
 message_206:
-      text: \n<SCHNE-BECHER-JASH>Bitte nehmen Sie dieses \c[13]RABATTSCHILD\c[0].\! Sie werden hier zwar keine Rabatte erhalten, aber ich bin mir sicher, dass es Ihnen irgendwie behilflich sein wird.
+      text: \n<SCHNÖ-WAFFEL-JASH>Bitte nehmen Sie dieses \c[13]RABATTSCHILD\c[0].\! Sie werden hier zwar keine Rabatte erhalten, aber ich bin mir sicher, dass es Ihnen irgendwie behilflich sein wird.
 
 message_213:
       text: \n<TOFU JASH>You do not have enough CLAMS.
@@ -355,11 +355,11 @@ message_94:
 
 #Intro  start at 110
 message_110:
-      text: \n<SCHNE-BECHER-JASH>Ich bin JASH vieler Talente und Meister vieler Handwerke.<br>\!Wie kann ich Ihnen heute behilflich sein?
+      text: \n<SCHNÖ-WAFFEL-JASH>Ich bin JASH vieler Talente und Meister vieler Handwerke.<br>\!Wie kann ich Ihnen heute behilflich sein?
 
 #Purchase
 message_111:
-      text: \n<SCHNE-BECHER-JASH>Danke für Ihre Kundschaft.
+      text: \n<SCHNÖ-WAFFEL-JASH>Danke für Ihre Kundschaft.
 
 #Decline
 message_112:
@@ -367,13 +367,13 @@ message_112:
 
 #Not enough money
 message_113:
-      text: \n<SCHNE-BECHER-JASH>Sie scheinen nicht genügend MUSCHELN bei sich zu haben...
+      text: \n<SCHNÖ-WAFFEL-JASH>Sie scheinen nicht genügend MUSCHELN bei sich zu haben...
 #item buying prompt
 message_114:
-      text: \n<SCHNE-BECHER-JASH>Toll! Das macht dann <SHOPTOTAL>\G.
+      text: \n<SCHNÖ-WAFFEL-JASH>Toll! Das macht dann <SHOPTOTAL>\G.
 #max item message
 message_115:
-      text: \n<SCHNE-BECHER-JASH>Sie haben dafür nicht genug Platz...
+      text: \n<SCHNÖ-WAFFEL-JASH>Sie haben dafür nicht genug Platz...
 #on item list buy ok
 message_116:
       text: Wie viele hätten Sie gerne?\^
@@ -385,7 +385,7 @@ message_118:
       text: \n<SNO-CONE JASH>Superb.\! Your order will come out to this much!
 #item buying cancel
 message_119:
-      text: \n<SCHNE-BECHER-JASH>Ich respektiere Ihre Entscheidung.
+      text: \n<SCHNÖ-WAFFEL-JASH>Ich respektiere Ihre Entscheidung.
 
 # =========================================================================================
 # TOFU JASH

@@ -1,4 +1,4 @@
-### Translation: Demo-only
+### Translation: Demo-only?
 ### Editing: None
 
 # Translation by: Lugitaro 🐉#0893
@@ -50,7 +50,7 @@ message_10:
       text: Drücke \DII[pageup], um das GALGENMANN-MENÜ zu öffnen.
     #  \c[4]  \c[0]
 message_11:
-      text: Drücke \DII[pagedown], um die KOPFRAUM-KARTE zu öffnen.
+      text: Drücke \DII[pagedown], um die GEDANKENRAUM-KARTE zu öffnen.
 
 message_12:
       text: Nichts als Rauschen.
@@ -464,7 +464,7 @@ message_112:
 message_113:
       faceset: MainCharacters_DreamWorld
       faceindex: 37
-      text: \herWenn du willst, können wir es langsam angehen lassen!<br>\!Solange wir letztendlich ankommen.
+      text: \herWenn du willst, können wir es langsam angehen!<br>\!Solange wir letztendlich ankommen.
 
 message_114:
       faceset: MainCharacters_DreamWorld
@@ -622,7 +622,7 @@ message_161:
 message_162:
       faceset: MainCharacters_DreamWorld
       faceindex: 3
-      text: \aubSchau mal, MARI! Ich hab einen \c[4]SCHNE-BECHER-GUTSCHEIN\c[0] bekommen!
+      text: \aubSchau mal, MARI! Ich hab einen \c[4]SCHNÖ-WAFFEL-GUTSCHEIN\c[0] bekommen!
 
 message_163:
       faceset: MainCharacter_Mari

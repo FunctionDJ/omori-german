@@ -36,7 +36,7 @@ message_2:
 message_3:
       faceset: MainCharacters_DreamWorld
       faceindex: 30
-      text: Ach Menno... \Com[2]Was soll das denn, AUBREY!?\!<br>Du hast alles durcheinander gebracht!\!<br>Ich war sogar am Gewinnen!\kel
+      text: Ach Menno... \Com[2]Was sollte das denn, AUBREY!?\!<br>Du hast alles durcheinander gebracht!\!<br>Ich war sogar am Gewinnen!\kel
 
 message_4:
       faceset: MainCharacters_DreamWorld
@@ -48,7 +48,7 @@ message_4:
 message_5:
       faceset: MainCharacters_DreamWorld
       faceindex: 30
-      text: Komm mir jetzt nicht damit, HERO!<br>\!Das sagst du nur, weil du am Verlieren warst.\kel
+      text: Komm' mir jetzt nicht damit, HERO!<br>\!Das sagst du nur, weil du am Verlieren warst.\kel
 
 message_6:
       faceset: MainCharacters_DreamWorld
@@ -102,7 +102,7 @@ message_16:
 message_126:
     faceset: MainCharacters_DreamWorld
     faceindex: 16
-    text: \kel\}Und nur als Geheimnis zwischen dir und mir...\!<br>Du kannst ihn jederzeit sehen, indem du mein AUSRÜSTEN im SPIELERMENÜ checkst!
+    text: \kel\}Und nur mal zwischen uns...\!<br>Du kannst ihn jederzeit sehen, indem du mein AUSRÜSTEN im SPIELERMENÜ checkst!
 
 message_17:
     faceset: MainCharacters_DreamWorld
@@ -168,7 +168,7 @@ message_32:
 message_33:
       faceset: MainCharacters_DreamWorld
       faceindex: 24
-      text: Aber AUBREY hat angefangen...\!<br>Sie macht sich lustig über mein Muttermal<br>auf meinem...\kel
+      text: Aber AUBREY hat angefangen...\!<br>Sie macht sich immer lustig über das Muttermal <br>auf meinem...\kel
 
 message_34:
       faceset: MainCharacters_DreamWorld
@@ -191,7 +191,7 @@ message_36:
 message_37:
       faceset: MainCharacters_DreamWorld
       faceindex: 9
-      text: Nagut...\aub
+      text: Na gut...\aub
 
 # =========================================================================================
 # Aubrey's Dialogue after Omori gives her PlantEgg
@@ -269,7 +269,7 @@ message_58:
   #AUBREY is off screen
 
 message_59:
-      text: \Com[2]Hey, wartet ne Sekunde!\aub
+      text: \Com[2]Hey, wartet 'ne Sekunde!\aub
 
   #AUBREY pops out of the stump half-way
 
@@ -432,12 +432,12 @@ message_107:
 message_108:
       faceset: MainCharacters_DreamWorld
       faceindex: 19
-      text: Also...\! müssenw wir einfach so tun, als ob du nicht da wärst?\kel
+      text: Also...\! müssen wir einfach so tun, als ob du nicht da wärst?\kel
 
 message_109:
       faceset: MainCharacter_Basil
       faceindex: 0
-      text: Haha...\! Ja, so könnte man es sagen denke ich.\bas
+      text: Haha...\! Ja, so könnte man es sagen, denke ich.\bas
 
 message_110:
       faceset: MainCharacters_DreamWorld
@@ -482,7 +482,7 @@ message_116:
 message_117:
       faceset: MainCharacter_Basil
       faceindex: 0
-      text: Danke...\! Ich habe aber nicht alle gemacht.\!<br>MARI klaut manchmal gerne meine Kamera.\bas
+      text: Danke...\! Ich habe aber nicht alle gemacht.\!<br>MARI klaut gerne mal meine Kamera.\bas
 
 message_118:
       faceset: MainCharacter_Mari

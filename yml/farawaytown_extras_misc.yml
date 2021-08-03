@@ -532,6 +532,7 @@ message_235:
 
 message_251:
       text: \"Gute Besserumg, \n[8]!\"\!<br>\"Wir warten schon auf eine Revanche!\"
+            # Im Original ist auch ein Typo bei "Besserumg"!
 
 message_253:
       text: Ein sehr, sehr gemütliches Bett...\!<br>Aber jetzt ist nicht die Zeit, zu schlafen.

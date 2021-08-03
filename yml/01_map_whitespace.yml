@@ -85,7 +85,7 @@ message_16:
 message_17:
     text: "Eine Glühbirne hängt von der Decke, wo auch immer sie ist.\\!\\lb<br>In die Glühbirne schauen?"
 message_18:
-    text: "Es ist innen pechschwarz.\\! Du kannst gar nichts erkennen."
+    text: "Sie ist innen pechschwarz.\\! Du kannst gar nichts erkennen."
 
 # -----------------------------------------------
 # - THE KNIFE
@@ -99,7 +99,7 @@ message_20:
 # - LIGHTBULB BREAK
 # -----------------------------------------------
 message_30:
-    text: "Es ist innen pechschwarz.\\! Du kannst gar nichts erkennen."
+    text: "Sie ist innen pechschwarz.\\! Du kannst gar nichts erkennen."
 
 # -----------------------------------------------
 # - MISCELLANOUS
@@ -179,7 +179,7 @@ message_116:
 message_117:
     text: "Eine Glühbirne hängt von der Decke, wo auch immer sie ist.\\!\\lb<br>In die Glühbirne schauen?"
 message_118:
-    text: "Es ist innen pechschwarz.\\! Du kannst gar nichts erkennen."
+    text: "Sie ist innen pechschwarz.\\! Du kannst gar nichts erkennen."
 
 # -----------------------------------------------
 # - OMORI

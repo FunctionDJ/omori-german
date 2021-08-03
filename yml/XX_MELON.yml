@@ -367,7 +367,7 @@ message_607:
 #KEY
 
 message_343:
-    text: Du erhälst den \c[4]SCHROTTPLATZSCHLÜSSEL\c[0]!
+    text: Du erhältst den \c[4]SCHROTTPLATZSCHLÜSSEL\c[0]!
 
 # -----------------------------------------------
 # - JUNKYARD IV (145)
@@ -539,10 +539,10 @@ message_52:
 #ITEM
 
 message_344:
-    text: Du hast erhälst eine \c[4]STREICHHOLZSCHACHTEL\c[0].
+    text: Du hast erhältst eine \c[4]STREICHHOLZSCHACHTEL\c[0].
 
 message_625:
-    text: Du hast erhälst eine \c[4]HOLZSCHIENE\c[0].
+    text: Du hast erhältst eine \c[4]HOLZSCHIENE\c[0].
 
 #CANDLE
 
@@ -1468,10 +1468,10 @@ message_434:
     text: \n<DINO>Hey, wo geht ihr hin?\! \com[2]Wollt ihr nicht auf ein \sinv[1]Abenteuer\c[0] gehen!?
 
 message_435:
-    text: Du erhälst einen DINO DOLLAR.
+    text: Du erhältst einen DINO DOLLAR.
 
 message_436:
-    text: Du erhälst \v[1001] DINO DOLLAR.
+    text: Du erhältst \v[1001] DINO DOLLAR.
 
 #EXCAVATION DINO (108)
 
@@ -1482,7 +1482,7 @@ message_441:
     text: \n<DINO>Grab' mit deinem \c[4]LÖFFEL\c[0] und finde fantastische Schätze!
 
 message_444:
-    text: Du erhälst einen \c[4]KARTOFFELLÖFFEL\c[0].
+    text: Du erhältst einen \c[4]KARTOFFELLÖFFEL\c[0].
 
 #EXCAVATION DINO (108 -> Map Teleport: Trying to Leave)
 
@@ -1512,34 +1512,34 @@ message_416:
     text: \n<BRETT>Du hast schon einen \c[4]LÖFFEL\c[0], Mann!\! Komm zurück, wenn er kaputt geht und ich schaue, was ich für dich tun kann.
 
 message_417:
-    text: Du erhälst \c[4]PLASTIKLÖFFEL\c[0].
+    text: Du erhältst \c[4]PLASTIKLÖFFEL\c[0].
 
 message_418:
-    text: Du erhälst \c[4]HOLZLÖFFEL\c[0].
+    text: Du erhältst \c[4]HOLZLÖFFEL\c[0].
 
 message_419:
-    text: Du erhälst \c[4]SILBERLÖFFEL\c[0].
+    text: Du erhältst \c[4]SILBERLÖFFEL\c[0].
 
 message_420:
-    text: Du erhälst \c[4]GOLDLÖFFEL\c[0].
+    text: Du erhältst \c[4]GOLDLÖFFEL\c[0].
 
 message_421:
-    text: Du erhälst \c[13]SCHUTZHELM\c[0].
+    text: Du erhältst \c[13]SCHUTZHELM\c[0].
 
 message_422:
-    text: Du erhälst \c[3]DINO-BEERE\c[0].
+    text: Du erhältst \c[3]DINO-BEERE\c[0].
 
 message_423:
-    text: Du erhälst \c[3]DINO MELONEN LIMO\c[0].
+    text: Du erhältst \c[3]DINO MELONEN LIMO\c[0].
 
 message_424:
-    text: Du erhälst \c[3]DINO NUGGET\c[0].
+    text: Du erhältst \c[3]DINO NUGGET\c[0].
 
 message_425:
-    text: Du erhälst \c[3]DINO PASTA\c[0].
+    text: Du erhältst \c[3]DINO PASTA\c[0].
 
 message_426:
-    text: Du erhälst \c[5]DINO MARMELADE\c[0].
+    text: Du erhältst \c[5]DINO MARMELADE\c[0].
 
 # message_427:
 #     text: You don't have enough DINO POINTS.

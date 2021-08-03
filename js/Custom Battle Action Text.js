@@ -113,7 +113,7 @@ if (mpDam > 0) {
     break;
 
   case 'ATTACK': // ATTACK
-    text = user.name() + ' greift ' + target.name() + 'an!\r\n';
+    text = user.name() + ' greift ' + target.name() + ' an!\r\n';
     text += hpDamageText;
     break;
 
@@ -142,9 +142,9 @@ if (mpDam > 0) {
   case 'SAD POEM':  // SAD POEM
     text = user.name() + ' liest ein trauriges Gedicht vor.\r\n';
     if(!target._noEffectMessage) {
-      if(target.isStateAffected(12)) {text += target.name() + ' fühlt sich VERZWEIFELT...';}
-      else if(target.isStateAffected(11)) {text += target.name() + ' fühlt sich DEPRIMIERT..';}
-      else if(target.isStateAffected(10)) {text += target.name() + ' fühlt sich TRAURIG.';}
+      if(target.isStateAffected(12)) {text += target.name() + ' wird VERZWEIFELT...';}
+      else if(target.isStateAffected(11)) {text += target.name() + ' wird DEPRIMIERT..';}
+      else if(target.isStateAffected(10)) {text += target.name() + ' wird TRAURIG.';}
     }
     else {text += parseNoEffectEmotion(target.name(), "TRAURIGER!")}
     break;
@@ -555,7 +555,7 @@ if (mpDam > 0) {
       break;
 
     case 'PASS AUBREY':  // KEL PASS AUBREY
-      text = 'AUBREY bleibt am Ball!\r\n';
+      text = 'AUBREY hämmert den Ball weg!\r\n';
       text += hpDamageText;
       break;
 

@@ -22,16 +22,16 @@ message_0:
 #Bun
 #Location: Forest Playground
 message_1:
-      text: \bunNOSE ist meine beste Freundin.\!<br>Sie redet nicht viel, ist aber sehr schlau!
+      text: \bunNAS ist meine beste Freundin.\!<br>Sie redet nicht viel, ist aber sehr schlau!
 
 
 #Daisy
 #Location: Forest Playground
 message_2:
-      text: \daiE-entschuldigt, bitte stapft hier nicht herum...\!<br>Ich pflücke Blumen \}für jemand besonderes...
+      text: \daiE-entschuldigt, bitte stapft hier nicht herum...\!<br>Ich pflücke Blumen \}für jemand Besonderes...
 
 message_3:
-      text: \daiIch habe ein paar Blumen \}für jemand besonderes gepflückt... \!Ich hoffe, ihm gefällt es...
+      text: \daiIch habe ein paar Blumen \}für jemand Besonderes gepflückt... \!Ich hoffe, ihm gefällt es...
 
 message_4:
       text: \daiIch will jemandem ein paar Blumen geben, aber er hat nur Interesse an Puzzles...\! Wenn ich doch nur irgendwo ein \c[4]BLUMENPUZZLE\c[0] oder ähnliches finden könnte... \!Vielleicht würde er mir dann Beachtung schenken.
@@ -138,7 +138,7 @@ message_48:
 # ==============HEADBUTT=======================================
 
 message_60:
-      text: \berHey, Leute! Danke, das ihr mir meinen \c[4]VERLORENEN BALL\c[0] zurückgebracht hat.\!<br>Wie ihr seht, nutze ich ihn auch sinnvoll!
+      text: \berHey, Leute! Danke, dass ihr mir meinen \c[4]VERLORENEN BALL\c[0] zurückgebracht habt.\!<br>Wie ihr seht, nutze ich ihn auch sinnvoll!
 
 message_61:
       text: \n<VAN>Ja, da hat sie Recht.
@@ -185,7 +185,7 @@ message_72:
       text: \aubDas sieht schmerzhaft aus...\!<br>Es würde mein Haar ruinieren.\!<br>Und meine Schleife.
 
 message_73:
-      text: \berAch komm schon, \n[2]! Leb ein bisschen!\!<br>Unordentliches Haar hat noch niemandem wehgetan.\!<br>\n[4] ist ein lebender Beweis dafür.
+      text: \berAch komm schon, \n[2]! Leb' ein bisschen!\!<br>Unordentliches Haar hat noch niemandem wehgetan.\!<br>\n[4] ist ein lebender Beweis dafür.
 
 message_74:
       faceset: MainCharacters_DreamWorld
@@ -319,7 +319,7 @@ message_100:
 #BUN
 #Location: Forest Playground
 message_101:
-      text: \bunWas willst du heute machen, NOSE?
+      text: \bunWas willst du heute machen, NAS?
 
 #CHARLENE
 #Location: Forest Playground
@@ -484,7 +484,7 @@ message_137:
 #NOSE (Receptionist)
 #Location: Last Resort - Casino Area
 message_138:
-      text: \nosNose goes!
+      text: \nosImmer NAS nach!
 
 #REN (Server)
 #Location: Last Resort - Casino Area
@@ -523,7 +523,7 @@ message_143:
 #BUN
 #Location: Forest Playground
 message_144:
-      text: \bunOh, NOSE! Ich habe dich sehr vermisst! \!Du hast mich auch vermisst, stimmt's?
+      text: \bunOh, NAS! Ich habe dich sehr vermisst! \!Du hast mich auch vermisst, stimmt's?
 
 #CHARLENE
 #Location: Forest Playground
@@ -563,7 +563,7 @@ message_147:
 #VAN
 #Location: Forest Playground
 message_148:
-      text: \n<VAN>Es ist gut zu wissen, dass Berly mich nicht vergessen hat, als sie Security-Chefin war.
+      text: \n<VAN>Es ist gut zu wissen, dass BERLY mich nicht vergessen hat, als sie Security-Chefin war.
 message_149:
       text: \berAls ob ich dich jemals vergessen würde, du dicker Bär!
 #BERLY headbutts VAN.

@@ -1,7 +1,6 @@
 import { GoogleSpreadsheet } from "google-spreadsheet"
 import fs from "fs/promises"
-import { getCredits } from "./lib/get-credits.js"
-import axios from "axios"
+import { getCredits } from "../lib/get-credits.js"
 import { loadEnv } from "./lib"
 
 loadEnv()
@@ -16,16 +15,6 @@ await doc.loadInfo()
 const sheet = doc.sheetsByIndex[0]
 
 const credits = await getCredits()
-
-axios.post(
-  `https://sheets.googleapis.com/v4/spreadsheets/${process.env.SPREADSHEET_ID}`,
-  {
-    requests: [
-      
-    ]
-  }
-)
-
 
 // await sheet.clear()
 

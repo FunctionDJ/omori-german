@@ -13,12 +13,12 @@
 #BERLY is pacing back and forth in frustration.
 
 message_0:
-      text: Murmel, murmel...\! Murmel, murmel, murmel...\ber
+      text: Grummel, grummel...\! Grummel, grummel, grummel...\ber
 
 message_1:
       faceset: MainCharacters_DreamWorld
       faceindex: 40
-      text: Hey, VAN? Stimmt etwas nicht mit Berly?\!<br>Sie scheint etwas...\! verärgert.\her
+      text: Hey, VAN? Stimmt etwas nicht mit BERLY?\!<br>Sie scheint etwas...\! verärgert.\her
 
 message_2:
       text: Oh...\! Was das betrifft...\! Naja, ihr seht...\n<VAN>
@@ -134,7 +134,7 @@ message_25:
       text: Uff...\! Bringen wir es hinter uns.\aub
 
 message_26:
-      text: BERLY tritt deiner Party bei.
+      text: BERLY tritt deiner Gruppe bei.
 
 # =========================================================================================
 
@@ -194,13 +194,13 @@ message_32:
       text: Nun, das war toll...\! nicht!\!<br>Ich bin dann Tetherball spielen!\ber
 
 message_33:
-      text: Bis später, ihr Käfer! Ich bin weg!\ber
+      text: Bis später, ihr Würmer! Ich bin weg!\ber
 
 message_34:
-      text: BERLY hat deine Party verlassen.
+      text: BERLY hat deine Gruppe verlassen.
 
 message_35:
-      text: Aber im Ernst, schaut mal nach mir, befor ihr geht.\!<br>Ich habe eine Überraschung.\ber
+      text: Aber im Ernst, schaut mal nach mir, bevor ihr geht.\!<br>Ich habe eine Überraschung.\ber
 
 message_36:
       text: Hey, hier ist mein \c[4]VERLORENER BALL\c[0] nicht hin geflogen!\! Habt du etwas was anderes vor?\ber

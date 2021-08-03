@@ -1,8 +1,9 @@
 ### Translation: Demo-only
 ### Editing: Demo-only
 
-### Translated by: Lugitaro 🐉#0893
+### Translated by: Lugitaro 🐉#0893, ✨ Jasuanti 🌸#7924
 ### Checked by: FirstTroph#9096 (panaxyn), bobbarberer#7752, Haj#1217
+### Edited by: Function#5603
 
 # =========================================================================================
 # Terms
@@ -50,58 +51,58 @@ terms:
         25: "SELL"
 
     message:
-        actionFailure: "There was no effect on %1!"
-        actorDamage: "%1 took %2 damage!"
-        actorDrain: "%1 was drained of %3 %2!"
-        actorGain: "%1 gained %3 %2!"
-        actorLoss: "%1 lost %3 %2!"
-        actorNoDamage: "%1 took no damage!"
-        actorNoHit: "MISS! %1 took no damage!"
-        actorRecovery: "%1 recovered %3 %2!"
-        alwaysDash: "ALWAYS DASH"
-        bgmVolume: "BGM VOLUME"
-        bgsVolume: "BGS VOLUME"
-        buffAdd: "%1's %2 went up!"
-        buffRemove: "%1's %2 returned to normal!"
-        commandRemember: "Command Remember"
-        counterAttack: "%1 counterattacked!"
-        criticalToActor: "IT HIT RIGHT IN THE HEART!"
-        criticalToEnemy: "IT HIT RIGHT IN THE HEART!"
-        debuffAdd: "%1's %2 went down!"
-        defeat: "%1 was defeated..."
-        emerge: "%1 emerged!"
-        enemyDamage: "%1 took %2 damage!"
-        enemyDrain: "%1 was drained of %3 %2!"
-        enemyGain: "%1 gained %3 %2!"
-        enemyLoss: "%1 lost %3 %2!"
-        enemyNoDamage: "%1 took no damage!"
-        enemyNoHit: "MISS! %1 took no damage!"
-        enemyRecovery: "%1 recovered %3 %2!"
-        escapeFailure: "...but couldn't get away."
-        escapeStart: "%1 tried to escape!"
-        evasion: "%1 evaded the attack!"
-        expNext: "To Next %1"
-        expTotal: "Current %1"
-        file: "File"
-        levelUp: "%1 grew to %2 %3!"
-        loadMessage: "Load which file?"
-        magicEvasion: "%1 nullified the magic!"
-        magicReflection: "%1 reflected the magic!"
-        meVolume: "ME Volume"
-        obtainExp: "You gained %1 %2!"
-        obtainGold: "You got %1\\G!"
-        obtainItem: "You found %1!"
-        obtainSkill: "...and learned %1!"
-        partyName: "%1's party"
-        possession: "Possession"
-        preemptive: "%1 got the upper hand!"
-        saveMessage: "SAVE to which file?"
-        saveWait: "SAVING"
-        seVolume: "SE Volume"
-        substitute: "%1 protected %2!"
-        surprise: "%1 was surprised!"
-        useItem: "%1 uses %2!"
-        victory: "%1 was victorious!"
+        actionFailure: "Es zeigt keine Wirkung auf %1!"
+        actorDamage: "%1 nimmt %2 Schaden!"
+        actorDrain: "%1 wurde %3 %2 abgezapft!"
+        actorGain: "%1 erhält %3 %2!"
+        actorLoss: "%1 verliert %3 %2!"
+        actorNoDamage: "%1 nimmt keinen Schaden!"
+        actorNoHit: "DANEBEN! %1 nimmt keinen Schaden!"
+        actorRecovery: "%1 regeneriert %3 %2!"
+        alwaysDash: "IMMER RENNEN"
+        bgmVolume: "BGM-LAUTSTÄRKE"
+        bgsVolume: "BGS-LAUTSTÄRKE"
+        buffAdd: "%1s %2 steigt!"
+        buffRemove: "%1s %2 normalisiert sich!"
+        commandRemember: "Kommando erinnern"
+        counterAttack: "%1 schlägt zurück!"
+        criticalToActor: "DIREKT INS HERZ!"
+        criticalToEnemy: "DIREKT INS HERZ!"
+        debuffAdd: "%1s %2 sinkt!"
+        defeat: "%1 wurde besiegt..."
+        emerge: "%1 tritt hervor!"
+        enemyDamage: "%1 nimmt %2 Schaden!"
+        enemyDrain: "%1 wurde %3 %2 abgezapft!"
+        enemyGain: "%1 erhält %3 %2!"
+        enemyLoss: "%1 verliert %3 %2!"
+        enemyNoDamage: "%1 nimmt keinen Schaden!"
+        enemyNoHit: "DANEBEN! %1 nimmt keinen Schaden!"
+        enemyRecovery: "%1 regeneriert %3 %2!"
+        escapeFailure: "...aber schafft es nicht."
+        escapeStart: "%1 versucht, zu entkommen!"
+        evasion: "%1 weicht aus!"
+        expNext: "Zum nächsten %1"
+        expTotal: "Jetzige %1"
+        file: "Datei"
+        levelUp: "%1 erreicht %2 %3!"
+        loadMessage: "Welche Datei laden?"
+        magicEvasion: "%1 annuliert die Magie!"
+        magicReflection: "%1 reflektiert die Magie!"
+        meVolume: "ME-Lautstärke"
+        obtainExp: "Du erhältst %1 %2!"
+        obtainGold: "Du erhältst %1\\G!"
+        obtainItem: "Du findest %1!"
+        obtainSkill: "...und lernt %1!"
+        partyName: "%1s Gruppe"
+        possession: "Besitz"
+        preemptive: "%1 ist im Vorteil!"
+        saveMessage: "Wohin SPEICHERN?"
+        saveWait: "SPEICHERN"
+        seVolume: "SE-Lautstärke"
+        substitute: "%1 beschützt %2!"
+        surprise: "%1 ist überrascht!"
+        useItem: "%1 benutzt %2!"
+        victory: "%1 ist erfolgreich!"
 
     param:
         0: "Max HP"
@@ -646,7 +647,7 @@ plugins:
         ok: BESTÄTIGEN
         escape: ZURÜCK/MENÜ
         shift: RENNEN
-        tag: -TAG-
+        tag: -PASSEN-
 #        tab: STRAFE
         pageup: LB
         pagedown: RB
@@ -654,19 +655,19 @@ plugins:
     system:
       restoreConfig:
         text: EINSTELLUNGEN ZURÜCKSETZEN
-        help: Standardeinstellungen und global.rpgsave wiederherstellen
+        help: Stelle Standardeinstellungen und global.rpgsave wieder her.
       load:
         text: SPEICHERDATEI LADEN
-        help: Eine Speicherdatei laden
+        help: Lade ein Speicherdatei.
       toTitleScreen:
         text: ZURÜCK ZUM TITELBILDSCHIRM
-        help: Zum Titelbildschirm zurückkehren
+        help: Kehre zum Titelbildschirm zurück.
       toTitleScreenPrompt:
         text: Zum Titelbildschirm zurückkehren?
         commands: [JA, NEIN]
       exit:
         text: SPIEL BEENDEN
-        help: Das Spiel beenden
+        help: Beende das Spiel.
       exitPrompt:
         text: Willst du das Spiel beenden?
         commands: [JA, NEIN]

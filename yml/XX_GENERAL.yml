@@ -55,7 +55,7 @@ message_7:
 message_8:
     text: TÜR ÖFFNEN
 message_9:
-    text: NICHTS TUEN
+    text: NICHTS TUN
 
 # -----------------------------------------------
 # - NOD / SHAKE
@@ -197,19 +197,19 @@ message_69:
 # -----------------------------------------------
 
 message_100:
-    text: Was wollen %1 und seine Freunde tuen?
+    text: Was wollen %1 und seine Freunde tun?
 
 message_101:
-    text: Was will \n[8] tuen?
+    text: Was will \n[8] tun?
 
 message_102:
-    text: Was wollen %1 und %2 tuen?
+    text: Was wollen %1 und %2 tun?
 
 message_103:
-    text: Was wollen \n[8] und seine Freunde tuen?
+    text: Was wollen \n[8] und seine Freunde tun?
 
 message_104:
-    text: Was will %1 tuen?
+    text: Was will %1 tun?
 
 message_105:
     text: Auf wen anwenden?
@@ -263,7 +263,7 @@ message_400:
     text: Möchtest du mit deinen Freunden Karten spielen?
 
 message_401:
-    text: Hast du lust mit deinen Freunden Sandburgen zu bauen?
+    text: Hast du Lust, mit deinen Freunden Sandburgen zu bauen?
 
 message_402:
     text: Willst du mit deinen Freunden Drachen steigen lassen?
@@ -320,7 +320,7 @@ message_500:
     text: Du hast nun Zugriff auf das \c[4]GALGENMÄNNCHEN-MENÜ\c[0].
 
 message_501:
-    text: Du erhälst die \c[4]HEADSPACE KARTE\c[0].
+    text: Du erhältst die \c[4]HEADSPACE KARTE\c[0].
 
 #==
 

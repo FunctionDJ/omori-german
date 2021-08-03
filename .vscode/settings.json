@@ -1,0 +1,30 @@
+{
+  "cSpell.enableFiletypes": [
+    "!javascript"
+  ],
+  "cSpell.enabled": true,
+  "cSpell.languageSettings": [
+    {
+      "languageId": "*",
+      "caseSensitive": true,
+      "enabled": true,
+      "words": [
+        "AUBREY",
+        "AUFLEVELN",
+        "BASIL",
+        "BERLY",
+        "Editing",
+        "Finished",
+        "HERO",
+        "OMORI",
+        "Schackowski",
+        "Tetherball",
+        "auflevelt",
+        "faceindex",
+        "faceset"
+      ]
+    }
+  ],
+  "cSpell.language": ",de",
+  "diffEditor.wordWrap": "on"
+}

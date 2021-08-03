@@ -26,7 +26,7 @@
 message_0:
     faceset: MainCharacters_DreamWorld
     faceindex: 28
-    text: \kelMal sehen...\! Hier ist DAISY...\! und NEB...\! und HAPPY...\! BROWS...\! NOSE...\! Moment, nein... Das hier ist DAISY...
+    text: \kelMal sehen...\! Hier ist DAISY...\! und NEB...\! und HAPPY...\! BROWS...\! NAS...\! Moment, nein... Das hier ist DAISY...
 
 message_1:
     faceset: MainCharacters_DreamWorld
@@ -385,23 +385,23 @@ message_64:
 message_65:
     faceset: MainCharacter_Mari
     faceindex: 2
-    text: \marIt daran etwas verkehrt, HERO?\! Es ist so praktisch!\! An Wassereis kommt man viel leichter als an \c[3]SCHNÖ-WAFFEL\c[0]!
+    text: \marIst daran etwas verkehrt, HERO?\! Es ist so praktisch!\! An Wassereis kommt man viel leichter als an \c[3]SCHNÖ-WAFFELN\c[0]!
 
 message_66:
     faceset: MainCharacters_DreamWorld
     faceindex: 1
-    text: \aubWas ist überhaupt der Unterschied zwischen Wassereis und \c[3]SCHNÖ-WAFFEL\c[0]?
+    text: \aubWas ist überhaupt der Unterschied zwischen Wassereis und \c[3]SCHNÖ-WAFFELN\c[0]?
 
 message_67:
     faceset: MainCharacter_Mari
     faceindex: 2
-    text: \marSogesehen unterscheiden sie sich nicht sehr voneinander...\! \c[3]SCHNÖ-WAFFEL\c[0] haben einfach größere Eisstücke als Wassereis.
+    text: \marSogesehen unterscheiden sie sich nicht sehr voneinander...\! \c[3]SCHNÖ-WAFFELN\c[0] haben einfach größere Eisstücke als Wassereis.
 
 
 message_68:
     faceset: MainCharacters_DreamWorld
     faceindex: 28
-    text: \kelGrößere Eisstücke, was?\! Ist das der Grund, wieso \c[3]SCHNÖ-WAFFEL\c[0] so viel teurer sind?
+    text: \kelGrößere Eisstücke, was?\! Ist das der Grund, wieso \c[3]SCHNÖ-WAFFELN\c[0] so viel teurer sind?
 
 message_69:
     faceset: MainCharacter_Mari

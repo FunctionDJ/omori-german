@@ -1,8 +1,10 @@
 {
+  "$schema": "https://rph.space/oneloader.manifestv1.schema.json",
+  "manifestVersion": 1,
   "id": "omori-german",
   "name": "OMORI German",
   "description": "Deutsche Übersetzung für OMORI",
-  "version": "0.0",
+  "version": "dev",
   "files": {
     "text": ["yml/"],
     "plugins": ["js/"],

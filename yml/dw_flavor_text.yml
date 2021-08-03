@@ -540,16 +540,16 @@ message_234:
 #Map 131:
 
 message_235:
-      text: Ein \c[3]SCHNE-BECHER\c[0]-Automat.\!<br>Anscheinend nimmt er \c[4]SCHNE-BECHER-GUTSCHEINE\c[0] an.
+      text: Ein \c[3]SCHNÖ-WAFFEL\c[0]-Automat.\!<br>Anscheinend nimmt er \c[4]SCHNÖ-WAFFEL-GUTSCHEINE\c[0] an.
 
 message_236:
       text: \"ENTSCHULDIGUNG. WIR HABEN KEINEN SIRUP MEHR.\"
 
 message_237:
-      text: Ein \c[3]SCHNE-BECHER\c[0]-Automat.\!<br>Möchtest du einen \c[4]SCHNE-BECHER-GUTSCHEIN\c[0] verwenden?
+      text: Ein \c[3]SCHNÖ-WAFFEL\c[0]-Automat.\!<br>Möchtest du einen \c[4]SCHNÖ-WAFFEL-GUTSCHEIN\c[0] verwenden?
 
 message_238:
-      text: Der \c[3]SCHNE-BECHER\c[0]-Automat gibt einen \c[3]SCHNE-BECHER\c[0] aus.
+      text: Der \c[3]SCHNÖ-WAFFEL\c[0]-Automat gibt einen \c[3]SCHNÖ-WAFFEL\c[0] aus.
 
 
 #============================
