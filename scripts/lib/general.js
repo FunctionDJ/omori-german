@@ -68,3 +68,13 @@ export const verifyUp = async () => {
     throw new Error("mod is down, can't do stuff. to toggle status, run 'npm run toggle'")
   }
 }
+
+export const rmSafe = async pathlike => {
+  try {
+    await fs.rm(pathlike)
+  } catch (error) {
+    if (error.code !== "ENOENT") {
+      throw error
+    }
+  }
+}

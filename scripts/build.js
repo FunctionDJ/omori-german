@@ -2,8 +2,7 @@ import { loadJson } from "./lib/json.js"
 import { fillArchive, getNewModObject, getRootsFromFilesProperty } from "./lib/build.js"
 import archiver from "archiver"
 import { createWriteStream } from "fs"
-import { verifyUp } from "./lib/general.js"
-import { rm } from "fs/promises"
+import { rmSafe, verifyUp } from "./lib/general.js"
 import { program } from "commander/esm.mjs"
 
 await verifyUp()
@@ -30,7 +29,7 @@ const newModObject = await getNewModObject(
 const roots = getRootsFromFilesProperty(newModObject.files)
 const destination = `./${newModObject.id}.zip`
 
-await rm(destination) // had issues with the zip not updating unless removed beforehand
+await rmSafe(destination) // had issues with the zip not updating unless removed beforehand
 
 const archive = archiver("zip", {
   zlib: { level: 9 }
