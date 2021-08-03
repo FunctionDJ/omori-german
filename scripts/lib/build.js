@@ -91,7 +91,7 @@ const getNearestGitTag = async () => {
 }
 
 const getNumberFromTag = tag => {
-  const result = tag.match(/^v([\d\.]+)$/)
+  const result = tag.match(/^v?([\d\.]+)$/)
   
   if (!result[1]) {
     throw new Error(`Can't get number from tag: "${tag}"`)
@@ -100,7 +100,13 @@ const getNumberFromTag = tag => {
   return result[1]
 }
 
-export const getNewModObject = async modObject => ({
+/**
+ * @param {any} modObject
+ * @param {string|null} overwriteTag
+ */
+export const getNewModObject = async (modObject, overwriteTag) => ({
   ...modObject,
-  version: getNumberFromTag(await getNearestGitTag())
+  version: getNumberFromTag(
+    overwriteTag ?? await getNearestGitTag()
+  )
 })

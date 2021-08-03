@@ -4,11 +4,27 @@ import archiver from "archiver"
 import { createWriteStream } from "fs"
 import { verifyUp } from "./lib/general.js"
 import { rm } from "fs/promises"
+import { program } from "commander/esm.mjs"
 
 await verifyUp()
 
+program
+  .option(
+    "-g, --git-tag <tag>",
+    "overwrite git tag to be used (e.g. github actions). will try to run git cli otherwise."
+  )
+  .option(
+    "-n, --no-compression",
+    "dont compress files with individual compression methods before zipping (fast but bigger)"
+  )
+  .parse()
+
+const options = program.opts()
+const overwriteTag = options.gitTag ?? null
+
 const newModObject = await getNewModObject(
-  await loadJson("mod.json")
+  await loadJson("mod.json"),
+  overwriteTag
 )
 
 const roots = getRootsFromFilesProperty(newModObject.files)
@@ -28,7 +44,7 @@ output.on("close", () => {
 
 archive.pipe(output)
 
-const noCompression = process.argv.includes("--no-compression")
+const noCompression = !options.compression
 
 if (noCompression) {
   console.warn("--no-compression passed")
