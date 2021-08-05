@@ -2,7 +2,7 @@
 // ### Editing: None
 // ### Comment: this file also controls popup window sizes, we should utilize that to fit our translation lengths
 
-// ### Translated by: Function#5603
+// ### Translated by: function
 
 // //=============================================================================
 // // * Start

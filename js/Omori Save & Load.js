@@ -1,7 +1,7 @@
 // ### Translation: Partial
 // ### Editing: None
 
-// ### Translated by: Function#5603
+// ### Translated by: function
 
 //=============================================================================
 // TDS Message Save & Load

@@ -2,7 +2,7 @@
 // ### Editing: None
 // ### Comment: should be 100%, some text may be a bit iffy
 
-// ### Translated by: ✨ Jasuanti 🌸#7924
+// ### Translated by: jasu
 
 //=============================================================================
 // TDS Custom Battle Action Text

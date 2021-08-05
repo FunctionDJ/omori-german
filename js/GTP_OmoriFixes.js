@@ -1,7 +1,7 @@
 // ### Translation: Partial
 // ### Editing: None
 
-// ### Translated by: Function#5603
+// ### Translated by: function
 
 //=============================================================================
 // Gamefall Team Plugins - Bug fixes and Optimization for OMORI

@@ -1,27 +1,27 @@
 {
   "[SF]BBB.png": {
     "Status": "Progress",
-    "Credits": ["Haj#1217"]
+    "Credits": ["haj"]
   },
   "[SF]Bubble_Bills.png": {
     "Status": "Progress",
-    "Credits": ["Haj#1217"]
+    "Credits": ["haj"]
   },
   "[SF]Bubble_Collect.png": {
     "Status": "Finished",
-    "Credits": ["Haj#1217"]
+    "Credits": ["haj"]
   },
   "[SF]Bubble_I_Know.png": {
     "Status": "Finished",
-    "Credits": ["Haj#1217"]
+    "Credits": ["haj"]
   },
   "[SF]Bubble_Insurance.png": {
     "Status": "Verified",
-    "Credits": ["Haj#1217"],
-    "Verified": ["Function#5603"]
+    "Credits": ["haj"],
+    "Verified": ["function"]
   },
   "[SF]Bubble_Loser.png": {
     "Status": "Progress",
-    "Credits": ["Haj#1217"]
+    "Credits": ["haj"]
   }
 }
