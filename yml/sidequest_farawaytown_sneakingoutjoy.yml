@@ -1,0 +1,97 @@
+### Translation: Finished
+### Translated by: haj
+
+# =========================================================================================
+# Sidequest: Sneaking Out Joy
+# =========================================================================================
+
+#Talking to JOY
+
+message_1:
+      text: \n<SMALL GIRL>Oh, hallo, MR. TUTOR...
+
+#Talk to Joy / Cutscene: Joy Leaves
+
+message_2:
+      text: \n<SMALL GIRL>Ummm...\! Sorry...\! Das mag vielleicht ein bisschen egoistisch von mir erscheinen, aber...
+
+message_3:
+      text: \n<SMALL GIRL>Du siehst, mein Vater ist heute nicht zu Hause, weil er Besorgungen machen muss.\! Ich habe den ganzen Sommer über in meinem Zimmer gelernt, und ich möchte nur einen Tag im Park spielen.
+
+message_4:
+      text: \n<SMALL GIRL>Könntest du bitte mein Arbeitsblatt für heute fertig machen, damit er es nicht merkt?\! Ich verspreche, dass ich zu Hause bin, bevor es dunkel wird, also sag es ihm bitte nicht!
+
+# yes /no
+
+#if yes
+
+
+message_5:
+      text: \n<SMALL GIRL>Ahh...\! Das dachte ich mir.
+
+message_6:
+      text: \n<SMALL GIRL>W-Warte...\! Du meinst, du lässt mich gehen?\!<br>Oh, danke, Herr Lehrer! Du bist der Beste!
+
+message_8:
+      text: \n<SMALL GIRL>Juhu! Ich werde wirklich in den Park gehen!\! Ich frage mich, was ich zuerst tun soll...\! Ich weiß!\! Ich will im Sandkasten spielen!\!<br>\sinv[1]Hehe... Ich kann's kaum erwarten!
+
+message_9:
+      text: \n<SMALL GIRL>Nochmals danke, Mister!\! Ich werde jetzt gehen und Spaß haben!
+
+#JOY runs out.
+
+#if no
+
+message_10:
+      text: \n<SMALL GIRL>Ahh...\! Dachte ich mir...\! Das ist okay!\!<br>Ich sollte wahrscheinlich sowieso mehr lernen...
+
+message_1000:
+      text: \n<SMALL GIRL>Noch ein Tag zum Lernen...\!<br>Seufz... Ich frage mich, was mein Bruder jetzt gerade macht...
+
+#if yes, complete worksheet without prompts from JOY
+#if no, complete worksheet with prompts from Joy
+
+message_11:
+      text: JOYs Arbeitsblatt über Sprache.\! Fertig?
+
+message_12:
+      text: In dem Satz, “Dieses Glas Limonade ist __frischend”, <br>welches Präfix ist richtig?
+
+message_13:
+      text: A) au
+
+message_14:
+      text: B) be
+
+message_15:
+      text: C) er
+
+message_16:
+      text: Welches ist die richtige Abkürzung für das Wort "Gewicht"?
+
+message_17:
+      text: A) g.
+
+message_18:
+      text: B) mg.
+
+message_19:
+      text: C) klg.
+
+message_20:
+      text: Welches Wort bedeutet "sich auf Händen und Knien vorwärts bewegen"?
+
+message_21:
+      text: A) Schlittern
+
+message_22:
+      text: B) Krabbeln
+
+message_23:
+      text: C) Laufen
+
+message_24:
+      text: Du hast das JOY's-Arbeitsblatt zur Sprache ausgefüllt.
+
+message_25:
+      text: Du solltest zuerst das Arbeitsblatt ausfüllen, bevor du gehst.

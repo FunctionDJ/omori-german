@@ -1,0 +1,38 @@
+### Translation: Finished
+### Translated by: haj
+
+# =========================================================================================
+# Sidequest: Lost Lucas
+# =========================================================================================
+
+message_1:
+      text: \art\com[2]Bah! Mein Hund LUCAS ist schon wieder verschwunden.\! Er versucht immer, aus dem Haus zu kommen...\! Manchmal frage ich mich, ob er nur wegen dem Essen hier lebt.
+
+message_2:
+      text: \artSeufz...\! Wo ist er dieses Mal hin?
+
+#Lucas is playing with some birds
+
+message_3:
+      text: \n<GOOD DOG>\com[2]Wuff...\! \{wuff, wuff!
+
+#Cutscene: Lucas leaves
+
+#Talk to artist after cutscene:
+
+message_4:
+      text: \artSeufz...\! LUCAS...\! Mach mir nicht so viele Sorgen.
+
+message_5:
+      text: \artHey, hast du LUCAS hierher zurückgeschickt?\!<br>Es tut mir leid für den Ärger.\! Hier, nimm dies.
+
+message_6:
+      text: Du bekommst \c[13]MALPINSEL\c[0].
+
+#Talk to Lucas after Cutscene
+
+message_7:
+      text: \n<GOOD DOG>\{\comWuff\! \{Wuff!
+
+message_8:
+      text: Du bekommst \c[4]MÜLL\c[0]...

@@ -1,0 +1,83 @@
+### Translation: Finished
+### Translated by: haj
+
+# =========================================================================================
+# Sidequest: Picking Paint
+# =========================================================================================
+
+#Talk to Sean or Karen:
+
+message_1:
+      text: \n<PIGTAILS LADY>Nach all dieser Zeit sind wir endlich zusammengezogen!\!<br>Das ist so aufregend, nicht wahr, SEAN?
+
+message_2:
+      text: \n<CHECKERS GUY>Ja...\! Das ist der Anfang vom Rest unseres Lebens!
+
+message_3:
+      text: \n<CHECKERS GUY>Jetzt ist es an der Zeit, die erste wichtige Entscheidung zu treffen...\!<br>Welche Farbe sollen wir für die Wände unseres Hauses wählen?
+
+message_4:
+      text: \n<PIGTAILS LADY>Hmm...\! Ich denke, es würde alles funktionieren!\! Ich mag alle Farben!\!<br>Was denkst du, SEAN?
+
+message_5:
+      text: \n<CHECKERS GUY>Ich bin offen für alles...\! Mach dir keine Sorgen um mich!<br>Du kannst wählen, KAREN!\! Welche Farbe hättest du gerne?
+
+message_6:
+      text: \n<PIGTAILS LADY>Oh, SEAN! \! Du bist zu selbstlos! \! Ich muss mir keine Wandfarbe aussuchen!\! Ich werde mit allem glücklich sein, solange ich mit dir zusammen bin!
+
+message_7:
+      text: \n<CHECKERS GUY>...\! KAREN...\!<br>Wenn wir so weitermachen, werden wir hier für immer festsitzen...
+
+message_8:
+      text: \n<PIGTAILS LADY>Hmm...\! Du hast Recht...\!<br>Wie wäre es, wenn wir einfach unsere Augen schließen und eine Farbe auswählen?
+
+message_9:
+      text: \n<CHECKERS GUY>Oh, das funktioniert!\!<br>Auf diese Weise wird das Ergebnis völlig neutral sein!\!<br>Los geht's!
+
+message_10:
+      text: \n<PIGTAILS LADY>Okay, klingt gut!
+
+message_11:
+      text: \n<CHECKERS GUY>Schließ deine Augen, KAREN...
+
+message_12:
+      text: \n<PIGTAILS LADY>W-Warte!\! Warte!\! Es ist okay!\!<br>Du solltest derjenige sein der es macht, SEAN...\! Ich bestehe darauf!
+
+message_13:
+      text: \n<CHECKERS GUY>Nein, KAREN...\! Du solltest es auf jeden Fall sein!\!<br>Was ist, wenn ich eine Farbe nehme, die du nicht magst?
+
+message_14:
+      text: \n<CHECKERS GUY>...
+
+message_15:
+      text: \n<PIGTAILS LADY>Oh...\! Wir bekommen hier nichts zustande, oder?\! Hehe...
+
+message_16:
+      text: \n<PIGTAILS LADY>Ich habe eine Idee!\! Lasst uns einen Fremden dazu bringen, uns zu helfen!
+
+message_17:
+      text: \n<PIGTAILS LADY>Hey, du!\! Könntest du uns kurz helfen?\!<br>Bitte komm her und such dir ein Farbmuster aus...\!<br>Aber sieh zu, dass es völlig zufällig ist!
+
+message_18:
+      text: Du hast deine Augen geschlossen.
+
+message_19:
+      text: Du hast ein geblümtes Tapetenmuster aufgehoben.
+
+message_20:
+      text: \n<CHECKERS GUY>Huh?\! Was macht diese Tapete hier in der Farbenabteilung?\!<br>Hmmm...\! Sie muss verlegt worden sein...
+
+message_21:
+      text: \n<CHECKERS GUY>Nun...\! Es ist nicht wirklich das, was ich erwartet habe, aber ich mag es irgendwie...\! Was hältst du davon, KAREN?
+
+message_22:
+      text: \n<PIGTAILS LADY>Ein Wandbild scheint ganz nett zu sein!\!<br>Ich denke, das funktioniert ganz gut!\! Lass es und tun!
+
+message_23:
+      text: \n<PIGTAILS LADY>Vielen Dank für deine Hilfe!\!<br>Wir sind beide aus der Gegend, aber wir sind erst vor kurzem zusammen in ein nagelneues Haus gezogen...
+
+message_24:
+      text: \n<PIGTAILS LADY>Es ist das Haus mit dem gelben Dach an der Straße in der Nähe der \c[11]KIRCHE\c[0]!
+
+message_25:
+      text: \n<PIGTAILS LADY>Wir sind deiner Meinung nach dabei, in zwei Tagen eine Einweihungsparty zu feiern.\! Es wäre toll, wenn du dabei sein könntest!
