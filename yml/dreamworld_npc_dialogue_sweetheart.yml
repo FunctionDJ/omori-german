@@ -1,0 +1,647 @@
+### Translation: Finished
+### Translated by: ✨ Jasuanti 🌸#7924
+
+# =========================================================================================
+# Dreamworld NPC Dialogue: Sweetheart's Castle -> Foyer
+# =========================================================================================
+
+message_200:
+      text: \n<HAROLD>\com[2]\{\{\quake[1]STOPP, HÄFTLINGE!!
+
+message_201:
+      text: \n<HAROLD>Dachtet ihr etwa wirklich, ihr könnt so leicht entkommen!?
+
+message_202:
+      text: \n<HAROLD>Zurück in \c[11]DEN KERKER\C[0] mit euch vier!
+
+#message_203: Delete line
+#      text: \n<KEL>Yes, we are?
+
+message_204:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 4
+      text: \n<AUBREY>Mist... wir waren so nah dran!
+
+message_205:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 31
+      text: \n<KEL>\}Uh-oh... Was jetzt?
+
+message_206:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 46
+      text: \n<HERO>Denk nach, HERO, denk nach!\! Komm schon... Wie kommen wir hier raus?\!<br>...\! Oh, ich hab's!
+
+message_207:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 36
+      text: \n<HERO>...\! Ähem...\! Im Gegenteil, werter Ritter, ich denke, Sie verwechseln uns mit jemand anders! Hm, hm, jawohl.
+
+#KEL ? MARK THEN EXCLAMATION POINT
+#EVERYONE TURN AND PUTS ON SPROSSWURF MASKS
+
+message_208:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 18
+      text: \n<KEL>\com[2]Hem, hem. Urteilen Sie nicht so schnell!\!<br>Wir sind SPROSSWÜRFE, ohne Zweifel.
+
+message_209:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 1
+      text: \n<AUBREY>Hoo, hoo, in der Tat! Jawohl!\! Ich liebe auch \c[3]TOFU\c[0] und SWEETHEART!\! Mmm... Lecker SWEETHEA- ich meine, \c[3]TOFU\c[0].
+
+message_210:
+      text: \n<HAROLD>Oh Gott! Meine Augen müssen mich getrügt haben. Ich entschuldige mich, Brüder.<br>\!Es ist schwer, durch diesen Helm zu sehen.
+
+message_211:
+      text: \n<HAROLD>Sehr wohl, geht weiter.\! Ich werde zurück auf Patrouille gehen.\! Ihr solltet ebenfalls zu euren Posten zurückkehren, bevor unsere liebste SWEETHEART es bemerkt...
+
+message_212:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 37
+      text: \n<HERO>Heh... Flotte, geschickte Lösung, nicht wahr?
+
+message_213:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 2
+      text: \n<AUBREY>Wie geschmeidig, HERO!\! Mit diesen \c[4]SPROSSWURFMASKEN\c[0] werden wir hier im Nu rauskommen!
+
+message_214:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 24
+      text: \n<KEL>Müssen wir die wirklich aufbehalten, HERO?\!<br>Meine wird ein bisschen kratzig...
+
+message_215:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 47
+      text: \n<HERO>Ja, KEL... Wir sollten sie aufbehalten, bis wir hier raus sind.\! Kommt schon... Auf geht's.
+
+# =========================================================================================
+# Dreamworld NPC Dialogue: Sweetheart's Castle -> Guest List
+# =========================================================================================
+
+message_0:
+      text: \n<GÄSTELISTE-WURF>Meine Güte! Ich habe einfach keine Zeit, jeden ungezogenen Gast reinzulassen!\! Das zeigt, dass man die Beliebtheit unserer liebsten SWEETHEART nicht unterschätzen darf...
+
+#guest mole puts up chart
+
+message_1:
+      text: \n<GÄSTELISTE-WURF>Hey, ihr! Ihr abstoßenden Diener!\! Das anstehende Hauptevent hat eine strikte Kleidervorschrift<br><br>Es ist von allerhöchster Bedeutung, dass das Publikum nach SWEETHEARTs exakten Vorstellungen angezogen ist.\! Hier ist eine simple Grafik, die selbst ein nicht-SPROSSWURF verstehen könnte!
+
+message_2:
+      text: \n<GÄSTELISTE-WURF>Was ist?\! Braucht ihr Hilfe?
+
+message_3:
+      text: \n<GÄSTELISTE-WURF>Bittet die niederen Gäste, euch zu folgen und bringt sie zu mir!\! Ihr schafft doch etwas so simples, oder?
+
+#pan up
+message_4:
+      text: \n<GÄSTELISTE-WURF>\com[2]Was tut ihr da!?<br>Dieser SPROSSWURF ist ein geachteter Gast!
+
+message_5:
+      text: Was ist nochmal die Kleidervorschrift?
+
+message_6:
+      text: Wie viele SPROSSWÜRFE noch?
+
+message_7:
+      text: \n<GÄSTELISTE-WURF>Sogar von hier kann ich sehen, dass noch \v[1001] Gäste falsch angezogen sind!
+
+message_8:
+      text: \n<GÄSTELISTE-WURF>Sogar von hier kann ich sehen, dass noch 1 Gast falsch angezogen ist!
+
+message_10:
+      text: \n<GÄSTELISTE-WURF>Wunderbar! Ich wusste, ihr habt es in euch!\!<br>Jetzt können wir endlich die pinklosen Gäste loswerden!
+
+message_11:
+      text: \n<GÄSTELISTE-WURF>Und damit ist es erledigt!\!<br>Diese pinklosen Gäste werden niemals das Tageslicht wieder erblicken!
+
+message_12:
+      text: \n<GÄSTELISTE-WURF>\Com[2]\{WACHEN!!\!\}<br>Werft diese SPROSSWÜRFE in \c[11]DEN KERKER\C[0]!
+
+message_20:
+      text: \n<PINKER WURF>Wie können sie es wagen, mich warten zu lassen? Ich bin ein geachteter Gast!
+
+message_21:
+      text: \n<PINKER? WURF>Wie können sie es wagen, mich warten zu lassen? Ich bin ein geachteter Gast!
+
+message_22:
+      text: \n<PINKER? WURF>\v[1001]
+
+message_23:
+      text: Vielleicht kann jemand Charmanteres ihren Ton ändern...
+
+message_30:
+    text: Willst du diesen SPROSSWURF bitten, euch zu folgen?
+
+message_40:
+      text: \n<HAROLD>\sinv[1]Egal was mir gesagt wird...\!<br>SWEETHEARTs Liebe ist so toll wie Gold!
+
+message_41:
+      text: \n<HAROLD>\sinv[2]Achtung! Achtung! Achtung!
+
+message_42:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 37
+      text: Ich grüße Sie, geachteter Gast! Bitte folgt mir, da Ihre Anwesenheit dringend benötigt wird...\her
+
+# =========================================================================================
+# Dreamworld NPC Dialogue: Sweetheart's Castle -> bAKE cAKE
+# =========================================================================================
+message_60:
+      text: \n<CHEFKOCH WURF>Urg... Meine werten Küchenhilfen...\!<br>Ich befürchte, mein Rücken hält es nicht mehr aus!\! Zu dieser bedauernden Zeit muss ich den Ruhestand ankündigen.
+
+message_61:
+      text: \n<KÜCHENHILFE-WURF>Aber moment, Chef! Wer wird uns ohne dich dazu leiten, den prachtvollsten Kuchen für das Hauptevent zu backen!?
+
+message_62:
+      text: \n<KOCH WURF>Küchenhilfen, es ist Zeit, dass einer von euch ins Rampenlicht tritt.\! Heute ist ein Kuchen zu backen! Unser Leben steht auf dem Spiel!
+
+message_63:
+      text: \n<KÜCHENHILFE-WURF>Oh, jawohl! Ich höre dich, Chef!\! Als der Kompetenteste von uns<br>melde ich mich freiwillig und übernehme die Aufgabe!\!<br>Ich werde dich nicht enttäuschen! Ich verspreche es...
+
+# =========------------------
+message_70:
+     text: \n<ANDERER KÜCHENHILFE-WURF>Hmm... Wobei...\! Ich denke, ich passe...
+
+message_71:
+      text: \n<ANDERER KÜCHENHILFE-WURF>Ich auch, mir wird ein wenig schlecht...
+
+message_74:
+      text: \n<KÜCHENHILFE-WURF>Pah! Ich brauche keine Unterstützung von euch Memmen!\! Ich werde den besten Kuchen überhaupt backen, ihr werdet schon sehen!
+
+message_72:
+      text: \n<KÜCHENHILFE-WURF>Hey, ihr da!\! Ihr vier seid jetzt KÜCHENHILFEN.\!<br>Wir treffen uns in der Küche, sofort!
+
+# =========------------------
+
+message_73:
+      text: \n<KÜCHENHILFE-WURF>Was hat euch so lang gebraucht!?\! Legt mal 'nen Zahn zu!\! Ich werde diesen Raum nicht verlassen, bis ich den besten Kuchen überhaupt gebacken habe, kapiert!?
+
+# =========------------------
+
+message_80:
+      text: \n<KÜCHENHILFE-WURF>\com[2]Wo geht ihr hin!? Kommt zurück!
+
+message_81:
+      text: \n<KÜCHENHILFE-WURF>Viel Glück...\! Ihr werdet es brauchen.
+
+# =========------------------
+message_82:
+      text: \n<KÜCHENHILFE-WURF>Seid ihr bereit, zu backen?\! Folgt einfach meinen Anweisungen.\! Ich kenne das Rezept des CHEFKOCHs auswendig!
+
+message_83:
+      text: \n<KÜCHENHILFE-WURF>Hey, nicht nervös werden!\! Vertraut mir, ich weiß was ich hier tu!
+
+message_84:
+      text: \n<KÜCHENHILFE-WURF>Als erstes müssen wir den Ofen auf 25 GRAD vorheizen!
+
+message_100:
+      text: Auf welche Temperatur willst du den Ofen vorheizen?
+
+# =========------------------
+message_101:
+      text: 25 GRAD
+
+message_102:
+      text: 90 GRAD
+
+message_103:
+      text: 180 GRAD
+
+message_120:
+      text: ZUFÄLLIG WÄHLEN
+# =========------------------
+
+message_104:
+      text: Du hast den Ofen angemacht.\! Er heizt sich nun vor.
+
+message_105:
+      text: \n<KÜCHENHILFE-WURF>Gut gemacht!\! Als nächstes sind zwei Hauptzutaten in einer Schüssel zu vermischen...\! ZEMENT und KALKBROKEN!
+
+message_106:
+      text: \n<KÜCHENHILFE-WURF>Super!\! Als nächstes kommen SAND und BACKSTEINE!\!<br>Jawohl, schlage die beiden bis sie zu Suppe werden!
+# =========------------------
+message_107:
+      text: Willst du den ZUCKER nehmen?
+
+message_108:
+      text: Willst du den MEHL nehmen?
+
+message_109:
+      text: Willst du die GARTENERDE nehmen?
+
+message_110:
+      text: Willst du die ERDBEEREN nehmen?
+
+message_111:
+      text: Willst du die ANANASERDBEEREN nehmen?
+
+message_112:
+      text: Willst du den FRUCHTSAFT nehmen?
+
+message_113:
+      text: Willst du die BUTTER nehmen?
+
+message_114:
+      text: Willst du die ESSIGGURKEN nehmen?
+
+message_115:
+      text: Willst du den FISCH nehmen?
+
+message_116:
+      text: Willst du die EIER nehmen?
+
+message_117:
+      text: Willst du den ALTEN STIEFEL nehmen?
+
+message_118:
+      text: Willst du das GANZE HÜHNCHEN nehmen?
+# =========------------------
+
+message_122:
+      text: Du trägst zu viele Zutaten mit dir herum.
+
+message_123:
+      text: \n<KÜCHENHILFE-WURF>Sehr gut!\! Zu guter Letzt, nimm die ZIEGEL und zerschneide sie in Stücke!
+
+message_124:
+      text: \n<KÜCHENHILFE-WURF>Brilliant!\! Jetzt mische alles zusammen und wirf es in die Mikrowelle!\! So leicht ist das!
+
+# =========------------------
+
+message_125:
+      text: Den KUCHENTEIG nehmen?
+
+message_126:
+      text: Du legst den KUCHENTEIG in den Ofen.
+
+# =========------------------
+
+message_127:
+      text: Du hast einen Kuchen gebacken.\! Wow! Er sieht wirklich gut aus!
+
+message_128:
+      text: Du hast einen Kuchen gebacken.\! Er sieht okay aus.
+
+message_129:
+      text: Du hast einen Kuchen gebacken.\! Irgendwas stimmt nicht ganz...
+
+message_130:
+      text: Du hast einen Kuchen gebacken.\! ...\! Was zum Teufel hast du da reingetan!?
+
+# =========------------------
+message_131:
+      text: \n<KÜCHENHILFE-WURF>Ah! Seid ihr fertig?\! Ich muss schon sagen, gute Leistung!\!<br>Lass mich mal probieren!
+
+message_132:
+      text: \n<KÜCHENHILFE-WURF>\com[2]\{GROßARTIG, WIE ICH ERWARTET HABE!!\!\}<br>Den anderen KÜCHENHILFEN wird es leidtun!
+
+message_133:
+      text: \n<KÜCHENHILFE-WURF>Hmm... Der Kuchen ist gut, aber nicht gut genug, um die anderen zu beeindrucken...
+
+message_134:
+      text: \n<KÜCHENHILFE-WURF>Wow, wie scheußlich!\! Da müssen wir wohl von vorne anfangen!
+
+message_135:
+      text: \n<KÜCHENHILFE-WURF>Oh, meine Güte... Das ist garkein Kuchen! Es ist im Prinzip nur Suppe!
+
+message_136:
+      text: \n<KÜCHENHILFE-WURF>\com[2]...\!\quake[1]\{\{AWEKJRLKJFLKASNFAWIJGAWEFJAWEKFJAKFAASJFKA!
+# =========------------------
+
+message_137:
+      text: Bist du sicher, dass du das tun willst?
+
+message_138:
+      text: Du musst all die Zutaten sammeln.
+
+message_140:
+      text: Die MISCHUNG nehmen?
+
+message_141:
+      text: Die PLATTE nehmen?
+
+message_142:
+      text: Du brauchst das nicht.
+
+message_143:
+      text: Du brauchst mehr Zutaten.
+
+# =========------------------
+message_144:
+      text: \n<KÜCHENHILFE-WURF>\com[2]Was macht ihr da!?\! Kommt zurück und backt diesen Kuchen!
+
+message_500:
+      text: \n<KÜCHENHILFE-WURF>\com[2]\{\{HEY! NICHT KLAUEN!!
+# =========------------------
+message_145:
+      text: \n<KÜCHENHILFE-WURF>Auf Nimmerwiedersehen...\! Dieser Typ war ein Klotz am Bein.\!<br>Nun, seid ihr bereit, den Kuchen wirklich zu backen?
+
+message_146:
+      text: \n<KÜCHENHILFE-WURF>Super! Also, als erstes müsst ihr den Ofen auf 180 GRAD vorheizen.
+
+message_147:
+      text: \n<KÜCHENHILFE-WURF>Denkt daran, es sind 180 GRAD!
+
+message_148:
+      text: \n<KÜCHENHILFE-WURF>Hey, was macht ihr da!? Das ist nicht, was ich gesagt habe!
+
+message_149:
+      text: \n<KÜCHENHILFE-WURF>Passt nächstes Mal besser auf!
+# =========------------------
+message_150:
+      text: \n<KÜCHENHILFE-WURF>Sehr gut! Nun mischt etwas MEHL und EIER zusammen.
+
+message_151:
+      text: \n<KÜCHENHILFE-WURF>Als nächstes kommen ZUCKER und BUTTER.\!<br>Schlagt sie, bis es schön fluffig wird!
+# =========------------------
+message_152:
+      text: \n<KÜCHENHILFE-WURF>Und als letztes, als Topping...\!<br>Es müssen einfach ERDBEEREN sein!
+
+message_153:
+      text: \n<KÜCHENHILFE-WURF>Fertig?\! Gut!\! Dann nehmt all euer Zeug, legt es in die BACKFORM, und backt es im Ofen!
+# =========------------------
+message_154:
+      text: Du hast keinen KUCHENTEIG, den du in den Ofen legen kannst.
+# =========------------------
+message_155:
+      text: \n<KÜCHENHILFE-WURF>Und genauso backt man einen Kuchen!
+
+message_156:
+      text: \n<KÜCHENHILFE-WURF>Mmm... Jawohl! Das wird genügen!\!<br>Endlich, ein Kuchen, auf den unser ehemaliger CHEFKOCH stolz wäre.
+
+message_157:
+      text: \n<KÜCHENHILFE-WURF>Möge er für immer in Erinnerung bleiben...
+
+message_158:
+      text: \n<KÜCHENHILFE-WURF>Ihr könnt nun gehen, Diener! Seid frei!
+
+# =========------------------
+message_159:
+      text: Du kannst es immer nochmal versuchen.
+
+message_160:
+      text: Was zum Teufel hast du da reingetan!?
+# =========------------------
+message_161:
+      text: \v[1001] zurückstellen?
+# =========------------------
+message_162:
+      text: \n<KÜCHENHILFE-WURF>Das ist ein Kuchen, auf den unser CHEFKOCH stolz wäre.\! Möge er für immer in Erinnerung bleiben...
+
+message_163:
+      text: \n<KÜCHENHILFE-WURF>Ihr könnt nun gehen, Diener! Seid frei!
+# =========------------------
+message_164:
+      text: \n<CHEFKOCH WURF>...
+
+message_165:
+      text: \n<KÜCHENHILFE-WURF>Wer seid ihr?
+
+message_166:
+      text: \n<KÜCHENHILFE-WURF>Wer bin ich!?
+
+message_167:
+      text: Ein Sortiment von Zutaten.\! Manche schmackhafter als andere.
+
+message_168:
+      text: \n<KÜCHENHILFE-WURF>Möge der ehemalige CHEFKOCH für immer in Erinnerung bleiben...
+
+message_169:
+      text: \n<KÜCHENHILFE-WURF>Mein Kuchen hat es auf die Leinwand geschafft!\! Der ehemalige CHEFKOCH wäre stolz darauf.\! Möge er für immer in Erinnerung bleiben...
+
+# =========================================================================================
+# Dreamworld NPC Dialogue: Sweetheart's Castle -> Elevator
+# =========================================================================================
+
+message_300:
+      text: DER FOYER
+
+message_301:
+      text: DIE GEMÄCHER
+
+#Bandito Mole Chance
+
+message_310:
+      text: \n<BANDIT WURF>\}Dies ist ein Überfall.
+
+# =========================================================================================
+# Dreamworld NPC Dialogue: Sweetheart's Castle -> Dungeon
+# =========================================================================================
+
+message_320:
+      text: \n<SCHMUGGLER JASH>Ich wurde wegen Schmuggelei in den Kerker geworfen...\!<br>aber alte Angewohnheiten gehen nicht einfach davon.
+
+message_321:
+      text: \n<SCHMUGGLER JASH>Wie auch immer, ich habe Qualitätsware zu verkaufen, Kunde.\! Besteht Interesse?
+
+message_322:
+      text: \n<SCHMUGGLER JASH>Hab Qualitätsware für dich, Kunde.
+
+#Kitchen Fireplace
+
+message_350:
+      text: Ein herzförmiger Schalter versteckt sich im Kamin.\!<br>Willst du ihn drücken?
+
+message_351:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 40
+      text: Hmm...\! Ich frage mich, wofür das war...\her
+
+message_352:
+      text: Ein herzförmiger Schalter versteckt sich im Kamin...\! aber du hast ihn bereits gedrückt.
+
+
+#SW Foyer
+
+message_359:
+      text: \n<KERZEN-HÄSCHEN>\sinv[1]Pyon?
+
+message_355:
+      text: \n<HAROLD>Zurück zu euren Posten, Neulinge!\!<br>Wir nehmen Faulenzer nicht gut auf!
+
+message_356:
+      text: \n<MARSHA>Wir nehmen unsere Arbeit ernst!\! SWEETHEARTs königliche Garde akzeptiert nur die Besten der Besten!
+
+message_357:
+      text: \n<LUCIUS>Mein ganzes Leben lang habe ich die Kampfkunst einstudiert.\! Wenn ihr alle hart arbeitet...\! könnt ihr eines Tages vielleicht auch zum LUCIUS aufsteigen!
+
+message_358:
+      text: \n<THERESE>Hey, habt ihr SIR MAXIMUS gesehen?\!<br>Dieser Typ schuldet mir ein paar MUSCHELN...
+
+
+#SW AFTER WEDDING
+
+message_370:
+      text: \n<CASTELLA>Ich habe euch in der letzten \"SWEETHEART SUCHT DEN LIEBESSTAR\"-Folge gesehen!
+
+message_371:
+      text: \n<CASTELLA>Es war eine Folge, die meiner lieben SWEETHEART würdig war...\! aber das Ende hätte man sich sparen können.
+
+message_372:
+      text: \n<CASTELLA>SWEETHEART wird ihren Nachmittags-Tee verpassen...
+
+message_373:
+      text: \n<VIRTUOSE WURF>Ah! Ich erkenne euch.\! Ihr müsst die bezahlten Schauspieler von \"SWEETHEART SUCHT DEN LIEBESSTAR\" sein!
+
+message_374:
+      text: \n<VIRTUOSE WURF>Euer Auftritt war wirklich atemberaubend.\! Ich habe jede Sekunde davon geglaubt.
+
+message_375:
+      text: \n<HAROLD>Wie fandet ihr das Ende?\! Ich wette, ihr habt das nicht als Finale erwartet.
+
+message_376:
+      text: \n<MARSHA>Wir nehmen unsere Arbeit ernst!\! SWEETHEARTs königliche Garde akzeptiert nur die Besten der Besten!
+
+message_377:
+      text: \n<LUCIUS>Mein ganzes Leben lang habe ich die Kampfkunst einstudiert.\! Junge SPROSSWÜRFE verbringen ihr Leben damit, ein LUCIUS zu werden!
+
+message_378:
+      text: \n<THERESE>Hey, habt ihr SIR MAXIMUS gesehen?\!<br>Dieser Typ schuldet mir ein paar MUSCHELN...
+
+# =========================================================================================
+# Dreamworld NPC Dialogue: Sweetheart's Castle -> Library
+# =========================================================================================
+
+message_400:
+      text: \n<PINKER? WURF>Natürlich! Das Personal hier ist wunderbar!
+
+message_401:
+      text: \n<PINKER? WURF>Für wen hältst du dich denn!?\! Ich will mit dem Manager sprechen!
+
+message_402:
+      text: \n<PINKER? WURF>Na schön.
+
+message_403:
+      text: \n<PINKER? WURF>Nee.
+
+message_404:
+      text: \n<PINKER? WURF>\}\"'BIGBOYZ' an 'ALPHA-3'...\! das Spiel ist aus.\! Brech die Mission ab.\"\! \quake[1]Bzzt...\quake[0]
+
+message_405:
+      text: \n<PINKER? WURF>Tut mir leid, aber ich bin nicht der WURF, nach dem du suchst.
+
+message_406:
+      text: \n<PINKER? WURF>O-okay...\! aber du musst mir erklären, was hier vor sich geht!
+
+message_407:
+      text: \n<PINKER? WURF>Igitt... Wer bist denn du?\! Sprich nie mehr mit mir.
+
+message_408:
+      text: \n<PINKER? WURF>Muss ich in noch einer Schlange stehen?
+
+message_409:
+      text: \n<PINKER? WURF>Vielleicht komme ich mit euch mit...\! Vielleicht auch nicht.
+
+message_410:
+      text: \n<PINKER? WURF>Das Gesetz dieses Landes ist grausam...
+
+message_411:
+      text: \n<PINKER? WURF>Nur weil ich meine Lieblingsfarbe blau trage!?\! Ich werde mich nicht wegen dir rühren!
+
+message_412:
+      text: \n<PINKER? WURF>Meine Anwesenheit wird benötigt?\! Natürlich wird sie das.
+
+message_413:
+      text: \n<PINKER? WURF>Psh...\! oder was?
+
+message_414:
+      text: \n<PINKER? WURF>Verflixt... Ich wusste, ich habe die falsche Krawatte genommen!
+
+message_415:
+      text: \n<PINKER? WURF>Ich bin achthundert Kilometer hierher gelaufen.\! Ich werde meinen Platz nicht aufgeben!
+
+message_416:
+      text: \n<PINKER? WURF>Mich? Sie müssen eine Ausnahme machen.\! Ich muss ihnen meine Meinung zeigen!
+
+message_417:
+      text: \n<PINKER? WURF>Nein! Vielleicht solltest \sinv[1]du\sinv[0] ja gehen!
+
+message_418:
+      text: \n<PINKER? WURF>Werde ich endlich im Rampenlicht stehen?
+
+message_419:
+      text: \n<PINKER? WURF>Niemals. Ich bin die wichtigste Person hier!
+
+message_420:
+      text: \n<PINKER? WURF>\sinv[1]WEEEEEEEEEHH!\sinv[0] Wieso muss ich gehen!?
+
+message_421:
+      text: \n<PINKER? WURF>Oh wirklich? Zwing mich doch!
+
+message_422:
+      text: \n<PINKER? WURF>Oh...\! Ich wollte doch nur meinen einzigen Sohn sehen.
+
+message_423:
+      text: \n<PINKER? WURF>Kannst du etwas lauter sprechen, Söhnchen? Ich kann dich nicht hören!
+
+message_424:
+      text: \n<PINKER? WURF>Ah... aber natürlich! Sie scheinen ein \sinv[1]reiner\sinv[0], aufrechter Gentleman zu sein!
+
+message_425:
+      text: \n<PINKER? WURF>Berühr mich nicht!\! Du siehst so aus, als hättest du Keime!
+
+# =========================================================================================
+# Dreamworld NPC Dialogue: Sweetheart's Castle -> Kitchen
+# =========================================================================================
+
+message_450:
+      text: Den ZUCKER zurücklegen?
+
+message_451:
+      text: Den MEHL zurücklegen?
+
+message_452:
+      text: Die GARTENERDE zurücklegen?
+
+message_453:
+      text: Die ERDBEEREN zurücklegen?
+
+message_454:
+      text: Die ANANASERDBEEREN zurücklegen?
+
+message_455:
+      text: Den FRUCHTSAFT zurücklegen?
+
+message_456:
+      text: Die BUTTER zurücklegen?
+
+message_457:
+      text: Die ESSIGGURKEN zurücklegen?
+
+message_458:
+      text: Den FISCH zurücklegen?
+
+message_459:
+      text: Die EIER zurücklegen?
+
+message_460:
+      text: Den ALTEN STIEFEL zurücklegen?
+
+message_461:
+      text: Das GANZE HÜHNCHEN zurücklegen?
+
+#====
+#trying to pick up something after cooking game
+
+message_462:
+      text: \n<KÜCHENHILFE-WURF>Hey! Nicht berühren!
+#====
+
+#AFTER DEFEATING MAXIMUS III
+
+message_501:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 39
+      text: \herHey, kommt es nur mir so vor oder wurde es hier plötzlich viel leiser?
+
+message_502:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 19
+      text: \kelWaren vorher nicht ein Haufen SPROSSWÜRFE am Eingang?\! Ich sehe sie garnicht mehr!
+
+message_503:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 1
+      text: \aubSie müssen ihren Weg nach draußen gebahnt haben!\! Folgen wir ihnen, OMORI.\! Vielleicht verleiten sie den Weg raus!
