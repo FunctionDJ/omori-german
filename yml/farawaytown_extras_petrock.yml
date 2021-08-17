@@ -1,0 +1,466 @@
+### Translation: Finished
+### Comment: eigentlich fertig außer mancher npc-namen wie "othermart lady"
+
+### Translated by: lugi
+
+# =========================================================================================
+# TASCHENKIESEL Battles
+# =========================================================================================
+
+
+# =========================================================================================
+#KEL- PLUTO
+# =========================================================================================
+
+#before fight
+
+message_0:
+      faceset: MainCharacters_Faraway
+      faceindex: 17
+      text: \kelWhoa! Warte mal, \n[8]!\! <br>Hast du dir da gerade einen \c[13]TASCHENKIESEL\c[0] gekauft?
+
+message_1:
+      faceset: MainCharacters_Faraway
+      faceindex: 13
+      text: \kelWow!\! Ich glaub's ja nicht...\! Es ist echt komisch, da wir seit der Kindheit nicht mehr mit ihnen gespielt haben...\! aber ich hab meinen zufällig auch dabei!
+
+#KEL takes something out of his pocket.
+
+message_2:
+      faceset: MainCharacters_Faraway
+      faceindex: 12
+      text: \kelGenau hier!
+
+message_3:
+      faceset: MainCharacters_Faraway
+      faceindex: 14
+      text: \kelSo ein komischer Zufall, oder?
+
+message_4:
+      faceset: MainCharacters_Faraway
+      faceindex: 17
+      text: \kelHey, Ich hab 'ne Idee!\! Warum lassen wir nicht unsere \c[13]TASCHENKIESELS\c[0]? kämpfen\! Du weißt noch, wie man spielt, oder?
+#yes
+
+message_5:
+      faceset: MainCharacters_Faraway
+      faceindex: 14
+      text: \kelKlasse!\! Dachte ich mir schon...
+
+message_6:
+      faceset: MainCharacters_Faraway
+      faceindex: 23
+      text: \kel\sinv[1]Ohhh, jaaaaa...\!\sinv[0] Ich bin so aufgeregt!
+
+message_7:
+      faceset: MainCharacters_Faraway
+      faceindex: 23
+      text: \kel\com[2]\sinv[1]\{\{NUN, LASS UNS CLASHEN!!
+
+#no
+
+message_8:
+      faceset: MainCharacters_Faraway
+      faceindex: 12
+      text: \kelHaha...\! Keine Sorge.\! Selbst wenn du's nicht mehr weißt, wirst du's schnell kapieren...\! Du packst das schon!
+
+
+#after victory
+message_9:
+      faceset: MainCharacters_Faraway
+      faceindex: 13
+      text: \kelAch Mist, verloren...\! Ich bin wohl ziemlich eingerostet...\! <br>Na ja, ist schon okay.
+
+message_10:
+      faceset: MainCharacters_Faraway
+      faceindex: 24
+      text: \kelDu hattest es bei Videospielen sowieso schon immer drauf!\! Du bist wohl doch noch der selbe \n[8] wir früher!
+
+
+#after loss
+
+message_12:
+      faceset: MainCharacters_Faraway
+      faceindex: 13
+      text: \kelHehe...\! Bist wohl ganz rostig, was?\! <br>Na ja, schon gut.\! Du wirst sicher noch auf den Dreh kommen.
+
+message_13:
+      faceset: MainCharacters_Faraway
+      faceindex: 12
+      text: \kelIch weiß, es ist schon 'ne Weile her, also lass mich mal dein Gedächtnis auffrischen.\! \c[13]TASCHENKIESEL\c[0] ist ein Spiel, wo du und dein Tier als Team kämpfen, oder CLASHEN!
+
+message_14:
+      faceset: MainCharacters_Faraway
+      faceindex: 12
+      text: \kelWenn du deinen \c[13]TASCHENKIESEL\c[0] als TALISMAN trägst...\! kannst du andere Spieler mit \c[13]TASCHENKIESELN\c[0] finden und herausfordern!
+
+message_15:
+      faceset: MainCharacters_Faraway
+      faceindex: 17
+      text: \kelWie ich höre...\! wohnt der amtierende Champ irgendwo hier in der Gegend...\! Aber niemand weiß, wie er oder sie aussieht.
+
+message_16:
+      faceset: MainCharacters_Faraway
+      faceindex: 14
+      text: \kelSchon mysteriös, oder?\! Wer weiß?\! <br>Vielleicht treffen wir den Champ eines Tages!
+
+
+# =========================================================================================
+#TOMATOGIRL
+# =========================================================================================
+
+#Intro
+
+message_20:
+      text: \n<BUNTES MÄDCHEN>Oh!\! Ich sehe, du hast einen \c[13]TASCHENKIESEL\c[0]!\! Willst du CLASHEN?
+
+#yes
+message_21:
+      text: \n<BUNTES MÄDCHEN>Okay!\! Ich habe mein TOMÄDCHEN trainiert seit ich ein Kind war!\!<br>Ich werde nicht gegen dich verlieren!
+
+#player win
+message_22:
+      text: \n<BUNTES MÄDCHEN>Ach... Verdammt...\! Schon gut, TOMÄDCHEN. Es war nicht deine Schuld...\! Du hast dein Bestes gegeben!
+
+#player loses
+message_23:
+      text: \n<BUNTES MÄDCHEN>Juhu!\! Wir haben es geschafft!\! Ich wusste, du würdest gewinnen, TOMÄDCHEN!
+
+message_150:
+      text: \n<BUNTES MÄDCHEN>Kein Problem! Sag mir Bescheid, wenn du mal CLASHEN willst!
+
+
+# =========================================================================================
+      #MUNCHER KING
+# =========================================================================================
+
+#Intro
+#Reference Farawaytown_dialogue_tucker: messages 16,17,18,20,21
+
+#reward
+message_140:
+      text: \n<UNHEIMLICHER TYP>Ich vermache dir diesen Hut, den du so mit Ehrfurcht erblickst...\! Nun hinfort mit dir!
+
+# =========================================================================================
+#ROSE LAD
+# =========================================================================================
+
+#Intro
+message_35:
+      text: \n<HÜBSCHER JUNGE>Hey, ist das ein \c[13]TASCHENKIESEL\c[0]?\! Ich hab auch einen!\!<br>Möchtest du mit mir CLASHEN?
+#yes
+message_36:
+      text: \n<HÜBSCHER JUNGE>Juhu, klingt nach Spaß! Geben wir beide unser Bestes!\! Los, ROSENBUB! Ich glaube an dich!
+#player win
+message_37:
+      text: \n<HÜBSCHER JUNGE>ROSENBUB, geht es dir gut?\! Na, na... Du erholst dich jetzt schön.
+
+message_38:
+      text: \n<HÜBSCHER JUNGE>Haha... Das hast Spaß gemacht!\! Danke für die Herausforderung.\! Ich werde ROSENBUB wohl noch ein bisschen mehr trainieren müssen...
+#player loses
+message_39:
+      text: \n<HÜBSCHER JUNGE>Hey, wer hätt's gedacht!\! Das war ein guter Kampf, aber du brauchst vielleicht noch etwas Übung...\! Wir haben's geschafft, ROSENBUB!\! Du bist der Beste!
+
+message_40:
+      text: \n<HÜBSCHER JUNGE>Oooch... Aber CLASHEN macht doch so viel Spaß...\! Vielleicht nächstes mal!
+
+# =========================================================================================
+      #SAUCY K
+# =========================================================================================
+
+#Intro
+message_42:
+      text: \n<ANGEL>Jo, warte mal! Du hast einen \c[13]TASCHENKIESEL\c[0]?\! Du musst mich zum CLASH herausfordern!\! Niemand kann meinen FLOTTI-K besiegen!<br>Er ist der beste \c[13]TASCHENKIESEL\c[0] aller Zeiten und ich werd's beweisen!
+#yes
+message_43:
+      text: \n<ANGEL>Du nimmst den Mund viel zu voll!\! Komm schon, FLOTTI-K!\! Zeigen wir ihnen, wer hier der Stärkere ist!
+#no
+message_44:
+      text: \n<ANGEL>Wow... Na gut!\! Sei halt ein Feigling!
+#player win
+message_45:
+      text: \n<ANGEL>\com[2]\{\sinv[1]FLOTTI-K!!\! NEEE\{EEI\{III\{INN!!
+
+message_46:
+      text: \n<ANGEL>Schnief...\! Du Fiesling!
+
+#player loses
+message_47:
+      text: \n<ANGEL>Was habe ich dir gesagt!\! FLOTTI-K ist der Beste!\! <br> Du bist Lichtjahre davon entfernt, uns besiegen zu können!
+
+# =========================================================================================
+      #BUNNY
+# =========================================================================================
+
+#Intro
+message_50:
+      text: \n<RAI>Boah, du hast auch einen \c[13]TASCHENKIESEL\c[0]?\! Ich hab vor nicht allzu langer Zeit mit \c[13]TASCHENKIESELN\c[0] angefangen...
+
+message_51:
+      text: \n<RAI>Meiner ist noch im Anfangsstadium, aber eines Tages wird er sicherlich stark sein!\! Willst du CLASHEN?
+
+#yes
+message_52:
+      text: \n<RAI>Super!\! Komm schon, HASI!\! Lass uns zusammenarbeiten!
+#player win
+message_53:
+      text: \n<RAI>Mist..\! Dein \c[13]TASCHENKIESEL\c[0] ist recht stark.\! HASI und ich haben wohl noch einen langen Weg vor uns, bevor wir dich einzuholen.
+#player loses
+message_54:
+      text: \n<RAI>Boah, wir haben gewonnen!\! Das hab ich wirklich nicht erwartet... aber gewonnen ist gewonnen! Haha!
+
+message_200:
+      text: \n<RAI>Oooch...\! Aber HASI und ich müssen üben...
+
+# =========================================================================================
+      #PAPA CHIP
+# =========================================================================================
+
+#Intro
+message_55:
+      text: \n<EIN ZWILLING>\sinv[1]Ah... Ich sehe, dass du auch einen \c[13]TASCHENKIESEL\c[0] hast.
+
+message_56:
+      text: \n<DER ANDERE ZWILLING>\sinv[1]Würdest du...\! vielleicht...\! mit uns...\! CLASHEN wollen?
+#yes
+message_57:
+      text: \n<EIN ZWILLING>Hmm...\! Hmm...\! Selbstsicher ist da einer, ja?\! Du wirst nicht so leicht gewinnen...
+
+message_58:
+      text: \n<DER ANDERE ZWILLING>PAPA CHIP!\! Zeigen wir ihnen unsere Kraft!
+
+#player win
+message_59:
+      text: \n<DER ANDERE ZWILLING>Niederlage?
+
+message_60:
+      text: \n<EIN ZWILLING>Hmm...\! Ja...\! Wir scheinen diese Runde verloren zu haben...
+
+message_61:
+      text: \n<DER ANDERE ZWILLING>Bedauerlich...
+
+
+#player loses
+
+message_65:
+      text: \n<DER ANDERE ZWILLING>Sieg?
+
+message_66:
+      text: \n<EIN ZWILLING>Hmm...\! Ja...\! Wir scheinen gewonnen zu haben...
+
+message_67:
+      text: \n<DER ANDERE ZWILLING>Ausgezeichnet.
+
+# If defeated at least 4 TASCHENKIESEL challengers
+#Leave hobbeez
+
+message_71:
+      text: \n<VERKÄUFER>Hey, \n[8]!\! Ich habe gehört, dass du in der ganzen Stadt mit \c[13]TASCHENKIESELN\c[0] am CLASHEN bist!
+
+message_72:
+      text: \n<VERKÄUFER>Wenn du eine echte Herausforderung willst, sag ich dir mal über einige \c[13]TASCHENKIESEL\c[0]-Veteranen im \c[11]WEITWEG PLAZA\c[0] Bescheid...\! Vier von ihnen, um genau zu sein!
+
+message_75:
+      text: \n<VERKÄUFER>Normalerweise fordern sie keine Neulinge heraus... Aber für dich machen sie bestimmt eine Ausnahme!
+
+message_73:
+      text: \n<VERKÄUFER>Du solltest versuchen, manche Ladenmitarbeiter oder häufige Kunden in der Gegend anzusprechen...\! Sie werden sicher die Grenzen deiner Stärke testen!
+
+# =========================================================================================
+      #OCOTAKO
+# =========================================================================================
+
+#Intro
+message_85:
+      text: \n<SÜßES MÄDCHEN>O-Oh!\! J-Ja, hallo...
+
+message_86:
+      text: \n<SÜßES MÄDCHEN>Hmmm... Ich verstehe...\! Du trägst da einen \c[13]TASCHENKIESEL\c[0], also heißt das, du willst CLASHEN!
+
+message_87:
+      text: \n<SÜßES MÄDCHEN>...
+
+message_88:
+      text: \n<SÜßES MÄDCHEN>Ich lass dich wissen, dass wir Veteranen etwas härter als normale Spieler sind.\! Willst du mich immer noch herausfordern?
+#yes
+message_89:
+      text: \n<SÜßES MÄDCHEN>O-Okay!\! Komm schon, OCOTACO!\! Zeigen wir ihnen, was es heißt, ein Veteran zu sein!
+
+#No
+message_93:
+      text: \n<SÜßES MÄDCHEN>Das kann ich verstehen.\! Ich bin hier, falls du dich je bereit fühlst.
+
+#player win
+message_90:
+      text: \n<SÜßES MÄDCHEN>W-Wir...\! haben verloren?\! Wow...\! Ich bin echt schockiert...
+
+message_91:
+      text: \n<SÜßES MÄDCHEN>Der VERKÄUFER hat dich wohl aus gutem Grund zu uns geschickt.\! Du scheinst viel Potenzial zu haben.\! Ich bin mir sicher, dass du weit kommen wirst!
+
+#player loses
+message_92:
+      text: \n<SÜßES MÄDCHEN>Guter Versuch!\! Du hast gut gekämpft, aber ich CLASHE schon seit Jahren mit OCOTACO an meiner Seite!\! Üb einfach weiter... Du wirst besser werden, versprochen!
+
+
+# =========================================================================================
+      #LIL' G
+# =========================================================================================
+
+#Intro
+message_94:
+      text: \n<BRILLENMANN>Ah, du hast da einen \c[13]TASCHENKIESEL\c[0]!
+
+message_95:
+      text: \n<BRILLENMANN>Wenn du hier bist...\! muss das bedeuten, dass du über die Veteranen von \c[11]WEITWEG PLAZA\c[0] Bescheid weißt.
+
+message_96:
+      text: \n<BRILLENMANN>Und wenn der VERKÄUFER dich geschickt hat, bedeutet das, du musst ziemlich gut sein...\! Hehe...
+
+message_97:
+      text: \n<BRILLENMANN>Tja, hier bin ich!\! Überrascht?\! Mein wahrer Titel lautet \"GINO, CLASHER DES JASH\"!\! Möchtest du mich zu einem CLASH herausfordern?
+
+#yes
+message_98:
+      text: \n<BRILLENMANN>Wenn dem so ist...\! werde ich, GINO, einer der vier Veteranen des \c[11]FARAWAY PLAZA\c[0], dir zeigen, was es heißt, ein echter Profi zu sein!\!<br>Kriegen wir sie, MINI-G!!
+
+#player win
+message_99:
+      text: \n<BRILLENMANN>\com[2]\{MINI-G!\! MINI-G!\! SPRICH MIT MIR!!
+
+message_100:
+      text: \n<BRILLENMANN>...
+
+message_101:
+      text: \n<BRILLENMANN>Ach, warte...\! Das kann man gar nicht, oder?
+
+message_102:
+      text: \n<BRILLENMANN>Na, das war ein echtes Schlamassel.\! Dafür aber Glückwunsch an dich, Herausforderer!\! Du und dein \c[13]TASCHENKIESEL\c[0] waren toll!
+
+
+message_103:
+      text: \n<BRILLENMANN>Vielleicht würden manche der anderen Veteranen dir einen etwas besseren Kampf bieten!
+
+
+#player loses
+message_104:
+      text: \n<BRILLENMANN>Ja! Wir haben's geschafft, MINI-G!\! Heh... Tja, man kann nicht immer gewinnen.\! Du hast es versucht... und das zählt!
+
+message_300:
+      text: \n<BRILLENMANN>\com[2]A-A-A-A-Aber wieso!?
+
+# =========================================================================================
+      #P'terry
+# =========================================================================================
+
+#Intro
+message_105:
+      text: \n<FIX-IT GUY>Heh...\! Wie ich sehe, zeigst du da deinen \c[13]TASCHENKIESEL\c[0] vor!\! Normalerweise zücke ich meinen \c[13]TASCHENKIESEL\c[0] nicht während der Arbeitszeit...\! jedoch musst du richtig gut sein, wenn der VERKÄUFER dich geschickt hat.
+
+message_106:
+      text: \n<FIX-IT GUY>Bist du bereit für eine \sinv[1]echte\sinv[0] Herausforderung?
+
+#yes
+message_107:
+      text: \n<FIX-IT GUY>Als einer der vier Veteranen von \c[11]WEITWEG PLAZA\c[0] habe ich einen Ruf aufrechtzuerhalten!\! Wenn du einen CLASH willst, werde ich nicht so leicht untergehen!
+
+#player win
+message_108:
+      text: \n<FIX-IT GUY>\com[2]Unmöglich! Hier stimmt was nicht...\! P'TERRY...\! Wie konnten wir verlieren?\! \sinv[1]Seufz...\sinv[0]\! Egal...\!<br>Dann mal zurück an die Arbeit...
+#player loses
+message_109:
+      text: \n<FIX-IT GUY>Netter Versuch, Bursche.\! Das hat schon Spaß gemacht, aber P'TERRY ist der überlegene CLASHER!\! Vielleicht beim nächsten Mal!
+
+message_110:
+      text: \n<FIX-IT GUY>Ha! Das hab ich mir gedacht!
+
+# =========================================================================================
+      #Cool S
+# =========================================================================================
+
+#Intro
+message_115:
+      text: \n<VERKÄUFER>Ahh... \n[8]...\! Du bist erschienen!\! Ich habe von den anderen Veteranen gehört, dass du sie bereits besiegt hast...
+
+message_132:
+      text: \n<VERKÄUFER>Ja, ganz genau...\! Ich sagte...\! andere Veteranen!
+
+message_116:
+      text: \n<VERKÄUFER>Es ist Zeit, mich endlich zu offenbaren!\!<br>Ich bin der VERKÄUFER, der stärkste Veteran von \c[11]WEITWEG PLAZA\c[0]!
+
+#yes
+message_117:
+      text: \n<VERKÄUFER>Es ist wirklich beeindruckend, \n[8]...\! In dieser kurzen Zeit hast du es geschafft, die Besten unserer Gegend zu besiegen...\! außer mir...
+
+message_118:
+      text: \n<VERKÄUFER>\n[8]...\! Ich muss deine Stärke selbst bezeugen!\! Du wirst gegen mich kämpfen müssen, genau hier und jetzt!
+
+message_133:
+      text: \n<VERKÄUFER>Heh... Ich dachte mir schon, du würdest das sagen...
+
+message_121:
+      text: \n<VERKÄUFER>\com[2]\sinv[1]\{\{LASS UNS CLASHEN!!
+
+#player win
+message_122:
+      text: \n<VERKÄUFER>Erstaunlich...\! Du bist wirklich erstaunlich, \n[8]...
+
+message_123:
+      text: \n<VERKÄUFER>Vielleicht bist du sogar besser als...\! Nein...\! <br>Vergiss es...\! Vielleicht habe ich schon zu viel gesagt.
+
+message_124:
+      text: \n<VERKÄUFER>Als Preis für deinen Sieg, nimm das.
+
+message_125:
+      text: \n<VERKÄUFER>Und noch etwas...\! Es gibt in \c[11]WEITWEG PLAZA\c[0] einen Veteranen, der noch stärker ist als ich...
+
+message_126:
+      text: \n<VERKÄUFER>Manche sagen, sie könnte sogar die stärkste CLASHERIN der ganzen Welt sein...\! jedoch...\! ist sie flüchtig, und hält ihre Identität geheim...
+
+message_127:
+      text: \n<VERKÄUFER>Aber...\! ich bin mir sicher, sie würde deine Stärke spüren können, wie ich es tat, wenn du sie nun finden würdest.
+
+message_128:
+      text: \n<VERKÄUFER>Falls du dich entscheidest, sie ausfindig zu machen, könntest du es bereuen...\! aber ich werde dich nicht aufhalten.
+
+message_129:
+      text: \n<VERKÄUFER>Nimm dich bloß in Acht...\! Sie ist wirklich ein ernstzunehmender Gegner...\! ...\! Ich habe dich gewarnt.
+
+#player loses
+
+message_130:
+      text: \n<VERKÄUFER>Das war wirklich ein herrlicher Kampf, \n[8]!\! Du und JASH habt mit all eurer Kraft gekämpft, aber leider bin ich der Sieger!
+
+message_131:
+      text: \n<VERKÄUFER>Dennoch muss ich dir gratulieren.\! Dass du es so weit geschafft hast, ist eine große Leistung!\! Ich glaube, es ist an der Zeit, dass du und JASH euch schön lange erholt!
+
+
+# =========================================================================================
+      #One-Winged Jash
+# =========================================================================================
+
+#Intro
+message_135:
+      text: OTHERMART LADY starrt deinen \c[13]TASCHENKIESEL\c[0] an.
+
+message_136:
+      text: \n<OTHERMART LADY>...
+
+message_160:
+      text: \n<OTHERMART LADY>\com[2]\{\{HA! HA! HA! HA! HA! HA! HA!
+#player win
+message_137:
+      text: \n<OTHERMART LADY>OK.\! DU GEWINNST.
+
+message_143:
+      text: \n<OTHERMART LADY>NIMM DAS.
+#player loses
+message_138:
+      text: \n<OTHERMART LADY>...
+
+message_141:
+      text: \n<OTHERMART LADY>GUT GEMACHT.
+
+message_142:
+      text: Du erhältst eine \c[13]\"YOU ROCK\"-KAPPE\c[0]!
+
+#additional TASCHENKIESEL dialogue
