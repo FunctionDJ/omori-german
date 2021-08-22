@@ -2,7 +2,7 @@
   "cSpell.enableFiletypes": [
     "!javascript"
   ],
-  "cSpell.enabled": true,
+  "cSpell.enabled": false,
   "cSpell.languageSettings": [
     {
       "languageId": "*",
@@ -26,5 +26,8 @@
     }
   ],
   "cSpell.language": ",de",
-  "diffEditor.wordWrap": "on"
+  "javascript.format.semicolons": "remove",
+  "search.exclude": {
+    "/yml-auto-translation/": true
+  },
 }
