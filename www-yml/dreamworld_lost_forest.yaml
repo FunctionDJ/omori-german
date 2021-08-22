@@ -1,0 +1,163 @@
+#### Translation: Finished
+
+#### Translated by: percivical
+
+# =========================================================================================
+# HERR WEBERKNECHT
+# ========================================================================================
+
+#He always says this first. The rest, he says based on how many times you entered any map in the lost forest.
+
+message_0:
+    text: \n<HERR WEBERKNECHT>Willkommen im \c[11]VERLORENEN WALD\c[0], wo du Dinge findest, von denen du nicht einmal wusstest, dass du sie verloren hast...\! Oder vielleicht wurden sie aber aus einem guten Grund vergessen.
+
+#He always says this stuff, left as is so the player could know how hot or cold they are:
+
+message_1:
+    text:  \n<HERR WEBERKNECHT>Ich nehme an, dass wir alle Geheimnisse haben...\! Egal wie verloren oder wie tief sie vergraben sind, sie finden ihren Weg immer zurück auf die andere Seite...
+message_2:
+    text:  \n<HERR WEBERKNECHT>Versuchst du, dich selbst zu verlieren? Oder hast du das bereits vollbracht?\! Jedenfalls ist dies der richtige Ort für dich.\! Vielleicht bist du deshalb hierher gekommen... um die Arbeit zu Ende zu bringen.
+
+#Alternate
+
+message_3:
+    text:  \n<HERR WEBERKNECHT>Wir neigen dazu, Dinge zu tun, die wir wollen... anstelle von Dingen, die wir sagen, dass wir sie tun.\! Ich war noch nie jemand, der etwas wollte.\! Ich bin eher der Typ für "Bedürfnisse".
+
+message_4:
+    text:  \n<HERR WEBERKNECHT>Ich empfehle dir, den Ausgang zu finden, bevor deine "Bedürfnisse" offensichtlich werden könnten.
+
+message_5:
+    text:  \n<HERR WEBERKNECHT>Du bist \v[109] mal an mir vorbeigegangen.
+
+#If：Lost Forest Entrances  8
+
+message_6:
+    text:  \n<HERR WEBERKNECHT>Du bist immernoch hier?\! Du musst entweder aufgegeben haben, oder du hast dein Schicksal voll und ganz akzeptiert.\! Ein Geständnis vielleicht, doch ich bin nicht derjenige, der das feststellt.
+
+message_7:
+    text:  \n<HERR WEBERKNECHT>Du bist \v[109] an mir vorbei gegangen.
+
+#  If：Lost Forest Entrances = 9
+
+message_8:
+    text:  \n<HERR WEBERKNECHT>Hier war mal ein Junge vorbeigelaufen, der dir sehr ähnlich sah.\! Er betrat die Dunkelheit und kam nie wieder heraus.
+
+message_9:
+    text:  \n<HERR WEBERKNECHT>Wie bedauerlich muss es wohl gewesen sein, niemals das zu finden, wonach er suchte.\! Sei es Reue, Niederlage oder Verwirrung, niemand wird es wissen.
+
+#  If：Lost Forest Entrances = 12
+
+message_10:
+    text:  \n<HERR WEBERKNECHT>Ich habe Verlorenes und ich habe Blindes gesehen, doch die Kombination ist beunruhigend.\! Vielleicht versteckst du dich vor dem richtigen Weg.
+
+#  If：Lost Forest Entrances = 15
+
+message_11:
+    text:  \n<HERR WEBERKNECHT>Moralen gehen bei den Bösen verloren.\! Wie bestimmt man Boshaftigkeit ohne Absicht?\! Warum gehst du diesen Weg, wenn es mit Sicherheit nicht der richtige Weg ist?
+
+#This stuff is unique to the map that you're on. He says it directly after the stuff above.
+
+#MAP 1
+message_12:
+    text:  \n<HERR WEBERKNECHT>Es gibt ein altes Sprichwort das sagt, dass man Zeit verschwendet, wenn man nicht sein eigenes Leben lebt.\! Träume können sich so anfühlen, wie dieser Wald.\! Verloren...
+
+#MAP 2
+message_13:
+    text:  \n<HERR WEBERKNECHT>Manchmal wenn wir Dinge vor uns selbst verstecken, erschaffen wir verschiedene Wahrheiten und vergessen irgendwann unseren Weg.\!<br>Hast du deinen schon gefunden, oder bist du noch immer verloren?
+
+#MAP 5
+message_18:
+    text:  \n<HERR WEBERKNECHT>Vergiss alles, was du bist, oder versuch es.\! Dunkelheit manifestiert sich, egal ob dir das bewusst ist oder nicht.\! Verstecke das Bewohnbare hinter Ignoranz und beobachte, wie deine Lüge fällt.
+
+#Once you complete the forest, his page 2 is always:
+message_19:
+    text:  \n<HERR WEBERKNECHT>Die Dunkelheit umgibt dich und ist schrecklich, doch deine "Wahrheit" hat dich geführt.\! Wie lange kannst du sie noch für dich behalten?
+
+#END
+
+message_21:
+    text:  \n<HERR WEBERKNECHT>Du hast das Ende des \c[11]VERLORENEN WALDES\c[0] erreicht...<br>aber erst den Anfang der Wahrheit.
+
+message_22:
+    text:  \n<HERR WEBERKNECHT>Ich werde dir eine Geschichte erzählen, die im Laufe der Zeit verlorengegangen ist...\!<br>eine Geschichte über die Erschaffung dieser Realität.
+
+message_23:
+    text:  \n<HERR WEBERKNECHT>Am Anfang gab es nur zwei...\!<br>den TRÄUMER und sein Zimmer.
+
+message_24:
+    text:  \n<HERR WEBERKNECHT>Der TRÄUMER wurde seines Zimmers leid und erschuf eine Tür, die zu vielen verschiedenen Welten führte.
+
+message_25:
+    text:  \n<HERR WEBERKNECHT>Als Besucher dieser Welten ging der TRÄUMER diesen Weg und kam und ging, wie es ihm gefiel.
+
+message_26:
+    text:  \n<HERR WEBERKNECHT>Rutscht und fällt, taumelt und stürzt...\! des TRÄUMER's Neugierde und ungeschickte Erkundung führten ihn schließlich in eine bestimmte Welt.
+
+message_27:
+    text:  \n<HERR WEBERKNECHT>Eine nicht wie die anderen...\!<br>eine bemalt mit Chaos und gebadet in Dunkelheit.
+
+message_28:
+    text:  \n<HERR WEBERKNECHT>Der TRÄUMER wurde langsam angsterfüllt. \!Leise wie sie gewesen sein mögen, schlichen sich Worte der Bosheit leise in seine Gedanken.\! Flüsterten Lügen, Geheimnisse und Wahrheiten.
+
+message_29:
+    text:  \n<HERR WEBERKNECHT>Machtlos, um das Getön zum Schweigen zu bringen, manifestierte der TRÄUMER wohlwollende Wesen in seinen verschiedenen Welten...
+
+message_30:
+    text: \n<HERR WEBERKNECHT>Dann verband er seine Welten über dem dunklen Reich...\! und versiegelte es mit ihrer kombinierten Macht.
+
+message_31:
+    text:  \n<HERR WEBERKNECHT>Doch trotz seiner kühnen Bemühungen ließ die Anwesenheit der Dunkelheit nie nach.\! Auch mit neuen Verbündeten scharrte und schabte die Dunkelheit weiter am Hinterkopf des TRÄUMER's.
+
+message_32:
+    text: \n<HERR WEBERKNECHT>Das Getön mag nachgelassen haben, doch es ging nie weg.
+
+message_33:
+    text: \n<HERR WEBERKNECHT>Der TRÄUMER könnte fliehen und seine Ängste vergraben, aber man muss sich immernoch dem eigenen Spiegelbild stellen.
+
+message_34:
+    text:  \n<HERR WEBERKNECHT>Was der TRÄUMER erschaffen hatte, war etwas, an dem er nicht teilnehmen konnte, etwas außerhalb von ihm selbst.
+
+message_35:
+    text:  \n<HERR WEBERKNECHT>Des TRÄUMER's eigene Macht war sein größter Gegner.\!<br>Wissen... oder die Abwesenheit davon, würde des TRÄUMER's größtes Geschenk werden.
+
+message_36:
+    text:  \n<HERR WEBERKNECHT>Den Gefahren seiner eigenen Gabe wirklich zu entkommen und in einen glückseligen Zustand der Unwissenheit aufzusteigen...\! Nur dann würde das Getön aufhören, die geistige Gesundheit des TRÄUMER's aufzuwühlen.
+
+message_37:
+    text:  \n<HERR WEBERKNECHT>Also...\! nahm der TRÄUMER einen anderen Namen an...\!<br>und entschied sich dazu, sich selbst zu vergessen.
+
+message_38:
+    text:  \n<HERR WEBERKNECHT>Von diesem Moment an lebte der TRÄUMER unter uns als...<br>\!einfacher Bewohner dieser Welt...\!<br>Selig mitreisend, unwissend über die eigene Fabrizierung.
+
+#leave
+
+message_39:
+    text:  \n<HERR WEBERKNECHT>Diese Reise ist zu anstrengend für schwache Nerven.\! Möchtet ihr gehen, Kinder?\! Ich kann es euch nicht verdenken.
+
+#message_39:
+#    text:  \n<HERR WEBERKNECHT>Versteht ihr, Kinder?
+    #JA/NEIN
+
+#message_40:
+#    text: \n<HERR WEBERKNECHT>Gut.\! Nun lasse ich euch mit einer Warnung davon.
+
+#message_41:
+#    text: \n<HERR WEBERKNECHT>Entschuldigt mich. So wiedersprüchlich ich auch bin, diese Geschichte war nicht dazu bestimmt, wiederholt zu werden.\! Nun lasse ich euch mit einer Warnung davon.
+
+message_41:
+    text: \n<HERR WEBERKNECHT>Kinder, ich muss euch warnen...
+
+message_42:
+    text:  \n<HERR WEBERKNECHT>Wie bei allen Dingen, die inner- und außerhalb dieser Welt geboren werden, wird ein Ende auch diese bedrohen.\! Obwohl der TRÄUMER das Unaufhaltsame gedämpft haben mag, wächst die Dunkelheit noch immer.
+
+message_43:
+    text:  \n<HERR WEBERKNECHT>Kein Verband kann eine ewige Wunde ersticken...\! und es wird einen Moment geben, in der ihr Einfluss durchbluten wird.<br><br>Vergesslich mag der TRÄUMER dieser Gefahr gegenüber sein, doch eine Gefahr vergisst nie zu sein.
+
+message_44:
+    text:  \n<HERR WEBERKNECHT>Dennoch kann das Ende dieser Welt unvermeidlich sein.\! Der TRÄUMER ist der einzige mit der Gabe, diese Welt wirklich zu befreien.
+
+message_50:
+    text: Diese Lampe wurde vor kurzem angemacht.
+
+message_51:
+    text: Ein alter Stumpf.

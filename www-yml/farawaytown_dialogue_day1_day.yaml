@@ -1,0 +1,93 @@
+#### Translation: Finished
+#### Editing: Partial
+
+#### Translated by: percivical
+#### Corrections by: bobbarberer
+
+message_1: Hmm...\! Niemand antwortet mir...\kel
+message_2: Vielleicht ist BASIL im Badezimmer oder so.\kel
+message_3: Nun, das ist in Ordung. Wir können später mit ihm reden.\kel
+message_4: Komm schon, \n[8]! Wir haben ein \c[4]FOTO ALBUM\c[0] zu finden!\kel
+message_10: \n<ANGEL>Meister ist zu der Fontäne beim \c[11]FARAWAY PLAZA\c[0] gegangen.\!<br>Er sagte, er würde dort ein paar Mädchen treffen für...\!<br>ein Date oder so...
+message_20: \n<CHARLIE>...
+message_21: \n<CHARLIE>... ... ...
+message_30: \n<DER REBELL>Ich werde dir nicht verraten, wo AUBREY steckt, bis du mich<br>\Com[2]DEN REBELL nennst!
+message_40: \n<KÜNSTLERIN>Hmmm...\! Dies ist wahrscheinlich mein bestes Werk bis jetzt!
+message_50: \n<KURZHAARMÄDCHEN>Ich habe mir gerade gewünscht, dass ich heute meine einzig wahre Liebe treffen werde!
+message_51: \n<KURZHAARMÄDCHEN>Wow...\! Der Junge mit der blonden Perrücke ist so cool...\!<br>Ich wünschte, ich wär so selbstbewusst wie er.
+message_60: \n<MODISCHE MUTTER>Mein Sohn BILLY ist so ein Verfechter für die Umwelt.\! Er und seine Freunde heben immer \c[4]MÜLL\c[0] um die Stadt herum auf.
+message_61: \n<MODISCHE MUTTER>Es ist schön zu sehen, dass so viele junge Leute heutzutage sich um den Planeten kümmern!
+message_70: \n<KOMISCHER MANN>All diese Behälter in diesem Abschnitt können recycled werden, um neue Behälter wieder und wieder und wieder zu erschaffen...\!<br>So ein wunderbares Konzept, nicht wahr?
+message_80: \n<SCHULLEITER>Gut gemacht, Tutor...\! Fühlen Sie sich frei dazu, morgen wiederzukommen!
+message_90: \n<ALTER BÄRTIGER>Aye, Kinder. Ihr habt mich während meiner Pause erwischt!
+message_91: \n<ALTER BÄRTIGER>\SINV[2]GW\{AH\{AHA\{HAH\{AHA!!\SINV[0]
+message_92: \n<ALTER BÄRTIGERY>Ich versuch' mich schon seit gut zehn Minuten zu entscheiden, was ich essen soll, aber ich weiß nich', warum ich so viel Aufhebens drum mach'...
+message_93: \n<ALTER BÄRTIGER>Egal was ich mir hol' wird auf jeden Fall lecker sein!
+message_100: \n<BLONDE OMI>Meine jüngste Tochter ist normalerweise so aufmerksam auf mich...\! Ich frage mich, wo sie ist.
+message_101: \n<BLONDE OMI>Sie war schon immer ziemlich still, aber sie hat in letzter Zeit viele neue Freunde gefunden.\! Ich hoffe, sie vergisst mich nicht...
+message_110: AMERIKANISCHER MANN's Augen sind auf den Fernseher fixiert.
+message_111: \n<AMERIKANISCHER MANN>\Com[2]Nummer 85 war weit geöffnet!\! \Com[2]Was für ein Pass war das bitte!?
+message_120: \n<AMERIKANISCHE MUTTER>Hat dir der Kuchen geschmeckt?\!<br>Ich arbeite daran, mein Rezept für den Sommerendsjahrmarkt zu perfektionieren!
+message_121: \n<AMERIKANISCHE MUTTER>Ich hab' bis jetzt jedes Jahr gewonnen, in dem ich beigetreten bin, und ich hoffe, dieses Jahr wird nicht viel anders sein!\! Ohoho!
+message_130: \n<SÜßES MÄDCHEN>Willkommen!\! Wir hoffen, unsere \c[3]SÜßIGKEITEN\c[0] bringen euch zum lächeln!
+message_131: \n<MISS CANDICE>\{\com[2]ICH HAB'S DIR DOCH GESAGT, CURTSEY!\! ES HEIßT \sinv[1]\"LÄCHELN\"\sinv[0]!\!
+message_132: \n<MISS CANDICE>\{\{\quake[1]\sinv[1]\"L\.Ä\.I\.C\.H\.E\.L\.N\.!"\sinv[0]
+message_133: \n<SÜßES MÄDCHEN>J-J-J-J-J-Ja, MISS CANDICE!
+message_134: \n<SÜßES MÄDCHEN>Willkommen!\! Wir hoffen, unsere \c[3]SÜßIGKEITEN\c[0] bringen euch zum lächeln!
+message_140: \n<EIN ZWILLING>\SINV[1]Frisches Brot...\SINV[0]
+message_141: \n<DER ANDERE ZWILLING>\SINV[1]Frisches Brot...\SINV[0]
+message_142: \n<DIE ZWILLINGE>\SINV[1]Möchtet ihr etwas frisches Brot?\SINV[0]
+message_150: \n<BRILLENMANN>Hallo, hallo!\! Mein Name ist GINO!
+message_151: \n<BRILLENMANN>Ich weiß, was ihr denkt, aber nein... dieser Laden gehört mir nicht...\! aber ich bekomme jedes Jahr zu meinem Geburtstag eine \c[3]GANZE PIZZA\c[0] umsonst, also ist das schon ziemlich cool.
+message_160: \n<HECTOR>\quake[1]\Com[2]Wuff! \{Wuff! \{Wuff!\}\} Wuff!\! \{Wuff! \}Wuff! \}Wuff!\quake[0]<br>\!(Ich bin ein guterJunge!)
+message_170: \n<SPORTLER>Huff...\! Huff...\! Oh, hey!\! Was geht ab?\! Huff...\!<br>Was machst du hier, KEL?<br>Bist du aus der Umgebung hier?
+message_171: \kelOh, whoa! Ich hätte nicht erwartet, dich hier zu sehen, JAY!
+message_172: \kel\n[8], das ist JAY. Er ist der Kapitän des Footballteams an meiner Schule!\! Ich wusste nicht, dass du auch Basketball spielst!
+message_173: \n<SPORTLER>Ehh...\! Huff...\! Ich bin nur hier, um die Zeit zu vertreiben.\! Es ist mehr ein Hobby als alles andere.
+message_174: \n<SPORTLER>Du versuchst, dem Basketballteam dieses Jahr beizutreten, nicht wahr, KEL?\! Vielleicht kannst du mir ein paar deiner Tricks beibringen! 
+message_175: \kelAuf jeden Fall! Hört sich nach Spaß an...
+message_176: \kelAber... vielleicht ein anderes Mal.\! Mein Kindheitsfreund \n[8] hier verlässt die Stadt in den nächsten paar Tagen, daher verbringen wir den ganzen Tag gemeinsam.
+message_177: \kelIch werde mich aber auf jeden Fall später mit dir austauschen!
+message_178: \n<SPORTLER>Gerne, wir können uns nächste Woche verabreden.\!<br>Selbe Zeit, selber Ort?
+message_179: \kelYup! Hört sich gut an! Wir sehen uns dann!
+message_180: \n<SPORTLER>Huff...\! Huff...\! Huff...\! Huff...
+message_190: \n<FALTIGE STIRN>Hey, Freunde! Es ist schön, euch zu sehen.\! Ich kehre bloß herum, sammle \c[4]MÜLL\c[0] auf, wische Oberflächen ab...\!<br>Ihr wisst schon...\! die übliche Arbeit.
+message_191: \n<FALTIGE STIRN>Seufz...\! Ich muss so viel putzen...\! Das ist alleine einfach nicht machbar!
+message_200: \n<KLEINES MÄDCHEN>Papa ist strenger mit mir, weil mein großer Bruder MICHAEL aufgehört hat, zur Schule zu gehen, weil er ein Musiker werden möchte...
+message_201: \n<KLEINES MÄDCHEN>Er spielt manchmal Gitarre am \c[11]FARAWAY PLAZA\c[0]!\!<br>Er ist richtig gut!
+message_210: \n<BUSCHBRAUEN>Tolle Leistung! Du solltest dir mal überlegen, Vollzeitnachhilfe zu geben!\!<br>Bitte komm morgen wieder!
+message_220: \n<ZOPFMÄDEL>Bitte besucht uns, wenn ihr Zeit habt!
+message_221: \n<ZOPFMÄDEL>Wir denken drüber nach, eine Willkommensparty in zwei Tagen zu veranstalten.\! Es wäre wirklich toll, wenn ihr kommen könntet!
+message_230: \n<BUNTES MÄDCHEN>Dieser Laden ist etwas klein, aber er hat sehr viele alte und seltene Sammlerstücke.\! Menschen kommen den ganzen Weg aus der Stadt her, um hier einzukaufen!
+message_240: \n<SCHROFFER MANN>Grummel, grummel...\! Die Röhre ist schon wieder kaputt gegangen...
+message_241: \n<SCHROFFER MANN>Mist...\! Ich schätze mal, ich versuch's morgen nochmal...
+message_250: \SINV[2]Schnipp, schnipp...\! schnipp, schnipp, schnipp...\SINV[0]
+message_251: \n<ROTBRILLENFRAU>Ah, hallo, ihr zwei! Ich habe euch so früh garnicht erwartet!
+message_252: \n<ROTBRILLENFRAU>Schaut mal hier!\! Mich um diese Bonsai zu kümmern ist ein Hobby von mir.\!<br>Es hilft mir...\! Stress abzubauen.
+message_253: \n<ROTBRILLENFRAU>Nachdem hier werde ich Abendessen heute Abend für meine zwei Kinder KIM und VANCE vorbereiten.\! Sie kommen besser nicht wieder zu spät...\! oder sonst...
+message_254: \SINV[2]SCHNIPP, \{SCHNIPP, SCHNIPP, \{SCHNIPP, SCHNIPP, \{SCHNIPP!!
+message_260: \n<GUTER HUND>\quake[1]\{WUFF! \}WUFF!\! \{WUFF! \{WUFF! \}WUFF! \}WUFF!
+message_261: \n<KÜNSTLER>\Com[2]\{LUCAS, hör auf, zu bellen!
+message_270: Sie zeichnet fleißig vor sich hin.
+message_280: \n<SCHÖNLING>Mein Leben war in letzter Zeit etwas stressig, aber Leute zu beobachten hilft mir, die Dinge ins rechte Licht zu rücken.
+message_281: \n<SCHÖNLING>Ich mache es mir vielleicht zur Gewohnheit, öfter in diesen Park zu kommen...\!<br>Ich denke, manchmal reicht es aus, anzuhalten und an den Rosen zu schnuppern, um sich zu entspannen!
+message_282: \n<SCHÖNLING>Oh nein, du siehst verletzt aus!\! Hier ist ein \c[5]VERBAND\c[0].\! Du kannst mehr in der \c[11]APOTHEKE\c[0] in \c[11]OTHERMART\c[0] kaufen.
+message_283: Du erhältst \c[5]VERBAND\c[0].
+message_290: \n<???>Seufz...\! Gibt es denn nichts, was ich tun kann?
+message_300: \n<PREDIGER>Ich bin auf dem Weg zur \c[11]KIRCHE\c[0], aber es ist ein Ritual von mir, einen kurzen Spaziergang zu machen, bevor ich meine Predigten halte.
+message_301: \n<PREDIGER>Seit ich ein Kind war, hatte ich schreckliches Lampenfieber./! Meinen Nerven hilft es aber immer, einen Spaziergang auf einem Wanderpfad zu machen.
+message_310: \n<RECYKULTIST>Wir sind RECYKULTISTEN, Anhänger der HEILIGEN TONNE!
+message_311: \n<RECYKULTIST>Da alle weggeworfen haben, müssen alle akzeptieren, dass sie \c[4]MÜLL\c[0] sind!
+message_312: \n<RECYKULTIST>\Com[2]\{REDUZIEREN, WIEDERVERWENDEN UND RECYCLEN!!
+message_320: \n<ZOPFMÄDCHEN>Meine Mutter und ich kaufen gerade gesunde Sachen im \c[11]OTHERMART\c[0], weil sie gestern alle Knabbereien in unserem Haus weggeworfen hatte...
+message_321: \n<ZOPFMÄDCHEN>Ich denke, sie ist in letzter Zeit verrückt nach gesundem Essen, weil mein Vater in letzter Zeit nur ungesundes Essen gegessen hatte...\! Warum können wir nicht einfach beides machen?
+message_323: \n<ZOPFFRAU>Mein Mann isst ständig ungesundes Essen!\! Ich muss sicherstellen, dass er eine gesunde Mahlzeit hat.
+message_330: \n<SCHUSSEL>Meine Frau sagt mir ständig, dass ich immer dicker und dicker werde, aber ich kann einfach nicht aufhören, wenn wir so nah an leckerem Essen wie \c[11]GINO'S PIZZA\c[0] leben!
+message_331: \n<SCHUSSEL>Oh...\! mmm...\! Pizza...
+message_340: \n<KAROMANN>Vielen Dank für eure Hilfe!\! Wir sind beide aus der Gegend, aber wir sind vor kurzem zusammen in ein brandneues Haus gezogen...
+message_341: \n<KAROMANN>Es ist auf der Straße in der Nähe von der \c[11]KIRCHE\c[0].
+message_350: \n<>Ich grüße dich, Mensch!\! Bitte nenn' mich TUCKER...
+message_400: Ein bescheidener Bienenstock.\! Möchtest du ihn stören?
+message_420: \n<APOTHEKER>Seit ihr Kinder wohlauf?\! Ein Fußgänger hat euch zwei ohnmächtig auf dem Boden gefunden und hierher gebracht./! Ihr wart in Wespenstichen übersät. 
+message_421: \n<APOTHEKER>Ich habe mich bereits um euch gekümmert...\! und...\! glücklicherweise scheint es so als ob keiner von euch allergisch ist, also sollte es euch jetzt gut gehen!
+message_422: \n<APOTHEKER>Aber beim nächsten Mal spielt ihr besser nicht so mit Wespenstöcken.\! Sie sind nicht zum spaßen!

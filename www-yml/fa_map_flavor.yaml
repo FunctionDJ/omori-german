@@ -1,0 +1,1843 @@
+#### Translation: Finished
+
+#### Translated by: jasu
+
+#FARAWAY MAP FLAVOR TEXT
+#============================
+
+#PLAYER'S Street - Map 13
+#============================
+
+#For Sale Sign:
+message_1:
+      text: Ein \"ZU VERKAUFEN\"-Schild mit einem großen, roten "VERKAUFT\"-Aufkleber..\!<br>Dein Haus wurde verkauft.\! In drei Tagen wirst du umziehen.
+
+message_2:
+      text: Ein \"ZU VERKAUFEN\"-Schild mit einem großen, roten \"VERKAUFT\"-Aufkleber..\!<br>Dein Haus wurde verkauft.\! In zwei Tagen wirst du umziehen.
+
+message_3:
+      text: Ein \"ZU VERKAUFEN\"-Schild mit einem großen, roten \"VERKAUFT\"-Aufkleber..\!<br>Dein Haus wurde verkauft.\! Morgen wirst du umziehen.\! ...\! Du wirst diese Stadt vermissen.
+
+message_4:
+      text: Ein \"ZU VERKAUFEN\"-Schild mit einem großen, roten \"VERKAUFT\"-Aufkleber..\!<br>Dein Haus wurde verkauft.\! Heute ziehst du um.
+
+#Mailbox:
+message_5:
+      text: Eine stilvoller, weißer Briefkasten.
+
+#Trash Cans:
+message_6:
+      text: Eine Reihe bunter Abfalleimer.\! Der schwarze ist für Müll, der blaue ist für Recyclebares und der grüne ist für Natur-Zeug.
+
+#Basketball Hoop:
+message_7:
+      text: KELs Basketballkorb.\!<br>Scheint etwas gefährlich, ihn auf der Straße aufzustellen...
+
+#Street:
+message_0:
+      faceset: MainCharacters_Faraway
+      faceindex: 17
+      text: Du solltest nicht einfach so auf die Straße laufen, \n[8]! Das ist gefährlich!\kel
+
+message_8:
+      text: Es ist gefährlich, auf die Straße zu laufen.
+
+#Dog House:
+message_9:
+      text: HECTORs Hundehütte.\!<br>Es ist ein wenig schmal, aber HECTOR scheint sie zu mögen.
+
+#Flamingo:
+message_10:
+      text: Plastik-Flamingos schmücken den Garten.\!<br>Sie scheinen in guter Form zu sein.
+
+#Birdhouse:
+message_11:
+      text: Ein leeres Vogelhaus voller Äste und Staub.
+
+#Statues:
+message_12:
+      text: Statue einer religiösen Figur.<br>\!...\! Sie scheint, dich zu verurteilen.
+
+#Road Work:
+message_13:
+      text: Hier werden Bauarbeiten durchgeführt.\!<br>Sigh...\! Manche Dinge ändern sich nie.
+
+#Fire Hydrant:
+message_14:
+      text: Ein Hydrant.
+
+message_15:
+      text: Es ist gefährlich, vom Zebrastreifen zu gehen.
+
+#============================
+
+message_16:
+      text: Eine Zimmerpflanze.
+
+#PLAYER'S House - Map 14
+
+#Cardboard Boxes:
+message_20:
+      text: Im Haus stehen überall Kartonboxen herum.
+
+#House Plant:
+message_21:
+      text: Eine kleine, künstliche Zimmerpflanze.
+
+#House Plant:
+message_22:
+      text: Eine gewöhnliche Zimmerpflanze.\! Nichts besonderes.
+
+#Bookcase - Dining Room:
+message_23:
+      text: MAMAs Büchersammlung.
+
+#Microwave:
+message_24:
+      text: Eine Mikrowelle.
+
+#Refrigerator:
+message_25:
+      text: Ein Kühlschrank.\! Willst du ihn öffnen?
+#[YES/NO]
+#[YES]
+message_26:
+      text: Leer.
+#NIGHT 1 ONLY
+message_27:
+      text: Ein \c[4]STEAK\c[0] ist im Kühlschrank.
+
+#Bathroom Cabinet:
+message_28:
+      text: Handtücher und Hygieneartikel.
+
+#Mirror:
+#(Show mirror slides - various)
+
+#Bathtub:
+message_29:
+      text: Eine Badewanne.
+
+#NEUTRAL - NIGHT 2:
+message_30:
+      text: Willst du baden?
+
+#Bookcase - Player's Room:
+message_31:
+      text: Dieses Bücherregal wurde ausgeräumt.
+
+#Computer:
+#First time, DAY 1+ -
+message_32:
+      text: Ein alter Computer.
+#[YES/NO]
+message_33:
+      text: Hier ist nichts drauf, außer ein Spiel namens BLACKJACK.\!<br>Willst du es spielen?
+#[YES/NO]
+#After -
+message_34:
+      text: Ein alter Computer.\! Willst du BLACKJACK spielen?
+
+#Phone:
+#NIGHT 1 - Voicemail
+#Other -
+message_35:
+      text: Ein Telefon, das MAMA dir ins Zimmer gestellt hat.\!<br>Es wird kaum benutzt.
+
+#Photos:
+message_37:
+      text: Familienfotos.
+
+#Pots and Pans:
+message_38:
+      text: MAMAs Pfanne.\!<br>Du kannst dich nicht daran erinnern, wann sie das letzte Mal benutzt wurde.
+
+#Bookcase - Piano Room:
+message_39:
+      text: Eine große Sammlung von Partiturbüchern.\! Viele von ihnen wurden nie geöffnet.
+
+#Piano:
+message_40:
+      text: Ein Flügel.\!<br>Das Wort \"OMORI\" ist in der Mitte eingraviert.
+
+#Toilet:
+message_41:
+      text: Eine Toilette.
+#[YES/NO]
+#Screen fades out. Toilet flush SFX, then fades in.
+
+#Mom's Bed:
+message_43:
+      text: MAMAs Bett.\!<br>Die Matratze ist zu hart für dich, gemütlich darin zu schlafen.
+
+#Sketchbook:
+#[Same as WS, but opens up new book]
+
+#Fireplace:
+message_44:
+      text: Ein Kamin. \!Zwischen den Ziegeln klemmen Nägel.
+
+#Grandfather Clock:
+message_45:
+      text: Eine der zwei alten Standuhren.\! Sie sind schon lange stehengeblieben, aber MAMA wollte sie behalten.
+
+message_47:
+      text: Ein Kleiderschrank.
+
+message_48:
+      text: Eine Menge Bücher.
+
+message_49:
+      text: Eine Toilette.
+
+message_108:
+      text: Ein sehr, sehr gemütliches Bett.
+
+message_127:
+      text: Draußen ist das Wetter herrlich...\! aber drinnen ist es besser.
+
+
+#============================
+
+#KEL's House - Map 15
+
+#Ofrenda / Photos:
+message_50:
+      text: Eine Menge Familienfotos.\! KEL hat wirklich viele Verwandte...
+
+#Figures Bookcase:
+message_51:
+      text: Ein Bücherregal voller Actionfiguren und Spielzeug.\!<br>Einige neue sind dabei, seit du das letzte Mal hier warst.
+
+#Red/Green Houseplant:
+message_52:
+      text: Eine kunstvolle Zimmerpflanze.\!<br>Sie gibt dem Raum einen netten Farbstich.
+
+#Books in Hallway Bookshelf:
+message_53:
+      text: Eine Menge Bücher.\! Die meisten sind über Angeln oder Golf...
+
+#Books on Table in Hallway:
+message_54:
+      text: Eine Menge neue Bücher auf dem Tisch.\!<br>\"Großartige Guide für Großartiges Grillen\"...\! \"Grillen ist ein Lebensstil\"...\! \"Wie man Hühnchen perfekt zubereitet\"...<br>Hmm...\! Scheint so, als hätte KELs Vater ein neues Hobby gefunden.
+
+#Coffee:
+message_55:
+      text: Eine halb-leere Kaffeetasse.
+
+#Family Photo:
+#*Family Photo Slide opens*
+message_56:
+      text: KELs und HEROs Familienfoto.\!<br>Welch gutaussehende Familie...
+
+#Laundry:
+message_57:
+      text: Schmutzige Wäsche.
+
+#Basketball:
+message_58:
+      text: Ein Basketball.
+
+#Vanity:
+message_59:
+      text: Ein Waschtisch.
+
+#Toilet:
+message_60:
+      text: Eine Toilette.
+
+#Kel's TV:
+message_61:
+      text: KELs Spielkonsole.\!<br>Sie scheint, oft benutzt zu werden.
+
+#Trophies:
+message_62:
+      text: HEROs Seite des Zimmers ist voller Auszeichnungen und Trophäen.
+
+message_63:
+      text: \"JÄHRLICHER HOT DOG-ESSWETTBEWERB - ERSTER PLATZ\".
+
+message_64:
+      text: \"STAATLICHER JUNIOR-KOCHWETTBEWERB - ERSTER PLATZ\".
+
+message_65:
+      text: \"STAATLICHER BUCHSTABIERWETTBEWERB - ERSTER PLATZ\".
+
+message_66:
+      text: \"STAATLICHE RECHENOLYMPIADE - ERSTER PLATZ\".
+
+message_67:
+      text: \"STAATLICHER DEBATTIERWETTBEWERB - MOST IMPROVED\".
+
+#Kel's Participation
+message_68:
+      text: KELs einzige Auszeichnung...\! <br>\"JÄHRLICHER HOT DOG-ESSWETTBEWERB - TEILGENOMMEN\"
+
+#Alarm Clock:
+message_69:
+      text: Ein Wecker... für beantwortungsvolle Personen.\!<br>Er klingelt 5 Minuten früher als er sollte.
+
+#Hero's Desk:
+message_70:
+      text: HEROs Schreibtisch.\!<br>Sehr sauber... Nicht ein einziger Radiergummi-Rest!
+
+#Kel's Desk:
+message_71:
+      text: KELs Schreibtisch.\!<br>Hier wird wohl nicht viel gearbeitet.
+
+#Kel's Bed:
+message_72:
+      text: KELs Bett.\! Immer unordentlich.
+
+#Kel's Wardrobe:
+#First time -
+message_73:
+      text: KELs Kleiderschrank...\!<br>Hey, hier sind $20.00 versteckt!\! Willst du sie nehmen?
+#[YES/NO]
+#[YES]
+message_74:
+      text: Du hast die $20.00 aus KELs Kleiderschrank genommen.
+#[NO]
+message_75:
+      text: Du hast die $20.00 in KELs Kleiderschrank gelassen.
+#After taking $20 -
+message_76:
+      text: KELs Kleiderschrank...\! minus $20.00.
+
+#Grandfather clock:
+message_77:
+      text: Eine Standuhr.
+
+#Sally's Cradle:
+message_78:
+      text: SALLYs Wiege.\! Ein kleines Flugzeug-Mobile hängt darüber.
+
+#Building Blocks:
+message_79:
+      text: Bauklötze.\!<br>Wahrscheinlich zuvor von KEL oder HERO gebraucht.
+
+#Teddy Bear:
+message_80:
+      text: Ein Stofftier.\!<br>Wahrscheinlich zuvor von KEL oder HERO gebraucht.
+
+#Bible:
+message_81:
+      text: Ein heiliges Buch.
+
+#Bass:
+message_82:
+      text: Ein singender Bass...\! Willst du ihn anmachen?
+#YES/NO
+#BGM stops.
+#Sings fish song.
+#After complete, goes back.
+
+#Fireplace:
+message_83:
+      text: KELs und HEROs Kamin.\! Über ihm sind einige Preis-Abzeichen.\! Welch talentierte Familie...
+
+#Food Bowl:
+message_84:
+      text: HECTORs Futter- und Wasserschale.\! Vollgesabbert!
+
+#Broken Teddy Bear:
+message_85:
+      text: Ein Plüschtier.\! Wahrscheinlich HECTORs...
+
+#Dog Bed:
+message_86:
+      text: HECTORs Hundebett.\! Er scheint ein wenig herausgewachsen zu sein.
+
+#Kel's Fridge:
+message_87:
+      text: KELs Kühlschrank.\!<br>Viele bunte Magneten sind drauf.\!<br>Welch spaß-liebende Familie...
+
+#Salt and Pepper:
+message_88:
+      text: Salz- und Pfefferstreuer.
+
+
+#Ball:
+message_89:
+      text: HECTORs Lieblings-Spielzeug.\! Das sieht man daran, wie eklig es ist.
+
+#Bamboo:
+message_90:
+      text: Eingetopfte Bambusstangen.\!<br>Zumindest glaubst du, dass es das ist...
+
+#TV Remote:
+message_91:
+      text: Eine Fernbedienung.\!<br>Rühre sie lieber nicht an... Sie gehen leicht verloren.
+
+#Shoe Rack:
+message_92:
+      text: Ein Schuhregal.
+
+#Coat Rack:
+message_93:
+      text: Eine Garderobe.
+
+message_94:
+      text: Ein Ball.
+
+#Pots and Pans:
+message_95:
+      text: Töpfe und Pfannen sind in der Küche verteilt.
+
+message_96:
+      text: Ein Toaster.
+
+message_97:
+      text: HEROs Bett.\! Perfekt gemacht...\! sowie HERO.
+
+message_98:
+      text: Ein netter, großer Fernseher.
+
+message_99:
+      text: Ein Spiegel.
+
+message_100:
+      text: Topfpflanzen.
+
+message_101:
+      text: Eine schicke Topfpflanze.
+
+message_102:
+      text: Eine schicke Handtasche.\! Willst du reinschauen?
+
+message_103:
+      faceset: MainCharacters_Faraway
+      faceindex: 17
+      text: \kelWas suchst du in Mamas Tasche, \n[8]?
+
+message_104:
+      text: Du hast \c[5]PFEFFERSPRAY\c[0] gefunden.\! Willst du es nehmen?
+
+message_105:
+      text: Du hast \c[5]PFEFFERSPRAY\c[0] erhalten!
+
+message_106:
+      faceset: MainCharacters_Faraway
+      faceindex: 16
+      text: \kelWoah! Mama hat \c[5]PFEFFERSPRAY\c[0]?\! Das könnte hilfreich sein, wenn wir in Schwierigkeit geraten.\! Gut mitgedacht, \n[8]!
+
+message_107:
+      text: Eine schicke Handtasche.
+
+message_109:
+      text: Auf Nimmerwiedersehen, Spinne.
+#============================
+
+#Cris's House - Map 16
+
+#Newspaper and Magazines:
+message_110:
+      text: Zeitungen und Magazine...\! Dieser Typ weiß, wie man sich entspannt.
+
+#Beer cans:
+message_111:
+      text: Getreidesaft in der Dose.
+
+#Empty cup:
+message_112:
+      text: Eine leere Tasse.\! Riecht immernoch nach Tee.
+
+#Coasters:
+message_113:
+      text: Ein Marmoruntersetzer-Set.\! Sieht sehr teuer aus...
+
+#Pie:
+message_114:
+      text: Ein weißes Porzellan-Teeset.\! Sieht sehr teuer aus...
+
+#Fireplace:
+message_115:
+      text: Ein Kamin.\! Scheint oft benutzt zu werden.
+
+#Family Photo:
+message_116:
+      text: Eine Menge Familienfotos. Diese Familie reist wohl viel.
+
+#Family Photo Yearly:
+message_117:
+      text: Fotos eines Mädchens, geschossen in ihrer Kindheit.\!<br>Irgendwann hat sie ihre Haare blau gefärbt.\!<br>Hey! Sie scheint so alt zu sein wie du!
+
+#Boombox:
+#*Plays Rock Music*
+message_118:
+      text: ...Das kam unerwartet.
+
+#Vases:
+message_119:
+      text: Eine Porzellanvase.\! Sieht sehr zerbrechlich aus... und sehr teuer...
+
+#Seashell:
+message_120:
+      text: Eine große Muschel.\! Wenn man eine Muschel an sein Ohr ranhält, kann man Meeresrauschen hören.
+
+#Bookcases:
+message_121:
+      text: Eine Menge Bücher und Magazine.
+
+#Mermaid Tail:
+message_122:
+      text: Ein selbstgemachter Fischschwanz, den man über die Beine anziehen kann.
+
+#Fish Bowl:
+message_123:
+      text: Ein großes Fischglas.\! Darin sind mindestens zwei Goldfische.\!<br>Sie sehen gesund aus!
+
+message_124:
+      text: Ein mittelgroßer Fernseher.
+
+message_125:
+      text: Ein Kühlschrank.
+
+message_126:
+      text: Preis-gewinnender Kuchen.
+
+#============================
+
+#Maverick's House - Map 17
+
+#Wine Glass:
+message_140:
+      text: Roter Saft in einem Glas.\! Er riecht ein wenig nach Trauben.
+
+#Bookshelf:
+message_141:
+      text: Eine Menge große, schwere Bücher.\!<br>Du kannst die Sprache auf den meisten Einbänden nicht lesen.
+
+#Bread:
+message_142:
+      text: Altes Brot auf einer Servierplatte.
+
+#Bread Kitchen:
+message_143:
+      text: Altes Brot auf einem Regal.
+
+#Altar:
+message_144:
+      text: Foto eines Fremden.
+
+#Bible in living room:
+message_145:
+      text: Ein heiliges Buch.\! Auf fast jeder Seite sind Rechnungen verteilt.
+
+#Wigs:
+message_146:
+      text: Eine Auswahl an Perücken steht auf dem Tisch.\!<br>Die gelbe fehlt...
+
+#Mirror:
+message_147:
+      text: Ein breitzackiger Kamm vor einem Spiegel.\!<br>Der Spiegel ist mit Klebezetteln übersät.<br><br>\"Schulter um 15 Grad nach hinten beugen\"...\!<br>\"Denk daran, die Finger beim Posieren anzuspannen\"...\!<br>\"Zeige ein Auge bei Provokation\"...<br>...\! Ugh...
+
+#Game Console:
+message_148:
+      text: Eine brandneue Spielkonsole.\!<br>Sie ist so glänzend und glatt!
+
+#Cactus:
+message_149:
+      text: Ein Kaktus.\! Robust und widerstandsfähig.
+
+#Scale:
+message_150:
+      text: Eine Waage.\!<br>Du weißt nicht, wann du das letzte Mal eine benutzt hast.
+
+#Twin Desks:
+message_151:
+      text: Dieser Tisch ist perfekt symmetrisch zu dem auf der anderen Seite.
+
+#Bed:
+message_152:
+      text: Die Falten in diesem Bett sind perfekt symmetrisch zu denen auf der anderen Seite.
+
+#Bookshelf:
+message_153:
+      text: Dieses Bücherregal ist das einzige in diesem Raum, das nicht perfekt symmetrisch ist.
+
+#Left Trophy:
+message_154:
+      text: \"NATIONALE BACK-MEISTERSCHAFT - ERSTER PLATZ\"
+
+#Right Trophy:
+message_155:
+      text: Diese Trophäe ist eine exakte Kopie von der auf der anderen Seite, um perfekt symmetrisch zu sein.
+
+#Fireplace:
+message_156:
+      text: Ein Kamin.\! Er scheint ab und zu benutzt zu werden.
+
+#Maverick's Room Chair:
+message_157:
+      text: Ein komisch platzierter Stuhl.\!<br>Er wurde wohl dramatisch weggeschoben.
+
+#============================
+
+#Other Street - Map 22
+
+#Bonsai Tree:
+message_170:
+      text: Ein Bonsai.
+
+#Street Lamp:
+message_171:
+      text: Eine Straßenlampe.
+
+#============================
+
+#Brent's House - Map 23
+
+#Books:
+message_180:
+      text: Dieses Haus ist mit Büchern für jedes Fach gefüllt.\! In den meisten stecken Lesezeichen oder Klebezettel.
+
+#Red Chair Desk:
+message_181:
+      text: Papiere liegen auf diesem Schreibtisch.\! Scheint so, als war jemand dabei, Arbeiten zu benoten...<br>\!Autsch...\! Für diese Schüler sieht das nicht gut aus.
+
+#Blue Chair Desk:
+message_182:
+      text: Papiere liegen auf diesem Schreibtisch.\! Viele große Worte, die du nicht lesen kannst... und ein Haufen unordentliche Schrift, die du nicht lesen kannst.
+
+#Slow Cooker:
+message_183:
+      text: Ein hochmoderner Schongarer.\!<br>Perfekt für beschäftigte oder faule Mütter...<br>Zumindest haben sie das so in der Werbung gesagt.
+
+#Mantle:
+message_184:
+      text: Familienfotos stehen auf diesem Kamin.\! Sie sehen etwas staubig aus.
+
+#Wall Art:
+message_185:
+      text: Wandbild einer Pflanze.\! Viel einfacher aufrechtzuerhalten als eine echte Pflanze.
+
+#Microwave:
+message_186:
+      text: Eine Mikrowelle.
+
+#Phone:
+message_187:
+      text: Ein Haustelefon.
+
+#Newspaper:
+message_188:
+      text: Zeitung.
+
+#Brent's Cabinet:
+message_189:
+      text: Hmm...\!<br>Hinter den Büchern haben sich Comics versteckt.
+
+#Brent's Coffee Table:
+message_190:
+      text: Ein offenes Buch liegt auf dem Tisch.<br><br><br>\"An dieser Stelle sollten wir einen kurzen Kommentar abgeben, wie die störungstheoretischen Elemente der Matrix zwischen Anfangs- und Endzustand der ebenen Welle in Problemen zu gebundenen Zuständen verwendet werden können. Natürlich könenn wir die Störungstheorie nicht direkt dafür verwenden, um die Energie des gebundenen Zustandes zu berechnen. Jedoch können wir ihr nahekommen, indem wir...\"<br>...\! Du legst das Buch wieder weg.
+
+#Library reading nook book:
+message_191:
+      text: Dieses Haus ist mit Büchern für jedes Fach gefüllt.\! In diesem geht es um etwas namens \"Nanomaterialien\".
+
+
+
+#Bonsai Tree:
+message_192:
+      text: Ein Bonsai.\! Dieser zeigt eine Menge Charakter.
+
+message_193:
+      text: Dieses Haus ist mit Büchern für jedes Fach gefüllt.\! In diesem geht es um etwas namens \"Organische Chemie\".
+
+message_194:
+      text: \"PREIS ZUM WISSENSCHAFTLICHEN DURCHBRUCH\".
+
+message_195:
+      text: Ein kleiner Fernseher.
+
+message_196:
+      text: Ein Computertisch.
+
+message_197:
+      text: Dieses Haus ist mit Büchern für jedes Fach gefüllt.\! In diesem geht es um etwas namens \"Mathematische Wissenschaften\".
+
+message_198:
+      text: Ein offenes Buch liegt auf dem Tisch.<br><br><br>\"Um die Form eines Bonsais beizubehalten, muss man ihn regelmäßig zurechtstutzen.\"<br><br>\"Bonsais wachsen unterschiedlich, also muss an jede Wachstumsrate einzeln angepasst werden.\"
+
+message_199:
+      text: Eine große Schale.
+
+#Kim's House - Map 24
+
+#Potted Plant:
+message_210:
+      text: Eine Topfpflanze.
+
+#Work Desk:
+message_211:
+      text: Ein Schreibtisch.\! Jemand hat seinen Planer offengelassen...<br>\!Die Wörter \"KIM\" und \"VANCE\" wurden für letzte Woche eingetragen.
+
+#Yoga Mat:
+message_212:
+      text: Eine Yogamatte.\! Yoga ist gut für dich, da es die Verbindung zwischen Körper und Geist stärkt...\! Zumindest hat dir MAMA das mal erzählt.
+
+#TV:
+message_213:
+      text: Im Fernsehtisch liegen ein Haufen Yoga-DVDs.
+
+#============================
+
+#Joy's House - Map 25
+
+#Magazines:
+message_230:
+      text: Eine Menge Magazine in einer Sprache, die du nicht lesen kannst.
+
+#Books:
+message_231:
+      text: Eine Menge Bücher in einer Sprache, die du nicht lesen kannst.
+
+#Offering:
+message_232:
+      text: Ausgezeichnete Frucht.
+
+#Sauce:
+message_233:
+      text: Ein paar Flaschen Soße und Essig.
+
+#TV:
+message_234:
+      text: Ein Tischfernseher.
+
+#Guitar:
+#*Guitar SFX*
+
+#Hat:
+message_235:
+      text: Eine alte Mütze liegt auf dem Bett.
+
+#Books:
+message_236:
+      text: Eine Menge Schulbücher.
+
+#Work Desk:
+message_237:
+      text: Ein Schreibtisch.
+
+message_238:
+      text: Eine Vase.\! Sie ist sehr staubig.
+
+message_239:
+      text: Du öffnest den Topf.\!<br>...\! Mmm...\! Riecht nach Dumplings.
+
+message_240:
+      text: Ein Holz-Untersetzerset.
+
+message_241:
+      text: Ein Reiskocher.
+
+message_242:
+      text: Ein Buch in einer Sprache, die du nicht lesen kannst.
+
+message_243:
+      text: Ein Ständer für Notenblätter.
+
+message_244:
+      text: Ein Schreibtisch.\! Er ist sehr staubig.
+
+message_245:
+      text: Eine GITARRE.
+
+#============================
+
+#Charlie's House - Map 26
+
+#Wheelchair:
+message_250:
+      text: Ein Rollstuhl.
+
+#Magazines:
+message_251:
+      text: Zeitungen und Magazine.\! Über die Zeit haben sie sich wohl angehäuft.
+
+#Mail:
+message_252:
+      text: Ein Haufen Briefe adressiert \"An Ma\".\!<br>Die Absenderadressen erstrecken sich über das ganze Land.
+
+#Trash Can:
+message_253:
+      text: Voller Verpackungen.
+
+#Cigarette:
+message_254:
+      text: Ein Aschenbecher.
+
+#Trash:
+message_255:
+      text: Müll ist über den ganzen Boden verteilt.\!<br>Urf...\! Hier riecht es nach verfaultem Essen.
+
+#Figures:
+message_256:
+      text: Eine Menge kleiner Figuren, erstaunlicherweise in gutem Zustand.
+
+#Bookshelf:
+message_257:
+      text: Eine Menge Bücher.\!<br>Die ganze unterste Reihe ist mit Schul-Jahrbüchern gefüllt.
+
+#Awards:
+message_258:
+      text: Viele Zertifikate und Preise schmücken die Wand.\!<br>Der älteste ist von vor fast zwanzig Jahren.
+
+#Washing Machine:
+message_259:
+      text: Eine Waschmaschine und ein Wäschetrockner.
+
+#Bathtub:
+message_260:
+      text: Eine Badewanne mit komischer Ausstattung.
+
+#Wheelchair:
+message_261:
+      text: Ein Rollstuhl für oben.
+
+#Love Letter:
+message_262:
+      text: Ein Liebesbrief liegt auf dem Tisch.\!<br>Hmm...\! Für wen könnte er sein?
+
+#Tea Party:
+message_263:
+      text: Eine nette Teeparty für zwei.
+
+#Flowers:
+message_264:
+      text: Schöne violette Blumen schmücken das Fensterbrett.
+
+#Bookcase:
+message_265:
+      text: Eine Menge Bücher, Comics und Magazine.
+
+message_266:
+      text: Limodosen.
+
+message_267:
+      text: Tisch für einen.\! Jemand hier bevorzugt es, alleine zu essen.
+
+message_268:
+      text: Komische Comics.
+
+message_269:
+      text: Auf die Zeitung wurde etwas draufgeschrieben.\!<br>\"Schau, Ma! Ich bin in den Nachrichten!\"
+#============================
+
+#Aubrey's Street - Map 31
+
+#Picnic Table:
+message_280:
+      text: Ein brandneuer Picknicktisch.
+
+#Flamingo:
+message_281:
+      text: Ein einzelner Flamingo schmückt den Garten.\!<br>Er scheint in gutem Zustand zu sein.
+
+#Pink Pinwheel:
+message_282:
+      text: Ein Windrädchen.
+
+#Traffic Signs:
+message_283:
+      text: Straßenschilder und Pylonen sind im Garten verteilt.
+
+#White Car:
+message_284:
+      text: Ein weißes mittelgroßes Auto.
+
+#Red Truck:
+message_285:
+      text: Ein alter, roter Kleinlaster.\!<br>Er scheint, die vorgegebene Lebenserwartung schon überschritten zu haben.
+
+#Trash Can:
+message_286:
+      text: Ein schwarzer Mülleimer.
+
+message_287:
+      text: Ein klassischer weißer Briefkasten.
+
+message_288:
+      text: Viele Autoteile sind im Garten verteilt.
+
+
+#============================
+
+#Vance's House - Map 32
+
+#Junk Food:
+message_300:
+      text: Ein nicht aufgegessenes KOMBI-MENÜ.\! Es sieht schimmelig aus.
+
+#TV:
+message_301:
+      text: Ein alter, zerschlagener Fernseher.
+
+#Dishes:
+message_302:
+      text: Dreckiges Geschirr.
+
+#Cup:
+message_303:
+      text: Eine Tasse voller schmutzigem Wasser.
+
+#Bucket:
+message_304:
+      text: Ein Eimer voller schmutzigem Wasser.
+
+#Tools:
+message_305:
+      text: Werkzeug.
+
+#Mop:
+message_306:
+      text: Ein nasser Mopp.
+
+#Bed:
+message_307:
+      text: Dieses Bett ist zu weich.
+
+#Magazines:
+message_308:
+      text: Eine Menge Bücher und Comics über Dinosaurier.
+
+#Vance Desk:
+message_309:
+      text: Ein unordentlicher Tisch, übersät mit Sammelkarten und \c[3]BONBON\c[0].
+
+#Bathroom:
+message_310:
+      text: Dieses Badezimmer hat schonmal bessere Tage gesehen...
+
+#Trash:
+message_311:
+      text: Ein großer Müllsack.
+
+message_312:
+      text: Du öffnest den Topf.\!<br>...\! \sinv[1]Mmmmm... Riecht nach Makkaroni mit Käse.
+
+#============================
+
+#Shaun and Karen's House - Map 33
+
+#Bookshelf:
+message_320:
+      text: Dieses Bücherregal ist leer.
+
+#Wallpaper:
+message_321:
+      text: Diese Wand wurde noch nicht komplett tapeziert.
+
+
+#============================
+
+#Sarah's House - Map 34
+
+#Coupons:
+message_330:
+      text: Ein Stapel Gutschein-Bücher.<br>Jemand in dieser Familie ist wohl Schnäppchenjäger!
+
+#Strawberries:
+message_331:
+      text: Eine Schüssel gesunde Erdbeeren.
+
+#Fridge:
+message_332:
+      text: \"GESUND ESSEN!\"\! \"KEIN JUNK FOOD!\" \!Kein Spaß erlaubt.
+
+#Trash:
+message_333:
+      text: Ein Mülleimer.\!<br>Bei genauerer Betrachtung kann man eine einwandfreie Box Donuts finden, die weggeschmissen wurde.
+
+#Room Memo:
+message_334:
+      text: Ein Papierstapel.\!<br>Jemand hat viel Zeit darin investiert, eine Diät für drei Personen zu planen.
+
+message_335:
+      text: Ein Vogelkäfig.\! Darin lebt ein schöner blauer Vogel.\!<br>Er sieht gesund aus!\! ...\! Aber nervös.
+
+message_336:
+      text: Abgelaufene Gutscheine...
+
+message_337:
+      text: Die Katze hat ihren Fokus laserscharf auf dem Vogelkäfig.
+
+message_338:
+      text: Ein offenes Buch liegt auf dem Tisch.<br><br><br>\"Er bewegt seine Hand langsam nach oben und streichelt sein Gesicht liebevoll...\! Ihre Blicke trafen sich, und sie wurden sofort voller brennender Leidenschaft.\"<br>...\! Oh.\! Vielleicht solltest du das nicht lesen.
+
+message_339:
+      text: Eine nicht aufgegessene Tüte Chips.
+
+message_348:
+      text: Eine Futter- und Wasserschale.
+
+message_349:
+      text: Eine Toilette.\! Und noch mehr Gutscheine...
+
+
+#============================
+
+#Aubrey's House - Map 35
+
+#Trash:
+message_340:
+      text: Müll ist auf dem Boden verteilt.
+
+#Magazines:
+message_341:
+      text: Alte Magazine und Comicbücher.
+
+#Cardboard Box:
+message_342:
+      text: Ein Karton.
+
+#Bunny:
+message_343:
+      text: \"BUN-BUN\"
+
+#Side Table:
+message_344:
+      text: Ein Seitentisch wird dazu verwendet, ein Loch in der Wand zu verdecken.
+
+#TV:
+message_345:
+      text: Ein kaputter Fernseher.
+#*Turns on*
+message_346:
+      text: Hmm...\! Scheint noch zu funktionieren.
+
+#Bucket:
+message_347:
+      text: Ein Eimer.\! Nützlich für regnerische Tage.
+
+
+message_356:
+      text: AUBREYs Bett...
+
+message_354:
+      text: Eine leere Pinnwand.\!<br>Hier hat AUBREY die Fotos von MARI gehortet...
+
+
+message_355:
+      text: Ein Foto von AUBREY und KIM.
+
+#============================
+
+#Church - Map 41:
+
+#Piano:
+message_350:
+      text: Ein Flügel.
+
+message_351:
+      text: Eine elegante Pflanze.
+
+message_352:
+      text: Ein Podium.
+
+message_353:
+      text: Ein Zeremonie-Tisch.
+
+#============================
+
+#Cemetary - Map 42:
+
+#Flowers:
+message_360:
+      text: Blumen.
+
+#Bread:
+message_361:
+      text: Brot.
+
+#headstone:
+message_362:
+      text: Eine weiße Reiherorchidee.\!<br>In der Sprache der Blumen symbolisiert sie die Phrase...<br>\!“Meine Gedanken verfolgen dich bis in deine Träume.”
+
+message_363:
+      text: Puzzleteile.
+
+message_364:
+      text: Ein Teddybär.
+
+#Cemetery Statue:
+
+message_365:
+      text: Das Symbol von \c[11]WEITWEG-STADT\c[0].\!<br>Es repräsentiert das Tor zu einem besseren Leben.<br><br>Du hast das in der Grundschule gelernt, aber du erinnerst dich nicht an die Details.
+
+message_366:
+      text: \"UNSERE LIEBSTE MARI\"\!<br>\"DIE SONNE SCHIEN HELLER, ALS SIE NOCH HIER WAR.\"
+
+message_367:
+      text: Das Grab könnte \c[4]BLUMEN\c[0] gebrauchen.
+
+message_368:
+      text: Willst du an dem Grab \c[4]BLUMEN\c[0] hinterlassen?
+#Yes/No
+#Yes (Screen goes black. Player and and followers are 1 step back. There are flowers at MARI's gtave.)
+
+message_369:
+      text: Ein Grabstein.
+
+message_359:
+      text: Es ist lange her, dass du von dieser Statue in den See gesprungen bist.\! Wasser war wochenlang in deinem Kopf...\! und manchmal fühlt es sich an, als wäre noch was übrig.
+
+
+#============================
+
+#Basil's Street - Map 45:
+
+#Pail and Shovel:
+message_370:
+      text: Eimer und Schaufel.
+
+#Yoyo:
+message_371:
+      text: Ein Jo-Jo.
+
+#Toy Cars:
+message_372:
+      text: Kleine Spielzeugautos.
+
+#Pick-Up Truck:
+message_373:
+      text: Ein blauer Kleinlaster.
+
+#Paint Buckets:
+message_374:
+      text: Farbeimer.
+
+#Lucas House:
+message_375:
+      text: Eine Hundehütte.
+
+#Fertilizer:
+message_376:
+      text: Dünger...\! Pee-ew!
+
+#============================
+
+#Basil's House - Map 46:
+
+#Bookcase - Basil's Room:
+message_390:
+      text: Eine Menge Bücher.\!<br>Die meisten sind über Gartenarbeit und Zimmerpflanzen-Pflege.
+
+#Family Photos in Hallway:
+message_391:
+      text: Fotos von Basil und seinen Eltern.\!<br>Du hast sie nie getroffen.
+
+#Camera:
+message_392:
+      text: BASILs Kamera.\! Sie sieht sehr staubig aus.
+
+#Watering Pail:
+message_393:
+      text: Eine Gießkanne.
+
+#Wheelchair:
+message_394:
+      text: Ein Rollstuhl.
+
+message_398:
+      text: Ein leeres Bett.
+
+message_396:
+      text: BASILs Großmutter atmet gleichmäßig.
+
+message_397:
+      text: Ein gemütlich aussehendes Bett.
+
+#============================
+
+#Jesse's House - Map 47:
+
+#Game Boy:
+message_410:
+      text: Ein transportierbares Spielgerät.
+
+#Arcade Machine:
+message_411:
+      text: Ein Arcade-Automat.\! Er scheint nicht zu funktionieren.
+
+#CPU:
+message_412:
+      text: Ein leuchtender Computerturm.\! Er ist seiner Zeit weit voraus!
+
+#Phonograph:
+message_413:
+      text: Ein altes Grammophon, das Kassetten abspielen kann.\!<br>Welch Innovation!
+
+#Walkman:
+message_414:
+      text: Der neueste Walkman.\! Wie schick!
+
+#Table Book:
+message_395:
+      text: Ein offenes Telefonbuch liegt auf dem Tisch.\!<br>Diese Person scheint nach skurillen Jobs zu suchen.
+
+#Game:
+message_415:
+      text: Ein brandneues Spielmodul.
+
+#============================
+
+#Bebe's House - Map 48:
+
+#Drinks:
+message_430:
+      text: Getränke stehen auf dem Tisch.\!<br>Aber sie werden wohl vorwiegend nur als Dekoration benutzt.
+
+#Coffee Machine:
+message_431:
+      text: Eine Kaffeemaschine.\!<br>Willst du eine Tasse \c[5]KAFFEE\c[0] kochen?
+#[YES/NO]
+#[YES]
+#*Coffee-making noise*
+message_432:
+      text: Du hast \c[5]KAFFEE\c[0] erhalten!
+
+#Recycle Trash Can:
+message_433:
+      text: Eine Recycle-Tonne.
+
+message_434:
+    text: Eine Menge Bücher und Magazine.\!<br>Die meisten sind über Innenarchitektur und Schönheitstipps.
+
+message_435:
+    text: Kartons.
+
+message_436:
+    text: Recyclebare Flaschen.
+
+#============================
+
+#Artist's House - Map 49:
+
+#Food Bowl:
+message_440:
+      text: LUCAS' Futter- und Wasserschale.\! Vollgesabbert!
+
+#Broken Teddy Bear:
+message_441:
+      text: Ein Stofftier.\! Es war mal in besserem Zustand...
+
+#Dog Bed:
+message_442:
+      text: LUCAS' Hundebett.\! Er scheint ein wenig herausgewachsen zu sein.
+
+#Ball:
+message_443:
+      text: LUCAS' Spielball.\!<br>Er scheint nicht viel damit zu spielen.
+
+#Canvas:
+message_444:
+      text: Ein unvollendetes Gemälde.
+
+#Paint:
+message_445:
+      text: Billige Farbe.
+
+#Corner paint:
+message_446:
+      text: Teile der Tapete wurden abgekratzt.\!<br>Jemand verbringt viel Zeit in dieser Ecke...
+
+#Trading cards:
+message_447:
+      text: Glänzende Sammelkarten liegen auf dem Tisch.
+
+#Trading cards on floor:
+message_448:
+      text: Sammelkarten sind auf dem Boden verteilt.
+
+#Puzzle:
+message_449:
+      text: Ein nicht beendetes Puzzle.
+
+#Figure Case:
+message_450:
+      text: Eine Menge kleine Figuren.
+
+
+message_451:
+      text: Eine Menge Kunstbücher.
+
+message_452:
+      text: A
+
+#============================
+
+#Plaza - Map 55:
+
+#Fountain:
+message_460:
+      text: Ein Brunnen.\! Am Grund kannst du \c[4]MÜNZEN\c[0] sehen.
+
+#Mailbox:
+message_461:
+      text: Ein normaler Briefkasten.
+
+#Fruit Cart:
+message_462:
+      text: Ein Obstwagen.\! Er ist hauptsächlich mit Orangen gefüllt.
+
+#============================
+
+#OTHERMART - Map 56:
+
+#Grapes:
+message_470:
+      text: Trauben.
+
+#Lemons:
+message_471:
+      text: Oragnen.\! Orangen in gelb.
+
+#Oranges:
+message_472:
+      text: Orangen.
+
+#Apples:
+message_473:
+      text: Äpfel.
+
+#Green Apples:
+message_474:
+      text: Äpfel in grün.
+
+#Veggies:
+message_475:
+      text: Gemüse.
+
+#Bananas:
+message_476:
+      text: Bananen...\! Noch ein wenig unreif.
+
+#Soda:
+message_477:
+      text: Limo.
+
+#Bottled Soda:
+message_478:
+      text: Raffinierte Limo.
+
+#Shopping Cart:
+#*makes shopping cart noise*
+
+#Ice:
+message_479:
+      text: Eis.\! Sehr kalt.
+
+#Frozen Foods and Drinks:
+message_480:
+      text: Gefrorenes Zeug.\! Vieles davon.
+
+#Packaged foods and spices:
+message_481:
+      text: Eingepacktes Essen und Gewürz.
+
+#Cereal and Cooking Ingredients:
+message_482:
+      text: Müsli und Kochzutaten.
+
+#Meats:
+message_483:
+      text: Rohes Fleisch.
+
+#Seafoods:
+message_484:
+      text: Rohe Meeresfrüchte.\! Riechen fischig...
+
+#Frozen Pizza:
+message_485:
+      text: Gefrorenes Fleisch.
+
+#Scale:
+message_486:
+      text: Küchenwaage.
+
+#Small Pastries:
+message_487:
+      text: Kleine Gebäche...\! Richt süß.
+
+#Bread:
+message_488:
+      text: Brot.\! Riecht toastig.
+
+#Pie:
+message_489:
+      text: Kuchen.
+
+message_490:
+      text: Eine Geldmaschine.
+
+message_491:
+      text: \"SONNTAGS GESCHLOSSEN\"
+
+message_592:
+      text: \"WEITWEG-FRIEDHOF\"
+
+message_593:
+      text: \"ZUR OTHERMART-APOTHEKE\"
+
+message_594:
+      text: \"ZU MISS CANDICES SÜßWARENGESCHÄFT\"
+#============================
+
+#Gino's Pizza - Map 57:
+
+#Table:
+message_500:
+      text: Alle Tische hier sind klebrig.
+
+#Barrel:
+message_501:
+      text: Ein Holzfass.
+
+#Sign:
+message_502:
+      text: \"BITTE NEHMEN SIE PLATZ\"
+
+#Frozen Drinks:
+message_503:
+      text: Gekühlte Limo und Getränke.
+
+message_504:
+      text: Mmm...\! Pizza...
+
+
+#Arcade Machine:
+#Plays SPROUT MOLE EATER
+
+
+#============================
+
+#Hobbeez - Map 58:
+
+#DVDs:
+message_510:
+      text: Voller DVDs.
+
+#Comics:
+message_511:
+      text: Voller Comics.
+
+#Gachapon:
+message_512:
+      text: Eine Kapselmaschine.\!<br>Willst du dein Glück versuchen?\! Es kostet nur $1.00...\$
+
+#Arcade:
+#Plays SBF mini-game
+
+#Books:
+message_513:
+      text: Eine Menge alte Magazine und Kinderbücher.
+
+#Poster:
+message_514:
+      text: Ein Poster für ein neues Spiel, in welchem du in andere Welten reisen kannst.\! Nichts, das du noch nicht gesehen hast.
+
+#Cards:
+message_515:
+      text: Spielkarten sind auf dem Tisch verteilt.
+
+#Checkers Board:
+message_516:
+      text: Ein Schachbrett.
+
+message_517:
+      text: Süßkram.
+
+message_518:
+      text: Werbung.
+
+message_519:
+      text: Ein Automat.
+
+message_520:
+      text: Eine Pappfigur von CAPT. SPACEBOY.
+
+message_521:
+      text: Eine alte Spielkonsole, verbunden an einen Fernseher.
+
+#Poster:
+message_522:
+      text: Ein Poster für ein neues Spiel, in welchem man rumrennen und gegen böse Monster kämpfen kann...\! auf Skateboards.
+
+#============================
+
+#Fixit - Map 59:
+
+#Safe:
+message_530:
+      text: Ein Tresor und ein Schlüssel.
+
+#Manual:
+message_531:
+      text: Ein offenes Buch liegt auf dem Tisch.\!<br>Eine Anleitung, wie man... schnell... reich... wird?<br>\!...\!\Com[2] Hey, das hat nichts mit Arbeit zu tun!
+
+#Paint:
+message_532:
+      text: Farbe.
+
+#Wallpaper:
+message_533:
+      text: Tapeten-Vorschau.
+
+#Tiles:
+message_534:
+      text: Boden- und Wandfliesen.
+
+#Lamps:
+message_535:
+      text: Lampen.
+
+#Colors:
+message_536:
+      text: Buntes Papier.
+
+#Cement:
+message_537:
+      text: Zement.
+
+#Nails and Nuts and Bolts:
+message_538:
+      text: Nägel, Muttern und Bolzen.
+
+#Toolboxes:
+message_539:
+      text: Eine große Auswahl an Werkzeug.
+
+#Furniture Misc:
+message_540:
+      text: Verschiedenes Hardware-Zeug.
+
+message_541:
+      text: \"LÄCHELN! DU BIST VOR DER KAMERA!\"
+
+#============================
+
+#Garden Fixit - Map 60:
+
+#Fancy Flower Arrangement:
+message_550:
+      text: Ein aufwendiges Blumengesteck.\!<br>Es wirkt etwas pompös.
+
+message_551:
+      text: Gardenwerkzeug.
+
+message_552:
+      text: Ein Schubkarren-Ding.
+
+#============================
+
+#Candy Store - Map 61:
+
+#Giant Lollipop:
+message_560:
+      text: Ein riesiger Lollipop.\! Scheint etwas übertrieben zu sein.
+
+#Candy:
+message_561:
+      text: So...\! viel...\! \c[3]SÜßES\c[0]...
+
+#Cardboard Cutout:
+message_562:
+      text: Eine Pappfigur der Ladenbesitzerin.\! Scheint etwas übertrieben zu sein.
+
+message_563:
+      text: \"WOW!! SÜßER KAUGUMMI!!\"
+
+message_564:
+      text: \"WEICHES WEICHES TOFFEE!!\"
+
+message_565:
+      text: \"GROßARTIGE SAURE BONBONS!!\"
+
+#============================
+
+#Pharmacy - Map 62:
+
+#Medicine:
+message_570:
+      text: Verschiedene Arten Medizin.
+
+#Consultation Sign:
+message_571:
+      text: \"BERATUNG (GRATIS)\"
+
+#Medication Sign:
+message_572:
+      text: \"MEDIKAMENTE (GEBÜHR)\"
+
+
+#============================
+
+#Park - Map 63:
+
+#Basketball Hoop:
+message_580:
+      text: Ein Basketballkorb.
+
+#Picnic Table:
+message_581:
+      text: Ein Picknicktisch.
+
+#Slide:
+message_582:
+      text: Eine Rutsche.\! Riecht nach rostigem Metall.
+
+#Jungle Gym:
+message_583:
+      text: Ein Klettergerüst.\! Riecht nach rostigem Metall.
+
+#Swings:
+message_584:
+      text: Schaukeln.\! Riecht nach rostigem Metall.
+
+#Tetherball:
+message_585:
+      text: Ein Tetherball.\! Riecht nach rostigem Metall.
+
+#Cat:
+message_586:
+      text: Eine große Metall-Katze.\!<br>Du hattest sie größer in Erinnerung.
+
+#Fruit Cart:
+message_587:
+      text: Ein Obstwagen.\! Er ist hauptsächlich mit Äpfeln gefüllt.
+
+message_588:
+      text: \"WEITWEG-PARK\"<br>\!\"DIE ZUKUNFT GEHÖRT DEN TRÄUMERN!\"
+
+#============================
+
+#Secret Lake
+
+#Pinwheel Assortment:
+message_600:
+      text: Windrädchen wehen frei im Wind.
+
+message_601:
+      text: Ein Picknick-Korb.
+
+#============================
+
+#Player's Backyard
+
+#Stump:
+message_610:
+      text: Ein Baumstumpf.
+
+#Stump 2 (After AUBREY changes it):
+message_611:
+      text: Ein Windrädchen auf einem Baumstumpf.
+
+message_612:
+      text: AUBREYs Mülleimer.
+
+#============================
+
+#Treehouse
+
+#Calendar:
+message_620:
+      text: Ein alter Kalendar.\! Er zeigt immernoch den Sommer von vor 4 Jahren.
+
+#TV:
+message_621:
+      text: Ein alter Fernseher.
+
+#Stuffed Toy:
+message_623:
+      text: Ein Stofftier von einem pinkhaarigen Mädchen.
+
+#Bat:
+message_624:
+      text: Ein Baseball-Schläger.
+
+#Plantegg:
+message_625:
+      text: AUBREYs Stofftier.
+
+#Playing Cards:
+message_626:
+      text: Spielkarten.
+
+
+#============================
+
+#Houses Misc.
+
+#Bed:
+message_640:
+      text: Dieses Bett ist ein wenig hart, aber insgesamt nicht schlecht.\! Du gibst ihm 7 von 10.
+
+#Bed:
+message_641:
+      text: Dieses Bett ist ein wenig weich, aber insgesamt nicht schlecht.\! Du gibst ihm 7 von 10.
+
+#Bed:
+message_642:
+      text: Dieses Bett ist perfekt zwischen hart und weich, aber das Bettlaken ist nicht sehr gemütlich.\!<br>Du gibst ihm 6 von 10.
+
+#Bed:
+message_643:
+      text: Dieses Bett ist okay, aber das Bettlaken würde in der Nacht viel zu warm werden.\!<br>Du gibst ihm 6 von 10.
+
+#Bed:
+message_644:
+      text: Dieses Bett ist groß, aber die Matratze ist uneben und klumpig.\!<br>Du gibst ihm 6 von 10.
+
+#Bed:
+message_645:
+      text: Dieses Bett ist so großund luxuriös! Und das Bettlaken ist so kühl und angenehm!\! Du gibst ihm 9 von 10.
+
+#Bed:
+message_646:
+      text: Dieses Bett ist ein bisschen viel...\! Du gibst ihm 5 von 10 allein für das Design.
+
+#Bed:
+message_647:
+      text: Dieses Bett ist dreckig...\! Du gibst ihm 1 von 10.
+
+#Bed:
+message_648:
+      text: Dieses Bett ist riesig und das Bettlaken ist in Ordnung, aber es riecht ein wenig muffig.\!<br>Du gibst ihm 5 von 10.
+
+#Bed:
+message_649:
+      text: Dieses Bett ist auf dem Boden.\!<br>Du weißt nicht, wie du es bewerten sollst.
+
+
+#Blue Lamp:
+message_650:
+      text: Eine nette Lampe.
+
+#Cream Lamp:
+message_651:
+      text: Eine einfache Lampe.
+
+#Pink Heart Lamp:
+message_652:
+      text: Eine schicke Lampe.
+
+#Bookcase:
+message_653:
+      text: Eine Menge Bücher, aber nichts interessantes.
+
+#Table Lamp:
+message_654:
+      text: Eine Tischlampe.
+
+#Work desk:
+message_655:
+      text: Ein Arbeitstisch.
+
+message_656:
+      text: Ein klassisches Gemälde.
+
+message_657:
+      text: Dieses Bett ist unordentlich.\! Du gibst ihm 3 von 10.
+
+message_658:
+      text: Du öffnest den Topf.\!<br>...\! Mmm...\! Riecht nach Marmelade.
+
+message_659:
+      text: Dreckiges Geschirr.
+
+message_660:
+      text: Dieses Bett ist klebrig.\! Toffee klebt auf dem Bettlaken.\!<br>Du gibst ihm 2 von 10.
+
+message_661:
+      text: Hier ist nichts.
+
+
+#==
+
+message_665:
+      text: Ein großes, rotes Stoppschild.
+
+message_666:
+      text: Eine Schiebetür in den Hintergarten.
+
+#==
+
+message_1000:
+      text: Ein Windrad weht frei im Wind.
+
+#==
+
+message_680:
+      faceset: MainCharacters_Faraway
+      faceindex: 13
+      text: Schau HERO, wir haben dein Lieblingsessen...\! \c[3]KEKSE\c[0] mit Schokostückchen und ein großes \c[3]HERO SANDWICH\c[0]!\kel
+
+message_681:
+      faceset: MainCharacters_Faraway
+      faceindex: 37
+      text: Aww... Wie nett...\! Es ist... genau wie letztes Jahr...\her
+
+#==
+
+message_682:
+      text: Bunte \c[4]CDs\c[0].\! Vielleicht könntest du sie an einer JUKEBOX abspielen.
+
+message_683:
+      text: Nicht aufgegessenes Frühstück.
+
+#==
+
+
+
+#GESCHLOSSEN Signs
+
+#GINOS
+message_690:
+      text: \"ÖFFNUNGSZEITEN... 10-2 UHR\"<br>\"EINTRITT NACH 22 UHR NUR AB 21 JAHREN\"
+
+#OTHERMART
+message_691:
+      text: \"GESCHLOSSEN\"<br>\!\"ÖFFNUNGSZEITEN... TÄGLICH 8-10 UHR\"
+
+#FIXIT
+message_692:
+      text: \"GESCHLOSSEN\"<br>\!\"ÖFFNUNGSZEITEN... TÄGLICH 11-8 UHR\"
+
+
+#TRAIN - ORANGE OASIS. ACCIDENTALLY PLACED HERE
+
+message_800:
+      text: \n<SCHAFFNER JASH>\"Meine Damen und Herren...\! Wir haben unser Ziel erreicht.\! Willkommen zur \c[11]ORANGENOASE\c[0], wo der Mond heller scheint.\"
+
+message_801:
+      text: \n<SCHAFFNER JASH>\"Bitte verlassen Sie den Zug ordnungsgemäß.\! Vielen Dank für Ihre Unterstützung.\"\! \}\quake[1]Bzzt...
+
+#BACKYARD
+
+message_1001:
+      text: Lange alleinegelassenes Spielzeug, entfärbt durch das Wetter.
+
+#SCOOTER AND BIKE
+
+message_1010:
+      text: Ein schicker silberner Roller.
+
+message_1011:
+      text: AUBREYs altes blaues Fahrrad.
+
+message_1012:
+      text: Ein blauer Picknick-Korb.\! Nicht annähernd wie MARIs.
+
+message_1013:
+      text: Du erhältst einen \c[5]VERBAND\c[0].
+
+message_1014:
+      text: Eine Schublade.
+
+message_1015:
+      text: Du erhältst einen \c[5]VERBANDSKASTEN\c[0].
+
+message_1016:
+      text: Maiglöckchen.\! Man sagt, sie wehren böse Geister ab und helfen Leuten, eine strahlende Zukunft zu sehen.

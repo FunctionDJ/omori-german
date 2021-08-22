@@ -6,13 +6,13 @@
   "description": "Deutsche Übersetzung für OMORI",
   "version": "dev",
   "files": {
-    "text": ["yml/"],
-    "plugins": ["js/"],
+    "text": ["www-yml/"],
+    "plugins": ["www-js/"],
     "assets": [
       "fonts/",
       "img/atlases/",
       "img/characters/"
     ],
-    "data": ["data/"]
+    "data": ["www-data/"]
   }
 }

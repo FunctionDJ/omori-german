@@ -1,0 +1,245 @@
+#### Translation: Finished
+
+#### Translated by: haj
+
+# =========================================================================================
+# Dino's Dig
+# =========================================================================================
+
+#-------------------------
+#Dino intro
+#-------------------------
+message_1:
+      text: \n<DINO>Hey da, kleine Abenteurer!\!<br>Willkommen zu Dino's Ausgrabung! Ich bin DINO, der Gründer von Dino's Ausgrabung!
+
+message_2:
+      text: \n<DINO>Ähm...\! Seid ihr Hungrig auf Schätze?\! Seid Ihr bereit für einen Löffel voller Abenteuer?\! Wenn ja, Seid Ihr hier genau richtig!
+
+
+message_3:
+      text: \$\n<DINO>Hier bei DINO'S DIG haben wir das ultimative Schatzsuch-Abenteuer geschaffen... die Ihr zum günstigen Preis von 100 MUSCHELN erleben könnt!
+
+message_4:
+      text: \$\n<DINO>Seid Ihr bereit, Spaß und Aufregung beim Graben nach Schätzen zu erleben?
+
+#[Nod/Shake]
+
+#[Nod]
+message_5:
+      text: \n<DINO>\SINV[1]\{\{DINO-TASTISCH!!\}\}\SINV[0]
+#Skip to GAME TUTORIAL
+
+#[Shake]
+message_6:
+      text: \n<DINO>Aww... Was ist los?\!<br>Ich dachte du wärst der abenteuerlustige Typ...
+
+#-------------------------
+#GAME TUTORIAL
+#-------------------------
+message_7:
+      text: \n<DINO>In Ordnung! Hört zu Kinder, das Wichtigste zuerst.\! Hier bei DINO'S Ausgrabung, graben wir mit \c[4]LÖFFELN\c[0]!
+
+#IF YOU DON'T HAVE A SPOON (EVERY TIME)
+message_106:
+      text: \n<DINO>Da du keinen \c[4]LÖFFEL\c[0] besitzt, gebe Ich dir einen \c[4]KARTOFFELLÖFFEL\c[0] gratis!
+
+message_8:
+      text: \n<DINO>Wähle, welchen \c[4]LÖFFEL\c[0] du verwenden möchtest..
+
+#OPEN SPOON MENU AND SELECT SPOON
+#Note: SPOONS that show up in the choices should be based off what is in your inventory
+
+message_100:
+      text: Möchtest du den \c[4][VARIABLE] LÖFFEL\c[0] verwenden?
+#[YES/NO]
+
+message_9:
+      text: \n<DINO>Da hast du's! Gut so, Bruder! Du lernst schnell, nicht wahr?
+
+message_10:
+      text: \n<DINO>In unserer besonderen Ausgrabungsstätte, der \c[11]LEBENSMITTEL-PYRAMIDE\c[0], kannst du supergeile Schätze aus dem ganzen Universum aufdecken...\! und das Beste daran ist... du darfst alles behalten, was du findest!
+
+message_11:
+      text: \n<DINO>\sinv[1]\com[2]\{DAS IST EINE DINO-GARANTIE!
+
+message_12:
+      text: \n<DINO>Ich Erklär dir Wie's Geht.\! Die \c[11]LEBENSMITTEL-PYRAMIDE\c[0] hat vier Level. \! Du fängst immer mit dem ersten Level an, aber wenn du Glück hast...
+
+message_13:
+      text: \n<DINO>findest du vielleicht einen \c[4]PYRAMIDEN SCHLÜSSEL\c[0], der das PYRAMIDENTOR zum nächsten Level freischaltet!\! Je höher das Level, desto besser der Schatz!
+
+message_14:
+      text: \n<DINO>Es gibt aber einen Hacken!\! Jeder \c[4]LÖFFEL\c[0] hat eine begrenzte Anzahl von Ausgrabungen, bevor er bricht.\! Zum Beispiel gehen \c[4]KARTOFFELLÖFFEL\c[0] kaputt, nachdem du 5 Mal gegraben hast!
+
+message_15:
+      text: \n<DINO>Wenn Ihr \c[4]LÖFFEL\c[0] zerbricht, endet die Schatzsuche, die PYRAMIDENTORE schließen sich, und wir rufen dich zurück zum Eingang.
+
+message_16:
+      text: \n<DINO>Hast du alles verstanden, was ich bis jetzt gesagt habe?
+#[YES/NO]
+
+#[YES]
+#message_5:
+#      text: \n<DINO>\SINV[1]\{\{DINO-TASTISCH!!\}\}\SINV[0]
+
+#[NO]
+#message_10-16
+
+message_17:
+      text: \n<DINO>Und jetzt ist es Zeit für unseren DINO-Disclaimer...\! Schätze sind nicht das Einzige, was du in der \c[11]LEBENSMITTEL-PYRAMIDE\c[0] finden wirst.
+
+message_18:
+      text: \n<DINO>Während deiner Runde könntest du Bösewichten begegnen, die mit dir kämpfen wollen...\! Wir haften nicht für Schäden, die dich oder dein Besitz gefärden können, weißt du?
+
+
+message_19:
+      text: \n<DINO>Wenn ein Bösewicht dich während des Kampfes ausknockt, ist das Spiel wirklich vorbei!
+
+message_20:
+      text: \n<DINO>Nun, das war's dann auch schon! Alles, was du noch tun musst, ist, diese Treppe hinaufzugehen, die süße \c[11]LEBENSMITTEL-PYRAMIDE\c[0] Luft zu riechen und mit dem Graben zu beginnen!
+
+message_21:
+      text: \n<DINO>\sinv[1]Habe ein DINO-TASTISCHES Abenteuer!
+
+#-------------------------
+#GAME end
+#-------------------------
+message_23:
+      text: \n<DINO>\{\Com[2]\sinv[1]DER LÖFFEL IST AUS!\! DAS SPIEL IST AUS!!\sinv[0]
+
+#[Transport to DINO'S DIG ENTRANCE]
+
+message_24:
+      text: \n<DINO>Hast du viele coole Schätze gefunden?<br>Ich hoffe, dir hat dein DINO-TASTISCHES-Abenteuer gefallen!
+
+#-------------------------
+#DINO DEFAULT
+#-------------------------
+
+message_25:
+      text: \n<DINO>Hey da, kleine Abenteurer! Willkommen zu Dino's Ausgrabung!
+
+message_26:
+      text: \$\n<DINO>Bist du bereit für ein weiteres DINO-TASTISCHES-Abenteuer?<br>Es kostet dich nur 100 CLAMS!
+
+#[Nod/Shake]
+#[Nod]
+message_27:
+      text: \n<DINO>Ich hoffe, Ihr Seid bereit für ein weiteres DINO-TASTISCHES-Abenteuer!
+
+#[Shake]
+message_28:
+      text: \n<DINO>Aww... Was ist los?! Ich dachte, du wärst der abenteuerliche Typ...
+
+#DINO walks to inside of DINO'S DIG
+
+#IF YOU DON'T HAVE A SPOON (EVERY TIME)
+#message_106:
+#      text: Since you don't have a SPOON, I'll give you a \c[4]POTATO SPOON\c[0] for free!
+
+message_111:
+      text: \n<DINO>Welchen LÖFFEL wirst du dieses Mal Verwenden?
+
+#OPEN SPOON MENU AND SELECT SPOON
+#Note: SPOONS that show up in the choices should be based off what is in your inventory
+
+message_110:
+      text: \n<DINO>Ihr seid alle bereit!<br>Erinnert ihr euch noch an die Regeln für DINO'S AUSGRABUNG?
+#[YES/NO]
+
+#[YES]
+#message 10-21 (same as intro)
+
+
+#[NO]
+message_112:
+      text: \n<DINO>Ja, ich dachte mir schon, dass du das hinbekommst!
+
+#message_21 (EVERY TIME)
+
+
+#=====
+#IF YOU DONT HAVE ENOUGH CLAMS:
+
+message_113:
+      text: \n<DINO>Hey, Mann...\! Ich will dir dieses DINO-TASTISCHE Abenteuer umsonst anbieten, aber wir brauchen auch CLAMS...\! Komm wieder, wenn du 100 CLAMS hast, okay?
+
+#-------------------------
+#DINO 2- DINO shops
+#-------------------------
+
+#Default>
+message_29:
+      text: \n<BRETT>Willkommen im DINO SHOP!\!<br>Laut meinem Logbuch steht hier, dass du insgesamt \v[1020] DINO DOLLARS hast!
+
+message_32:
+      text: \n<BRETT>Wenn du einen \c[4]LÖFFEL\c[0] kaufen willst, zeig ihn mir einfach und ich helfe dann weiter!
+
+#Purchase
+
+message_101:
+      text: \n<BRETT>Willst du einen \c[4]PLASTIKLÖFFEL\c[0] (10 Grabungen) für 3 DINO DOLLARS kaufen?
+
+message_102:
+      text: \n<BRETT>Willst du einen \c[4]HOLZLÖFFEL\c[0] (15 Grabungen) für 6 DINO DOLLARS kaufen?
+
+message_103:
+      text: \n<BRETT>Willst du einen \c[4]SILBERLÖFFEL\c[0] (20 Grabungen) für 10 DINO DOLLARS kaufen?
+
+#buy
+message_30:
+      text: \n<BRETT>Tolle Wahl! Ich hoffe, Du findest viele Schätze!
+
+#Insufficient funds
+message_31:
+      text: \n<BRETT>Tut mir leid, Kumpel. Du hast nicht genug DINO DOLLARS für das...
+
+#Dino 3
+
+message_33:
+      text: \n<CHAD>Die \c[11]LEBENSMITTEL-PYRAMIDE\c[0] hat ein Händchen dafür, verlorene Dinge zu finden.\!<br>Antike Artefakte...\! Alte Relikte, die in der Zeit verloren gegangen sind...\! Die Möglichkeiten sind endlos!
+
+# =========================================================================================
+# Excavation
+# =========================================================================================
+
+message_50:
+      text: Du brauchst einen \c[4]LÖFFEL\c[0] zum Graben.
+
+message_51:
+      text: Du hast \c[13]HECTOR\c[0] gefunden!
+
+message_52:
+      text: Und ein weiterer \c[4]LÖFFEL\c[0] beißt ins Gras...
+
+message_53:
+      text: !
+
+message_54:
+      text: Dein \c[4]LÖFFEL\c[0] ist kaputt!
+
+message_55:
+      text: Du hast den \c[4]PYRAMIDEN SCHLÜSSEL\c[0] verwendet.
+
+
+# =========================================================================================
+# Excavation
+# =========================================================================================
+
+message_120:
+      text: \"DINO'S DIG... JETZT MIT MEHR EXP!<br>Hol dir jetzt dein EXP!\"
+
+message_121:
+      text: \n<DINO>\sinv[1]\{\{WAS GEHT, ABENTEURER?
+
+message_122:
+      text: \n<DINO>Habt ihr schon gehört?\! Wir haben unsere Bösewichte Verbessert, damit sie größer... und böser sind... als je zuvor! Und du weißt, was das bedeutet...
+
+message_123:
+      text: \n<DINO>\sinv[1]\{\{MEHR EXP!!
+
+message_124:
+      text: \n<DINO>Kommt schon, Abenteurer! Worauf wartet ihr noch?
+
+message_125:
+      text: \n<DINO>Starte noch heute dein dino-tastisches Abenteuer!

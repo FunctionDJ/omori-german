@@ -1,22 +1,37 @@
 {
   "name": "omori-german",
-  "type": "module",
   "scripts": {
     "prepare": "husky install",
-    "build": "npm test && node scripts/build",
-    "test": "node scripts/check",
-    "toggle": "node scripts/toggle"
+    "build": "npm test && ts-node src/build",
+    "test": "eslint && ts-node src/check",
+    "toggle": "ts-node src/toggle",
+    "generate": "ts-node src/generate"
   },
   "devDependencies": {
+    "@babel/core": "^7.15.0",
+    "@babel/eslint-parser": "^7.15.0",
+    "@types/archiver": "^5.1.1",
+    "@types/google-spreadsheet": "^3.1.5",
+    "@types/imagemin": "^7.0.1",
+    "@types/js-yaml": "^4.0.3",
+    "@types/sharp": "^0.28.5",
+    "acorn": "^8.4.1",
+    "ajv": "^8.6.2",
     "archiver": "^5.3.0",
     "commander": "^8.1.0",
     "dotenv": "^10.0.0",
+    "eslint": "^7.32.0",
+    "eslint-config-standard": "^16.0.3",
+    "eslint-plugin-import": "^2.23.4",
+    "eslint-plugin-node": "^11.1.0",
+    "eslint-plugin-promise": "^5.1.0",
     "fast-glob": "^3.2.7",
+    "fast-json-patch": "^3.0.0-1",
     "google-spreadsheet": "^3.1.15",
     "husky": "^7.0.0",
-    "imagemin": "^8.0.0",
-    "imagemin-pngquant": "^9.0.2",
     "js-yaml": "^4.1.0",
-    "terser": "^5.7.1"
+    "sharp": "^0.29.0",
+    "terser": "^5.7.1",
+    "ts-node": "^10.2.1"
   }
 }

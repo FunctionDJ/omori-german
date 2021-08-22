@@ -1,0 +1,83 @@
+#### Translation: Finished
+
+#### Translated by: jasu
+
+# =========================================================================================
+# UNTIL NEXT TIME
+# =========================================================================================
+
+#pluto.message_18
+
+message_28:
+    text: >
+      \pluUnd, wie war der ruhige Flug?
+
+message_29:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 37
+    text: >
+      \herAngenehme Umgebung und entspannende Musik.<br>Ich würde ihm fünf von fünf Sternen geben.
+
+message_30:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 30
+    text: >
+      \kelSchnauf... Schnauf...\! Sagst du!\! Ich kann nichtmal mehr meine Arme spüren.
+
+message_31:
+    text: >
+      \pluKEL, ich muss schon sagen... Tolle Leistung, dich um dein Leben festzuhalten.
+
+message_32:
+    text: >
+      \pluDu hast das Potenzial dazu, sehr stark zu sein!\! Lass mich dir eine \c[1]FÄHIGKEIT\c[0] beibringen, die dir von Nutzen sein könnte.
+
+message_33:
+    text: >
+      \pluÄhem...\! Sprich mir nach.
+
+message_34:
+    text: >
+      \plu\Com[2]\{\quake[1]DURCH'S \c[1]MUSKELSPIEL\c[0] KOMM' ICH ANS ZIEL!!\}
+
+message_35:
+    text: >
+      \pluVersuche du es mal.
+
+message_36:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 17
+    text: >
+      \kel\Com[2]\{DURCH'S \c[1]MUSKELSPIEL\c[0],\} komm' ich \}ans...
+
+message_37:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 16
+    text: >
+      \kel\Sinv[1]Ziel?
+
+message_38:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 18
+    text: >
+      \kel\Com[2]\{HA! DAS HAT SICH SUPER ANGEFÜHLT!?\!<br>YEAH!! ICH BIN AUFGEREGT!!
+
+message_39:
+    text: >
+      \plu\}Hm...\! Daran sollte man noch arbeiten.\! Nichtsdestotrotz...\{
+
+message_40:
+    text: >
+      \pluDu hast es definitiv in dir!<br>\!Behalte diese Lehre gut im Kopf und benutze sie weise.
+
+message_41:
+    text: >
+      \pluLebt wohl, Kinder. Bis zum nächsten Mal.
+
+message_42:
+    text: >
+      KEL erlernt \c[1]MUSKELSPIEL\c[0]!
+
+message_43:
+    text: >
+      OMORI erlernt \c[1]BEOBACHTEN\c[0]!

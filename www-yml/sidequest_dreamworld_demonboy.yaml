@@ -1,0 +1,69 @@
+#### Translation: Finished
+#### Editing: Finished
+
+#### Translated by: lugi
+#### Corrections by: mewo
+
+# =========================================================================================
+# Book to Read
+# ========================================================================================
+
+#DEMI is facing a book shelf.
+
+message_0:
+      text: \n<DEMI>Hmm...\! Was soll ich lesen...\! Was soll ich lesen...\! Seufz...
+
+message_1:
+      text: \n<DEMI>Ich habe jedes Buch in diesem Regal schon über zwanzigmal gelesen...\! Hätte ich doch nur etwas Interessanteres zu lesen...
+
+#Examine Interesting book
+
+message_2:
+      text: Du erhältst ein \c[4]INTERESSANTES BUCH\c[0]!\!<br>Es ist...\! interessant...
+
+#Talk to DEMI
+
+message_3:
+      text: \n<DEMI>Hmm...\! Was soll ich lesen...\! Was soll ich lesen...\! Seufz...
+
+message_4:
+      text: \n<DEMI>Ich habe jedes Buch in diesem Regal schon über zwanzigmal gelesen...\! Hätte ich doch nur etwas Interessanteres zu lesen...
+
+#DEMI turns around.
+
+message_5:
+      text: \n<DEMI>\Com[2]Oha! Wo kommst du denn her?
+
+#You gave an INTERESTING BOOK to DEMI.
+message_13:
+      text: Du gibst DEMI ein \c[4]INTERESSANTES BUCH\c[0].
+
+message_6:
+      text: \n<DEMI>Wow...\! Dieses Buch...\! ist schon recht...\! interessant...\|<br>Hmm...\| Mhmm...\| Hmmmmmm...
+
+message_7:
+      text: \n<DEMI>Oh!\! Tut mir leid, ich war wohl kurz mit den Gedanken woanders.\!<br>Danke, dass du mir dieses \c[4]INTERESSANTE BUCH\c[0] gezeigt hast.\!<br>Dafür muss ich dir etwas geben...
+
+#DEMI turns to Bookshelf
+
+message_8:
+      text: \n<DEMI>Mal sehen...\! Wie wäre es...\! hiermit?
+
+#DEMI turns to party
+
+message_9:
+      text: \n<DEMI>Bitte schön.\! Dieses Buch enthält einige der traurigsten Gedichte, die je verfasst wurden.\! Viel Vergnügen!
+
+#DEMI gave you a POETRY Book
+
+message_10:
+      text: \n<DEMI>Nun, wo war ich...
+
+message_11:
+      text: \n<DEMI>Hmm...\| Mhmm...\| Hmmmmmm...
+
+#Quest complete
+
+#Afterquest, talk to DEMI
+message_12:
+      text: \n<DEMI>Hmm...\| Mhmm...\| Hmmmmmm...\! Sehr interessant...

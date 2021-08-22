@@ -1,7 +1,8 @@
-name: build
-on: push
+# yaml-language-server: $schema=https://json.schemastore.org/github-workflow.json
+name: Build mod
+on: workflow_dispatch
 jobs:
-  build:
+  Build-Mod-ZIP:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
@@ -14,17 +15,8 @@ jobs:
         env:
           WITH_V: true
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          DEFAULT_BUMP: patch
 
       - run: npm run build -- --git-tag ${{ steps.tag.outputs.tag }}
-
-      - name: Build changelog
-        id: changelog
-        uses: mikepenz/release-changelog-builder-action@v2.1.0
-        with:
-          failOnError: true
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       
       - name: Rename artifact
         run: mv "omori-german.zip" "omori-german-${{ steps.tag.outputs.tag }}.zip"
@@ -32,7 +24,8 @@ jobs:
       - name: Create release
         uses: ncipollo/release-action@v1
         with:
-          body: ${{ steps.changelog.outputs.changelog }}
+          draft: true
+          prerelease: true
           tag: ${{ steps.tag.outputs.tag }}
           artifacts: omori-german-${{ steps.tag.outputs.tag}}.zip
           artifactErrorsFailBuild: true

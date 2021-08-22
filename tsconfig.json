@@ -1,0 +1,19 @@
+{
+  "extends": "ts-node/node16/tsconfig.json",
+  "ts-node": {
+    "transpileOnly": true,
+    "files": true
+  },
+  "compilerOptions": {
+    "allowJs": false,
+    "noEmit": true,
+    "skipLibCheck": false
+  },
+  "exclude": [
+    "node_modules",
+    "www-js"
+  ],
+  "include": [
+    "src/**/*.ts"
+  ]
+}

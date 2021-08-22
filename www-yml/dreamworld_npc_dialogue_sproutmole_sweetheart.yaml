@@ -1,0 +1,683 @@
+#### Translation: Finished
+
+#### Translated by: jasu
+
+# =========================================================================================
+# Dreamworld NPC dialogue
+# =========================================================================================
+
+# ==============Sproutmole Village / Sweetheart's Castle====================================
+
+
+                        #====NIGHT 2====
+
+#BANDITO WURF
+#Location: Sprout Mole village
+
+message_0:
+      text: \who\}Zappel, zappel, zappel...\! Shh, shh, shh...
+
+#Beautiful Mole
+#Location: Sproutmole Village
+message_1:
+      text: \n<SCHÖNER WURF>Seht mich an...\!<br>Ich bin wahrlich der allerschönste SPROSSWURF, nicht wahr?
+
+#BOX Mole
+#Location: Sproutmole Village
+
+message_221:
+      text: \n<BOXWURF>Auf Weihnachten freue ich mich besonders sehr, aber warum nicht immer Weihnachten feiern?
+
+
+message_2:
+      text: \n<BOXWURF>Weihnachten ist ruiniert...
+
+#DIENER Mole
+#Location: Check Dream world -dungeon dialogue
+
+#CHEF Mole
+#Location: Sprout Mole Village
+#(TOFU TRIVIA copy)
+message_3:
+      text: \n<KOCHWURF>Ah ja, willkommen!\! Ihr seid wohl gekommen, um mehr über die neueste Koch-Innovation zu erfahren...\! \Com[2]\c[3]TOFU\c[0]!
+
+message_4:
+      text: \n<KOCHWURF>C'est magnifique!\!<br>Hier ist eure \c[3]TOFU\c[0]-Trivia des Tages.
+
+message_5:
+      text: \n<KOCHWURF>\Com[2]Wie könnt ihr es wagen, das Prestige von \c[3]TOFU\c[0] zu hinterfragen!?\!<br>Raus hier.\! Ihr widert mich an!
+
+message_6:
+      text: \n<KOCHWURF>Man benötigt etwa siebentausend achthundert vierundsiebzig aneinandergereihte \c[3]TOFU\c[0]-Blöcke, um einem Kilometer zu entsprechen!
+
+message_7:
+      text: \n<KOCHWURF>Es gibt vier Sorten von \c[3]TOFU\c[0]...\!<br>schnittfest, weich, Seidentofu und geräuchert!
+
+message_8:
+      text: \n<KOCHWURF>Schnittfester \c[3]TOFU\c[0] kann pfannengerührt, gebacken und gewürfelt werden, aber auch vieles mehr.\! Er kann Aromen aufnehmen und dabei seine Form beibehalten!
+
+message_9:
+      text: \n<KOCHWURF>Weicher \c[3]TOFU\c[0] ist am besten roh oder trocken zubereitet.\! Er ist am besten für Desserts, Smoothies, Dips und Saucen geeignet!
+
+message_10:
+      text: \n<KOCHWURF>Seiden\c[3]TOFU\c[0] ist cremig und kann zum Backen oder für Desserts, Soßen, Smoothies und Desserts verwendet werden!
+
+message_11:
+      text: \n<KOCHWURF>Räucher\c[3]TOFU\c[0] ist eine super Alternative zu Fleisch!
+
+message_12:
+      text: \n<KOCHWURF>\c[3]TOFU\c[0] hat hohe Sojaanteile und ist nicht zu empfehlen, wenn man Nierensteine hat!
+
+message_13:
+      text: \n<KOCHWURF>Der beste Weg, um \c[3]TOFU\c[0] Geschmack zu verleihen, ist ihn zu glasieren, bis er gold wird, und dann zu marinieren.\! Er wird die ganzen Aromen aufnehmen, bis die Soße zu Sirup wird, der an der Pfanne klebt!
+
+message_14:
+      text: \n<KOCHWURF>Solltet ihr mehr über großartigen und majestätischen \c[3]TOFU\c[0] erfahren wollen, sprecht mich gerne nochmal an.\! Ho-ho!
+
+#DOPPELWURF
+#Location: Sprout Mole Village
+message_20:
+      text: \n<DOPPELWURF>Wir sind zwei!\! Wir sind eins!\! Wir sind zweins?
+
+#DUMMWURF
+#Location: Sprout Mole Village
+message_21:
+      text: \n<DUMMWURF>This wall is nice and cold!
+
+#ELDER WURF
+#Location: Sprout Mole Village
+message_22:
+      text: \n<OBERWURF>Ich arbeite an revolutionärer Technologie, die das Leben in der Kolonie...\! nein...\! der ganzen Welt verändern wird!
+
+#ELDER WURF JR.
+#Location: Sprout Mole Village
+message_23:
+      text: \n<OBERWURF JR>In letzter Zeit hatte ich Probleme, gut zu schlagen!\! Wenn ich doch nur etwas hätte, womit ich gemütlicher schlafen kann...
+
+#Fall mole: Location Sprout Mole village Note: Check Season mole yaml
+#Family Mole 1: Check Delivery for brother yaml
+
+#Family Mole 2
+#Location: Sprout Mole Village
+message_24:
+      text: \n<FAMILIENWURF>Ich hasse Montage.
+
+#FAMILIENWURF 3
+#Location: Sprout Mole Village
+message_25:
+      text: \n<FAMILIENWURF>Wir SPROSSWÜRFE trauen uns seit dem großen Umzug nicht mehr, die Kolonie zu verlassen.\! Es waren schwere Zeiten...
+
+message_26:
+      text: \n<FAMILIENWURF>Viele von uns schafften es nicht...\! SPROSSWÜRFE verirrten sich hier und dort...\! Kinder wurden von ihren Familien getrennt!\! Oh, welch Horror!
+
+message_27:
+      text: \n<FAMILIENWURF>Ich meine, wenigstens ist jetzt alles in Ordnung...\! größtenteils.
+
+#FLAMINGO WURF
+#Location: Sprout Mole Village
+
+message_30:
+      text: \n<FAMILIENWURF>Trotz ihrer Intelligenz sind SPROSSWÜRFE sehr obsessive Wesen.\! Wie ihr seht, mangelt es mir an jeglicher Selbstbeherrschung.
+
+#WÄCHTER WURF
+#Location: Sweetheart's Castle
+#Check DREAM WORLD - DUNGEON DIALOGUE.
+
+#MAGD WURF
+#Location: Sweetheart's Castle
+#Check DREAM WORLD - DUNGEON DIALOGUE.
+
+#OFFIZIER WURF
+#Location: Sprout Mole Village
+message_32:
+      text: \n<OFFIZIER WURF>Es ist unsere Pflicht als Offiziere, die Schurken hier zu behalten, um Frieden zu bewahren!
+
+#ROSA
+#Location: N/A
+
+#SPORTWURF
+#Location: Sprout Mole Village
+message_33:
+      text: \n<SPORTWURF>Keuch...\! keuch keuch...
+
+#SPRING WURF
+#Location: Sprout Mole Village -Seasonal Gifts Quest
+#Check DREAM WORLD QUEST DIALOGUE.
+
+#SPROSSWURF MIKE
+#Location: Sweetheart's Castle
+#[Main Story]
+
+#STUDENT WURF 1
+#Location: Sprout Mole Village
+message_40:
+      text: \n<STUDENT WURF>Hey, schaut was ich gemalt habe!
+
+#STUDENT WURF 2
+#Location: Sprout Mole Village
+message_41:
+      text: \n<STUDENT WURF>G-glaubt ihr, wir werden nach dem Abschluss immernoch Freunde sein?
+
+#STUDENT WURF 3
+#Location: Sprout Mole Village
+message_42:
+      text: \n<STUDENT WURF>Trotz meiner \QUAKE[1]WUT\QUAKE[0], finde ich Stille in meiner inneren Glut.
+
+#SUE KOCHWURF 1 & SUE KOCHWURF 2
+#Location: Sprout Mole Village
+message_43:
+      text: \n<STELLVERTRETER KOCHWURF>Wie kannst du es wagen, solch Blasphemie auszusprechen!\! Es ist Allgemeinwissen, dass \c[3]TOFU\c[0] besser heiß zubereitet wird!
+
+message_44:
+      text: \n<STELLVERTRETER KOCHWURF>Bist du irre?\! Jeder SPROSSWURF mit etwas Vernunft weiß, dass \c[3]TOFU\c[0] besser kalt zubereitet wird!
+
+message_45:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 39
+      text:  \herHey, kein Grund zum Streiten.\! Warum einigt ihr euch nicht einfach auf einen Kompromiss?
+
+message_46:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 37
+      text: \herWer weiß?\! Vielleicht habt ihr beide recht!\! Vielleicht könnt ihr \c[3]TOFU\c[0] in in einer neuen Weise zubereiten...\! Etwas zwischen heiß und kalt, wie wäre es mit...
+
+message_47:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 47
+      text: \herWeiß nicht...\! L-Lauwarm?
+
+message_48:
+      text: \n<STELLVERTRETER KOCHWURF>...
+
+message_49:
+      text: \n<STELLVERTRETER KOCHWURF>\sinv[1]Eeeeewwwwwwwwwwwwww...
+
+message_50:
+      text: \n<STELLVERTRETER KOCHWURF>Lauwarmes \c[3]TOFU\c[0]?\! Das ist die schlechteste Idee, die ich jemals gehört habe.\!<br>Sogar kaltes \c[3]TOFU\c[0] ist besser als das...
+
+message_51:
+      text: \n<STELLVERTRETER KOCHWURF>Lauwarmes \c[3]TOFU\c[0]?\! Ich muss mich übergeben.\!<br>Sogar heißes \c[3]TOFU\c[0] ist besser als das...
+
+#SUE KOCHWURF 3
+#Location: Sprout Mole Village
+message_60:
+      text: \n<STELLVERTRETER KOCHWURF>Ich habe keine Ahnung, was ich tue!
+
+#SUMMER WURF
+#Location: Sprout Mole Village -Seasonal Gifts Quest
+#Check DREAM WORLD QUEST DIALOGUE.
+
+#SWEETHEART
+#Location: N/A
+
+#TEACHER WURF
+#Location: Sprout Mole Village
+message_61:
+      text: \n<LEHRER WURF>Ich habe keine Ahnung, was ich tue!
+
+#TOFU JASH
+#Location: Sprout Mole Village - Tofu Shop (Jash Quest)
+#Check SHOP DIALOGUE GUIDE
+
+#WALL WURF
+#Location: Sprout Mole Village
+
+message_62:
+      text: Dieser SPROSSWURF wurde mit Sekundenkleber an die Wand befestigt.
+
+#WINTER WURF
+#Location: Sprout Mole Village -Seasonal Gifts Quest
+#Check DREAM WORLD QUEST DIALOGUE.
+
+
+                        #====NIGHT 3====
+
+
+#BANDITO WURF
+#Location: Sprout Mole Village - B.E.D Trade Quest 1
+#Refer to SIDEQUEST: B.E.D.
+
+#BEAUTIFUL WURF
+#Location: Sprout Mole Village
+#Same as NIGHT 2.
+
+#BOXWURF
+#Location: Sprout Mole Village
+#Same as NIGHT 2.
+
+#DIENER WURF
+#Location: Sweethearts Castle
+message_80:
+      text: \n<DIENER WURF>Seufz...\! Jetzt wo SWEETHEART weg ist, hat das Leben keinen Sinn mehr...
+
+#KOCHWURF
+#Location: Sprout Mole Village - B.E.D. Trade Quest 3
+#Same as NIGHT 2.
+
+#DOPPELWURF
+#Location: Sprout Mole Village
+#Same as NIGHT 2.
+
+#DUMMWURF
+#Location: Sprout Mole Village
+#Same as NIGHT 2.
+
+#ELDER WURF
+#Location: Sprout Mole Village- B.E.D. Trade Quest 2
+#Refer to SIDEQUEST: B.E.D.
+
+#ELDER WURF JR.
+#Location: Sprout Mole Village- B.E.D. Trade Quest 5
+#Refer to SIDEQUEST: B.E.D.
+
+#FALL WURF
+#Location: Sprout Mole Village- Seasonal Gifts Quest
+#Same as NIGHT 2.
+
+#FAMILIENWURF 1
+#Location: Sprout mole Village- Delivery for Brother Quest
+#Same as NIGHT 2.
+
+#FAMILIENWURF 2
+#Location: Sprout Mole Village
+#Same as NIGHT 2.
+
+#FAMILIENWURF 3
+#Location: Sprout Mole Village
+#Same as NIGHT 2.
+
+#FLAMINGO WURF
+#Location: Sprout Mole Village
+#Same as NIGHT 2.
+
+#WÄCHTER WURF
+#Location: Sweetheart's Castle
+message_81:
+      text: \n<WÄCHTER WURF>Jetzt wo SWEETHEART weg ist, hat das Leben keinen Sinn mehr.
+
+#MAGD WURF
+#Location: Sweetheart's Castle
+message_82:
+      text: \n<MAGD WURF>Jetzt wo SWEETHEART weg ist, hat das Leben keinen Sinn mehr.
+
+#OFFIZIER WURF
+#Location: Sprout Mole Village
+#Same as NIGHT 2.
+
+#ROSA
+#Location: Sprout Mole Village
+message_83:
+      text: \n<ROSA>Nach dem Hochzeitschaos ist SWEETHEART abgehauen und nie wieder zurückgekehrt!\! \Com[2]Das ist alles eure Schuld!
+
+#SPORTWURF
+#Location: Sprout Mole Village- B.E.D. Trade Quest 4
+#Refer to sidequest_BED
+
+#SPRING WURF
+#Location: Sprout Mole Village -Seasonal Gifts Quest
+#Same as NIGHT 2.
+
+#SPROSSWURF MIKE
+#Location: Sweetheart's Castle
+message_84:
+      text: \n<SPROSSWURF MIKE>Seufz...\! Was soll ich nur tun, jetzt wo SWEETHEART weg ist... Sie war mein Ein und Alles...
+
+#STUDENT WURF 1
+#Location: Sprout Mole Village
+#Same as NIGHT 2.
+
+#STUDENT WURF 2
+#Location: Sprout Mole Village
+#Same as NIGHT 2.
+
+#STUDENT WURF 3
+#Location: Sprout Mole Village
+#Same as NIGHT 2.
+
+#SUE KOCHWURF 1
+#Location: Sprout Mole Village
+#Same as NIGHT 2.
+
+#SUE KOCHWURF 2
+#Location: Sprout Mole Village
+#Same as NIGHT 2.
+
+#SUE KOCHWURF 3
+#Location: Sprout Mole Village
+#Same as NIGHT 2.
+
+#SUMMER WURF
+#Location: Sprout Mole Village -Seasonal Gifts Quest
+#Same as NIGHT 2.
+
+#SWEETHEART
+#Location: N/A
+
+#TEACHER WURF
+#Location: Sprout Mole Village
+#Same as NIGHT 2.
+
+#TOFU JASH
+#Location: Sprout Mole Village - Tofu Shop (Jash Quest)
+#Same as NIGHT 2.
+
+#WALL WURF
+#Location: Sprout Mole Village
+#Same as NIGHT 2.
+
+#WINTER WURF
+#Location: Sprout Mole Village -Seasonal Gifts Quest
+#Same as NIGHT 2.
+
+
+                        #====NIGHT 4====
+
+
+#BANDITO WURF
+#Location: Sprout Mole Village
+#Same as NIGHT 3.
+
+#BEAUTIFUL WURF
+#Location: Sprout Mole Village
+#Same as NIGHT 2.
+
+#BOXWURF
+#Location: Sprout Mole Village
+#Same as NIGHT 2.
+
+#DIENER WURF
+#Location: Last Resort
+message_85:
+      text: \n<DIENER WURF>Ich bin hierher gekommen, weil sie Jobs angeboten habeen...
+#After Mr.Jawsum leaves Last Resort
+#Location: Sweetheart's Castle
+
+#KOCHWURF
+#Location: Sprout Mole Village - B.E.D. Trade Quest 3
+#Same as NIGHT 3.
+
+#After B.E.D Trade Quest
+#Same as NIGHT 2.
+
+#DOPPELWURF
+#Location: Sprout Mole Village
+#Same as NIGHT 2.
+
+#DUMMWURF
+#Location: Sprout Mole Village
+#Same as NIGHT 2.
+
+#ELDER WURF
+#Location: Sprout Mole Village- B.E.D. Trade Quest 2
+#Same as NIGHT 3.
+
+#After B.E.D Trade Quest
+#Same as NIGHT 2.
+
+#ELDER WURF JR.
+#Location: Sprout Mole Village- B.E.D. Trade Quest 5
+#Same as NIGHT 3.
+
+#After B.E.D Trade Quest
+#Same as NIGHT 2.
+
+#FALL WURF
+#Location: Sprout Mole Village- Seasonal Gifts Quest
+#Same as NIGHT 2.
+
+#FAMILIENWURF 1
+#Location: Sprout mole Village- Delivery for Brother Quest
+#Same as NIGHT 2.
+
+#FAMILIENWURF 2
+#Location: Sprout Mole Village
+#Same as NIGHT 2.
+
+#FAMILIENWURF 3
+#Location: Sprout Mole Village
+#Same as NIGHT 2.
+
+#FLAMINGO WURF
+#Location: Sprout Mole Village
+#Same as NIGHT 2.
+
+#WÄCHTER WURF
+#Location: LAST RESORT
+message_86:
+      text: \n<WÄCHTER WURF>Ich bin hierher gekommen, weil sie Jobs angeboten haben...
+#After Mr.Jawsum leaves Last Resort
+#Location: Sweetheart's Castle
+
+#MAGD WURF
+#Location: LAST RESORT
+message_87:
+      text: \n<MAGD WURF>Ich bin hierher gekommen, weil sie Jobs angeboten haben...
+#After Mr.Jawsum leaves Last Resort
+#Location: Sweetheart's Castle
+
+#OFFIZIER WURF
+#Location: Sprout Mole Village
+#Same as NIGHT 2.
+
+#ROSA
+#Location: Sprout Mole Village
+#[Incomplete]
+
+#SPORTWURF
+#Location: Sprout Mole Village- B.E.D. Trade Quest 4
+#Same as NIGHT 3.
+
+#After B.E.D Trade Quest
+#Same as NIGHT 2.
+
+#SPRING WURF
+#Location: Sprout Mole Village -Seasonal Gifts Quest
+#Same as NIGHT 2.
+
+#SPROSSWURF MIKE
+#Location: Sweetheart's Castle
+#Same as NIGHT 2.
+
+#STUDENT WURF 1
+#Location: Sprout Mole Village
+#Same as NIGHT 2.
+
+#STUDENT WURF 2
+#Location: Sprout Mole Village
+#Same as NIGHT 2.
+
+#STUDENT WURF 3
+#Location: Sprout Mole Village
+#Same as NIGHT 2.
+
+#SUE KOCHWURF 1
+#Location: Sprout Mole Village
+#Same as NIGHT 2.
+
+#SUE KOCHWURF 2
+#Location: Sprout Mole Village
+#Same as NIGHT 2.
+
+#SUE KOCHWURF 3
+#Location: Sprout Mole Village
+#Same as NIGHT 2.
+
+#SUMMER WURF
+#Location: Sprout Mole Village -Seasonal Gifts Quest
+#Same as NIGHT 2.
+
+#SWEETHEART
+#Location: N/A
+#After Mr.Jawsum leaves Last Resort
+#Location: Slime Girl's Lair
+#Check dreamworld extras slimegirls
+
+#TEACHER WURF
+#Location: Sprout Mole Village
+#Same as NIGHT 2.
+
+#TOFU JASH
+#Location: Sprout Mole Village - Tofu Shop
+#Same as NIGHT 2.
+
+#WALL WURF
+#Location: Sprout Mole Village
+#Same as NIGHT 2.
+
+#WINTER WURF
+#Location: Sprout Mole Village -Seasonal Gifts Quest
+#Same as NIGHT 2.
+
+#===
+
+#THEATER
+
+message_100:
+      text: \n<SPROSSWURF>Als vernünftiger Filme-Kritiker bin ich der Meinung, dass SWEETHEARTs Werke alle außerhalb der Grenzen unseres Denkens sind!
+
+message_101:
+      text: \n<SPROSSWURF>Hmm...\! Ihr kommt mir sehr bekannt vor.\!<br>Wart ihr nicht mal im Fernsehen!?
+
+message_102:
+      text: \n<SPROSSWURF>Leise! Das ist mein Lieblingsfilm!
+
+message_103:
+      text: \n<SPROSSWURF>Oh, SWEETHEART...\! Du bist zu gut für diese Welt.
+
+message_104:
+      text: \n<SPROSSWURF>Ich habe jede Folge von \"SWEETHEARTS SUCHE NACH HERZEN\" mindestens sechsmal angeschaut!
+
+message_105:
+      text: \n<SPROSSWURF>Ich nehme SWEETHEART überall hin mit!\!<br>Sag hallo, SWEETHEART!
+
+message_106:
+      text: \n<SPROSSWURF>SWEETHEART ist die einzige, die mich versteht...
+
+message_107:
+      text: \n<SPROSSWURF>SWEETHEART ist auf jede Weise einfach perfekt.\!<br>Ich würde \quake[1]alles\quake[0] für sie tun...
+
+message_108:
+      text: \n<SPROSSWURF>Ich liebe SWEETHEART wirklich sehr, ich kann mich nichtmal an eine Zeit ohne sie erinnern.\! Ernsthaft... wirklich nicht!
+
+message_109:
+      text: \n<SPROSSWURF>\}SWEETHEART...\! Irgendwann bist du mein...\{
+
+#AFTER SW WEDDING
+
+message_110:
+      text: \n<SPROSSWURF>Schnief...\! SWEETHEART hat es wieder geschafft.\! Ich bin durchaus gerührt.
+
+message_111:
+      text: \n<SPROSSWURF>Bist du HERO, \sinv[1]der\sinv[0] HERO von \"SWEETHEARTS SUCHE NACH HERZEN\"!?\! Dein Auftritt war hervorragend!\! Ich habe es wirklich geglaubt, dass du SWEETHEART abgewiesen hast!
+
+message_114:
+      text: \n<SPROSSWURF>Jetzt ist \"SWEETHEARTS SUCHE NACH HERZEN\" vorbei...\! so auch mein Leben.
+
+message_120:
+      text: Eine unangenehm realistische SWEETHEART-Puppe.
+
+#SKELETON
+
+message_121:
+      text: Es ist nicht am Leben.
+
+message_122:
+      text: Eine Kollektion tödlicher Waffen...\!<br>Eine von ihnen fehlt.
+
+
+message_130:
+      text: Yo, JIMZ! Lang ist's her, Kumpel!<br>\!Wie war dein Wochenende, Mann?\n<SPROSSWURF>
+
+message_131:
+      text: Was geht, LINDA? Lange nicht mehr gesehen!\!<br>Wie geht's deinem Alten?\! Ich vermisse den Kerl.\n<SPROSSWURF>
+
+message_132:
+      text: Hey, SAL! Du hast abgenommen! Gut gemacht!\n<SPROSSWURF>
+
+message_133:
+      text: JEFFREY! Junge!\! Lange nichts gehört.\!<br>Wir müssen mal wieder was miteinander unternehmen.\n<SPROSSWURF>
+
+
+#SPROUT CROWD
+
+message_200:
+      text: \sprIch habe meine gesamten \c[3]TOFU\c[0]-Vorräte für diesen Platz aufgegeben!
+
+message_201:
+      text: \sprIch habe meine gesamten Hochschul-Ersparnisse für diesen Platz aufgegeben!
+
+message_202:
+      text: \sprIch habe mein Haus für diesen Platz aufgegeben!
+
+message_203:
+      text: \sprIch habe meine Seele für diesen Platz aufgegeben!
+
+#REST OF CROWD
+
+message_204:
+      text: \spr\sinv[1]SWEETHEART... SWEETHEART...<br>Sie ist mein Ein und Alles!\sinv[0]
+
+message_205:
+      text: \sprSWEETHEART ist perfekt!\! Sie ist makellos!
+
+message_206:
+      text: \sprMeine Liebe für SWEETHEART ist grenzenlos!
+
+message_207:
+      text: \sprSWEETHEART...\! Sie ist eine Göttin unter uns...<br>\!Wir sind wahrlich gesegnet.
+
+#UNIQUE SPROUT CROWD
+
+message_208:
+      text: \sprDie Aufführung hat noch nicht einmal begonnen und ich zittere schon!\! \quake[1]<br>Wieso hört das Zittern nicht auf!?\quake[0]
+
+message_209:
+      text: \spr\"S\" steht für \"SCHÖN\".\! \"W\" steht für \"WUNDERVOLL\".\!<br>\"E\" steht für \"EDEL\".\! \"E\" steht für \"EINZIGARTIG\".\!<br>\"T\" steht für...\! \"TOFU\"...\! Mmm...\! Lecker \c[3]TOFU\c[0]...
+
+message_210:
+      text: \spr\"H\" steht für \"HARTNÄCKIG\".\! \"E\" steht für \"ENTZÜCKEND\".\!<br>\"A\" steht für \"ATEMBERAUBEND\".\! R steht für \"RIGOROS.\"\!<br>And \"T\" steht für...\! \"TOLL!\", natürlich!
+
+message_211:
+      text: \spr\}Juhu! SWEETHEART!
+
+message_212:
+      text: \sprIch habe gehört, hier war mal eine Bibliothek...\!<br>aber dann hat SWEETHEART ihre Bühne darüber gebaut...\!<br>Wer muss schon lesen, wenn man SWEETHEART hat!?
+
+message_213:
+      text: \sprTomaten unter einem anderen Namen würden genauso schmecken.
+
+message_214:
+      text: \sprIch bin nur zum Spaß hier!
+
+message_215:
+      text: \sprFrüher mochte ich SWEETHEART noch ironischerweise...\!<br>und hier bin ich...\! Was ist nur aus mir geworden?
+
+message_216:
+      text: \sprDiese ganze SWEETHEART-Geschichte hat mich erst skeptisch gemacht, aber ich glaube ich verstehe es langsam...
+
+message_217:
+      text: \sprIch bin mit meiner Familie hierher gekommen, aber wir wurden auf dem Weg hierher getrennt...\! Vielleicht sehe ich sie nie wieder.
+
+message_218:
+      text: \sprIch habe gehört, SWEETHEART ist eigentlich ein \c[3]DONUT\c[0]...\!<br>Ich frage mich, ob die Gerüchte wahr sind...
+
+#Elevator
+message_220:
+      text: Ähm, das ist unangenehm.
+
+
+#Doors
+message_225:
+      text: \n<???>Besetzt!
+
+message_226:
+      text: \n<???>Bitte nicht stören!
+
+message_227:
+      text: \n<???>Keine Menschen erlaubt!
+
+message_228:
+      text: \n<???>Dieser Raum ist nur für SPROSSWÜRFE!
+
+message_250:
+      text: \sprEs kann nie schaden, \c[3]TOFU\c[0] dabei zu haben.\! Dank \c[3]TOFU\c[0] kam ich schon aus vielen heiklen Situationen!

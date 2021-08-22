@@ -1,0 +1,108 @@
+#### Translation: Finished
+
+#### Translated by: haj
+
+# =========================================================================================
+# Take my son
+# ========================================================================================
+
+#Collect Hector for Excavation Lv1
+
+
+message_18:
+      text: Du hast \c[13]HECTOR\c[0] gefunden.
+
+message_0:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 23
+      text: \kelOh...\! \c[13]HECTOR\c[0]!\! Kann das sein?\! Du bist es wirklich!\!<br>Na los, \c[13]HECTOR\c[0]! Zurück in meine Tasche du!\!<br>Es wird wie damals sein!
+
+message_1:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 35
+      text: \n<HECTOR>...\! Ah...\! KEL...\! Mein alter Freund...\! Es tut mir so leid.\! Ich fürchte, die Dinge haben sich geändert und ich kann Sie nicht mehr begleiten.\!
+
+# More pet rocks appear in their holes
+
+message_2:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 35
+      text: \n<HECTOR>Ich habe jetzt eine Familie.
+
+#[HECTOR JR. hops out of his hole.]
+
+message_3:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 35
+      text: \n<HECTOR>\Com[2]Warte!\! \c[13]HECTOR JR\c[0]!\! Was tust du?\!<br>...\! Willst du damit sagen, dass du dich ihnen anschließen willst?\!<br>Dass es mehr im Leben gibt, als nur hier zu bleiben?
+
+message_4:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 35
+      text: \n<HECTOR>Oh, \c[13]HECTOR JR\c[0]...\! Ich...\! Ich verstehe dich gut...\!<br>Auch dieser alte Stein konnte einmal Spaß haben.\!<br>Mögt ihr alle gemeinsam unvergessliche Abenteuer erleben!
+
+message_5:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 35
+      text: \n<HECTOR>Geh und schließ dich ihm an, \c[13]HECTOR JR\c[0]...\! In seine Tasche!
+
+message_6:
+      text: Du hast jetzt \c[13]HECTOR JR\c[0].
+
+message_7:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 35
+      text: \n<HECTOR>Ja...\! Einfach so.\!<br>Schnief...\! Ich schätze, das ist dann ein Lebewohl. Danke, dass du nie aufgegeben hast, mich zu finden, KEL.
+
+message_8:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 35
+      text: \n<HECTOR>\c[13]HECTOR JR\c[0]...\! Du bist brav, okay?! Vergiss deine Familie nicht! Wir sind immer für dich da.
+
+message_9:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 35
+      text: \n<HECTOR>Ich hoffe, wenn wir uns das nächste Mal treffen, bist du zu einem wundervoll polierten Felsen erblüht!
+
+message_10:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 17 #replace
+      text: \kelKeine Sorge, HECTOR!<br>Ich kümmere mich gut um \c[13]HECTOR JR\c[0]!
+
+message_11:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 35
+      text: \n<HECTOR>Ich weiß, dass du das wirst, KEL...\!<br>Verliere ihn nur dieses Mal nicht, in Ordnung?
+
+message_12:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 16 #replace
+      text: \kelIch werde es nicht...\! Ich verspreche es!
+
+#[Quest Complete]
+#After-Quest Dialogue:
+
+message_13:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 35
+      text: \n<HECTOR>\c[13]HECTOR JR\c[0]...\! Du bist brav, okay?! Vergiss deine Familie nicht! Wir sind immer für dich da.
+
+message_14:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 35
+      text: \n<HECTOR>Ich hoffe, wenn wir uns das nächste Mal treffen, bist du zu einem wundervoll polierten Felsen erblüht!
+
+message_15:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 17 #replace
+      text: \kelKeine Sorge, HECTOR!<br>Ich kümmere mich gut um \c[13]HECTOR JR\c[0]!
+
+message_16:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 35
+      text: \n<HECTOR>Ich weiß, dass du das wirst, KEL...\!<br>Verliere ihn nur dieses Mal nicht, in Ordnung?
+
+message_17:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 16 #replace
+      text: \kelIch werde es nicht...\! Ich verspreche es!

@@ -1,0 +1,88 @@
+#### Translation: Finished
+
+#### Translated by: haj
+
+# =========================================================================================
+# FARAWAY TOWN Object Flavor Text
+# =========================================================================================
+
+# Gino's Dinner
+
+#Dining tables:
+message_1:
+      text: This table feels sticky.
+
+
+# Consumable items
+
+# Donut
+message_100:
+      text: Der \c[3]DONUT\c[0] hatte eine weiche, fluffige Textur und war sehr zuckrig.
+
+# Candy
+message_101:
+      text: Die \c[3]SÜßIGKEITEN\c[0] hatte eine zähe Textur und einen fruchtigen Geschmack.
+
+# Salad
+message_102:
+      text: Der \c[3]SALAT\c[0] schmeckte wie Gras.
+
+# Bread
+message_103:
+      text: Das \c[3]BROT\c[0] war duftend und knusprig... und irgendwie süchtig machend?
+
+# Chocolate
+message_104:
+      text: Die \c[3]SCHOKOLADE\c[0] war ein bisschen cremig und ein bisschen nussig. Es schmolz in deinem Mund.
+
+# Pizza Slice
+message_105:
+      text: Das \c[3]PIZZA STÜCK\c[0] war heiß und mit Käse überzogen. Du wünschtest, du hättest mehr...
+
+# Hero Sandwich
+message_106:
+      text: Das \c[3]HERO SANDWICH\c[0] rühmte sich mit der perfekten Mischung aus Fleisch und Gemüsen. Wow...
+
+# Caramel Apple
+message_107:
+      text: Der \c[3]CARAMELL APFEL\c[0] war klebrig und süß, aber auch knusprig und sauer.
+
+# Whole Pizza
+message_108:
+      text: Die \c[3]GANZE PIZZA\c[0] war heiß und mit Käse bedeckt. Das war die perfekte Menge.
+
+# Pie
+message_109:
+      text: Der \c[3]KUCHEN\c[0] hatte eine buttrige Kruste, die die fruchtige Füllung perfekt ergänzte.
+
+# Big Bag of Candy
+#message_110:
+#      text: There was so much \c[3]CANDY\c[0], it barely fit in your mouth.
+
+# Slice of Cake
+message_111:
+      text: Das \c[3]KUCHENSTÜCK\c[0] war klein und bescheiden, aber reich.
+
+# Hamburger
+message_112:
+      text: Der \c[3]HAMBURGER\c[0] hatte die Zutaten einwandfrei miteinander vermischt. Es fehlte nur noch der Käse.
+
+# Tasty Soda
+message_113:
+      text: Die \c[3]LECKERE LIMO\c[0] hatte einen sprudelnden und nostalgischen Geschmack, der Deinen Mund überflutete.
+
+# Orange Joe
+message_114:
+      text: Der \c[3]ORANGEN SAFT\c[0] und der \c[3]KAFFE\c[0] haben einen fragwürdigen Geschmack erzeugt.
+
+# Apple Juice
+message_115:
+      text: Der \c[3]APFEL SAFT\c[0] wurde wirklich aus den reifsten Äpfeln hergestellt.
+
+# Orange Juice
+message_116:
+      text: Der \c[3]ORANGEN SAFT\c[0] wurde wirklich aus den frischesten Orangen hergestellt.
+
+# Coffee
+message_117:
+      text: Der \c[3]KAFFE\c[0] war heiß und bitter, wie erwartet. Du kannst nicht wissen, warum die Leute das trinken.

@@ -1,0 +1,42 @@
+#### Translation: Finished
+#### Translated by: haj
+
+# =========================================================================================
+# Sidequest: Shut-in
+# =========================================================================================
+
+#Examine Jesses house door
+
+#knocking sfx
+message_1:
+      text: ...
+#Examine Jesses door 1
+
+#knocking sfx
+message_2:
+      text: ... ...
+#Examine Jesses door 2
+
+#knocking sfx
+message_3:
+      text: ... ... ...
+#Examine Jesses door 3
+
+#knocking sfx
+message_4:
+      text: ... ... ... ... ...
+#Examine Jesses door 4
+
+#knocking sfx
+message_5:
+      text: ... ... ... ... ... ... ... ... ... ... ...
+#Examine Jesses door 5
+
+#knocking sfx
+message_6:
+      text: \n<???>\{\{\com[2]\quake[1]NICHT JETZT, PAPA! ICH BIN BESCHÄFTIGT!!
+
+#General locked door message
+
+message_10:
+      text: Klopf, klopf... <br>Keine Antwort...

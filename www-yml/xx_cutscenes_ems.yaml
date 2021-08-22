@@ -1,0 +1,130 @@
+#### Translation: Finished
+
+#### Translated by: lugi
+
+# =========================================================================================
+# Cutscene: Hero's CHARM Tag Skill
+# =========================================================================================
+
+message_30:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 4
+      text:  Es hat keinen Zweck. Ich kann bei diesem Ding nicht einmal eine Delle hinterlassen!\aub
+
+message_31:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 40
+      text: Hmmm...\! Sekunde mal...\her
+
+message_32:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 39
+      text: Das ist Käse, nicht wahr?\her
+
+message_33:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 19
+      text: Wow, du hast recht!\! Es ist wirklich Käse!\kel
+
+message_34:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 16
+      text: Okay, Leute.\! Hört mir zu.\! Das klingt vielleicht verrückt, aber...<br>Was, wenn...\! wir den Käse essen.\kel
+
+message_35:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 18
+      text: Wenn wir jetzt alle anfangen...\!<br>sind wir in ein paar Stunden oder so wahrscheinlich fertig!\kel
+
+message_36:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 27
+      text: Ich will euch aber nur warnen. Von Käse bekomme ich etwas Blähungen...\kel
+
+message_37:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 10
+      text: \{\Com[2]IIIIIH, KEL!\aub\}
+
+message_38:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 47
+      text: W-Warte mal, KEL. Das muss nicht sein.\her
+
+message_39:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 37
+      text: Ich glaube, ich habe die ideale Lösung!\her
+
+message_40:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 38
+      text: PASS zu mir, OMORI.\!<br>Ich weiß genau, was hier zu tun ist.\her
+
+
+# =========================================================================================
+# Cutscene: Hero's CHARM Tag Skill (Cont.)
+# =========================================================================================
+
+#Trigger: Tag HERO and examine Cheese.
+
+# EMS spirals down from the sky
+
+message_50:
+      text: \}Hallo, Freunde!\! Ich bin's... EMS, der bescheidene, hungrige Hamster!\ems
+
+#EMS looks around.
+
+message_51:
+      text: \}Oh wow, ist das alles für mich? Welch eine Freude!\!<br>Woher wusstest du, dass ich Käse am liebsten mag?\ems
+
+message_52:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 37
+      text: Da muss ich nicht raten, EMS!\!<br>Du magst alles am liebsten.\her
+
+#HERO turns to party.
+
+message_53:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 36
+      text: Leute, das ist EMILY der Hamster, aber ich sag nur EMS zu ihr!\!<br>Sie ist eine gute Freundin von mir.\her
+
+message_54:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 38
+      text: Du weißt, was zu tun ist, EMS!\her
+
+message_55:
+      text: \}Das tue ich!\! \Com[2]Dauert nicht lang!\ems
+
+#EMS begins to devour the cheese.
+
+message_56:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 26
+      text: Boah...\kel
+
+message_57:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 4
+      text: Wie passt das alles überhaupt in ihren Körper?\aub
+
+message_58:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 36
+      text: Keine Ahnung. Ich denke nicht zu sehr darüber nach.\her
+
+message_59:
+      text: Der Käse wurde verspeist, und der Weg ist frei.
+
+message_60:
+      text: \}Das war unglaublich zufriedenstellend!\ems
+
+message_61:
+      text: \}Falls ihr jemals wieder eine Riesenkäse-Esserin braucht, ruft mich einfach!\ems
+
+message_62:
+      text: \}Auf Wiedersehen, Freunde!\ems
+
+#EMS spirals into the sky.

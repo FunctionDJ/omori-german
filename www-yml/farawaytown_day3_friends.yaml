@@ -1,0 +1,501 @@
+#### Translation: Finished
+#### Editing: Partial
+
+#### Translated by: percivical
+#### Corrections by: mewo, panaxyn
+
+# =========================================================================================
+# Farawaytown extras daily dialogue
+# =========================================================================================
+
+#=========================================================================================
+# DAY 3 - Friends
+#=========================================================================================
+
+
+#=========================Vending Machine==============================
+#DAY 3: WALKING IN FROM PLAZA TO PARK AFTER GETTING AUBREY
+
+message_1:
+  faceset: MainCharacters_Faraway
+  faceindex: 0
+  text: \aubWartet' mal eine Sekunde, ich möchte mir was zu trinken kaufen.\!<br>...\!
+    Hmm...\! Nein...\! Nein...\! Nicht das hier...
+
+message_2:
+  faceset: MainCharacters_Faraway
+  faceindex: 22
+  text: \kelWas!\! Du kaufst dir eine Limo aber du verzichtest auf den guten alten
+    \c[3]ORANGE JOE\c[0]?\! Wie kannst du nur!?
+
+message_3:
+  faceset: MainCharacters_Faraway
+  faceindex: 4
+  text: \aubIgitt! Du trinkst immernoch \c[3]ORANGE JOE\c[0]!?\! Es ist so ekelhaft
+    süß...\! so als ob es für Babys gemacht wurde!
+
+message_4:
+  faceset: MainCharacters_Faraway
+  faceindex: 21
+  text: \kelAch ja? Wenn es für Babys gemacht wurde, warum würde es dann...\! 150mg
+    Koffein pro Dose beinhalten!?\! Tsk, tsk… Informiere dich mal, AUBREY!
+
+message_5:
+  faceset: MainCharacters_Faraway
+  faceindex: 2
+  text: \aubHmph... Was auch immer!\! Jeder weiß \c[3]ORANGE JOE\c[0] schmeckt scheußlich.\!
+    Du bist wahrscheinlich die einzigste Person auf der Welt, die diesen Mist kauft.
+
+message_6:
+  faceset: MainCharacters_Faraway
+  faceindex: 23
+  text: \kelAlso jetzt wirst du aber persönlich!\! Wie kannst du es nur wagen, meinen
+    guten Freund \c[3]ORANGE JOE\c[0] zu beleidigen!\! Wann war das letzte Mal, dass
+    du überhaupt probiert hast!?\! Urg... Ich werd's dir zeigen!
+
+message_7:
+  faceset: MainCharacters_Faraway
+  faceindex: 6
+  text: \aubKEL!\! W-Was machst du da!?
+
+#*KEL pushes AUBREY aside and presses the \c[3]ORANGE JOE\c[0] button*
+#“A can of \c[3]ORANGE JOE\c[0] fell from the VENDING MACHINE.”
+
+message_8:
+  faceset: MainCharacters_Faraway
+  faceindex: 6
+  text: \aub...
+
+message_9:
+  faceset: MainCharacters_Faraway
+  faceindex: 17
+  text: \kelHey...\! Dieses Dosendesign ist vielleicht 5 Jahre alt...\! und... es
+    ist...\! abgelaufen...
+
+message_10:
+  faceset: MainCharacters_Faraway
+  faceindex: 2
+  text: \aubIch habe es dir doch gesagt...\! Niemand kauft dieses Zeug...
+
+message_11:
+  faceset: MainCharacters_Faraway
+  faceindex: 14
+  text: \kelSorge dich nicht, mein guter Freund \c[3]ORANGE JOE\c[0]...\! Egal was,
+    ich werde dich trotzdem trinken!
+
+message_12:
+  text: glugglugluglug
+
+message_13:
+  faceset: MainCharacters_Faraway
+  faceindex: 25
+  text: \kel\sinv[1]Mmmmmmmmm...\! Köstlich...\sinv[0]
+
+message_14:
+  faceset: MainCharacters_Faraway
+  faceindex: 5
+  text: \aubDu bist...\! ekelhaft...
+
+message_15:
+  faceset: MainCharacters_Faraway
+  faceindex: 15
+  text: \kelHeh heh...
+
+message_16:
+  faceset: MainCharacters_Faraway
+  faceindex: 2
+  text: \aubU-Und du schuldest mir einen Dollar!
+
+message_17:
+  faceset: MainCharacters_Faraway
+  faceindex: 14
+  text: \kelJa, ja...\! Ich gebe ihn dir später!
+
+#=========================MARIS GRAVE ==================================
+
+#Day 3: After visiting Mari's Grave with flowers with Aubrey/Kel/Hero
+
+message_30:
+  faceset: MainCharacters_Faraway
+  faceindex: 27
+  text: \aubHey MARI...\! Ich bin's wieder.\! \n[8], KEL und HERO sind mit mir hier
+    dieses Mal.
+
+message_31:
+  faceset: MainCharacters_Faraway
+  faceindex: 17
+  text: \kelBesuchst du MARI's Grab oft, AUBREY?
+
+message_32:
+  faceset: MainCharacters_Faraway
+  faceindex: 27
+  text: \aubJa... Ich versuch's, doch an manchen Tagen ist es ein wenig schwierig.\!<br>Ihr
+    besucht doch auch manchmal... oder?
+
+message_33:
+  faceset: MainCharacters_Faraway
+  faceindex: 19
+  text: \kelHin und wieder mal.\!<br>Aber vielleicht hätte ich öfter besuchen sollen...
+
+message_41:
+  faceset: MainCharacters_Faraway
+  faceindex: 19
+  text: \kelHey HERO.\! Wie fühlst du dich?
+
+message_34:
+  faceset: MainCharacters_Faraway
+  faceindex: 31
+  text: \her... Ich bin okay.\! Ich bin froh, dass wir alle hier sind, um sie zu sehen.
+
+#HERO WALKS TO MARI'S Grave
+
+message_35:
+  faceset: MainCharacters_Faraway
+  faceindex: 31
+  text: \herHey MARI...\! Es tut mir leid, dass ich dich noch nicht besucht habe.\!<br>Ich
+    war etwas egoistisch, glaube ich...
+
+message_36:
+  faceset: MainCharacters_Faraway
+  faceindex: 31
+  text: \herEs ist schon so lange her, aber ich vermisse dich trotzdem so schrecklich.\!<br>Es...\!
+    Es tut mir leid, dass ich nicht da war.
+
+message_42:
+  faceset: MainCharacters_Faraway
+  faceindex: 40
+  text: \herEs tut...\! mir wirklich leid...
+
+message_37:
+  faceset: MainCharacters_Faraway
+  faceindex: 27
+  text: \aubHERO...\! Du musst nicht so streng mit dir sein.
+
+message_38:
+  faceset: MainCharacters_Faraway
+  faceindex: 12
+  text: \kelJa... Wir sind für dich da, falls du uns jemals brauchen solltest.
+
+message_39:
+  faceset: MainCharacters_Faraway
+  faceindex: 29
+  text: \herHeh...\! Danke, Leute...\! Sorgt euch nicht zu sehr um mich, okay?
+
+message_40:
+  text: Möchtest du ein Picknick mit MARI haben?
+
+#Turns into Breaktime with picnic at Mari's Grave
+
+
+#=========================After Secret Lake Break time ==================================
+
+message_50:
+  faceset: MainCharacters_Faraway
+  faceindex: 12
+  text: \kelHey, AUBREY!
+
+message_51:
+  faceset: MainCharacters_Faraway
+  faceindex: 0
+  text: \aubWas willst du, KEL?
+
+message_52:
+  faceset: MainCharacters_Faraway
+  faceindex: 17
+  text: \kelIch hab' nachgedacht...\! Wir geraten doch immer in Streiteren, nicht
+    wahr?
+
+message_53:
+  faceset: MainCharacters_Faraway
+  faceindex: 27
+  text: \aubJa, tun wir...
+
+message_54:
+  faceset: MainCharacters_Faraway
+  faceindex: 13
+  text: \kelAber nach allem sind wir immernoch Freunde, richtig?
+
+message_55:
+  faceset: MainCharacters_Faraway
+  faceindex: 27
+  text: \aubJa...\! Ich schätze mal wir sind...
+
+message_56:
+  faceset: MainCharacters_Faraway
+  faceindex: 16
+  text: \kelHm... Ist das nicht komisch?
+
+message_57:
+  faceset: MainCharacters_Faraway
+  faceindex: 0
+  text: \aubVielleicht...\! Ich weiß nicht...
+
+message_58:
+  faceset: MainCharacters_Faraway
+  faceindex: 29
+  text: \herHeh heh...\! Oh, ihr zwei...\! Das bedeutet doch nur, dass ihr euch sehr
+    wohl fühlt miteinander.
+
+message_59:
+  faceset: MainCharacters_Faraway
+  faceindex: 30
+  text: \herIch bin ein wenig neidisch, dass ihr zwei nach all dieser Zeit noch so
+    offen miteinander sein könnt.\! Ich glaube, das ist etwas ganz besonderes.
+
+message_60:
+  faceset: MainCharacters_Faraway
+  faceindex: 17
+  text: \kelWirklich?\! Ich war kurz davor zu sagen, dass ich es irgendwie nervig
+    finde...
+
+message_61:
+  faceset: MainCharacters_Faraway
+  faceindex: 3
+  text: \aub...\! Ugh...\! du bist so ein Idiot.
+
+
+#=========================DAY 2: GO TO KEL AND HERO'S ROOM DAY 2 AFTER CUTSCENE: CONVINCING KEL'S MOM==================================
+
+message_80:
+  faceset: MainCharacters_Faraway
+  faceindex: 18
+  text: \kelEs ist Zeit, um zu beweisen, wer ein für alle Mal der größere Bruder ist!
+
+message_81:
+  faceset: MainCharacters_Faraway
+  faceindex: 38
+  text: \herSchon wieder das, KEL?\! Ich dachte, wir wären fertig damit!
+
+message_82:
+  faceset: MainCharacters_Faraway
+  faceindex: 23
+  text: \kelKomm schon, HERO!\! Lass uns Rücken an Rücken stehen, so wie immer!
+
+message_83:
+  faceset: MainCharacters_Faraway
+  faceindex: 18
+  text: \kelAlso \n[8]...\! Wer von uns ist größer?
+
+#Choice Kel / HERO
+
+#IF Kel
+
+message_84:
+  faceset: MainCharacters_Faraway
+  faceindex: 14
+  text: \kelHahaha! Sieht so aus, als ob ich endlich der größere Bruder bin!
+
+message_85:
+  faceset: MainCharacters_Faraway
+  faceindex: 22
+  text: \kelWow...\! Mein Leben fühlt sich so komplett an...\! Und doch so leer...
+
+message_86:
+  faceset: MainCharacters_Faraway
+  faceindex: 30
+  text: \herIch schätze, du bist wirklich groß geworden, während ich weg war.\!<br>Es
+    ist nur zu schade, dass deine Noten immernoch so hinken...
+
+message_87:
+  faceset: MainCharacters_Faraway
+  faceindex: 21
+  text: \kelDas ist unangebracht, HERO!\! Schlau sein ist nicht alles!
+
+message_88:
+  faceset: MainCharacters_Faraway
+  faceindex: 29
+  text: \herHeh, heh... Ich ärgere dich doch nur...\! Ich glaube, dass du auch schlau
+    bist, KEL!\! Schlau auf deine eigene Art und Weise...
+
+message_89:
+  faceset: MainCharacters_Faraway
+  faceindex: 14
+  text: \kelHaha! Ja, genau das glaub' ich auch!
+
+#If you pick Hero instead
+
+message_90:
+  faceset: MainCharacters_Faraway
+  faceindex: 29
+  text: \herAwww, sorry, KEL.\! Viel Glück im nächsten Jahr...
+
+message_91:
+  faceset: MainCharacters_Faraway
+  faceindex: 20
+  text: \kelMenno...\! Ich war mir so sicher, dass ich dieses Mal größer wäre...
+
+message_92:
+  faceset: MainCharacters_Faraway
+  faceindex: 37
+  text: \herEs ist all der \c[3]ORANGE JOE\c[0] den du ständig trinkst!\! Weißt du
+    denn nicht, dass Koffein dein Wachstum hemmen kann?
+
+message_93:
+  faceset: MainCharacters_Faraway
+  faceindex: 22
+  text: \kelAww, schieb's nicht auf den \c[3]ORANGE JOE\c[0]!\! Ich muss ihn nur mit
+    der richtigen Menge Milch ausgleichen!
+
+message_94:
+  faceset: MainCharacters_Faraway
+  faceindex: 25
+  text: \kelAber... ich hasse Milch wirklich.\! Vielleicht kann ich einfach alles
+    mischen und zusammen trinken...
+
+message_95:
+  faceset: MainCharacters_Faraway
+  faceindex: 14
+  text: \kelWart's nur ab...\! Nächstes Jahr, HERO!\!<br>Das nächste Jahr ist das
+    Jahr! Ich kann es in meinen Knochen spüren!
+
+message_96:
+  text: KEL
+
+message_97:
+  text: HERO
+
+
+
+#=========================DAY 1: GO TO KEL AND HERO'S ROOM DAY 2 AFTER CUTSCENE: CONVINCING KEL'S MOM==================================
+
+
+message_110:
+  faceset: MainCharacters_Faraway
+  faceindex: 16
+  text: \kelHey, \n[8]... Ich hab' mich gerade an etwas erinnert.
+
+message_111:
+  faceset: MainCharacters_Faraway
+  faceindex: 12
+  text: \kelAls wir Kinder waren, erinnerst du dich noch daran, wie wir uns beide
+    immer heimlich mitten in der Nacht aus dem Haus geschlichen hatten und nach \c[11]HOBBEEZ\c[0]
+    gegangen waren?
+
+message_112:
+  faceset: MainCharacters_Faraway
+  faceindex: 12
+  text: \kelWir konnten am nächsten Morgen nie rechtzeitig für die Schule aufstehen,
+    und HERO und MARI hatten gefragt, wieso wir immer so müde aussahen.
+
+message_113:
+  faceset: MainCharacters_Faraway
+  faceindex: 13
+  text: \kelIch bin mir sicher, dass sie etwas vermutet hatten, aber ich bin froh,
+    dass sie nie etwas zu unseren Müttern gesagt hatten...
+
+message_114:
+  faceset: MainCharacters_Faraway
+  faceindex: 15
+  text: \kelWir waren damals ziemlich abenteuerlich, was? Haha...
+
+#wait time 40 frame
+
+message_115:
+  faceset: MainCharacters_Faraway
+  faceindex: 15
+  text: \kelJedenfalls sollten wir bald die Besorgungen für meine Mutter erledigen...\!
+    Sie wartet schon den ganzen Tag lang!
+
+
+#=========================DAY 3 AFTERNOON: PLAYER AND AUBREY ON THE SWINGS==================================
+
+message_130:
+  faceset: MainCharacters_Faraway
+  faceindex: 27
+  text: \aubHey, \n[8]...\! Sorry, ich war vorher echt fies zu dir.
+
+message_131:
+  faceset: MainCharacters_Faraway
+  faceindex: 2
+  text: \aubIch denke, dich zu sehen, hatte mich einfach nur überrascht...\! auch
+    wenn das eine ziemlich miese Ausrede ist.
+
+message_132:
+  faceset: MainCharacters_Faraway
+  faceindex: 27
+  text: \aubIch hoffe, dir ging es gut und so...\! Ich bin mir sicher, mit alldem
+    umzugehen war sehr schwierig für dich.
+
+message_133:
+  faceset: MainCharacters_Faraway
+  faceindex: 27
+  text: \aubManchmal denke ich, dass ich diejenige bin, die für dich hätte da sein
+    sollen.
+
+message_137:
+  faceset: MainCharacters_Faraway
+  faceindex: 2
+  text: \aubIch weiß nicht wirklich, ob wir jemals über MARI's Tod hinwegkommen werden...\!
+    aber es ist in Ordnung, die Sache langsam anzugehen.
+
+message_138:
+  faceset: MainCharacters_Faraway
+  faceindex: 0
+  text: \aubDir zu erlauben, jede Emotion zu fühlen...\! und Geduld zu haben.
+
+message_134:
+  faceset: MainCharacters_Faraway
+  faceindex: 1
+  text: \aubJ-Jedenfalls wollte ich nur, dass du weißt...\! dass du mir immernoch
+    wichtig bist und so.
+
+message_135:
+  faceset: MainCharacters_Faraway
+  faceindex: 27
+  text: \aubIch habe hierdrüber nachgedacht, seitdem ich dich gesehen hab', aber ich
+    denke, dass du ein wenig blass aussiehst...\! und auch ein wenig dünn.
+
+message_136:
+  faceset: MainCharacters_Faraway
+  faceindex: 1
+  text: \aubNachdem du umziehst, versprich mir, dass du öfter rausgehen wirst, okay?
+
+#=========================DAY 3 DAY: PINWHEEL==================================
+
+message_140:
+  faceset: MainCharacters_Faraway
+  faceindex: 38
+  text: \herHey, schaut mal! Erinnert ihr euch an diesen Ort?\! Das ist in der Gegend,
+    in wir dich zum ersten Mal getroffen haben, AUBREY.
+
+message_141:
+  faceset: MainCharacters_Faraway
+  faceindex: 27
+  text: \aubJ-Ja, was ist damit?
+
+message_142:
+  faceset: MainCharacters_Faraway
+  faceindex: 17
+  text: \kelOh, ich erinnere mich!\! Du hattest auf dem Bürgersteig geweint, weil
+    du deinen Schuh verloren hattest.
+
+message_143:
+  faceset: MainCharacters_Faraway
+  faceindex: 13
+  text: \kel\sinv[1]Awww… Süße kleine AUBREY mit ihrer süßen pinken Schleife!\!<br>Ich
+    erinnere mich an sie, so als ob es erst gestern gewesen wäre...
+
+message_144:
+  faceset: MainCharacters_Faraway
+  faceindex: 27
+  text: \aubHmph! Du dachtest wohl ich bin süß, was?
+
+message_145:
+  faceset: MainCharacters_Faraway
+  faceindex: 10
+  text: \aubIst das der Grund dafür, dass du mich immer geärgert hattest?
+
+message_146:
+  faceset: MainCharacters_Faraway
+  faceindex: 22
+  text: \kelH-Häh? Von wo hast du denn die Idee?
+
+message_147:
+  faceset: MainCharacters_Faraway
+  faceindex: 23
+  text: \kel\com[2]Ich habe dich nie geärgert, als wir noch Kinder waren!
+
+message_148:
+  faceset: MainCharacters_Faraway
+  faceindex: 3
+  text: \aubAha...\! Natürlich nicht, KEL

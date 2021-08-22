@@ -1,0 +1,176 @@
+#### Translation: Finished
+
+#### Translated by: jasu
+
+# =========================================================================================
+# ** TEMPLATE DIALOGUE
+# =========================================================================================
+
+message_0:
+    text: \whoDu bist also zurückgekehrt, um die Wahrheit ans Licht zu bringen.
+
+message_27:
+    text: \whoDeine Abenteuer mögen jedes Mal unterschiedlich sein.\! Aber wenn du an ihr Ende gelangst...\! führen sie dich immer hierher zurück.
+
+message_1:
+    text: \whoDie Wahrheit.\! Die Wahrheit bleibt immer gleich.
+
+message_2:
+    text: \whoHier war einst der Weg zur Wahrheit, aber er wurde seitdem entfernt.
+
+message_3:
+    text: \whoEr wurde zuvor in einen Leuchtturm am Pier verlagert.
+
+message_4:
+    text: \whoDann in eine Bibliothek, die tief unter die Erde verbannt wurde.\! Und daraufhin in eine alte Scheune auf einem fernen Planeten.
+
+message_5:
+    text: \whoUnd...\! dieses Mal...\! ist dieser Weg im Herzen eines riesigen Waldes.
+
+message_6:
+    text: \whoEgal wie oft der Weg verschleiert wird, der Blumen-Junge wird ihn jedes Mal finden.\! Und deine liebe Schwester MARI...\! wird dich immer dorthin führen.
+
+message_7:
+    text: \whoAuch als leere Marionetten entwickeln sie sich weiter.\! Und allmählich werden ihnen Flügel wachsen...\! und sie werden zu nah an der Sonne fliegen.
+
+message_8:
+    text: \whoEs liegt in ihrer Natur.\! Sie sind die einzigen, die davon wissen...\! und eine hat es mit ins Grab genommen.
+
+message_9:
+    text: \whoDer Tod mag hier keine Gefahr sein, aber die Erinnerungen davon verblassen nicht so leicht.\! Oft haben deine Freunde ein schreckliches Schicksal erlitten.
+
+message_10:
+    text: \whoAuch wenn sie immer wieder wiederbelebt werden, verbleiben die qualvollsten auf dieser Welt...\! auch wenn es sich nurnoch um Knochen handelt.
+
+message_11:
+    text: \whoDie lange Verschollenen sinken hierher...\! zum Grund des \c[11]TIEFEN BRUNNENS\c[0]...\! und werden zum Nichts.
+
+message_12:
+    text: \whoDu hast sie verlassen, und dennoch sehnen sie sich nach deiner Fürsorge.\! Ihre Seelen können nichts als nach Hilfe rufen.\! Bemitleidest du sie?
+
+message_13:
+    text: \whoDeine liebe Schwester MARI mit schlechtem Knie...\! Du kannst es nicht ertragen, dass sie nochmal stirbt, also gab man ihr die Sicherheit einer Picknick-Decke.
+
+message_14:
+    text: \whoTrotzdem liegt es in ihrer Natur, zu gehen und zu beschützen.\! Wenn sie das tut, wird sie dich wieder verlassen und wiedergeboren...\! durch die unsterbliche Seele, mit der du sie verflucht hast.
+
+message_15:
+    text: \whoDie Seelen, die deinen Freunden erteilt wurden...\! Sie sind fragil und müssen geschützt werden.\! Deshalb müssen sie schlafend bleiben.
+
+message_16:
+    text: \whoAber...\! Der Weg zur Wahrheit ist näher an deinem so geschätzten Raum als je zuvor.\! Wirst du es dieses Mal auch schaffen, sie zu verbergen?
+
+#TRUE
+message_17:
+    text: \whoVielleicht ist es zu spät für dich.
+
+#NEUTRAL
+message_18:
+    text: \whoVielleicht gibt es noch Hoffnung für dich.
+
+message_19:
+    text: \whoDu weißt von den SCHLÜSSELN zur anderen Welt.\! Sie sind jedes Mal underschiedlich...\! aber sie öffnen immer dieselbe Tür.
+
+message_20:
+    text: \whoDas Ende dieses Abenteuers wird zu Leid führen...\! aber wenn du dich ihm nicht stellst, wirst du nicht fortfahren können.
+
+message_21:
+    text: \whoDiese Form, auch wenn sie noch nicht ihr wahres Selbst gezeigt hat, ist böse.\!<br>Du wirst das erst sehen, wenn du sie bekämpfst.
+
+message_22:
+    text: \whoWenn deine Absichten trüb werden, ragen sie in diese Welt wie dichter Nebel.\! Du wirst wissen, wenn es passiert.\! Es ist zuvor schonmal passiert.
+
+message_23:
+    text: \whoWenn er eintritt...\! kehre dorthin zurück, wo die Wahrheit wiedergeboren wurde...\! in das Herz des Waldes.
+
+message_24:
+    text: \whoUnd wie jedes Mal zuvor...\! versuche, dein Schicksal zu ändern.
+
+message_25:
+    text: \whoBist du dazu verflucht, diesen Zyklus wieder und wieder zu wiederholen?\!<br>Oder wirst du ihn beenden?
+
+message_26:
+    text: \whoErkunde diese Welt solange du noch kannst, TRÄUMER.\! Bevor alles verschwindet.
+
+
+#----
+
+#BLACK Space
+
+message_30:
+    text: \n<FREMDER>Du bist zurückgekehrt, TRÄUMER.\! Was ist der Anlass?\! Geht dir die Zeit aus?
+
+message_31:
+    text: \n<FREMDER>Die Wahrheit ist schwer für dich.\! Zuvor hat sie dich zu deiner zerstörerischen Form geleitet.<br><br>Deine jetzige Form überwältigt diese...\! und auch wenn sie zugleich böse ist...\! könnte sie die bessere der beiden sein.
+
+message_32:
+    text: \n<FREMDER>Dieser Ort ist sehr anders seit letztem Mal.\! Wirst du den Weg zurück finden, oder wirst du dich endlich selbst verlieren?
+
+message_33:
+    text: \n<FREMDER>Ohne unsere eigenen SCHLÜSSEL müssen wir auf ewig hier herumwandern.\! Diese Türen öffnen sich uns nicht.\! Wir haben nicht so viel Glück wie du.
+
+message_34:
+    text: \n<FREMDER>Etwas wurde vor langer Zeit von hier genommen...\! Wo hast du es versteckt?\! Nur du weißt, wo es jetzt ist.
+
+message_35:
+    text: \n<FREMDER>Wieso nimmst du diese verfluchte Form an?\! Sie mag stark sein und kann dich beschützen...\! aber wenn du dich zu sehr auf sie verlässt...\! was du dafür opferst, kann niemals wiedererlangt werden.
+
+message_36:
+    text: \n<FREMDER>Hat sich der Blumen-Junge verirrt?\! Here to save him again?\! Wie schön für ihn...
+
+message_37:
+    text: \n<FREMDER>Hinter einer dieser Türen versteckt sich die Erlösung...\! aber in dieser Form wird sie sich dir nie öffnen.\! Du wirst einen anderen Weg finden müssen.
+
+message_38:
+    text: \n<FREMDER>Hinter diesen Türen stecken Räume aus zerstreuten Fragmenten, die sich ständig ändern.<br><br>Wenn du dich verirrst, kein Grund zur Sorge.\! Die roten Hände werden dich leiten...\! und...\! die Form, die du angenommen hast...\! kann hier nicht sterben.
+
+message_39:
+    text: \n<FREMDER>Du hast dich wieder verkrochen.\! Hoffnungen, Träume, Erwartungen...\! bedeuten sie dir etwa nichts?
+
+message_40:
+    text: \n<FREMDER>Du bist zwar außer Kontrolle...\! aber gib nicht auf, TRÄUMER.\! Es gibt immernoch welche, die an dich glauben.
+
+message_41:
+    text: \n<FREMDER>Mit großer Macht kommen große Bürden...\! für dich selbst...\! und für die, die dir nahestehen.\! Wen beschützt du?\! Und... ist es das wert?
+
+message_42:
+    text: \n<FREMDER>Ich wünsche mir zutiefst, dass die Seele deines Freundes rein geboren wurde.\! Wir wissen nur zu gut, welches Schicksal ihn sonst heimsuchen wird.
+
+message_43:
+    text: \n<FREMDER>Bitte hab Erbarmen, TRÄUMER.\! Die Seelen, die hier geboren werden mögen nicht echt sein, aber ihre Schreie hallen durch den Boden wider.
+
+message_44:
+    text: \n<FREMDER>Der Blumen-Junge, der am nähesten zur Wahrheit steht...\! dessen Augen unheimlich rot leuchten.\! Ich habe gesehen, was du ihm angetan hast...\! und hoffe, dass du ihn nie wieder findest.
+
+message_45:
+    text: \who
+
+message_46:
+    text: \who
+
+message_47:
+    text: \who
+
+message_48:
+    text: \who
+
+message_49:
+    text: \who
+
+message_50:
+    text: \who
+
+message_51:
+    text: Du kannst diese Tür nicht öffnen.
+
+message_52:
+    text: Die Tür ist abgesperrt.
+
+message_53:
+    text: Du hast einen SCHLÜSSEL erhalten.
+
+message_54:
+    text: Willst du diese Tür aufsperren?
+
+message_55:
+    text: Du hast nicht den richtigen SCHLÜSSEL, um dies aufzusperren.

@@ -1,0 +1,23 @@
+#### Translation: Finished
+
+#### Translated by: dagobert
+
+# =========================================================================================
+# Event: BATTLE BOOK
+# =========================================================================================
+
+message_0:
+      text: Ein Buch mit dem Titel \c[4]Alles über Kämpfe\c[0].\!<br>Du solltest das lesen.
+
+message_1:
+      text: Möchtest Du einen Blick darauf werfen?
+
+message_2:
+      text: Welches Kapitel möchtest du lesen?
+
+# =========================================================================================
+# Cutscene: HIDE AND SEEK
+# =========================================================================================
+
+message_10:
+      text:

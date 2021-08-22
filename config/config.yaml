@@ -1,0 +1,58 @@
+userTags:
+  - Translated by
+  - Read by
+  - Checked by
+  - Corrections by
+  - Edited by
+
+stateTags:
+  - Translation
+  - Editing
+
+additionalTags:
+  - Comment
+
+requiredTags:
+  - Translation
+  - Translated by
+
+tagValues:
+  - Finished
+  - Partial
+  - Demo-only
+  - Unknown
+
+contributorsIndex:
+  mewo: ~ฅ^•ﻌ•^ฅ~#2706 (Mewo)
+  panaxyn: FirstTroph#9096 (panaxyn)
+  lugi: Lugitaro 🐉#0893
+  lemonjuice: Lemonjuice#4631
+  bobbarberer: bobbarberer#7752
+  percivical: Percival/Aaliyah#6004
+  jasu: ✨ Jasuanti 🌸#7924
+  dagobert: Dagobert#5282
+  function: Function#5603
+  schako: Schackowski#5364
+  haj: Haj#1217
+  meta: 🌈 Meta#5256
+
+externalMods:
+  no belry: languages/en/XX_BERLYMOD.yml
+
+bundleModsInKit:
+  - no belry
+  - canvasbgon
+  - enabledbg
+  - enablemouse
+  - modhistory
+  - runinbackground
+
+# replacement: bannedString'
+bannedStringsInYaml:
+  ä: "Ã¤"
+  ö: "Ã¶"
+  ü: "Ã¼"
+  Ä: "Ã"
+  Ö: "Ã"
+  Ü: "Ã"
+  ß: "Ã"

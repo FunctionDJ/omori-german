@@ -1,0 +1,365 @@
+#### Translation: Finished
+
+#### Translated by: haj
+
+# =========================================================================================
+# ** TEMPLATE DIALOGUE
+# =========================================================================================
+
+#Space Pirate Chief - Otherworld - Inspired me to become a Space Pirate → POPCORN
+
+
+#Goosey - Train Station - Saved my child from danger → 100 CLAMS
+
+message_0:
+    text: \n<GOOSEY>Meine Güte, du bist ein HERO, nicht wahr?! Erinnerst du dich an mich?\! Vor einiger Zeit hast du mein Kind davor bewahrt, in eine tiefe Schlucht zu fallen!
+
+message_1:
+    text: \n<GOOSEY>Jetzt kann ich mich endlich dafür revanchieren.
+
+message_2:
+    text: GOOSEY griff unter seine Flügel und gab dir 100 CLAMS.
+
+message_100:
+    text: \n<GOOSEY>Geh voran, HERO!<br>Sei der Heilige, der du immer sein wolltest!
+
+#Mountain - Train Station - Put out the great wildfire → GRANOLA BAR
+
+message_3:
+    text: \n<MOUNTAIN>Ah. \! HERO, es ist zu lange her. \! Ich habe dich nicht mehr gesehen, seit du im Alleingang das große Lauffeuer gelöscht hast.
+
+message_4:
+    text: \n<MOUNTAIN>Ich fühle mich geehrt, wieder einmal in Ihrer Gegenwart zu sein. Bitte nimm dieses Angebot an.
+
+message_5:
+    text: MOUNTAIN öffnete sein Maul und ließ einen \c[13]4-LEAF CLOVER\c[0] in deine Hände fallen.
+
+message_101:
+    text: \n<MOUNTAIN>Geh voran, HERO!<br>Sei der Beschützer, der du schon immer sein wolltest!
+
+#Hot Diggity Dog - Train Station - Volunteered at the shelter → HOT DOG
+
+message_6:
+    text: \n<HOT DIGGITY DOG>Heiß...\! diggity...\! dog!\! Ich traue meinen Augen nicht!\!<br>Das bist wirklich du, HERO!
+
+message_7:
+    text: \n<HOT DIGGITY DOG>Ich wollte mich bei dir für deine ganze ehrenamtliche Arbeit im Tierheim bedanken. Das ist für Dich!
+
+message_8:
+    text: HOT DIGGITY DOG hat Ihnen irgendwie ein \c[3]HOT DOG\c[0] gegeben.
+
+message_102:
+    text: \n<HOT DIGGITY DOG>Geh voran, HERO!<br>Sei der Betreuer, der Du schon immer sein wolltest!
+
+#Smol - Otherworld - Saved my species from the brink of extinction. → PRESENT
+
+message_9:
+    text: \n<SMOL>Ach du meine Güte, HERO! Ich bin so glücklich, dich endlich wieder zu treffen!
+
+message_10:
+    text: \n<SMOL>Du hast meiner Spezies einen großen Dienst erwiesen, indem du sie vor dem Aussterben bewahrt hast! Bitte nimm dieses Geschenk als Dankeschön an.
+
+message_11:
+    text: SMOL hat Ihnen ein handgefertigtes \c[13]FREUNDSCHAFTSARMBAND\c[0] geschenkt.
+
+message_103:
+    text: \n<SMOL>Geh voran, HERO!<br>Sei der Verteidiger, der du schon immer sein wolltest!
+
+#Lone Mole - Otherworld - Carried me to safety after The Great Siege → DONUT
+
+message_12:
+    text: \n<LONE MOLE>\Com[2]\{Hey, was soll das?
+
+message_13:
+    text: \n<LONE MOLE>Warte, HERO!?! Bist das wirklich du!? Ich habe dich nicht mehr gesehen, seit du mich nach der großen Belagerung in Sicherheit gebracht hast!<br><br>Es fühlt sich an, als wäre es so lange her...\! Aber zu sehen, wie stark du bist, hat mich inspiriert, auch stark zu sein!
+
+message_14:
+    text: \n<LONE MOLE>Nimm dieses Geschenk. Du hast es dir verdient.
+
+message_75:
+    text: LONE MOLE spuckt einen \c[3]DONUT\c[0] in Ihre Hände.
+
+message_104:
+    text: \n<LONE MOLE>Geh voran, HERO!<br>Sei der Befreier, der du schon immer sein wolltest!
+
+#Batzy - Sprout Mole Colony - Since you escorted me from one dangerous location to another  → BUTT PEACH SODA
+
+message_15:
+    text: \n<BATZY>Oh hi, HERO! \! Ich hätte dich fast nicht erkannt.<br>Es ist nur so dunkel in dieser Höhle.
+
+message_16:
+    text: \n<BATZY>Ich wollte Ihnen schon immer dafür danken, dass du meine Bitte erfüllt hast, mich durch gefährliches Gelände zu begleiten. Hier! Nimm das!
+
+message_17:
+    text: BATZY hat dir einen \c[3]HINTERN-PFIRSICH-SODA\c[0] gegeben.
+
+message_105:
+    text: \n<BATZY>Geh voran, HERO!<br>Sei der Erlöser, der du schon immer sein wolltest!
+
+#Box Mole - Sprout Mole Village - Showed me the true meaning of christmas → SNO-CONE
+
+message_18:
+    text: \n<BOX MOLE>HERO... Du bist zurückgekommen!\! Ich bin ein verändertes MOLE, seit du mir die Bedeutung von Weihnachten gezeigt hast.\!<br>Ich muss dir für mein neues Leben danken.
+
+message_19:
+    text: \n<BOX MOLE>Dies ist einer meiner wertvollsten Besitzte, aber Du können es haben.
+
+message_20:
+    text: BOX MOLE hat dir einen \c[3]SNO-CONE\c[0] gegeben.
+
+message_106:
+    text: \n<BOX MOLE>Geh voran, HERO!<br>Sei der Führer, der du immer sein wolltest!
+
+#Skeleton - SW Castle - Slayed the demon king → 300 CLAMS
+
+message_21:
+    text: \n<BONES>Ah... großer HERO.\! Du bist wieder zurückgekehrt. \! Ich habe dich nicht mehr gesehen, seit du vor all den Jahren den Dämonenkönig besiegt hast.
+
+message_22:
+    text: \n<BONES>Ich habe eine Belohnung, die ich für dich aufbewahrt habe. Greife in mein rechtes Auge und du wirst sie erhalten.
+
+message_23:
+    text: Du hast in BONES' rechtes Auge gegriffen und 300 CLAMS gefunden.
+
+message_107:
+    text: \n<BONES>Geh voran, HERO.<br> Sei der Held, der du immer sein wolltest.
+
+#Skeleton - SW Castle - Slayed the reincarnation of the demon king → 301 CLAMS
+
+message_24:
+    text: \n<BONES>Ah... großer HERO.\! Du bist wieder zurückgekehrt. \! Ich habe dich nicht mehr gesehen, seit du vor nicht allzu langer Zeit die Reinkarnation des Dämonenkönigs besiegt hast.
+
+message_25:
+    text: \n<BONES>Ich habe eine Belohnung, die ich für dich aufbewahrt habe. Greife in mein linkes Auge und du wirst sie erhalten.
+
+message_26:
+    text: Du hast in BONES' linkes Auge gegriffen und 301 CLAMS gefunden.
+
+message_108:
+    text: \n<BONES>Geh voran, HERO.<br> Sei der Held, der du immer sein wolltest.
+
+#Tiffany Darling - SW Gallery - Drove the evil spirit out of my house → MANGO SMOOTHIE
+
+message_27:
+    text: \n<TIFFANY DARLING>Oh Mann! Du bist es, HERO!\! Du hast mir einen großen Gefallen getan.\!<br>Mein Leben hat sich komplett verändert, seit du den bösen Geist aus meinem Haus vertrieben hast!
+
+message_28:
+    text: \n<TIFFANY DARLING>Ich stehe für immer in deiner Schuld. \! Nimm dieses Geschenk. \! Es sollte für jetzt reichen!
+
+message_29:
+    text: TIFFANY DARLING gab dir einen \c[3]MANGO SMOOTHIE\c[0].
+
+message_109:
+    text: \n<TIFFANY DARLING>Geh voran, HERO!<br> Sei der Engel, der du immer sein wolltest!
+
+#Yin - Orange Oasis -  Helped me gather ingredients for my unlimited cheesecake supply. → WAFFLE
+
+message_30:
+    text: \n<MINA>Oh hey, HERO!\! Es ist schon eine Weile her, dass du mir geholfen hast, Zutaten für meinen unbegrenzten Käsekuchenvorrat zu sammeln.
+
+message_31:
+    text: \n<MINA>Der Käsekuchen ist allerdings ganz für mich...! Aber du kannst das hier haben!
+
+message_32:
+    text: MINA hat dir eine \c[3]WAFFEL\c[0] gegeben.
+
+message_110:
+    text: \n<MINA>Geh voran, HERO!<br>Sei der Forager, der du schon immer sein wolltest!
+
+#Ricoli Ravioli - Orange Oasis - Helped me discover my love of food. → CHEESE WHEEL
+
+message_33:
+    text: \n<RICOLI RAVIOLI>Mein Mann, HERO!\! Wie viele Jahre ist es her, dass du mir geholfen hast, meine Liebe zum Essen zu entdecken?\! Du hast mir geholfen, meinen Traum zu finden und dafür schulde ich dir mein Leben!
+
+message_34:
+    text: \n<RICOLI RAVIOLI>Nimm das und sei nicht schüchtern dabei!!! Es ist mein Lieblingsessen und es ist definitiv genug, um es mit allen zu teilen!
+
+message_35:
+    text: RICOLI RAVIOLI hat dir ein \c[3]KÄSERÄDCHEN\c[0] gegeben.
+
+message_111:
+    text: \n<RICOLI RAVIOLI>Geh voran, HERO!<br>Sei der Mentor, der Du immer sein wollten!
+
+#Basket Case - Last Resort - Helped file taxes. → CARDBOARD
+
+message_36:
+    text: \n<BASKET CASE>Du meine Güte... Bist das wirklich du, HERO?! Du hast mich aus einem riesigen Trott herausgeholt, als du mir geholfen hast, meine ganzen Steuern einzureichen.\! Ich weiß ehrlich gesagt nicht, wie ich das selbst hätte machen können.
+
+message_37:
+    text: \n<BASKET CASE>Du hast wahrlich mein Leben gerettet!\! Nimm dieses Geschenk. \! Ich verdanke es dir! 
+
+message_38:
+    text: BASKET CASE gab Ihnen \c[13]NERDBRILLE\c[0].
+
+message_112:
+    text: \n<BASKET CASE>Geh voran, HERO!<br>Sei der Buchhalter, der du schon immer sein wolltest!
+
+#Silker - Last Resort - Covered work shift at the last minute. → 500 CLAMS, 440 after taxes
+
+message_39:
+    text: \n<SILKER>Oh hey, HERO.\! Deine Anwesenheit hat die Arbeit immer so viel erträglicher gemacht.
+
+message_40:
+    text: \n<SILKER>Ich denke immer an die Zeit, als du meine Arbeitsschicht übernommen hast, als ich einen Notfall in letzter Minute hatte.\! Du verdienst auch etwas Freundlichkeit. \! Nimm das!
+
+message_41:
+    text: SILKER öffnete seine Brieftasche und gab dir 500 CLAMS.
+
+message_42:
+    text: \n<SILKER>Oh, Mist...\! Sorry, mein Fehler. \! Ich muss erst sicherstellen, dass ich meine Steuern bezahlen kann.
+
+message_76:
+    text: SILKER nahm die 500 CLAMS zurück.
+
+message_77:
+    text: SILKER hat dir 440 CLAMS gegeben.
+
+message_78:
+    text: \n<SILKER>Ich weiß wirklich zu schätzen, was du für mich getan hast, HERO!<br> Sei der Freund, der du immer sein wolltest!
+
+
+#Krispy - Casino - Helped to get Jawsum to forgive debt. → CONFETTI
+
+message_83:
+    text: \n<KRISPY>Yo, HERO! Nochmals vielen Dank, dass du mich von all meinen Schulden bei dem großen Kerl befreit hast.
+
+message_43:
+    text: \n<KRISPY>Ich will nicht wissen, was du zu ihm sagen musstest, damit es passiert... aber ich weiß, dass du mir wirklich einen Gefallen getan hast.
+
+message_44:
+    text: \n<KRISPY>Nehme das als Dankeschön... und fühlst du auch nicht schlecht deswegen.<br>Wir müssen auch mal feiern!
+
+message_79:
+    text: KRISPY hat dir \c[5]CONFETTI\c[0] gegeben.
+
+message_113:
+    text: \n<KRISPY>Geh voran, HERO!<br>Sei der Philanthrop, der du schon immer sein wolltest!
+
+#Wolf - Saved my marriage.  → 143 CLAMS
+
+message_45:
+    text: \n<WOLF>Hey, warte eine Sekunde...\! Du bist der Junge, der meine Ehe gerettet hat!\! HERO, war es? Ich hatte nie die Chance, dir dafür zu danken.
+
+message_46:
+    text: \n<WOLF>Das Geld ist im Moment etwas knapp, aber das ist alles, was ich entbehren kann. <br>Ich hoffe, das ist okay, Mann. Du verdienst es.
+
+message_47:
+    text: WOLF griff in seine Tasche und gab dir 143 CLAMS.
+
+message_114:
+    text: \n<WOLF>Geh voran, HERO!<br>Sei der Friedensstifter, der du schon immer sein wolltest!
+
+#Shamboo - Concierge - Held me accountable for my actions → DYNAMITE
+
+message_48:
+    text: \n<SHAMBOO>Ah...\! Du bist der Junge, der mich für meine Taten zur Rechenschaft gezogen hat. \! Ich habe mein Verhalten seit meiner letzten Konfrontation mit dir geändert... vielleicht zum Besseren.
+
+message_49:
+    text: \n<SHAMBOO>Es ist nicht viel, aber nimm das von mir...\! Bitte, ich bestehe darauf.
+
+message_50:
+    text: SHAMBOO lüftet seinen Hut und gibt dir \c[5]DYNAMITE\c[0].
+
+message_115:
+    text: \n<SHAMBOO>Geh voran, HERO...<br>Sei der Schrittmacher, der du schon immer sein wolltest...
+
+#Touchdown - Concierge - Awakened my true potential → WATERMELON JUICE
+
+message_51:
+    text: \n<TOUCHDOWN>Warte mal kurz! Du bist HERO, richtig?! Ich erinnere mich an dich! \! Damals, als ich noch ein Rookie war, hat mir dein Training geholfen, mein wahres Potenzial zu wecken.
+
+message_52:
+    text: \n<TOUCHDOWN>Ich habe im Moment nicht viel bei mir, aber ich mag es auch nicht, Leuten etwas zu schulden. Nimm das und lass uns das quittieren.
+
+message_53:
+    text: TOUCHDOWN gab dir \c[3]WASSERMELONENSAFT\c[0].
+
+message_116:
+    text: \n<TOUCHDOWN>Geh voran, HERO!<br>Sei der Einfluss, der Du schon immer sein wolltest!
+
+#Hoagie - Club Sandwich - Donated organs to save REUBEN's life → 5000 CLAMS
+
+message_54:
+    text: \n<HOAGIE>Yo, HERO.\! Ich weiß, dass du das selbst nie erwähnen wirst, aber...\! ich und REUBEN verdanken dir wirklich unser Leben.
+
+message_55:
+    text: \n<HOAGIE>Als Du sagtest, Du würdest Deine Organe spenden, um REUBENs Leben zu retten...! Ich hätte nicht gedacht, dass du das wirklich durchziehen würdest.
+
+message_56:
+    text: \n<HOAGIE>Du bist einzigartig, und ich hoffe, du weißt das, HERO.\! Es ist nicht viel, aber nimm das.
+
+message_80:
+    text: HOAGIE griff in sein Hemd und gab dir 5000 CLAMS.
+
+message_81:
+    text: \n<HOAGIE>Ich wünsche dir gute Vibes, HERO!<br>Sei der Spender, der Du immer sein wolltest!
+
+#City Slicker - Underwater Highway - Helped me recover through surgery → MILK
+
+message_57:
+    text: \n<CITY SLICKER>Nun, ich werde da sein! Ich habe nicht damit gerechnet, dich so schnell wiederzusehen, HERO!
+
+message_58:
+    text: \n<CITY SLICKER>Ich bin gerade erst aus dem Krankenhaus entlassen worden, seit du mir geholfen hast, mich von meiner Operation zu erholen. Ich habe das aus dem Krankenhaus gestohlen, aber sag es niemandem!\! Es ist für dich!
+
+message_59:
+    text: CITY SLICKER hat in seine Jacke gegriffen und dir \c[3]MILK\c[0] gegeben.
+
+message_117:
+    text: \n<CITY SLICKER>Geh voran, HERO!<br>Sei die Stütze, die du schon immer sein wolltest!
+
+#Jet Setter - Underwater Highway  - Found and returned stolen bicycle → AIR HORN
+
+message_60:
+    text: \n<JET SETTER>Yo, yo, yo!\! Na, wenn das nicht HERO!\! Ich wollte mich bei dir revanchieren, seit du mein gestohlenes Fahrrad gefunden und zurückgebracht hast!
+
+message_61:
+    text: \n<JET SETTER>Du bist ein cooler Typ, HERO.\! Im Ernst, der coolste.\! Hier ist ein Geschenk für coole Leute wie dich.
+
+message_62:
+    text: JET SETTER griff in sein Haar und gab dir<br>\c[13]COOL GLASSES\c[0].
+
+message_118:
+    text: \n<JET SETTER>Geh voran, HERO!<br>Sei die Gerechtigkeit, die du immer sein wolltest!
+
+#Skull Crusher - Underwater Highway  - Taught how to read → POETRY BOOK
+
+message_63:
+    text: \n<SKULL CRUSHER>Also, HERO! Du bist gekommen, um der Crew Hallo zu sagen, was?! Ich sehe die Welt ganz anders, seit du mir das Lesen beigebracht hast.
+
+message_64:
+    text: \n<SKULL CRUSHER>Hier ist das Buch, mit dem du mich unterrichtet hast. Ich bin es schon tonnenweise durchgegangen, also kannst du es wieder haben.
+
+message_65:
+    text: SKULL CRUSHER griff in seine Tasche und gab dir ein<br>\c[5]POETRY BOOK\c[0].
+
+message_82:
+    text: \n<SKULL CRUSHER>Bildung...\! Das ist es, was unersetzlich ist, Mann.
+
+#Brick - Underwater Highway - Saved family restaurant → WHOLE CHICKEN
+
+message_66:
+    text: \n<BRICK>Was geht, Held?! Ich habe jeden Tag an dich gedacht, seit du mir geholfen hast, das Restaurant meiner Familie zu retten.
+
+message_67:
+    text: \n<BRICK>Nimm das, mein Junge...! Es ist die Spezialität meiner Familie... Du musst es probieren!
+
+message_68:
+    text: BRICK packte sein Halstuch aus und gab dir ein<br>\c[3]GANZES HÜHNCHEN\c[0].
+
+message_119:
+    text: \n<BRICK>Geh voran, HERO!<br>Sei der Segen, der du immer sein wolltest!
+
+#SEacow - Underwater Highway - Saved the farm → COMBO MEAL
+
+message_69:
+    text: \n<SEACOW>HERO!\! Ich schätze, ich habe dich nicht mehr gesehen, seit du die Farm gerettet hast!
+
+message_70:
+    text: \n<SEACOW>Ich bin nie dazu gekommen, mich richtig dafür zu bedanken und es lastet schwer auf meinen Gedanken... \! Das ist meine Chance, mich zu revanchieren. Nimm das, Partner.
+
+message_71:
+    text: SEACOW hat dir irgendwie ein \c[3]COMBO MEAL\c[0] gegeben.
+
+message_120:
+    text: \n<SEACOW>Geh voran, HERO!<br>Sei die Salami, die du schon immer sein wolltest!

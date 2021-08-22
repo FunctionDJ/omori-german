@@ -1,0 +1,34 @@
+#### Translation: Finished
+
+#### Translated by: haj
+
+# =========================================================================================
+# Lost Forest
+# ========================================================================================
+
+#Talk to Mush:
+
+message_0:
+      text: \n<MUSH>Hallo, Fremder.\! Ich bin MUSH und mein Lebenstraum war es schon immer, gegessen und genossen zu werden.\! <br>Willst du mir meinen Wunsch erfüllen und mich essen?
+
+#[Nod/Shake]
+#[Nod]
+
+message_1:
+      text: \n<MUSH>Oh, danke, Fremder.\!<br>Du weißt gar nicht, wie dankbar ich dafür bin!
+
+#MUSH jumps into your sprite
+
+message_2:
+      text: \c[3]MUSH\c[0] war voller Aufregung, als er durchgekaut wurde.
+
+message_3:
+      text: \c[3]MUSH\c[0] erhielt 1 HERZ, 1 SAFT, 1 ANGRIFF, 1 VERTEIDIGUNG, 1 TEMPO, und 1 GLÜCK!
+
+message_5:
+      text:Du erhälst \c[3]MUSH\c[0].
+
+#[Shake]
+
+message_4:
+      text: \n<MUSH>Oh...\! Also gut.

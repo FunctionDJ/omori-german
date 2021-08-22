@@ -1,0 +1,220 @@
+#### Translation: Finished
+
+#### Translated by: mewo
+
+# =========================================================================================
+# Cutscene: Space Ex-Boyfriend
+# =========================================================================================
+
+#Trigger: Entering SBF's House with SWEETHEART MIXTAPE.
+
+message_0:
+      text: Na sieh' mal an! Ihr Kinder habt es wirklich geschafft!\! Es ist ein wenig dreckig, aber es ist wirklich unser verlorenes \c[4]SPEZIAL-MIXTAPE\c[0]!\!<br>Danke vielmals, Junge.\spg
+
+message_1:
+      text: Hiermit wird SPACE BOYFRIEND endlich wieder aufwachen!\spg
+
+#KEL walks up to you.
+
+message_2:
+      text: KEL griff in deine TASCHE <br>und holte das \c[4]SPEZIAL-MIXTAPE\c[0] heraus.
+
+message_3:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 4
+      text: Also, darüber...\! Wir hätten da ein paar schlechte Nachrichten .\!<br>Wir haben ein Gericht gehört, dass SPACE BOYFRIEND und SWEETHEART...\! Nunja...\! dass sie Schluss gemacht haben.\aub
+
+#KEL slowly walks to SPACE BOYFRIEND.
+
+message_4:
+      text: \Com[2]W-Was? Haben die wirklich?\!<br>Echt jetzt diesmal?\!<br>Oh nein...\! Aber das würde heißen...\spg
+
+message_5:
+      text: Dass es keinen Sinn mehr gibt das \c[4]SPEZIAL-MIXTAPE\c[0] zu spielen...\! Alle Hoffnung...\! ist verloren.\spg
+
+#KEL jumps.
+
+message_6:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 18
+      text: \Com[2]Hey, SPACE BOYFRIEND! Wir haben dein \c[4]SPEZIAL-MIXTAPE\c[0] wieder!\kel
+
+message_7:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 17
+      text: ...\kel
+
+message_8:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 26
+      text: Hmpf... Du kannst uns wenigstens bedanken.\kel
+
+#AUBREY jumps.
+
+message_9:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 4
+      text: Ach, werd nicht so bedrückt, WELTRAUM-PIRATE TYP! Es ist bloß ein Gerücht...\!<br>und selbst wenn es wahr ist, es ist nicht das Ende der Welt.\aub
+
+message_10:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 1
+      text: Leute kommen die ganze Zeit über Liebesabbrüche hinweg!\! <br>Ich bin mir sicher SPACE BOYFRIEND wird bald wieder auf seinen Füßen sein.\!<br>Er braucht einfach nur Zeit um sich neu anzupassen.\aub
+
+#KEL slowly walks to cassette player.
+
+message_11:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 19
+      text: Oh, Ich weiß! Ich werde das \c[4]SPEZIAL-MIXTAPE\c[0] auf seinem Ghettoblaster dröhnen.\!<br>Davon muss er wieder aufwachen!\kel
+
+#HERO jumps.
+
+message_12:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 40
+      text: In dem Fall sollten wir wohl doch das \c[4]SPEZIAL-MIXTAPE\c[0] entsorgen.\!  Musik hören könnte viel zu emotional für ihn sein.\her
+
+message_13:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 36
+      text: Gib her, OMORI. Ich pass' drauf auf.\her
+
+message_14:
+      text: HERO griff in deine TASCHE.
+
+#HERO is confused.
+
+message_15:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 40
+      text: Hä? Wo ist es?\her
+
+#KEL opens cassette player.
+
+message_16:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 46
+      text: \{KEL!! WAS MACHST DU DA!?\her\}
+
+message_17:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 46
+      text: \Com[2]\quake[1]\{NEEE\{EEEE\{EEII\{IIIIIINNN!!!\SINV[0]\her
+
+message_18:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 18
+      text: \SINV[1]\{RAUS AUS DEN FEDERN, SPACE BOYFRIEND!!\kel\}\}\SINV[0]
+
+#KEL puts the SWEETHEART MIXTAPE in the cassette player.
+#SWEETHEART MIXTAPE song plays.
+
+message_19:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 47
+      text: Oh-oh...\! Ich habe ein schlechtes Gefühl hierbei...\her
+
+message_20:
+      text: \Com[2]\quake[1]Was...\| \Com[2]ist...\| \Com[2]dieser...\sbf\quake[0]
+
+message_21:
+      text: \Com[2]\quake[1]\{\{FURCHTBARE...\sbf\quake[0]
+
+message_22:
+      text: \Com[2]\quake[1]\{\{\{LÄRM!?!?\sbf\quake[0]
+
+#Screen shakes. SPACE PIRATE guy flies O.S. at an alarming speed.
+
+message_23:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 10
+      text: Verdammt, KEL! Schau was du angerichtet hast!\aub
+
+message_24:
+      text: \Com[2]\{\quake[1]FWAHAHA\{HAHA\{HAHA!!\sbf\sinv[0]
+
+message_25:
+      text: \Com[2]\quake[1]\{FÜRCHTET EUCH FOR MIR, DENN ICH BIN ERWACHT!!\sbf\quake[0]
+
+message_26:
+      text: ...\! Hmpf...\! <br>Einen Moment, bitte.\sbf
+
+#SPACE BOYFRIEND teleports to front of cassette player and changes the song to pre-battle music.
+
+message_27:
+      text: Hmhmhmhm...\|<br>\Com[2]\{\quake[1]FWAHAHAH\{AHAHAHA!!\sbf\sinv[0]
+
+message_28:
+      text: Viel besser!\! Nun, wo war ich...?\! Ach ja!\sbf
+
+message_29:
+      text: \Com[2]Ihr dummen Kinder!\!<br>Ich muss euch schon danken, dafür dass ihr mich aus diesem erbärmlichen Zustand rausgeholt habt.\!<br>Mir hat's gereicht, so zu tun, also ob ich krank im Bett liegen würde.\sbf
+
+message_30:
+      text: Wie ich es immer sage...\! <br>\{\quake[1]GEFÜHLE SIND FÜR WEICHEIER!!\sbf\}
+
+message_31:
+      text: SWEETHEART...Diese Göre!\!<br>Sie wird dafür büßen, mich verlassen zu haben!\sbf
+
+message_32:
+      text: Ich habe alles für sie gemacht! Ich habe ihr alles gegeben!\!<br>\{ALLES! HÖRT IHR!?!?\sbf\}
+
+message_33:
+      text: Diese undankbare, kleine..\! Arrrrrghhhhhh... \sbf
+
+message_34:
+      text: \quake[1]AAAAAU\Com[2]\{UUUGGGGG\Com[2]\{GGGGGHHHHH\Com[2]\{HHHHH!!!\sbf\quake[0]
+
+message_35:
+      text: \quake[1]\{VERGISST ES EINFACH!!\! VERGISST ALLES!!\sbf\quake[0]
+
+message_37:
+      text: Ich werde SWEETHEART finden...\sbf
+
+message_38:
+      text: \{UND SIE BÜßEN LASSEN!!\sbf\quake[0]
+
+message_39:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 10
+      text: Tut uns Leid, aber wir können das nicht geschehen lassen, SPACE BOYFRIEND...\!<br>Oder soll ich lieber sagen...\aub
+
+message_40:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 10
+      text: \{\{\Com[2]SPACE EX-BOYFRIEND!!\aub
+
+message_41:
+      text: Interessant.\! Ihr wollt mich herausfordern?\!<br>\{WISST IHR ÜBERHAUPT, WER ICH BIN!?\sxbf
+
+message_42:
+      text: \{ICH BIN DER KAPITÄN DER WELTRAUM-PIRATEN!\sxbf
+
+message_43:
+      text: Ich kann alle Planeten im Sonnensystem kontrollieren und habe die Fähigkeit nach meinen Wünchen durch das Weltall zu fliegen!\sxbf
+
+message_44:
+      text: \Com[2]Die Macht des gesamtem Universums liegt auf meinem Befehl!\sxbf
+
+message_45:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 30
+      text: Blah, blah, blah!\! Du kannst reden soviel du willst... Wir fürchten uns nicht vor dir!\kel
+
+message_46:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 43
+      text: Wenn du daran denkst, überall Chaos zu verursachen,<br>musst du erst an uns vorbei!\her
+
+message_47:
+      text: ...\sxbf
+
+message_48:
+      text: Hmpf...\! Ach, so wird es also sein.\!<br>Wenn du darauf bestehst mich zu stoppen...\!<br>Dann müssen wir es die schwere Weise regeln.\sxbf
+
+message_49:
+      text: \{\quake[1]ICH WERDE GEGEN EUCH ANTRETEN!!\quake[0]\sxbf
+
+message_50:
+      text: \{\{\quake[1]BEKÄMPFT MICH, IHR ERDLICHER ABSCHAUM!!\quake[0]\sxbf
