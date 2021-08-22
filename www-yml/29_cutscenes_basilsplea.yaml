@@ -1,0 +1,518 @@
+#### Translation: Finished
+#### Translated by: haj
+
+# =========================================================================================
+# Cutscene: Basil's Room
+# =========================================================================================
+
+#Trigger: Enter BASIL's Room.
+
+#BASIL is staring out the window.
+#BASIL turns to \n[8].
+
+message_0:
+      faceset: MainCharacter_Basil_Dark
+      faceindex: 17
+      text: Ah...\! \n[8]...\! Du bist es nur...\bas
+
+message_1:
+      faceset: MainCharacter_Basil_Dark
+      faceindex: 17
+      text: Ich bin froh, dass du gekommen bist.\bas
+
+message_2:
+      faceset: MainCharacter_Basil_Dark
+      faceindex: 17
+      text: Es ist...\! Es ist so schön, dich zu sehen.\bas
+
+message_3:
+      faceset: MainCharacter_Basil_Dark
+      faceindex: 20
+      text: Sieh dich um.\! Du kannst es jetzt sehen, nicht wahr?\bas
+
+message_4:
+      faceset: MainCharacter_Basil_Dark
+      faceindex: 20
+      text: Etwas...\! ist hinter dir.\bas
+
+#Trigger: \n[8] uses any command input, but \n[8] sprite will back out towards the door.
+
+#\n[8] turns around and examines door.
+#Slide: SOMETHING at the Door
+#Something pushes \n[8] into the room and reveals itself.
+#BASIL's SOMETHING begins pulsing on the floor.
+
+#BASIL turns to window.
+
+message_5:
+      faceset: MainCharacter_Basil_Dark
+      faceindex: 20
+      text: Es kam an dem Tag zu dir...\! An dem Tag, an dem MARI starb.\bas
+
+message_6:
+      faceset: MainCharacter_Basil_Dark
+      faceindex: 19
+      text: Als MARI...\! Als MARI fiel...\bas
+
+message_7:
+      faceset: MainCharacter_Basil_Dark
+      faceindex: 17
+      text: Du...\! Du hättest es nicht geschafft.\bas
+
+message_8:
+      faceset: MainCharacter_Basil_Dark
+      faceindex: 17
+      text: Es war etwas hinter dir... nicht wahr?\bas
+
+#BASIL turns to \n[8].
+
+message_9:
+      faceset: MainCharacter_Basil_Dark
+      faceindex: 17
+      text: Du bist ein guter Mensch \n[8].\! Ich weiß, dass du ein guter Mensch bist!\bas
+
+message_10:
+      faceset: MainCharacter_Basil_Dark
+      faceindex: 20
+      text: Ein guter Mensch würde so etwas nicht tun...\bas
+
+#BASIL turns to window.
+
+message_11:
+      faceset: MainCharacter_Basil_Dark
+      faceindex: 17
+      text: Nach all dieser Zeit...\! bist du endlich zu mir zurückgekommen.\bas
+
+message_12:
+      faceset: MainCharacter_Basil_Dark
+      faceindex: 16
+      text: Aber...\! morgen...\! gehst du weg.\bas
+
+message_13:
+      faceset: MainCharacter_Basil_Dark
+      faceindex: 25
+      text: \Com[2]\{\fn<OMORI_GAME>\quake[1]W-WIE KANNST DU NUR!?!?\bas
+
+#BASIL turns to \n[8].
+
+message_14:
+      faceset: MainCharacter_Basil_Dark
+      faceindex: 24
+      text: \Com[2]\fn<OMORI_GAME>Das ist gemein \n[8].\! \Com[2]Das ist so gemein!\bas
+
+#BASIL's SOMETHING froms around him.
+
+message_15:
+      faceset: MainCharacter_Basil_Dark
+      faceindex: 21
+      text: Ah...\! Jetzt ist überall etwas um uns herum.\bas
+
+message_16:
+      faceset: MainCharacter_Basil_Dark
+      faceindex: 20
+      text: Kannst du es sehen, \n[8]?\!<br>Es gibt keinen Ausweg aus dieser Sache, oder?\bas
+
+#Trigger: \n[8] attempts to leave again by examining door.
+
+message_17:
+      faceset: MainCharacter_Basil_Dark
+      faceindex: 21
+      text: Wo gehst du hin!?\! <br>\Com[2]Hör auf mich zu verlassen!\bas
+
+message_18:
+      faceset: MainCharacter_Basil_Dark
+      faceindex: 25
+      text: \fn<OMORI_GAME>\Com[2]H-Hör auf! \Com[2]Hör auf! \Com[2]Hör auf! \Com[2]Hör auf! \Com[2]Hör auf! \Com[2]Hör auf! \Com[2]Hört auf!\bas
+
+message_19:
+      faceset: MainCharacter_Basil_Dark
+      faceindex: 24
+      text: \fn<OMORI_GAME>Ich... will... nicht...\! allein...\! sein...\! nicht schon wieder...\! <br>Du... kannst... mich... nicht... wieder... verlassen...\bas
+
+#BASIL turns to window.
+
+message_20:
+      faceset: MainCharacter_Basil_Dark
+      faceindex: 17
+      text: \basNein...\! Du würdest mich nicht verlassen.\! Das passt nicht zu dir, \n[8]!
+
+#BASIL turns to \n[8].
+message_21:
+      faceset: MainCharacter_Basil_Dark
+      faceindex: 19
+      text: \basEs ist wieder etwas hinter dir, nicht wahr?
+
+message_22:
+      faceset: MainCharacter_Basil_Dark
+      faceindex: 21
+      text: \basAh! Da ist es ja!\! Siehst du es?
+
+message_23:
+      faceset: MainCharacter_Basil_Dark
+      faceindex: 25
+      text: \bas\fn<OMORI_GAME>\Com[2]Hau ab!\! \Com[2]Rühr \n[8] nicht ein kleines bisschen an!
+
+message_24:
+      faceset: MainCharacter_Basil_Dark
+      faceindex: 16
+      text: \bas...
+
+message_25:
+      faceset: MainCharacter_Basil_Dark
+      faceindex: 17
+      text: Ich werde dich beschützen, scheißegal was passiert \n[8].<br>Du kannst mir vertrauen!\bas
+
+message_26:
+      faceset: MainCharacter_Basil_Dark
+      faceindex: 19
+      text: Als etwas MARI tötete...\!<br>Als etwas all meine Fotos ruinierte...\!\bas
+
+message_27:
+      faceset: MainCharacter_Basil_Dark
+      faceindex: 20
+      text: Ich habe nichts gesagt...\!<br>Ich wollte nicht, dass die Leute denken dass du es warst \n[8].\bas
+
+message_28:
+      faceset: MainCharacter_Basil_Dark
+      faceindex: 25
+      text: \n[8]...\! \n[8] würde so etwas nicht... tun.\bas
+
+#BASIL cries.
+
+message_29:
+      faceset: MainCharacter_Basil_Dark
+      faceindex: 16
+      text: \bas...
+
+message_30:
+      faceset: MainCharacter_Basil_Dark
+      faceindex: 17
+      text: \basKeine Angst \n[8]...\! Ich werde dich wieder retten.
+
+message_31:
+      faceset: MainCharacter_Basil_Dark
+      faceindex: 25
+      text: \basEtwas hinter dir...\! Ich werde es ein für alle Mal vernichten.
+
+
+#BASIL pulls PLAYER in.
+#Something follows.
+
+message_32:
+      faceset: MainCharacter_Basil_Dark
+      faceindex: 17
+      text: \n[8]...\! Hab keine Angst.\bas
+
+message_33:
+      faceset: MainCharacter_Basil_Dark
+      faceindex: 19
+      text: Ich habe auch Angst, aber...\! es ist zum Besten.\bas
+
+# message_34:
+#       faceset: MainCharacter_Basil_Dark
+#       faceindex: 21
+#       text: \fn<OMORI_GAME>Don't you worry, \n[8]... I'll save you...\bas
+
+message_35:
+      faceset: MainCharacter_Basil_Dark
+      faceindex: 17
+      text: Alles wird wieder gut...\bas
+
+message_36:
+      faceset: MainCharacter_Basil_Dark
+      faceindex: 24
+      text: \fn<OMORI_GAME>Alles...\bas
+
+#BASIL something squishes you tighter sfx
+
+message_37:
+      faceset: MainCharacter_Basil_Dark
+      faceindex: 25
+      text: \fn<OMORI_GAME>...wird wieder... okay...\bas
+
+# =========================================================================================
+# Cutscene: Light
+# =========================================================================================
+
+#[Save for Map Completion]
+
+# =========================================================================================
+# Cutscene: Mari's Request
+# =========================================================================================
+
+#Talk to MARI at the Piano
+
+
+message_50:
+      faceset: MainCharacter_Basil
+      faceindex: 31
+      text: \basHey, \n[8].
+
+message_51:
+      faceset: MainCharacter_Basil
+      faceindex: 30
+      text: \basDu hast den Weg zurück nach Hause gefunden.
+
+message_52:
+      faceset: MainCharacter_Basil
+      faceindex: 28
+      text: \basIch weiß nicht, ob ich das jemals richtig gesagt habe, aber...\! Es tut mir so furchtbar leid, dass ich dir so viele Schwierigkeiten verursacht habe.
+
+message_53:
+      faceset: MainCharacter_Basil
+      faceindex: 17
+      text: \basAls ich dir mein \c[4]FOTOALBUM\c[0] gab...\!<br>Wollte ich wirklich, dass du es bekommst.
+
+message_54:
+      faceset: MainCharacter_Basil
+      faceindex: 16
+      text: \basAber irgendwie...\! Immer wenn ich versucht habe zu helfen...\!<br>Habe ich dich dafür immer belastet.
+
+message_55:
+      faceset: MainCharacter_Basil
+      faceindex: 27
+      text: \basAuch damals schon...
+
+message_56:
+      faceset: MainCharacter_Basil
+      faceindex: 26
+      text: \bas...
+
+message_57:
+      faceset: MainCharacter_Basil
+      faceindex: 16
+      text: \basAll dieser Schmerz den wir gefühlt haben...\! Die Schuld in unseren Herzen...
+
+message_58:
+      faceset: MainCharacter_Basil
+      faceindex: 17
+      text: \basSelbst wenn du versuchst, es alles zu verdrängen...\! Kommt es alles irgendwie wieder raus.
+
+message_59:
+      faceset: MainCharacter_Basil
+      faceindex: 28
+      text: \basIch will damit sagen, dass alles wieder gut wird.\!<br>Dass wir keine andere Wahl haben, als weiterzumachen.
+
+message_60:
+      faceset: MainCharacter_Basil
+      faceindex: 31
+      text: \basAber...\! das liegt an dir.
+
+message_61:
+      faceset: MainCharacter_Basil
+      faceindex: 30
+      text: \basAUBREY, KEL und HERO sind gute Freunde.\!<br>Du musst darauf vertrauen, dass sie uns verzeihen werden.
+
+message_62:
+      faceset: MainCharacter_Basil
+      faceindex: 16
+      text: \basEs ist schwer, das wirklich zu glauben...\! aber...
+
+message_63:
+      faceset: MainCharacter_Basil
+      faceindex: 30
+      text: \basDie Fotos in unserem Album...\! Es sind nicht nur Fotos.\!<br>Das sind echte Erinnerungen.
+
+message_71:
+      faceset: MainCharacter_Basil
+      faceindex: 29
+      text: \basUnsere Erinnerungen!\! Das ist der Beweis für unsere Freundschaft!
+
+message_64:
+      faceset: MainCharacter_Basil
+      faceindex: 30
+      text: \basHalten Sie diese Bilder fest...\!<br>Und erinnere dich daran, was du schützen willst.
+
+message_65:
+      faceset: MainCharacter_Basil
+      faceindex: 31
+      text: \basHaha...\! Es tut mir leid...\! Es sieht so aus, als würde ich dich wieder belasten.
+
+message_67:
+      faceset: MainCharacter_Basil
+      faceindex: 28
+      text: \basDer Weg in deinem Schicksal wird sich bald öffnen. aber nur du kannst entscheiden, was du am Ende tun willst.
+
+message_68:
+      faceset: MainCharacter_Basil
+      faceindex: 30
+      text: \basEs ist nicht viel, aber...\! Ich werde dich bei allem was geht unterstützen.
+
+#BASIL walks off to street to right.
+#PLAYER turns right.
+#BASIL runs back to PLAYER and hugs him.
+
+message_69:
+      faceset: MainCharacter_Basil
+      faceindex: 31
+      text: \bas\n[8]...
+
+message_70:
+      faceset: MainCharacter_Basil
+      faceindex: 31
+      text: \basLass uns gemeinsam ein paar neue Erinnerungen erleben, okay?
+
+#Talk to MARI at the Piano
+
+message_80:
+      text: \n[8]...\! Es ist fast so weit.\mar
+
+message_81:
+      text: Du hast in den letzten Tagen viel durchgemacht.\!<br>Du musst müde sein...\mar
+
+message_82:
+      text: Jeder von uns macht Fehler...\!<br>Du flüchtest schon seit langem vor dieser Sache.\mar
+
+message_83:
+      text: Es ist manchmal schwer sich das zu gestehen,<br>aber du verzeihst dir doch, oder?\mar
+
+#pause
+
+message_90:
+      text: Du schaffst das, \n[8].\!<br>Du hast wirklich hart dafür gekämpft, um soweit zu kommen...\!<br>Es gibt jetzt nur noch eine Sache zu tun. \mar
+
+message_91:
+      text: Du sollst wissen, dass ich immer über dich wachen werde, okay?<br>Solange du dich an mich erinnerst, werde ich immer für dich da sein \n[8]...\mar
+
+# =========================================================================================
+# Cutscene: Basil's Hospital Room - UNUSED
+# =========================================================================================
+
+#Trigger: Enter proximity of SOMETHING.
+
+#message_110:
+#      faceset: MainCharacters_Faraway
+#      faceindex: 17
+#      text: \Com[2]\n[8], you're awake!\!<br>A-Are you sure you should be moving like that?\kel
+
+#message_111:
+#      faceset: MainCharacters_Faraway
+#      faceindex: 31
+#      text: Careful, \n[8]... You shouldn't be walking yet...<br>Your wound might reopen...\her
+
+#\n[8] falls to his knees.
+#Everyone runs to \n[8].
+
+#faceset: MainCharacters_Faraway
+#      faceindex: 6
+#      text: \Com[2]\n[8]! \n[8]!\! \Com[2]Are you okay?\!...\! \Com[2]Say something...\aub
+
+#message_113:
+#      text: .............................................................................................\n<\n[8]>
+
+#message_114:
+#      text: .............................................................................................\n<\n[8]>
+
+#message_115:
+#      text: .............................................................................................\n<\n[8]>
+
+#message_116:
+#      faceset: MainCharacter_Mari
+#      faceindex: 21
+#      text: .............................................................................................<br>\!I...\n<\n[8]>
+
+
+# =========================================================================================
+# Cutscene: Balcony End
+# =========================================================================================
+
+#before arriving at the Balcony (black screen)
+
+# =========================================================================================
+# Cutscene: Leave for the City
+# =========================================================================================
+
+#Trigger: Wake up in \n[8]'s House on 4th day.
+
+#through phone:
+
+message_140:
+      text: Hallo, Schatz! Wir haben alles gepackt und sind startklar!\!<br>Wir warten draußen im Auto.<br>Komm einfach raus, wenn du bereit bist!\n<MOM>
+
+#SOMETHING is following you.
+
+#Trigger: Exit \n[8]'s House.
+
+#There is a car waiting in front of \n[8]'s house.
+
+#Trigger: Examine Car.
+
+#Car leaves.
+
+
+# =========================================================================================
+# Cutscene: Not Your Problem
+# =========================================================================================
+
+message_150:
+      text: Willst du in BASIL's Zimmer schauen?
+
+message_161:
+      faceset: MainCharacter_Basil_dark
+      faceindex: 46
+      text: Bitte... \n[8].\! Du solltest das nicht sehen.\her
+
+message_163:
+      faceset: MainCharacter_Basil_dark
+      faceindex: 46
+      text: Du sollst heute ausziehen...\!<br>Auf dem Weg zu einem Neuanfang.\her
+
+message_164:
+      faceset: MainCharacter_Basil_dark
+      faceindex: 46
+      text: Wir werden uns hier um alles kümmern.\her
+
+message_165:
+      faceset: MainCharacter_Basil_dark
+      faceindex: 46
+      text: Geh schon mal vor...\!<br>\fn<OMORI_GAME>Wir schaffen das schon.\! Glaube ich...\her
+
+#2nd talk
+
+message_151:
+      faceset: MainCharacter_Basil_dark
+      faceindex: 46
+      text: Geh schon mal vor...\! Wir kommen schon klar. \! Glaube ich...\her
+
+#KEL does not turn to you
+message_166:
+      faceset: MainCharacter_Basil_dark
+      faceindex: 44
+      text: Warum, BASIL...?\! Warum hast du das getan?\kel
+
+message_171:
+      faceset: MainCharacter_Basil_dark
+      faceindex: 45
+      text: \n[8]...\! Warum passiert uns das immer wieder?\kel
+
+#AUBREY does not turn to you
+message_167:
+      faceset: MainCharacter_Basil_dark
+      faceindex: 47
+      text: Es tut mir so leid, BASIL.\! Bitte vergebe mir...\aub
+
+message_168:
+      text: Du musst zu deinem neuen Zuhause gehen.
+
+message_169:
+      text: Mama's Auto wartet auf dich.
+
+#POLLY does not turn to you
+message_190:
+      text: \n<POLLY>Warum...\! Warum bin ich so ein Versager?
+
+# =========================================================================================
+# Cutscene: In Front of Basil's Door
+# =========================================================================================
+
+message_170:
+      text: Willst du BASIL's Tür öffnen?
+
+# =========================================================================================
+# Cutscene: In Front of Basil's Door
+# =========================================================================================
+
+message_180:
+      text: Es ist ein langer Weg nach unten...\| Willst du springen?
+
+#YES/NO

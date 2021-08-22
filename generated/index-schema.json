@@ -52,6 +52,9 @@
         },
         "Verified by": {
           "$ref": "#/$defs/contributors"
+        },
+        "Comment": {
+          "type": "string"
         }
       }
     }

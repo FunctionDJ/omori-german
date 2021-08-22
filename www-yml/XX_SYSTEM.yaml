@@ -1,5 +1,4 @@
-#### Translation: Demo-only
-
+#### Translation: Finished
 #### Translated by: lugi
 
 # -----------------------------------------------
@@ -72,57 +71,57 @@ message_6:
     text: Ach ja, ein perfekt gebratenes Hähnchen.\!<br>Möchtest du davon etwas essen?
 
 message_7:
-    text: Ach ja, some homemade strawberry jam.\!<br>Möchtest du davon etwas essen?
+    text: Ach ja, etwas hausgemachte Erdbeermarmelade.\!<br>Möchtest du davon etwas essen?
 
 message_8:
-    text: Ach ja, some questionable gelatin.\!<br>Möchtest du davon etwas essen?
+    text: Ach ja, etwas fragwürdige Gelatine.\!<br>Möchtest du davon etwas essen?
 
 message_9:
     text: Ach ja, Essiggurken.\!<br>Möchtest du davon etwas essen?
 
 message_20:
-    text: Ach ja, an extra-large portion of junk food.\!<br>Möchtest du davon etwas essen?
+    text: Ach ja, eine extragroße Portion Junkfood.\!<br>Möchtest du davon etwas essen?
 
 message_21:
     text: Ach ja, etwas entzückendes Shaved Ice.\!<br>Möchtest du davon etwas essen?
 
 message_22:
-    text: Ach ja, a single block of tofu.\!<br>Möchtest du davon etwas essen?
+    text: Ach ja, ein einzelner Tofuwürfel.\!<br>Möchtest du davon etwas essen?
 
 message_23:
-    text: Ach ja, some hearty soup.\!<br>Would you like to drink some?
+    text: Ach ja, etwas herzhafte Suppe.\!<br>Would you like to drink some?
 
 message_24:
-    text: Ach ja, some luscious candy apples.\!<br>Möchtest du davon etwas essen?
+    text: Ach ja, ein paar köstliche Liebesäpfel.\!<br>Möchtest du davon etwas essen?
 
 message_25:
-    text: Ach ja, some raw seafood.\!<br>Möchtest du davon etwas essen?
+    text: Ach ja, ein paar rohe Meeresfrüchte.\!<br>Möchtest du davon etwas essen?
 
 message_26:
-    text: Ach ja, a very long hero sandwich.\!<br>Möchtest du davon etwas essen?
+    text: Ach ja, ein sehr langes Hero Sandwich.\!<br>Möchtest du davon etwas essen?
 
 message_27:
-    text: Ach ja, some juicy tomatoes.\!<br>Möchtest du davon etwas essen?
+    text: Ach ja, ein paar saftige Tomaten.\!<br>Möchtest du davon etwas essen?
 
 message_28:
-    text: Ach ja, some fresh bread.\!<br>Möchtest du davon etwas essen?
+    text: Ach ja, etwas frisches Brot.\!<br>Möchtest du davon etwas essen?
 
 message_29:
-    text: Ach ja, a bowl of sweet strawberries.\!<br>Möchtest du davon etwas essen?
+    text: Ach ja, eine Schüssel süße Erdbeeren.\!<br>Möchtest du davon etwas essen?
 
 message_31:
-    text: Ach ja, a bucket of fresh and chunky SEACOW milk.\!<br>Would you like to drink some?
+    text: Ach ja, ein Eimer frische und dicke SEEKUH-Milch.\!<br>Möchtest du davon etwas trinken?
 
 message_32:
-    text: Ach ja, SWEETHEART's special tea and crumpets.\!<br>Would you like to have some?
+    text: Ach ja, SWEETHEARTs besonderer Tee mit Crumpets.\!<br>Möchtest du davon etwas zu dir nehmen?
 
 message_33:
-    text: A magnificently large pink bed.\!<br>Would you like to sleep here with your friends?
+    text: Ein prächtig großes rosarotes Bett.\!<br>Möchtest du mit deinen Freunden hier schlafen?
 
 #Blackspace
 
 message_30:
-    text: Ah... a hard, frozen steak.\!<br>Möchtest du davon etwas essen?
+    text: Ah... ein hartes, gefrorenes Steak.\!<br>Möchtest du davon etwas essen?
 
 # -----------------------------------------------
 # - YES/NO
@@ -170,7 +169,7 @@ message_1000:
 # -----------------------------------------------
 
 message_70:
-    text: NEVERMIND
+    text: SCHON GUT
 
 # -----------------------------------------------
 # - no longer afraid
@@ -180,7 +179,7 @@ message_100:
     text: Du hast keine Höhenangst mehr.
 
 message_101:
-    text: You are no longer afraid of spiders.
+    text: Du hast keine Angst mehr vor Spinnen.
 
 message_102:
-    text: You are no longer afraid of drowning.
+    text: Du hast keine Angst mehr vor dem Ertrinken.

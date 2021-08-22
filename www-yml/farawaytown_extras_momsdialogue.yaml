@@ -19,7 +19,7 @@ message_2:
       text: \"Übrigens, Tschuldigung!\! MAMI hat was verpatzt!\"\n<MAMAS SPRACHNACHRICHT>
 
 message_3:
-      text: \"Ich hab vergessen, der Stromfirma zu sagen, dass wir noch ein paar Tage bis zum Umzug brauchen, also könnte das Licht irgendwann heute Nacht ausgehen.\"\n<MAMAS SPRACHNACHRICHT>
+      text: \"Ich hab vergessen, der Stromfirma zu sagen, dass wir noch ein paar Tage bis zum Umzug brauchen, also könnte das Licht heute Nacht irgendwann ausgehen.\"\n<MAMAS SPRACHNACHRICHT>
 
 message_4:
       text: \"Wie auch immer...\! Ich weiß, dass Umziehen jetzt etwas nervenaufreibend sein kann, aber ich finde, dass ein Tapetenwechsel uns beiden gut tun wird!\"\n<MAMAS SPRACHNACHRICHT>
@@ -28,7 +28,7 @@ message_5:
       text: \"Ich weiß, dass du schon länger mit keinem geredet hast, aber bevor wir gehen solltest du dich vielleicht von deinen alten Freunden verabschieden.\"\n<MAMAS SPRACHNACHRICHT>
 
 message_6:
-      text: \"KEL hat sich richtig bemüht, dich zu erreichen, seit wir unser Haus zum Verkauf angeboten haben.\! Die letzten paar Monate rief er jede Woche bei uns an!\"\n<MAMAS SPRACHNACHRICHT>
+      text: \"KEL hat sich richtig bemüht, dich zu erreichen, seit wir unser Haus zum Verkauf anbieteten.\! Die letzten paar Monate rief er jede Woche bei uns an!\"\n<MAMAS SPRACHNACHRICHT>
 
 message_7:
       text: \"Er scheint ein wenig einsam...\! Vielleicht solltest du ihn besuchen gehen.\!<br>Okay, das war's erstmal!\! MAMI hat dich lieb!\! Tschüss, mein Schatz!\"\! \quake[1]\}Bzzt...\quake[0]\n<MAMAS SPRACHNACHRICHT>
@@ -97,7 +97,7 @@ message_23:
 #Living Room
 
 message_24:
-      text: \"Wenn du das Haus verlässt, schau in beide Richtungen bevor du die Straße überquerst!\"\n<MAMAS HAFTNOTIZ>
+      text: \"Wenn du das Haus verlässt, schau nach links und rechts bevor du die Straße überquerst!\"\n<MAMAS HAFTNOTIZ>
 
 #Bedroom
 
@@ -124,31 +124,31 @@ message_52:
 #Day 2:
 
 message_55:
-      text: \"Hey \n[8], it's MOMMY.\! Are you doing okay?\! You haven't been answering my calls or responding to my voicemails!\! If you keep ignoring me, I'll start to get worried again!\"\n<MAMAS SPRACHNACHRICHT>
+      text: \"Hey \n[8], hier ist MAMI.\! Geht es dir gut?\! Du nimmst meine Anrufe nicht entgegen, und rufst auch nicht zurück!\! Wenn du mich weiter ignorierst, mach ich mir wieder Sorgen!\"\n<MAMAS SPRACHNACHRICHT>
 
 message_56:
-      text: \"I hope you're pacing your chores...\! I don't think even I could finish everything in one day!\"\n<MAMAS SPRACHNACHRICHT>
+      text: \"Ich hoffe, du teilst deine Aufgaben gut ein...\! Nicht mal ich könnte alles an einem Tag erledigen!\"\n<MAMAS SPRACHNACHRICHT>
 
 message_57:
-      text: \"Did you end up visiting KEL?\! If not, it's alright... I understand.\! Just take things at your own pace...\"\n<MAMAS SPRACHNACHRICHT>
+      text: \"Hast du KEL letztendlich besucht?\! Wenn nicht, dann na gut... Ich verstehe.\! Tu alles einfach in deinem eigenen Tempo...\"\n<MAMAS SPRACHNACHRICHT>
 
 message_58:
-      text: \"By the way, can you check the closet downstairs and see if there's anything you want to keep?\! We'll probably just throw away whatever you don't want anymore.\"\n<MAMAS SPRACHNACHRICHT>
+      text: \"Übrigens, kannst du ?\! Was du nicht mehr willst, werfen wir wahrscheinlich einfach weg.\"\n<MAMAS SPRACHNACHRICHT>
 
 message_59:
-      text: \"There's only two days left before I come pick you up.\!<br>Ok, that's it for now!\! MOMMY loves you!\! Bye, honey!\"\!\quake[1] \}Bzzt...\quake[0]\n<MAMAS SPRACHNACHRICHT>
+      text: \"Es sind nur noch zwei Tage bis ich dich abholen komme.\!<br>Okay, das war's erstmal!\! MAMI hat dich lieb!\! Tschüss, mein Schatz!\"\!\quake[1] \}Bzzt...\quake[0]\n<MAMAS SPRACHNACHRICHT>
 
 #Day 3:
 
 message_60:
-      text: \"Hey \n[8], it's MOMMY.\! Tomorrow is the big day!\!<br>The movers will be here first thing tomorrow morning.\! I gave them the keys so don't freak out if you see them."\n<MAMAS SPRACHNACHRICHT>
+      text: \"Hey \n[8], hier ist MAMI.\! Morgen ist der große Tag!\!<br>Die Umzugshelfer werden gleich morgen früh da sein.\! Ich hab ihnen die Schlüssel gegeben, also erschrick nicht, wenn du sie siehst."\n<MAMAS SPRACHNACHRICHT>
 
 message_61:
-      text: \"Remember to finish organizing your things today.\! I'll be picking you up in my car out front.\! Just come outside when you're ready.\"\n<MAMAS SPRACHNACHRICHT>
+      text: \"Denk dran, mit dem Ordnen deiner Sachen heute fertigzuwerden.\! Ich hole dich draußen mit meinem Auto ab.\! Komm einfach raus, wenn du bereit bist.\"\n<MAMAS SPRACHNACHRICHT>
 
 message_62:
-      text: \"Okay, that's it for now!\! MOMMY loves you!\! Bye, honey!\"\!\quake[1] \}Bzzt...\quake[0]\n<MAMAS SPRACHNACHRICHT>
+      text: \"Okay, das war's erstmal!\! MAMI hat dich lieb!\! Tschüss, mein Schatz!\"\!\quake[1] \}Bzzt...\quake[0]\n<MAMAS SPRACHNACHRICHT>
 
 #Day 4:
 message_66:
-      text: \"Hey \n[8], it's MOMMY.\! I'm waiting for you outside, so just come out when you're ready.\! MOMMY loves you!\! Bye, honey!\"\!\quake[1] \}Bzzt...\quake[0]\n<MAMAS SPRACHNACHRICHT>
+      text: \"Hey \n[8], hier ist MAMI.\! Ich warte draußen auf dich, also komm einfach raus, wenn du bereit bist.\! MAMI hat dich lieb!\! Tschüss, mein Schatz!\"\!\quake[1] \}Bzzt...\quake[0]\n<MAMAS SPRACHNACHRICHT>

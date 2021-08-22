@@ -1,0 +1,94 @@
+#### Translation: Finished
+#### Translated by: haj
+
+# =========================================================================================
+# Sidequest: Fruit War (Brayden)
+# =========================================================================================
+
+#messages to be added here, reserved spaces 461 to 480
+
+message_1:
+      text: \n<ORANGEN-TYP>Huff...\! Huff...\! Huff...\! Huff...\! \Com[2]Trink \c[3]ORANGENSAFT\c[0]!
+
+message_2:
+      text: \n<ORANGEN-TYP>Hast du schon mal den Satz gehört...<br>"Orange ist die glücklichste Farbe"?
+
+message_3:
+      text: \n<ORANGEN-TYP>...Nein?\! Nun, das ist in Ordnung!\!<br> Du musst nur wissen, dass das gleiche Konzept auch für \c[3]ORANGENSAFT\c[0] gilt!
+
+message_4:
+      text: \n<ORANGEN-TYP>\c[3]ORANGENSAFT\c[0] unterstützt die Hydrierung!\! \c[3]ORANGENSAFT\c[0] stärkt deinen Emotionalkörper und fördert ein allgemeines Gefühl der Freude, des Wohlbefindens und der Heiterkeit!
+
+message_5:
+      text: \n<ORANGEN-TYP>Es enthält Vitamin C, das für eine gesunde Funktion des Immunsystems wichtig ist!
+
+message_6:
+      text: \n<ORANGEN-TYP>Es ist auch ein Antioxidans, das sich positiv auf die Gesundheit auswirken kann, indem es deine Zellen vor Schäden durch freie Radikale schützt!
+
+#If any APFELSAFT is inventory:
+
+message_7:
+      text: \n<ORANGEN-TYP>Ist das \c[3]APFELSAFT\c[0], was du da hast?\!<br>\Com[2]Das ist Müll!\! Trinken Sie das Zeug nicht!
+
+#BRADYEN threw away your APFELSAFT...
+
+message_8:
+      text: ORANGEN-TYP hat deinen \c[3]APFELSAFT\c[0] weggeworfen...
+
+message_9:
+      text: \n<ORANGEN-TYP>Ha! Dem zeigen wir's!
+
+message_10:
+      text: \n<ORANGEN-TYP>Also... Würdest du gerne etwas \c[3]ORANGENSAFT\c[0] für $2.00 kaufen?\$
+
+#[Yes/No]
+
+message_100:
+      text: Du bekommst \c[3]ORANGENSAFT\c[0]!
+
+message_11:
+      text: \n<ORANGEN-TYP>Ja! \Com[2]Trink \c[3]ORANGENSAFT\c[0]!\! Du wirst es genießen!
+
+message_12:
+      text: \n<ORANGEN-TYP>Okay...\! Das ist gut...\!<br>Solange du kein \c[3]APFELSAFT\c[0] kaufst...
+
+#buy more fruit from brayden than ADRIAN
+
+message_13:
+      text: \n<ORANGEN-TYP>Huff...\! Huff...\! Ha!\! Wie ich vorausgesagt hab...\! \c[3]ORANGENSAFT\c[0] ist eine viel bessere Alternative zu \c[3]APFELSAFT\c[0]!\! Mein Bruder wird schon bald sehen, wie dumm er sich anstellt!
+
+
+#Buy more Fruit from Adrian than Brayden:
+
+message_14:
+      text: \n<ORANGEN-TYP>Mein Bruder hört nicht auf, sich über das Geschäft an seinem \c[3]APFELSAFT\c[0] Stand lustig zu machen...
+
+message_15:
+      text: \n<ORANGEN-TYP>Huff...\! Wie auch immer...\! Huff...\! Ich werde immer ein überzeugter Anhänger von \c[3]ORANGENSAFT\c[0] sein!\! Niemand wird mir das jemals kaputt machen!
+
+#not enough money
+
+message_16:
+      text: \n<ORANGEN-TYP>Hmm...\! Es sieht so aus, als hättest du nicht genug für einen nahrhaften Becher \c[3]ORANGENSAFT\c[0]...
+
+message_21:
+      text: \n<ORANGEN-TYP>Warte... ist das ein...\! \c[13]ROTES KOPFBAND\c[0]...\! das du da trägst? Ich weigere mich, dir irgendeine \c[3]ORANGENSAFT\c[0] zu verkaufen, bis du das abnimmst!
+
+#After buying 5 ORANGENSAFTs
+
+message_101:
+      text: \n<ORANGEN-TYP>\{\{\sinv[1]HOOO-HAHHHHHHHHH!!
+
+message_17:
+      text: \n<ORANGEN-TYP>Nimm dieses Geschenk an, weil du so ein guter Kunde warst!\! Es ist ein \c[13]ORANGENES KOPFBAND\c[0], die Farbe der Orangen!
+
+message_18:
+      text: \n<ORANGEN-TYP>Hmpf! Wie ich sehe, trägt einer deiner Freunde ein \c[13]ROTES KOPFBAND\c[0]...\! Ich werde dir das verzeihen, aber nur dieses eine Mal!
+
+message_19:
+      faceset: MainCharacters_Faraway
+      faceindex: 37
+      text: \herHeh heh...\! Das tut mir leid...
+
+message_20:
+      text: Du bekommst ein \c[13]ORANGENES KOPFBAND\c[0]!

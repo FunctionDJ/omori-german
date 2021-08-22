@@ -1,0 +1,156 @@
+#### Translation: Finished
+#### Translated by: lugi
+
+# =========================================================================================
+# Sidequest: Tutoring Brent
+# =========================================================================================
+
+#Examine and take Math Tutor Flyer:
+
+message_0:
+      text: An der Wand ist eine Stellenausschreibung.\! Liest du sie?
+
+#Yes/No
+
+#If Yes
+
+message_1:
+      text: “NACHHILFE GESUCHT!\! Suche nach Mathe-Nachhilfelehrer/in für meinen Sohn, BRENT!\! 20 Dollar am Tag!\! Bitte bringen Sie diesen Flyer zu meinem Haus für ein kurzes Vorstellungsgespräch!”
+
+message_3:
+      text: Den \c[4]GRÜNEN FLYER\c[0] von der Wand nehmen?
+
+#yes/no
+
+#yes
+message_4:
+      text: Auf der Rückseite ist eine Wegbeschreibung zum Haus.
+
+#show map
+
+#Examine Brent's House Door:
+message_5:
+      text: \n<SCHULREKTORIN>Ja, hallo! Wie kann ich euch helfen?
+
+message_100:
+      text: Du gibst der SCHULREKTORIN den \c[4]GRÜNEN FLYER\c[0].
+
+message_101:
+      text: \n<SCHULREKTORIN>Ach so! Ihr seid hier, um meinem Sohn, BRENT, Nachhilfe zu geben!
+
+message_6:
+      text: \n<SCHULREKTORIN>Hmm...\! Ihr seid zu zweit, aber ihr seht recht vertrauenswürdig aus.
+
+message_7:
+      text: \n<SCHULREKTORIN>Kann schon sein, dass zwei Lehrer besser als einer wären...\! solange ihr euch die Zahlung teilt! Haha!
+
+message_8:
+      text: \n<SCHULREKTORIN>Bitte kommt herein.\! BRENT wartet oben in seinem Zimmer auf euch.
+
+message_200:
+      text: \n<SCHULREKTORIN>Macht es euch bequem!\! BRENT wartet oben in seinem Zimmer auf euch.
+
+#Talk to BRENT
+
+message_9:
+      text: \n<KLUG AUSSEHENDER JUNGE>Hey, Sie sind wohl meine neuen Nachhilfelehrer!\!<br>Schön, Sie kennenzulernen. Ich heiße BRENT.\!<br>Sollen wir jetzt anfangen?
+
+message_10:
+      text: \n<KLUG AUSSEHENDER JUNGE>Also gut, hier ist das Arbeitsblatt, mit dem ich Probleme habe.
+
+message_11:
+      text: \n<KLUG AUSSEHENDER JUNGE>Könnten Sie mir dabei helfen?
+
+#MATH WORKSHEET
+
+message_12:
+      text: \n<KLUG AUSSEHENDER JUNGE>Diese Gleichung macht mir Mühe...
+
+message_13:
+      text: 4 x 51 =
+
+message_14:
+      text: A) 244
+
+message_15:
+      text: B) 204
+
+message_16:
+      text: C) 404
+
+message_17:
+      text: \n<KLUG AUSSEHENDER JUNGE>Was ist mit dieser?
+
+message_18:
+      text: 5 x 3 + 15 - 1 + 6 / 2 =
+
+message_19:
+      text: A) 32
+
+message_20:
+      text: B) 33
+
+message_21:
+      text: C) 34
+
+message_22:
+      text: \n<KLUG AUSSEHENDER JUNGE>Was ist mit dieser?
+
+message_23:
+      text: -3x + 4 = 7x + 24. Was ergibt 'x'?
+
+message_24:
+      text: A) 2
+
+message_25:
+      text: B) 2,8
+
+message_26:
+      text: C) -2
+
+message_1000:
+      text: ZUFÄLLIG AUSWÄHLEN
+
+#Correct choice:
+
+message_27:
+      text: \n<KLUG AUSSEHENDER JUNGE>Oh...\! \sinv[1]Ich hab's...\sinv[0]\! Jetzt verstehe ich es!
+
+#Incorrect choice:
+
+message_28:
+      text: \n<KLUG AUSSEHENDER JUNGE>Hmm...\! Aber ist die richtige Antwort nicht 32?
+
+message_29:
+      text: \n<KLUG AUSSEHENDER JUNGE>Hmm...\! Ich war mir sicher, dass es 204 war.
+
+message_30:
+      text: \n<KLUG AUSSEHENDER JUNGE>Ohh...\! Ich dachte, es wäre -2.
+
+message_31:
+      text: \n<KLUG AUSSEHENDER JUNGE>Hehe...\! Sie haben mich nur getestet, oder?\!<br>Dadurch wird auch mein kritisches Denken gefordert!\!<br>Wow...\! Nachhilfelehrer sind richtig klug...
+
+#After completing Math WORKSHEET
+
+message_32:
+      text: \n<KLUG AUSSEHENDER JUNGE>Puh...\! Ich glaube, ich hab das jetzt viel besser im Griff als zuvor...\! Danke!
+
+#After completing Math WORKSHEET
+
+message_33:
+      text: \n<SCHULREKTORIN>Hey, BRENT! Wie läuft es bei dir?
+
+message_34:
+      text: \n<SCHULREKTORIN>Oh! Ich sehe, dass du dein Arbeitsblatt erledigt hast!
+
+message_35:
+      text: \n<SCHULREKTORIN>Gut gemacht, Herr Nachhilfelehrer...\! Hier ist die Zahlung für deine Hilfe!
+
+message_36:
+      text: \n<SCHULREKTORIN>Komm morgen ruhig wieder!
+
+message_37:
+      text: \n<SCHULREKTORIN>Hallo.\! Sind Sie hier wegen dem Nachhilfe-Plakat?\! Nein? Ich verstehe...
+
+message_50:
+      text: Urg...\! Mathe...

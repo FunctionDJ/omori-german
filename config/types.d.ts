@@ -7,9 +7,9 @@ export interface Config {
   requiredTags: string[]
   tagValues: string[]
   contributorsIndex: Record<string, string>
-  externalMods: Record<string, string>
   bannedStringsInYaml: Record<string, string>
   bundleModsInKit: string[]
+  extraFiles: string[]
 }
 
 export type Index = Record<string, {

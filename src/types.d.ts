@@ -8,3 +8,16 @@ export interface ActionMapping {
   check: CheckFunction|null
   needExternalIndex?: boolean
 }
+
+export interface Mod {
+  id: string
+  name: string
+  description: string
+  version: string
+  files: {
+    text?: string[]
+    plugins?: string[]
+    assets?: string[]
+    data?: string[]
+  }
+}

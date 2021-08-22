@@ -1,0 +1,65 @@
+#### Translation: Finished
+#### Translated by: haj
+
+# =========================================================================================
+# Sidequest: Michael the Musician
+# =========================================================================================
+
+#Intro
+
+message_1:
+      text: \n<Gitarren Typ>Yo! Ich bin MICHAEL, ein zukünftiger reisender Musiker!\! <br>Ich spiele hier im \c[11]STADT-PLATZ\c[0] schon seit Jahren Gitarre, aber ich denke ich bin endlich bereit weiterzuziehen!
+
+message_24:
+      text: \n<Gitarren Typ>Hey, ihr seid es wieder. \! Ich arbeite immer noch daran genug Geld zu verdienen, um in die Stadt zu ziehen und ein großer Star zu werden.
+
+message_2:
+      text: \n<Gitarren Typ>Willst du mir helfen, mein Ziel zu erreichen?\! Alles hilft!
+
+message_4:
+      text: Wie viele willst du geben?\$
+
+message_5:
+      text: \n<Gitarren Typ>Danke!\! Im Gegenzug spiele ich dir einen Originalsong vor!
+
+#Default
+
+message_6:
+      text: \n<Gitarren Typ>Ich freue mich sehr darauf endlich meine Träume zu verwirklichen. <br>Aber das bedeutet auch, dass ich meine Familie zurücklassen muss...
+
+message_7:
+      text: \n<Gitarren Typ>Mein Vater war nie wirklich damit einverstanden, dass ich Musiker werde. Aber meine kleine Schwester JOY hat immer wieder darauf bestanden, dass ich es machen soll.<br><br>Sie sagte Dinge wie "Dad wird schon drüber hinwegkommen!" und so weiter...
+
+message_8:
+      text: \n<Gitarren Typ>Haha...\! Sieh mich an...\! Ich nehme Ratschläge von meiner kleinen Schwester an.\! <br>Bin ich nicht derjenige, der ihr Ratschläge gibt?
+
+#Cardboard Box
+
+message_9:
+      text: Das ist die Spendenbox vom Gitarren Typ.
+
+#After reaching Donation goal:
+
+message_10:
+      text: \n<Gitarren Typ>Wow!\! Vielen Dank für alles!
+
+message_11:
+      text: \n<Gitarren Typ>Mit dieser letzten Spende sieht es so aus, als könnte ich endlich die Stadt verlassen!\! Ich glaube nicht, dass ich viel zu packen habe, also werde ich wahrscheinlich bald abreisen...
+
+message_12:
+      text: \n<Gitarren Typ>Ich sollte mich von allen verabschieden...\! aber...\! Ich weiß nicht mal, wie ich es meinem Vater sagen soll...
+
+message_13:
+      text: \n<Gitarren Typ>Wahrscheinlich werde ich es zuerst meiner kleinen Schwester JOY sagen.
+
+message_20:
+      text: Du hast $\v[604].00 an den Gitarren Typ gespendet.
+
+message_21:
+      text: \n<Gitarren Typ>Hmm...\! Sieht so aus, als hätte ich noch eine ganze Menge vor mir, bevor ich es mir leisten kann, die Stadt zu verlassen...
+
+message_22:
+      text: \n<Gitarren Typ>Ja!\! Ich komme immer näher, um mein Ticket nach draußen zu bekommen!
+
+message_23:
+      text: \n<Gitarren Typ>Ich habe es fast geschafft...\! Nur noch ein bisschen und ich kann die Stadt verlassen!

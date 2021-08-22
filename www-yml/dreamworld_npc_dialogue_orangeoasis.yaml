@@ -1,0 +1,177 @@
+#### Translation: Finished
+#### Translated by: lugi
+
+# =========================================================================================
+# Dreamworld NPC dialogue
+# =========================================================================================
+
+# ==============Orange Oasis========================================
+
+                        #====NIGHT 2====
+
+#CROSSANT
+#Location: Oasis: Flip him
+#DINO 1: Dino's Dig - Excavation Mini-Game
+#DINO 2: Dino's Dig - Excavation Shop
+#DINO 3: Dino's Dig
+#DINO 4: Dino's Dig - Itch Quest
+
+#DONUT GRANDMA 1
+#GRANDMA DONUT HOUSE
+message_0:
+      text: \n<DONUT-OMA>Meine Enkelin kommt selten zu Besuch, aber ab und zu schickt sie mir eine Postkarte!\! Es scheint ihr gut zu gehen!
+
+message_1:
+      text: \n<DONUT-OMA>Heutzutage kann ich kaum noch sehen, doch ich kann immer noch<br>einige Formen unterscheiden.\! Ich sehe...\! dass ihr alle komisch aussehende Donuts seid!
+
+message_2:
+      text: \n<DONUT-OMA>\com[2]Häh?\! Was war das, Söhnchen?\! Hast du etwas gesagt?
+
+#DONUT HOLE
+#GRANDMA DONUT HOUSE
+message_3:
+      text: \n<DONUTLOCH>\sinv[1]Uguuuuu!
+
+#HECTOR THE ROCK: Excavation Quest
+#HECTOR JR: Excavation site quest
+#Jelly: Dream world P&J Quest
+#After Peanut and Jelly quest: (Palmie's House)
+message_4:
+      text: \n<MARMELADE>Hehe...\! FRAU PALMIE wird so überrascht sein, wenn ich ihr<br>diese \c[4]VERSTEINERTE DANKKARTE\c[0] gebe!\! Stimmt's, ERDNUSS?
+
+message_5:
+      text: \n<ERDNUSS>Mhmm!
+
+#MAN ON FIRE
+#Location: Orange Oasis
+
+message_6:
+      text: \n<BRENNENDER MANN>...\! Du hast einen besorgten Blick in deinen Augen...\! Ich kann sehen, dass ein Problem dich äußerst plagt...
+
+message_7:
+      text: \n<BRENNENDER MANN>Ich sag dir mal was, Kind.\! Wenn du weißt, dass<br>eine schwere und mühsame Zukunft auf dich zukommt...\! dann brauchst du nur Hoffnung!
+
+message_8:
+      text: \n<BRENNENDER MANN>Sei zuversichtlich gegenüber dir und der Zukunft!\!<br>Ja!\! Alles ist möglich, wenn man daran glaubt!\! Und...\! falls alles andere<br>schiefgeht, denk daran, dass wenigstens ich an dich glaube, ja?
+
+#Yes/No
+#Yes
+message_9:
+      text: \n<BRENNENDER MANN>Ausgezeichnet.\! Bitte nimm diese Lehre als Geschenk an.
+
+message_12:
+      text: HERO erlernt \c[1]SCHARFES ESSEN\c[0]!
+
+message_11:
+      text: \n<BRENNENDER MANN>Wenn du mich nun entschuldigst, ich muss los.
+#MAN ON FIRE continues running
+message_10:
+      text: \n<BRENNENDER MANN>Dann...\! muss ich mich wiederholen!
+
+message_13:
+      text: \n<BRENNENDER MANN>Ausgezeichnet.\! Wenn du mich nun entschuldigst, ich muss los.
+#repeat message 7 and 8
+
+#MINA: Lcation: MINA'S CAVE: Ingredients quest
+#MINA'S KID 1: Mina's CAVE
+#MINA'S KID 2: Mina's CAVE
+#MINA'S KID 3: Mina's CAVE
+#MINA'S KID 4: Mina's CAVE
+#MINA'S KID 5: Mina's CAVE  #Mentions shadowy chasm in dreamworld blackspace references
+#MINA'S KID 6: MINA'S CAVE
+#ORANGE JOE: Orange Oasis- Long Lost Brother Quest
+#After lost brothers quest:
+message_20:
+      text: \n<ORANGE JOE und ORAGNE JOE>\sinv[1]Hoffnung und Elan!\! Hoffnung und Elan!
+#PALMIE
+#Location: Palmie's HOUSE
+message_21:
+      text: \n<PALMIE>Willkommen in meinem!\! Ich kümmere mich um Kinder, die keine eigene Familie haben.
+
+message_22:
+      text: \n<PALMIE>Letztens ist es hier etwas trist, also sorge ich mich immer darum, dass die übrigen Kinder einsam werden...
+
+message_23:
+      text: \n<PALMIE>ERDNUSS UND MARMELADE geben mir immer die seltsamsten Geschenke...\! Was haben sie wohl dieses Mal für mich?
+
+
+                        #====NIGHT 3====
+#Other chars: Same as Night 2
+#MAN ON FIRE: N/A
+
+
+#TOFU CONCONNAADJFKALSF
+
+#intro:
+message_50:
+      text: \n<TOFU-CONCONNASISSEUR>Ich bin der TOFU-CONCONNASISSEUR!\!<br>Ich liebe alle Arten von \c[3]TOFU\c[0]!
+
+message_51:
+      text: \n<TOFU-CONCONNASISSEUR>Jedes Stück \c[3]TOFU\c[0] ist einzigartig, und verdient es, einzeln genossen zu werden!
+
+message_52:
+      text: \n<TOFU-CONCONNASISSEUR>\c[3]TOFU\c[0] ist nicht für jeden, aber das heißt mehr \c[3]TOFU\c[0] für mich!
+
+message_53:
+      text: \n<TOFU-CONCONNASISSEUR>Falls du mir 10 \c[3]TOFU\c[0] gibst, gebe ich dir dafür einen SNACK, den ich in meinen vielen \c[3]TOFU\c[0]-bezogenen Reisen erhalten habe!
+
+message_54:
+      text: \n<TOFU-CONCONNASISSEUR>Möchtest du 10 \c[3]TOFU\c[0] für einen SNACK eintauschen?
+#[YES/NO]
+
+#[YES]
+message_55:
+      text: Du gibst TOFU-CONCONNASISSEUR 10 \c[3]TOFU\c[0].
+
+message_56:
+      text: \n<TOFU-CONCONNASISSEUR>Wunderbar! Nimm dafür dieses nicht so leckere Essen!
+
+message_59:
+      text: Du erhältst \c[3]\itemget\c[0]!
+
+message_58:
+      text: \n<TOFU-CONCONNASISSEUR>Bitte genieße es so sehr, wie ich diese 10 sehr einzigarten Stücke \c[3]TOFU\c[0] genießen werde!
+
+#[NO] doesn't need text
+
+#default after:
+
+#message_50
+#message_53
+#message_54
+
+
+message_57:
+      text: \n<TOFU-CONCONNASISSEUR>Hey! Du hast nicht 10 \c[3]TOFU\c[0]...
+
+message_60:
+      text: \n<WIRKLICHER WURF>Du riechst wie Vater!\! Vater lebt?\!<br>Ich habe ihn nicht gesehen, seit er versehentlich in die Beschwörungsgrube geworfen wurde!
+
+message_61:
+      text: \n<WIRKLICHER WURF>\com[2]Eindringlinge!\! Hinfort, lebender TOAST!
+
+message_62:
+      text: \n<WIRKLICHER WURF>Unsere Meister schlafen nicht, also schlafen wir auch nicht.\! Tag ein... Tag aus... nur \sinv[1]frisches Brot... frisches Brot... frisches Brot...\c[0]
+
+message_63:
+      text: \n<WIRKLICHER WURF>Die Meister haben in letzter Zeit mehr Anfragen erhalten.\!<br>Sie müssen bald an ihre Grenzen stoßen.
+
+
+#After biscuit and doughie defeated
+message_65:
+      text: \n<WIRKLICHER WURF>Wie geht es Vater?\! Kommt er bald wieder?
+
+message_66:
+      text: \n<WIRKLICHER WURF>\com[2]Besucher!\! Willkommen, lebender TOAST!
+
+message_67:
+      text: \n<WIRKLICHER WURF>Ohne unsere Meister sind wir frei!\! Wir werden diesen Ort zu unserem neuen Zuhause machen!
+
+message_68:
+      text: \n<WIRKLICHER WURF>Die Meister haben uns immer gut behandelt...\! Schnief...\! Ich werde BISCUITs Witze vermissen...
+
+message_70:
+      text: \n<KLEINER KAKTUS>Grüß dich.\! Danke, dass du mit mir gesprochen hast.
+
+message_71:
+      text: Du erhältst 100 MUSCHELN!

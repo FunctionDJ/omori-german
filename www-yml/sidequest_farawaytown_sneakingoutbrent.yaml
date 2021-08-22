@@ -1,0 +1,105 @@
+#### Translation: Finished
+#### Translated by: lugi
+
+# =========================================================================================
+# Sidequest: Sneaking Out Brent
+# =========================================================================================
+
+#Examine Brents house door
+
+message_1:
+      text: \n<KLUG AUSSEHENDER JUNGE>Oh, hallo, Herr Nachhilfelehrer!
+
+#Talk to Brent / Cutscene: Brent Leaves
+message_2:
+      text: \n<KLUG AUSSEHENDER JUNGE>Ähmm...\! Eigentlich hab ich eine große Bitte...
+
+message_3:
+      text: \n<KLUG AUSSEHENDER JUNGE>Ich sitze den ganzen Sommer schon in diesem engen Zimmer...\!<br>Ständig höre ich die anderen Kinder draußen, während ich an meinem Schreibtisch mit diesen Arbeitsblättern zu tun hab!
+
+message_4:
+      text: \n<KLUG AUSSEHENDER JUNGE>Seufz...\! Ich will nur rausgehen und im Park spielen! <br>\!Selbst wenn's nur für einen Tag ist...
+
+message_5:
+      text: \n<KLUG AUSSEHENDER JUNGE>Meine Mama hat gesagt, dass sie heute den ganzen Tag beschäftigt wäre, also ist das wahrscheinlich meine einzige Chance!
+
+message_6:
+      text: \n<KLUG AUSSEHENDER JUNGE>Könnten Sie mir helfen, das heutige Arbeitsblatt fertigzumachen?\!<br>Ich... will nur etwas frische Luft!
+
+#Yes/No
+
+#Yes
+message_7:
+      text: \n<KLUG AUSSEHENDER JUNGE>W-Wirklich!?\! Wow, Sie sind der beste Nachhilfelehrer überhaupt!\!<br>Danke, danke, danke!\! Endlich...
+
+
+message_9:
+      text: \n<KLUG AUSSEHENDER JUNGE>\SINV[1]\{\{ICH BIN FREEEEEEEEEEIIIIIIIII!!\SINV[0]
+
+#BRENT runs out.
+
+message_10:
+      text: \n<KLUG AUSSEHENDER JUNGE>Ah...\! In Ordnung...\! Ich verstehe schon...\! Entschuldigung, dass ich das erwähnt habe.\!<br>Bitte sagen Sie es nicht meiner Mama...
+
+#If Yes, complete worksheet without prompts from Brent
+
+#If No, complete worksheet with prompts from Brent
+message_11:
+      text: BRENTs Mathe-Arbeitsblatt.\! Erledigst du es?
+
+message_12:
+      text: 7 + 2 x 9 =
+
+message_13:
+      text: A) 81
+
+message_14:
+      text: B) 25
+
+message_15:
+      text: C) 126
+
+message_16:
+      text: 5x^2 = 80.\! Was ergibt 'x'?
+
+message_17:
+      text: A) 4; -4
+
+message_18:
+      text: B) 10; -10
+
+message_19:
+      text: C) 8; -8
+
+message_20:
+      text: Und als letzte Aufgabe des Arbeitsblatts...
+
+message_21:
+      text: Berechne die Standardabweichung der folgenden Zahlen...
+
+message_22:
+      text: 43, 47, 53, 39, 40, 60<br>\!Gib dann den z-Wert für einen Wert von 100 an, gerundet auf drei Dezimalstellen.
+
+message_23:
+      text: A) 7,000
+
+message_24:
+      text: B) 47,474
+
+message_25:
+      text: C) 7,103
+
+message_26:
+      text: Du hast BRENTs Mathe-Arbeitsblatt erledigt.
+
+message_27:
+      text: \n<KLUG AUSSEHENDER JUNGE>Oh... hallo.\! Entschuldigung, ich sollte weiter lernen...
+
+message_28:
+      text: Du solltest zuerst das Arbeitsblatt erledigen.
+
+message_200:
+      text: \n<KLUG AUSSEHENDER JUNGE>Seufz...\! Es wäre schön, mal zur Abwechslung rauszugehen und zu spielen...
+
+message_1000:
+      text: ZUFÄLLIG AUSWÄHLEN

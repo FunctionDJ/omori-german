@@ -1,6 +1,4 @@
-#### Translation: Demo-only
-#### Comment: "only translated whats used" (in Demo?)
-
+#### Translation: Finished
 #### Translated by: lugi
 
 # =========================================================================================
@@ -28,7 +26,7 @@ message_21:
     text: GLASFLASCHE
 
 message_22:
-    text: PAPPE
+    text: KARTON
 
 message_23:
     text: LEERE BATTERIEN
@@ -64,13 +62,13 @@ message_16:
 #cardboard
 
 message_9:
-    text: Du wirfst \c[5]PAPPE\c[0] in den RECYCLING-AUTOMAT ein.
+    text: Du wirfst einen \c[5]KARTON\c[0] in den RECYCLING-AUTOMAT ein.
 
 message_10:
     text: Der RECYCLING-AUTOMAT gibt 15 MUSCHELN aus.\!<br>Danke für deine Hilfe beim Sauberhalten der Umwelt.
 
 message_17:
-    text: Du hast keine \c[5]PAPPE\c[0] zu recyclen.
+    text: Du hast keinen \c[5]KARTON\c[0] zu recyclen.
 
 #dead batteries
 

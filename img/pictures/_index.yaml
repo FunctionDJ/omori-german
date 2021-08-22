@@ -1,4 +1,64 @@
 area_logos.png:
   Status: Demo-only
-  Credits:
-    - jasu
+  Credits: [jasu]
+
+ws_laptop_journal.png:
+  Status: Finished
+  Credits: [haj]
+
+before_white_space_3.png:
+  Status: Finished
+  Credits: [haj]
+
+before_white_space_2.png:
+  Status: Finished
+  Credits: [haj]
+
+before_white_space_1.png:
+  Status: Finished
+  Credits: [haj]
+
+11_download_window.png:
+  Status: Finished
+  Credits: [haj]
+
+00_Intro.png:
+  Status: Partial
+  Credits: [haj]
+  Comment: ist aber noch nicht ganz entschieden
+
+BJ-BUST.png:
+  Status: Finished
+  Credits: [lugi]
+
+BJ-LOSE.png:
+  Status: Finished
+  Credits: [lugi]
+
+BJ-WIN.png:
+  Status: Finished
+  Credits: [lugi]
+
+BJ-TIE.png:
+  Status: Finished
+  Credits: [lugi]
+
+BJ-HIT.png:
+  Status: Finished
+  Credits: [lugi]
+
+BJ-STAY.png:
+  Status: Finished
+  Credits: [lugi]
+
+INVADER-Prompt.png:
+  Status: Finished
+  Credits: [lugi]
+
+INVADER-Text.png:
+  Status: Finished
+  Credits: [lugi]
+
+INVADER-Title.png:
+  Status: Finished
+  Credits: [lugi]

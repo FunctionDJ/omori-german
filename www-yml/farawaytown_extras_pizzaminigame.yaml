@@ -1,0 +1,178 @@
+#### Translation: Finished
+#### Translated by: lugi
+
+# =========================================================================================
+# MINI-GAME: Pizza Delivery
+# =========================================================================================
+
+#Placeholder intro
+
+
+message_10:
+      text: Eine Stellenausschreibung für \c[11]GINOS PIZZA\c[0].\!<br>Du hast diese Arbeit heute schon erledigt.
+
+message_11:
+      text: Du nimmst das 'AUSHILFE GESUCHT'-Plakat.\! Vielleicht kannst du am Tresen nach der Arbeit fragen.
+
+message_0:
+      text: \n<PIZZA-MANN>Also...\! Wie ich sehe, schaust du dir das 'AUSHILFE GESUCHT'-Plakat an, das ich dort aufgehängt hatte.\! Bist du an einer Arbeit interessiert?
+
+#[Nod/Shake]
+#[Nod]
+message_1:
+      text: \n<PIZZA-MANN>\sinv[1]Coooooool...\sinv[0]\! Ich helfe dir mal mit dem Anfang.
+#[Shake]
+message_2:
+      text: \n<PIZZA-MANN>Oooch, na gut...\!<br>Falls du mal etwas Pizzageld brauchst, sag mir einfach Bescheid!
+
+#Rule Explanation
+#Quest Finish
+#Return to Party
+message_40:
+      faceset: MainCharacters_Faraway
+      faceindex: 24
+      text: \kelHey, \n[8]! Wie lief deine Arbeit?\! Während du beschäftigt warst, hab ich mich auf eine Bank gesetzt und mit Fremden geredet!\!<br>Mann, hat das Spaß gemacht...\! Also dann... Wenn du so weit bist, können wir gehen!
+
+# Door Knock Greeting
+message_3:
+      text: \com[2]\{\{\sinv[1]PIZZASERVICE!!
+
+# Randomized NPC Dialogue Success
+message_4:
+      text: \n<KUNDE?>Hey!\! Wow, Sie kamen schneller, als ich dachte!\! Danke, Herr Pizzabote!
+
+message_5:
+      text: \n<KUNDE?>Wo waren Sie so lange!?\! \c[11]GINOS PIZZA\c[0] lässt derzeit echt nach...
+
+message_6:
+      text: \n<KUNDE?>Pizza ist da?\! Toll. Einfach auf dem Boden lassen.\!<br>Ich komme sie dann holen.
+
+message_7:
+      text: \n<KUNDE?>\Com[2]Leckere, leckere \c[3]PIZZA\c[0]!\! Ich komm zu dir, Baby!
+
+message_8:
+      text: \n<KUNDE?>\}D-Danke...
+
+# Randomized NPC Dialogue Fail
+message_20:
+      text: \n<KUNDE?>Äh... Ja...\! Entschuldigung, Sie haben das falsche Haus.\!<br>Wir haben keine \c[3]PIZZA\c[0] bestellt...
+
+message_21:
+      text: \n<KUNDE?>\c[3]PIZZA\c[0] umsonst!?\! Och... Das wäre nicht nötig gewesen!
+
+message_22:
+      text: \n<KUNDE?>Wer sind Sie?\! Wir ham keine verdammte \c[3]PIZZA\c[0] bestellt!\! Weg mit Ihnen!
+
+message_23:
+      text: \n<KUNDE?>Was fällt Ihnen ein, meinem streng veganen Haushalt \c[3]PIZZA\c[0] zu liefern!\! Sie sollten sich schämen!
+
+message_24:
+      text: \n<KUNDE?>Sie stören meine schöne Zeit mit mir selbst.\! Gehen Sie sofort!
+
+# Continue looking after failing
+message_25:
+      text: Das lief nicht so gut...\! Du solltest das richtige Haus suchen.
+
+# After checking the house again
+message_26:
+      text: Du hast diese Person bereits gestört.
+
+# Too many fails
+message_35:
+      text: Der Fremde hat sich die \c[3]PIZZA\c[0] geschnappt.
+
+# Minigame Complete
+message_36:
+      text: Das waren alle...\! Es ist Zeit, zu \c[11]GINOS PIZZA\c[0] zurückzukehren!
+
+message_37:
+      text: \n<PIZZA-MANN>Hey, Neuling!\! Genau dich wollte ich sehen!\!<br>Nach ein paar kürzlichen Rückmeldungen wurde deine Kundenzufriedenheit anscheinend mit \v[823]/10 bewertet.
+
+# Move On GOOD
+message_38:
+      text: Trotz aller Schwierigkeiten hast du die \c[3]PIZZA\c[0] erfolgreich ausgeliefert.\!<br>Es ist Zeit, mit der nächsten Bestellung fortzufahren.
+
+# Move On BAD
+message_39:
+      text: Du hast es nicht geschafft, die \c[3]PIZZA\c[0] auszuliefern.\!<br>Es ist Zeit, mit der nächsten Bestellung fortzufahren...
+
+# Initialized
+message_41:
+      text: Du erhältst \c[4]PIZZA-NOTIZEN\c[0].
+
+# Time runs out
+message_42:
+      text: Du hast die \c[3]PIZZAS\c[0] nicht rechtzeitig ausgeliefert.
+
+# Trying to leave the area
+message_43:
+      text: Du kannst nicht gehen, ohne erst die \c[3]PIZZA\c[0] auszuliefern.
+
+message_44:
+      text: \n<PIZZA-MANN>Und weil du dich so gut verhalten hast, gibt's noch ein Geschenk für dich!
+
+message_45:
+      text: \n<PIZZA-MANN>Das ist einer meiner absoluten Lieblingssongs.
+
+message_46:
+      text: \n<PIZZA-MANN>Du kannst ihn dir bei der JUKEBOX gleich da drüben anhören!
+
+message_15:
+      text: NOTIZ ANSEHEN
+
+message_16:
+      text: ARBEIT KÜNDIGEN
+
+message_17:
+      text: VERGISS ES
+
+message_19:
+      text: Was möchtest du tun?
+
+# Expression of disappointment from quitting
+message_18:
+      text: Also...\! das kann ja nicht gut fürs Geschäft sein.
+#===
+
+#Job Description
+
+message_50:
+      text: \n<PIZZA-MANN>Also, willst du die gute oder die schlechte Nachricht hören?
+#GOOD NEWS / #BAD NEWS
+
+message_51:
+      text: \n<PIZZA-MANN>Ach, ich fang einfach mit der guten Nachricht an.<br>\!Die gute Nachricht ist also...\! dass wir heute drei verschiedene \c[3]PIZZA\c[0]-Bestellungen erhalten haben!\!
+
+message_60:
+      text: \n<PIZZA-MANN>Die schlechte Nachricht ist...\! dass sich unser Lieferjunge heute plötzlich schon wieder krank gemeldet hat...
+
+message_52:
+      text: \n<PIZZA-MANN>Diese Bestellungen sind alle von unseren Stammkunden, also schreiben wir ihre Adressen schon seit Langem nicht mehr auf.
+
+message_61:
+      text: \n<PIZZA-MANN>Ich weiß aus dem Stegreif nicht, wo sie wohnen, jedoch weiß ich noch, wie ihre Häuser aussehen!
+
+message_53:
+      text: \n<PIZZA-MANN>Hier! Nimm einfach diese Notizen, und du wirst schon zurechtkommen!
+
+#*Screen goes black*
+#wait: 20
+#*Pizza bell SFX*
+#wait: 20
+
+message_54:
+      text: \n<PIZZA-MANN>Nur keine Schüchternheit!\! Trage deine Uniform mit Stolz!
+
+#wait: 20 frames
+
+message_55:
+      text: \n<PIZZA-MANN>Denk dran, du musst drei \c[3]PIZZAS\c[0] ausliefern.\! Wenn du fertig bist, radelst du einfach zurück zum Laden.\! Ich zähle auf dich!
+
+#wait: 20 frames
+#*Screen returns. You are in the pizza mini-game now.#
+
+message_100:
+      text: Der PIZZA-MANN gab dir seine \c[4]PIZZA-NOTIZEN\c[0].
+
+message_101:
+      text: \n<PIZZA-MANN>Ich gehe deine Uniform holen!

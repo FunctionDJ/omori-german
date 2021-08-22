@@ -1,0 +1,60 @@
+#### Translation: Finished
+#### Translated by: haj
+
+# =========================================================================================
+# Sidequest: Missing Shears
+# =========================================================================================
+
+#Talk to Kim's Mom: Optional
+message_1:
+      text: \n<RED-GLASSES LADY>Lass mich dir eine Geschichte erzählen...\! Ich ging von \c[11]FIX-IT\c[0] zurück, nachdem ich einen Kauf mit meinem hart verdienten Geld getätigt hatte...
+
+message_2:
+      text: \n<RED-GLASSES LADY>Wenn ich nach unten schaue...\! und siehe da...
+
+message_3:
+      text: \n<RED-GLASSES LADY>Meine nagelneue \c[4]GARTENSCHERE\c[0] ist weg!\! Ja, es ist wahr...\!<br>Meine neue \c[4]GARTENSCHERE\c[0] hat ein Loch in meine Plastiktüte gerissen!
+
+message_4:
+      text: \n<RED-GLASSES LADY>\Com[2]Oh, wie blöd ich mich gefühlt habe!
+
+message_5:
+      text: \n<RED-GLASSES LADY>Meinst du, du kannst mir helfen, sie zu finden?\!<br>Sie sollte hier irgendwo sein.
+
+#Examine Gardening Shears
+
+message_6:
+      text: Du fandest die \c[4]GARTENSCHERE\c[0].
+
+#Talk to Kim's Mom with Gardening SHEARS
+
+message_7:
+      text: \n<RED-GLASSES LADY>Ah, danke, Jungs!\! Ich versichere dir, dass ich nie wieder so einen dummen Fehler machen werde.\! Heutzutage ist es selten, dass junge Männer bereit sind, einem Fremden zu helfen.
+
+message_8:
+      text: \n<RED-GLASSES LADY>Du kannst jederzeit gerne zu mir nach Hause kommen!\!<br>Du wirst immer willkommen sein.
+
+#Examine KIM's House Door at Sunset/Cutscene: Get out of here!
+
+message_9:
+      text: \n<RED-GLASSES LADY>Oh, hallo! Das sind zwei Gesichter, die ich nie vergessen werde.\! Ihr zwei seid die Kinder, die mir geholfen haben, meine \c[4]GARTENSCHERE\c[0] zu finden!
+
+message_10:
+      text: \n<RED-GLASSES LADY>Ich esse gerade mit meinen Kindern zu Abend.\!<br>Willst du mitessen?
+
+message_11:
+      text: \kim\Com[2]W-Was zum Teufel!?\! \Com[2]Sind das KEL und \n[8] an der Tür!?\! \Com[2]Warum seid ihr zwei vor meinem Haus!?!?
+
+message_12:
+      text: \kim\{\Com[2]RAUS HIER, NERDS!!
+
+message_13:
+      text: \n<RED-GLASSES LADY>KIM! Was ist denn in dich gefahren, Schätzchen?
+
+message_14:
+      text: \n<RED-GLASSES LADY>Tut mir leid, Jungs.\!<br>Vielleicht kannst du ein anderes Mal mit uns zu Abend essen.
+
+#Door slams
+
+message_20:
+      text: Du hast die \c[4]GARTENSCHERE\c[0] an RED-GLASSES LADY gegeben.

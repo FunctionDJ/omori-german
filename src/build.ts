@@ -31,8 +31,6 @@ import { loadJson } from "./lib/json"
   
   const newModObject = await getNewModObject(modObject, tag)
   
-  const roots = getRootsFromFilesProperty(newModObject.files)
-  
   // create dir
   
   const destination = resolve(destDir, `${newModObject.id}-${tag}.zip`)
@@ -59,5 +57,5 @@ import { loadJson } from "./lib/json"
     console.warn("--no-compression passed")
   }
   
-  fillArchive(archive, newModObject, roots, noCompression)
+  fillArchive(archive, newModObject, noCompression)
 })()

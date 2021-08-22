@@ -1,0 +1,44 @@
+#### Translation: Finished
+#### Translated by: lugi
+
+# =========================================================================================
+# Sidequest: MÜLL Pick-Up
+# =========================================================================================
+
+#Talk to ALTE DAME
+message_0:
+      text: \n<ALTE DAME>Hallo, Kinderlein!\! Ich weiß nich', ob ihr aufgepasst habt, wohin ihr tretet, aber hier in der Stadt liegt ganz schön viel \c[4]MÜLL\c[0] herum.
+
+message_1:
+      text: \n<ALTE DAME>Falls ihr zufällig \c[4]MÜLL\c[0] findet, könnt ihr ihn mir bringen, damit ich ihn richtig entsorgen kann?
+
+message_2:
+      text: \n<ALTE DAME>Kommt schon, Kinderlein!\!<br>Helf'n wir der Welt, Schritt für Schritt!
+
+#Give MÜLL
+message_5:
+      text: \n<ALTE DAME>Hallo, Kinderlein!\! Ich seh, dass ihr etwas \c[4]MÜLL\c[0] dabei habt!\!<br>Danke, ich werd' das noch richtig entsorgen!
+
+#Talk to ALTE DAME after picking up some MÜLL:
+message_6:
+      text: \n<ALTE DAME>Diese Stadt kommt mir neulich 'n bisschen saub'rer vor...\!<br>Da kann ich schon 'n bisschen ruhiger schlaf'n!
+
+#Talk to ALTE DAME after picking up all MÜLL:
+
+message_7:
+      text: \n<ALTE DAME>\SINV[1]Mmmm...\! Ahh...\! Riecht ihr diese frische Luft?
+
+message_8:
+      text: \n<ALTE DAME>Diese Stadt ist schon viel saub'rer, seit ihr Kinderlein mir hier mit dem \c[4]MÜLL\c[0]-Sammeln helft\!<br>Ich kann euch echt nich' genug danken...
+
+message_9:
+      text: \n<ALTE DAME>Oh! Da fällt mir ein...\! Als ich gestern beim \c[4]MÜLL\c[0]-Sammeln war, hab ich das hier gefund'n!\!<br>Bitte nehmt's euch, als Zeichen meiner Dankbarkeit!
+
+message_10:
+      text: Du erhältst eine \c[4]ÄTHERISCHE CD\c[0]!
+
+message_11:
+      text: \n<ALTE DAME>\SINV[1]Mmmm...\! Ahh...\! Da riech mal einer diese frische Luft!
+
+message_12:
+      text: Du erhältst \c[4]MÜLL\c[0]?

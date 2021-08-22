@@ -1,0 +1,75 @@
+#### Translation: Finished
+#### Translated by: lugi
+
+# =========================================================================================
+# POOLNUDEL
+# ========================================================================================
+
+#Talk to Berly
+
+message_0:
+      text: \ber\{\SINV[1]\Com[2]BAHAHA\{HAHAHA\{AHAHA!!\SINV[0]
+
+message_1:
+      text: \berWisst ihr...\! Ich fühl mich in letzter Zeit etwas erfinderisch.\! Ich muss was Großes erschaffen...\! was Erstaunliches...
+
+message_2:
+      text: \berIch will die \Com[2]größte... \!\Com[2]übelste...\!<br>\Com[2]ultimativste Waffe erschaffen, die's gibt!
+
+message_3:
+      text: \berMein einziges Problem is', dass mir die Inspiration fehlt!\! <br>Ich such' nach dem perfekten Material für die ultimative Waffe...
+
+message_4:
+      text: \berEtwas, das biegsam ist, aber auch stabil...\! und vielleicht...\! 'n bisschen schwimmen kann.
+
+message_5:
+      text: \berWenn ihr sowas für mich finden könnt, mach ich euch ganz sicher die ultimative Waffe!
+
+#Talk to Berly with POOLNUDEL
+
+message_6:
+      text: \berHuch...\! Das...\! Genau das da...\! Diese Form...\! Diese Textur...
+
+message_7:
+      text: \berIch...\! Ich fühl mich...\! \SINV[1]inspiriert.\SINV[0]
+
+message_8:
+      text: \berDiese \c[13]POOLNUDEL\c[0] is' genau das, wonach ich suche!
+
+message_9:
+      text: \berDaraus kann ich bestimmt die ultimative Waffe machen!
+
+message_10:
+      text: Gibst du BERLY deine \c[13]POOLNUDEL\c[0]?
+
+#yes/no
+
+#yes
+message_11:
+      text: \berEinen Moment...
+
+#Berly turns around for a while, then turns back.
+message_12:
+      text: \ber\{\Com[2]JETZT GANZ WEIT DIE AUGEN AUFMACHEN!!
+
+message_13:
+      text: Du erhältst die \c[13]COOLNUDEL\c[0].
+
+#ADD BAHAHAHA
+
+message_14:
+      text: \berJa!\! Betrachtet die \c[13]COOLNUDEL\c[0] in all ihrer Pracht!
+
+message_15:
+      text: \berMit der Kraft der \c[13]COOLNUDEL\c[0] ist nicht zu spaßen.\! Nur die Dickköpfigsten können sie handhaben.\! Und obwohl sie wahnsinnig stark ist...\! ist sie dennoch sehr hübsch.
+
+message_16:
+      text: \berDie Handwerkskunst ist, was sie wirklich hervorhebt.
+
+message_17:
+      text: \berJap!\! Diesmal hab ich mich echt übertroffen!\! <br>Ihr könnt mir später danken!
+
+#ADD BAHAHAHAHAHA!!
+
+message_18:
+      text: \ber\com[2]Aber warum?\! Was soll ich jetzt mit meiner ganzen Inspiration anfangen?

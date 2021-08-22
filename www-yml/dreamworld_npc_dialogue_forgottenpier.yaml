@@ -1,0 +1,23 @@
+#### Translation: Finished
+#### Translated by: haj
+
+# =========================================================================================
+# Dreamworld NPC dialogue
+# =========================================================================================
+
+# ==============FORGOTTEN PIER / GHOST PARTY========================
+
+
+                        #====NIGHT 3 and 4====
+
+#BASIL'S GRANDMA
+#Location: Forgotten Pier
+message_0:
+      text: \n<FREMDE>Hast du meinen Enkel gesehen?
+
+#HUMAN SHADOW - MULTIPLE
+#Location: Forgotten Pier
+message_1:
+      faceset: MainCharacter_Basil
+      faceindex: 8
+      text: \n<???>...

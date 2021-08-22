@@ -1,6 +1,8 @@
-#### Translation: Demo-only
+#### Translation: Finished
+#### Editing: Finished
 
 #### Translated by: lugi
+#### Edited by: schako
 
 # =========================================================================================
 # Blackspace around dreamworld
@@ -24,32 +26,32 @@ message_6:
 #Some say that it mysteriously vanished without a trace.
 
 message_7:
-      text: \n<SPROUT MOLE TEACHER>SPROUT MOLE legend states that our kind used to prosper throughout all regions of the world, but our ancestors were curious and dug too deep into the ground.
+      text: \n<SPROSSWURF-LEHRER>Die SPROSSWURF-Legende besagt, dass unsere Art einst weltweit verbreitet war, doch unsere Vorfahren waren neugierig, und gruben zu tief in die Erde.
 
 message_8:
-      text: \n<SPROUT MOLE TEACHER>They discovered a mysterious hole that sucked hundreds and thousands of our species in, never to be seen again.
+      text: \n<SPROSSWURF-LEHRER>Sie entdeckten ein mysteriöses Loch, das Hunderte und Tausende unserer Art verschluckte, wonach sie nie wieder gesehen wurden.
 
 message_9:
-      text: \n<SPROUT MOLE TEACHER>The location of the \c[11]DEEP PIT\c[0], as it was called, has been lost for centuries, though some say that it simply vanished without a trace.
+      text: \n<SPROSSWURF-LEHRER>Der Ort der \c[11]TIEFEN GRUBE\c[0], wie man das Loch nannte, ist seit Jahrhunderten verloren, doch manche sagen, dass die Grube einfach spurlos verschwand.
 
 #ORANGE OASIS: One of MINA's kids mentions the story of the SHADOWY CHASM, a place where all bad kids go.
 
 message_10:
-      text: \n<MINA'S KID>Mom tells us not to walk too far from the cave or else we'll be swallowed by the \c[11]SHADOWY CHASM\c[0]...\! She says that's where all the bad kids go.
+      text: \n<MINAS KIND>Mama sagt, wir sollen nicht zu weit weg von der Höhle, sonst werden wir von der \c[11]SCHATTENSCHLUCHT\c[0] verschluckt...\! Sie sagt, da gehen all die unartigen Kinder hin.
 
 #Hitchhiker tells you of a place of no return called THE ABYSS.
 
 message_11:
-      text: \n<HITCHHIKER>Hello, children. \SINV[1]Uhuhuhu...\SINV[0]\! May I interest you in a curiosity?\!<br>I know of a place... you may have heard of it.
+      text: \n<ANHALTER>Hallo, Kinder. \SINV[1]Uhuhuhu...\SINV[0]\! Kann ich euch für etwas Kurioses interessieren?\!<br>Ich kenne einen Ort... von dem ihr vielleicht gehört habt.
 
 message_12:
-      text: \n<HITCHHIKER>It goes by many names...\!<br>the \c[11]DARK VOID\c[0]...\! the \c[11]DEEP PIT\c[0]...\! the \c[11]SHADOWY CHASM\c[0]...
+      text: \n<ANHALTER>Er hat viele Namen...\!<br>die \c[11]DUNKLE LEERE\c[0]...\! die \c[11]TIEFE GRUBE\c[0]...\! die \c[11]SCHATTENSCHLUCHT\c[0]...
 
 message_13:
-      text: \n<HITCHHIKER>Here in the \c[11]DEEP WELL\c[0], we call it \c[11]THE ABYSS\c[0].
+      text: \n<ANHALTER>Hier im \c[11]TIEFEN BRUNNEN\c[0] nennen wir ihn \c[11]DEN ABGRUND\c[0].
 
 message_14:
-      text: \n<HITCHHIKER>It's just past the end of the highway.\! Would you like me to take you there?
+      text: \n<ANHALTER>Er liegt gleich hinter dem Ende der Autobahn.\! Möchtet ihr, dass ich euch dorthin bringe?
 
 #FORGOTTEN PIER: Inhabitants from the FORGOTTEN PIER are speaking from another realm which they call BLACK HOLE, DARK VOID, DEEP PIT,
 #SHADOWY CHASM, or ABYSS. They escape for a bit, but it will always pull them back.
@@ -67,13 +69,13 @@ message_14:
 
 #HITCHHIKER AT ABYSS
 message_20:
-      text: \n<HITCHHIKER>We're here...
+      text: \n<ANHALTER>Wir sind hier...
 
 message_21:
-      text: \n<HITCHHIKER>Did you want to go back to \c[11]DEEP WELL\c[0]?
+      text: \n<ANHALTER>Wollt ihr zurück zum \c[11]TIEFEN BRUNNEN\c[0]?
 
 message_22:
-      text: \n<BIG YELLOW CAT>Sleep, little one.\! You are safe with me.
+      text: \n<GROßE GELBE KATZE>Schlaf, Kleines.\! Bei mir bist du sicher.
 
 message_23:
-      text: There is no turning back.
+      text: Es gibt kein Zurück.

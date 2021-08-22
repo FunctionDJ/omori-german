@@ -36,8 +36,8 @@ contributorsIndex:
   haj: Haj#1217
   meta: 🌈 Meta#5256
 
-externalMods:
-  no belry: languages/en/XX_BERLYMOD.yml
+extraFiles:
+  - languages/en/XX_BERLYMOD.yaml # no belry mod
 
 bundleModsInKit:
   - no belry

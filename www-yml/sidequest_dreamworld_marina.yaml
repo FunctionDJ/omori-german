@@ -1,0 +1,60 @@
+#### Translation: Finished
+#### Translated by: jasu
+
+# =========================================================================================
+# Slimegirls: Marina's Body
+# ========================================================================================
+
+#Talk to Marina:
+
+message_0:
+      text: \n<MARINA>\Com[2]Verdammt nochmal!\!<br>Ich wusste, dass ich dieser SWEETHEART nicht hätte trauen sollen.\!<br>Wie kann ich so nur meine Versuchsobjekte fangen!?
+
+message_1:
+      text: \n<MARINA>Eh...\! Was auch immer...
+
+message_2:
+      text: \n<MARINA>Wenigstens muss SWEETHEART jetzt dafür büßen...\! \quake[1]Kikiki~\quake[0]
+
+message_3:
+      text: \n<MARINA>Oh, hey! Ich erinnere mich an euch!\! Seid ihr immernoch wegen vorher sauer?\! Ehh...\! Ich würde es nicht so persönlich nehmen.<br>Es war einfach recht spontan.
+
+message_4:
+      text: \n<MARINA>Ich muss qualitativ gutes Fleisch finden.<br>\!Etwas \c[4]RATTENFLEISCH\c[0] wäre perfekt!
+
+message_5:
+      text: \n<MARINA>Vielleicht lässt sich welches finden, indem man nach diesen herumrennenden LABORRATTEN jagt...\! Ihr könnt das doch machen, oder?
+
+#Talk to Marina with Rat meat: Cutscene: Marinas Body forms
+
+message_6:
+      text: \n<MARINA>\Com[2]Woah! Ihr habt mir wirklich \c[4]RATTENFLEISCH\c[0] gebracht?\! Nicht schlecht, Kinder!\! Vielleicht lasse ich euch sogar lebend hier raus!
+
+message_7:
+      text: \n<MARINA>Damit kann ich endlich meinen Körper zurückerlangen! \quake[1]Kikiki~\quake[0]
+
+#FADE IN FADE OUT WITH SFX
+
+message_8:
+      text: \n<MARINA>\sinv[1]Ahhhhhhhh...\! Das tut gut...\!<br>Fühlt sich toll an, meine Arme und Beine wieder zu haben~\sinv[1]
+
+message_9:
+      text: \n<MARINA>Huh?\! Was glotzt ihr so?\!<br>Achja.\! Wenn man einem einen Gefallen tut, sollte man etwas zurückgeben, oder?\! Also gut...
+
+#Marina burps
+
+message_10:
+      text: \n<MARINA>Hmm...\! Wie wäre es damit? \quake[1]Kikiki~\quake[0]
+
+message_11:
+      text: Du erhältst einen \c[13]FINGER\c[0]!
+
+message_12:
+      text: \n<MARINA>Jetzt sind wir quitt!
+
+#Quest complete
+
+#After-Quest Dialogue:
+
+message_13:
+      text: \n<MARINA>Endlich kann ich zu meinen Experimenten zurückkehren!\!<br>Hmm, wo war meine Kettensäge nochmal~? \quake[1]Kikiki~\quake[0]

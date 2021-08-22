@@ -1,0 +1,68 @@
+#### Translation: Finished
+#### Translated by: jasu
+
+# =========================================================================================
+# Slimegirls: MOLLY's Body
+# ========================================================================================
+
+#Talk to Molly:
+
+message_0:
+      text: \n<MOLLY>Hallo, Schätzchen~ Schön zu sehen, dass ihr noch lebt.\! Vergebt bitte meinem Verhalten vorher.\! Meine Schwestern und ich übertreiben Sachen leicht.\! Ich bin mir sicher, ihr versteht das.
+
+message_1:
+      text: \n<MOLLY>Könntet ihr mir bei etwas helfen?\!<br>Ich will mir einen neuen Körper bauen, aber wie ihr seht...\! bin ich etwas lahmgelegt.
+
+message_2:
+      text: \n<MOLLY>Ich benötige etwas \c[4]ALTMETALL\c[0] von diesen WURM-BOTS, die in meinem Labor herumschlängeln.\! \sinv[1]Danke, Schätzchen~
+
+#Talk to Molly with Scrap Metal:
+
+message_3:
+      text: \n<MOLLY>Ah! Ihr habt mir meine Materialien gebracht!\!<br>Das sollte passen.\! Mal sehen...
+
+#FADE IN FADE OUT WITH SFX
+
+message_4:
+      text: \n<MOLLY>\sinv[1]Hmm~\sinv[0]
+
+#[Molly turns left]
+
+message_5:
+      text: \n<MOLLY>\sinv[1]Hmmmmmmmmm~\sinv[0]
+
+#[Molly turns back]
+
+message_6:
+      text: \n<MOLLY>\sinv[1]Hmmmmmmmmmmmmmmmmmmm~\sinv[0]
+
+#[Molly turns right]
+
+message_7:
+      text: \n<MOLLY>...
+
+#[Molly turns front]
+
+message_8:
+      text: \n<MOLLY>\Com[2]Bah!\! Dieser Metallkörper ist viel zu schwer...\!<br>Ich denke, ich bleibe lieber bei nur einem Kopf!
+
+#MOLLY HEAD JUMPS OFF ROBOT Body
+
+message_9:
+      text: \n<MOLLY>Aber dennoch... sollte ich euch für eure Mühe belohnen...\!<br>Ah, ich hab's! Nehmt doch die hier!\!
+
+message_10:
+      text: Du erhältst \c[13]STÖCKELSCHUHE\c[0].
+
+message_12:
+      text: \n<MOLLY>Da ich nun keinen Körper habe, brauche ich sie nicht mehr!
+
+#QUEST complete
+
+#AFTER-QUEST Dialogue talk to Molly
+
+message_11:
+      text: \n<MOLLY>Keinen Körper zu haben ist so praktisch!\!<br>Wäre ich doch nur früher auf diese Idee gekommen!<br>\sinv[1]Fufufu~
+
+message_13:
+      text: Ein harter, schwerer Körper.

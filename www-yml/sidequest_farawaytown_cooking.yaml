@@ -1,0 +1,154 @@
+#### Translation: Finished
+#### Translated by: haj
+
+# =========================================================================================
+# Cooking Help
+# =========================================================================================
+
+message_0:
+      text: \n<ZOPF DAME>Oh, hallo!\! Ich erinnere mich an dich!\! Du bist der Junge, der die Tapete für unser Haus ausgesucht hat.\! Wie ich sehe, hast du deine Freunde mitgebracht!
+
+message_1:
+      text: \n<ZOPF DAME>Wenn du wegen der Party hier bist, tut es mir leid. Es ist noch ein bisschen früh...
+
+message_2:
+      faceset: MainCharacters_Faraway
+      faceindex: 17
+      text: \kelOh, verdammt... Das war unser Fehler!\! Wir werden einfach später wiederkommen!
+
+message_3:
+      faceset: MainCharacters_Faraway
+      faceindex: 31
+      text: \herHm?\! Schnief...\! Huh?\! Riecht ihr das auch?\!<br>Es riecht, als würde etwas brennen...
+
+message_4:
+      text: \n<ZOPF DAME>\com[2]\{\quake[1]EEEEEEEEEK!!\quake[0] ENTSCHULDIGUNG, EINE SEKUNDE!
+
+#KAREN slams the door, then reopens it
+
+message_5:
+      text: \n<ZOPF DAME>...
+
+message_6:
+      text: \n<ZOPF DAME>Eigentlich...\! Ähm...\! Ihr wisst nicht zufälligerweise, wie man kocht, oder?\! Ich könnte ein wenig Hilfe beim Abendessen gebrauchen...
+
+message_7:
+      faceset: MainCharacters_Faraway
+      faceindex: 14
+      text: \kelDu brauchst Hilfe beim Kochen?\! Dann ist heute dein Glückstag!<br>\!Mein Bruder HERO ist ein fantastischer Koch!\! Er wird dir bestimmt etwas kochen können! Heh heh...
+
+message_8:
+      faceset: MainCharacters_Faraway
+      faceindex: 37
+      text: \herHä?! Ich... ich werde?
+
+message_9:
+      text: \n<ZOPF DAME>Oh, danke!\! Bitte... komm rein!
+
+#Talk to KAREN inside
+
+message_10:
+      text: \n<ZOPF DAME>Tut mir leid, dass ich dich so stören muss...!\! Es ist das erste Mal, dass ich für so viele Leute koche, deshalb bin ich ein bisschen nervös...
+
+message_11:
+      faceset: MainCharacters_Faraway
+      faceindex: 13
+      text: \kelKeine Sorge.\! Wir werden dir helfen! Nicht wahr, Jungs?\! \sinv[1]Nicht wahr?\sinv[0]
+
+message_12:
+      faceset: MainCharacters_Faraway
+      faceindex: 38
+      text: \herOh... Na gut, dann... \Kommt schon, Leute.\!<br>Ich werde euch alle an die Arbeit schicken!
+
+message_13:
+      faceset: MainCharacters_Faraway
+      faceindex: 5
+      text: \aubHä? W-Warte mal... sogar ich!?
+
+message_14:
+    faceset: MainCharacters_Faraway
+    faceindex: 38
+    text: \herJa, natürlich!\! Wir haben als Kinder immer zusammen gekocht, nicht wahr?
+
+message_15:
+    text: \n<ZOPF DAME>Ich danke dir so sehr! Du kannst gerne alle Zutaten verwenden! Ich habe allerdings nicht viele...
+
+message_16:
+    faceset: MainCharacters_Faraway
+    faceindex: 30
+    text: \herMach dir keine Sorgen... Ich weiß, dass wir etwas Leckeres zubereiten können!\!<br>Lasst uns an die Arbeit gehen!
+
+message_17:
+      faceset: MainCharacters_Faraway
+      faceindex: 14
+      text: \kel\Com[2]\{\SINV[1]AY AY, KAPITÄN!!\SINV[0]
+
+# ===============================================
+#Cutscene: Hero helps KAREN Cook
+# ===============================================
+
+#SEAN walks inside.
+
+message_18:
+      text: \n<CHECKERS GUY>Wow... Was riecht denn hier so lecker?
+
+message_19:
+      text: \n<ZOPF DAME>Oh, hallo SEAN!\! Unsere neuen Freunde haben mir gerade geholfen, das Abendessen für die Party heute Abend vorzubereiten!
+
+message_20:
+      text: \n<CHECKERS GUY>Nun...\! Es sieht so aus, als ob ihr einen guten Job macht!\!<br>Ich bin mit dem Aufbau draußen fertig, also lass mich auch helfen!
+
+message_21:
+      text: \n<ZOPF DAME>\sinv[1]Juhu!\! Jetzt können wir alle zusammen kochen!
+
+#Cooking montage: Everyone standing near the oven
+
+message_22:
+      text: \n<ZOPF DAME>\sinv[1]Puh...\sinv[0] Alles erledigt!\! Mit eurer Hilfe wird diese Party ein großer Erfolg werden!
+
+message_23:
+      text: \n<ZOPF DAME>Nochmals vielen Dank für all eure Hilfe.<br>\!Ihr seid alle so wirklich nette Leute!
+
+message_24:
+    faceset: MainCharacters_Faraway
+    faceindex: 29
+    text: \herImmer wieder gerne!\! Danke, dass du uns deine Küche anvertraut hast...<br>\!Es hat uns wirklich Spaß gemacht, mit dir zu kochen!
+
+message_25:
+    faceset: MainCharacters_Faraway
+    faceindex: 14
+    text: \kelJa, das hat wirklich Spaß gemacht!\! Ich kann es kaum erwarten, heute Abend auf der Party alles zu essen!
+
+message_26:
+      text: \n<CHECKERS GUY>Wir werden auf dich warten!
+
+message_27:
+      text: \n<ZOPF DAME>Passt auf euch auf!
+
+
+message_100:
+      text: \n<ZOPF DAME>Hallo, alle zusammen! Kommt rein!\! Die Party hat grade begonnen!
+
+message_101:
+      text: Köstliche \c[3]KEKSE\c[0]!
+
+message_102:
+      text: Ein alter \c[3]KUCHEN\c[0]!
+
+message_103:
+      text: Ein frischer \c[3]KUCHEN\c[0]!
+
+message_104:
+      text: Ein großer alter Hühnerbraten.
+
+message_105:
+      text: Salat...
+
+message_106:
+      text: \n<CHECKERS GUY>Yo! Bist du aufgeregt wegen der Party heute Abend?\! Wir sehen uns dort!
+
+message_107:
+      text: Ein nicht zu Ende gegessener Teller mit Essen.
+
+message_108:
+      text: Ein leckeres \c[3]KUCHENSTÜCK\c[0]!

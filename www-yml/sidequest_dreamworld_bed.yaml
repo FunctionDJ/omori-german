@@ -1,0 +1,172 @@
+#### Translation: Finished
+#### Translated by: lugi
+
+# =========================================================================================
+# B.E.D. Trade Quest
+# ========================================================================================
+
+#B.E.D. Trade Quest 1
+
+message_0:
+    text: \mayVerflixt!\! Wo in aller Welt steckt mein nichtsnutziger Sohn?
+
+message_1:
+    text: \mayGestern Abend bat ich ihn darum, die Wirkungen meiner neuesten Erfindung, dem \c[4]B.E.T.T.\c[0], zu analysieren, und ich warte sehnsüchtig auf das Ergebnis!
+
+message_2:
+    text: \mayIch hoffe, er tut nicht das, wovon ich denke...
+
+message_3:
+    text: Ein SPROSSWURF schläft auf einem \c[4]B.E.T.T.\c[0].\!<br>Wenn du doch nur etwas hättest, das ihn wecken könnte...
+
+#B.E.D. Trade Quest 2
+
+message_10:
+    text: \n<SPORTSWURF>Hach... hach, hach...
+
+message_11:
+    text: \n<SPORTSWURF>Dieses ganze Trainieren macht mich so hungrig!\!<br>Ich wünschte echt, ich hätte jetzt etwas \c[3]TOFU\c[0]...
+
+message_12:
+    text: Dem sehr verschwitzten SPORTSWURF ein \c[3]TOFU\c[0] geben?
+
+message_13:
+    text: \n<SPORTSWURF>Wow, danke für den \c[3]TOFU\c[0]! Den hab ich echt gebraucht.\!<br>Ich gebe dir dafür meinen wertvollsten Besitz.<br>Bitte pass gut darauf auf!
+
+#Bandito mole
+
+message_20:
+    text: \who\}Psst... hey, Kinder!\! Ich bekam zufällig mit...\! dass dieser Typ PESSI etwas Wertvolles verloren hat, stimmt's?\! Etwas... Kostbares, vielleicht?\! <br>Ich könnte euch damit womöglich helfen...
+
+message_21:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 10 #needs appropriate faceset
+    text: \aubHmm, dieser Kerl kommt mir enorm zwielichtig vor...\!<br>Wo ist der Haken,\! \com[2]ZWIELICHTWURF!?
+
+message_22:
+    text: \n<ZWIELICHTWURF>\}Ä-Ähem!\! Wie ihr vielleicht schon wisst,\! sind wir SPROSSWÜRFE sehr intelligente und hochentwickelte Wesen.
+
+message_23:
+    text: \n<ZWIELICHTWURF>\}Der Klügste von uns allen, der BÜRGERMEISTER, entwirft gerade ein Gerät, das SPROSSWÜRFEN dabei helfen wird, viel leistungsfähiger zu arbeiten, als zuvor möglich war.
+
+message_24:
+    text: \n<ZWIELICHTWURF>\}Ein legendäres Gerät, das nach seiner Vollendung die moderne Welt völlig revolutionieren wird!\! Er nennt es...\! das \c[4]B.E.T.T.\c[0]!
+
+message_25:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 11 #needs appropriate faceset
+    text: \aubDas \c[4]B.E.T.T.\c[0]?\! Wofür willst du das?
+
+message_26:
+    text: \n<ZWIELICHTWURF>\}\Com[2]Hey, keine Fragen!\! Besorgt mir erst ein \c[4]B.E.T.T.\c[0], und dann reden wir weiter.
+
+message_27:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 17 #needs appropriate faceset
+    text: \kelEin \c[4]B.E.T.T.\c[0], ja?\! Klingt doch einfach!
+
+message_28:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 4 #needs appropriate faceset
+    text: \aubWarte, KEL! Ich weiß ja nicht...\! Er scheint enorm...\! unzuverlässig...
+
+message_29:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 39
+    text: \herVielleicht sollten wir ihm einfach ein \c[4]B.E.T.T.\c[0] geben, und schauen, was passiert.
+
+message_30:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 8
+    text: \aubWenn du meinst, HERO...\!<br>Aber irgendwas an ihm stört mich richtig...
+
+
+#B.E.D. Trade Quest 3
+
+message_40:
+    text: \sle\Com[2]IIIII\{IIIII\{IIIIIEK!!
+
+message_41:
+    text: \sleWer seid ihr!?
+
+message_42:
+    text: \sle\Com[2]Oh nein, ich bin spät dran!\! Hab ich vielleicht...\! Nein...
+
+message_43:
+    text: \sleIch muss verschlafen haben!\! ...\!<br>Aber...\! SPROSSWÜRFE verschlafen nicht!
+
+message_44:
+    text: \sleDieses \c[4]B.E.T.T.\c[0]...\! Es ist...\! \quake[1]mächtig.\quake[0]\! Vielleicht sogar\. \quake[1]zu mächtig.\quake[0]
+
+message_45:
+    text: \sleDas sag ich lieber Papa!
+
+#B.E.D. Trade Quest 4
+
+message_50:
+    text: \sle\Com[2]Papa! Papa! Ich bin da!
+
+message_51:
+    text: \mayBei den Göttern, mein Sohn! Wo warst du nur?
+
+message_52:
+    text: \sleIch...\! Ich habe leider einige schreckliche Neuigkeiten...
+
+message_53:
+    text: \mayWas ist los, mein Sohn?\! Du weißt, du kannst mir alles sagen!
+
+message_54:
+    text: \sleGestern Abend, als ich das \c[4]B.E.T.T.\c[0] testete...\!<br>Da...\! Da...\! Da...\! Da hab ich \quake[1]verschlafen...\quake[0]
+
+message_55:
+    text: \mayNein, das kann nicht sein!\! Wenn du mit deinen Worten recht hast, dann...
+
+message_56:
+    text: \mayMeine ganze Forschung...\! Diese Erfindung...\! Das \c[4]B.E.T.T.\c[0]...\!<br>Sie sind alle...\! \quake[1]zu mächtig.\quake[0]
+
+message_57:
+    text: \mayWisst ihr, laut meiner Theorie würde ein \c[4]B.E.T.T.\c[0] SPROSSWÜRFEN beim Ausschlafen helfen, und sie dabei tagsüber produktiver machen, aber...
+
+message_58:
+    text: \mayWas bringt es, wenn genau dieselbe Erfindung bei SPROSSWÜRFEN stattdessen zu Produktivitätsverlust führt?
+
+message_59:
+    text: \mayDas \c[4]B.E.T.T.\c[0] hat großes Potenzial, aber das Risiko ist momentan zu hoch!
+
+message_60:
+    text: \may\Com[2]Bei den Göttern, was hab ich getan?!
+
+message_61:
+    text: \mayIch kann diese gefährliche Technologie nicht auf die Welt loslassen, ehe unser ärmliches Dorf noch in ewigen Schlaf verfällt!
+
+message_62:
+    text: \may\Com[2]Hey, du da!\! Kind!\! Schaffe dieses \c[4]B.E.T.T.\c[0] von uns fort.\!<br>Wir haben für solche Macht kein Bedürfnis!
+
+message_63:
+    text: \mayNun hinfort mit dir, und sag niemandem, was du heute hier gesehen hast!
+
+message_64:
+    text: \n<SPORTSWURF>Na ja.\!<br>Wenn du mal etwas \c[3]TOFU\c[0] abgeben willst, würde ich ihn gerne annehmen...
+
+message_65:
+    text: Du erhältst ein \c[4]B.E.T.T.\c[0]!
+
+message_66:
+    text: \n<ZWIELICHTWURF>\}\Com[2]T-Trügen mich meine Augen?
+
+message_67:
+    text: \n<ZWIELICHTWURF>\}Ich glaub es nicht...\! Es ist... ein \c[4]B.E.T.T.\c[0]!\! Ein echtes, wirkliches, authentisches \c[4]B.E.T.T.\c[0]!\!<br>Ich werde es sofort benutzen!
+
+message_68:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 10
+    text: \aubHey, was tust du da?\!<br>Wir haben dir geholfen, also sollst du uns helfen!
+
+message_69:
+    text: \n<ZWIELICHTWURF>\}\Com[2]Hey, hey, hey!\}\!<br>Was soll den der Ton?\!<br>Ich sehe vielleicht nicht so aus, aber ich halte mein Wort.
+
+message_70:
+    text: Das \c[4]GROßE LUFTHORN\c[0] beim SCHLÄFRIGEN WURF benutzen?
+
+message_71:
+    text: \sleAber...\! Ich mochte das \c[4]B.E.T.T.\c[0]...

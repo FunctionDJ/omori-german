@@ -1,0 +1,222 @@
+#### Translation: Finished
+#### Translated by: haj
+
+# =========================================================================================
+# ** TEMPLATE DIALOGUE
+# =========================================================================================
+
+message_0:
+    text: \n<HUMPHREY>Ich bereite den Eingang für unsere aufregende neue Attraktion vor, aber es ist noch nicht fertig.\! Du solltest später wiederkommen...\! zum Beispiel morgen nachher!
+
+#BOSS
+
+message_1:
+    text: \n<BOSS>Hey, kennst du mich noch?\! Ich bin's BOSS und willkommen beim BOSS RUSH!\! Seit meinen Tagen auf dem Spielplatz habe ich viel über mich reflektiert.
+
+message_2:
+    text: \n<BOSS>Mit Hilfe der neuesten technologischen Innovationen habe ich mir eine ultimative Herausforderung für die coolsten Herausforderer ausgedacht.
+
+message_3:
+    text: \n<BOSS>Hier unten kannst du die Simulationen für Kämpfe erleben, die du schon einmal gekämpft hast...\! aber stärker!
+
+message_4:
+    text: \n<BOSS>Und?\! Bist du interessiert, an dem BOSS RUSH teilzunehmen?
+
+message_5:
+    text: \n<BOSS>\sinv[1]Fantastisch!\sinv[0] Lass uns dich hier einrichten.
+
+message_12:
+    text: \n<BOSS>Awww...\! Na gut. Vielleicht beim nächsten Mal Kumpel!
+
+
+
+
+#=====
+
+#AFTER BEATING CHALLENGE
+
+message_13:
+    text: \n<BOSS>Hey, Leute! Wie läuft's?\! Du hast den BOSS RUSH schon geschafft...\! aber willst du es noch einmal versuchen?
+
+
+#Pan to teleport the first time.
+
+message_6:
+    text: \n<BOSS>\sinv[1]Und fertig -zack!\sinv[0]
+
+message_7:
+    text: \n<BOSS>Geh einfach den ganzen Weg nach rechts zum Teleporter.\! Dein erster Kampf wird sofort beginnen.
+
+message_8:
+    text: \n<BOSS>Oh, und vergesst nicht, euch zu heilen!\! MARI war so nett, einen ihrer Picknickkörbe mitzubringen...\! Und du solltest dich mit \c[3]SNACKS\c[0] und \c[5]KRIMSKRAMS\c[0] am Briefkasten versorgen, wenn du schon dabei bist.
+
+message_9:
+    text: \n<BOSS>Viel Glück dabei!\! \com[2]MACH SIE FERTIG!
+
+
+#===
+
+message_14:
+    text: \n<BOSS>Ich bin sicher, es gibt noch mehr kreative Möglichkeiten, sich selbst herauszufordern.
+
+message_22:
+    text: \n<BOSS>Ich, für meinen Teil, empfehle nur \c[5]GROßE GUMMIBÄNDER\c[0]! zu verwenden! zu verwenden!
+
+#===
+
+
+#MARI AND BASIL
+
+message_10:
+    faceset: MainCharacter_Mari
+    faceindex: 0
+    text: \marSeid ihr bereit, die BOSS RUSH Herausforderung anzunehmen?\! Viel Glück! Wir werden euch anfeuern.
+
+message_11:
+    faceset: MainCharacter_Basil
+    faceindex: 1
+    text: \basIch bin froh, dass BOSS endlich seine Berufung gefunden hat.\! Du solltest die Herausforderung annehmen! Ich weiß, dass du es schaffen kannst!
+
+#RESULTS
+
+message_15:
+    text: \n<BOSS>Hey, du hast dich dieses Mal ziemlich gut geschlagen...\! aber man kann nicht immer gewinnen.
+
+message_16:
+    text: \n<BOSS>Besucht uns bald wieder!
+
+message_17:
+    text: \n<BOSS>Wow! Du hast den BOSS RUSH wirklich gemeistert!\! Glückwunsch, ihr coolen Leute!\! Im Ernst, du bist der Coolste!
+
+message_18:
+    text: \n<BOSS>\com[539]\sinv[1]Hey, herzlichen Glückwunsch!\!\com[539]\sinv[0] Du bekommst die \c[4]COOLE TROPHÄE\c[0]!\! \com[539]Ich fahre fort und zeige euch an \com[539]es in der Lobby für euch.
+
+message_19:
+    text: \n<BOSS>\com[539]\sinv[1]Hey, herzlichen Glückwunsch!\!\com[539]\sinv[0] Du bekommst die \c[4]COOLERE TROPHÄE\c[0]!\! \com[539]Ich fahre fort und zeige euch an \com[539]es in der Lobby für euch.
+
+message_20:
+    text: \n<BOSS>\com[539]\sinv[1]Hey, herzlichen Glückwunsch!\!\com[539]\sinv[0] Du bekommst die \c[4]COOLSTE TROPHÄE\c[0]!\! \com[539]Ich fahre fort und zeige euch an \com[539]es in der Lobby für euch.
+
+message_21:
+    text: \n<BOSS>Gute Arbeit!\! Aber lass uns sehen, wie du dich bei deiner nächsten Herausforderung schlägst!
+
+#=====
+
+message_100:
+    text: Die \c[4]COOLE TROPHÄE\c[0].\! Diese Trophäe ist ziemlich cool.
+
+message_101:
+    text: Die \c[4]COOLERE TROPHÄE\c[0].\!<br>Diese Trophäe ist cooler als die \c[4]COOLE TROPHÄE\c[0].
+
+message_102:
+    text: Die \c[4]COOLSTE TROPHÄE\c[0].\! Das ist wirklich die Coolste Trophäe.
+
+message_103:
+    text: Ein \c[4]TEILNEHMERBÄNDCHEN\c[0].\! Es ist nicht sehr cool.
+
+
+#===
+
+message_150:
+    text: MARI und BASILs schicker Tisch für zwei.
+
+#===
+
+message_151:
+    text: \n<BOSS>Du hast es nicht bis ganz nach oben geschafft?\! Das ist nicht schlimm. Es gibt immer ein nächstes Mal!
+
+
+#---
+
+#PLUTO AND EARTH FIGHT
+
+
+message_200:
+      text: \n<PLUTO>Ah, was eine Überraschung, euch hier zu sehen, Kinder.
+
+message_201:
+      text: \n<PLUTO>Mein Traum, eine Verkehrsstation zu besitzen, hat mich durch das ganze Universum geführt...\! Aber es ist trotzdem schön, ab und zu nach Hause zu kommen.
+
+message_202:
+      text: \n<PLUTO>Manchmal vermisse ich meine Freunde...\! wie DIE ERDE hier.
+
+#earth floats DOWN
+
+message_203:
+      text: \n<PLUTO>DIE ERDE und ich kennen uns schon lange.\! Bevor wir auf dieses Sonnensystem beschränkt waren...\! sind wir durch eine Galaxie nach der anderen geflogen und haben alles auf unserem Weg zerstört.
+
+message_204:
+      text: \n<PLUTO>Ich denke immer noch sehr gern an diese Zeit zurück.
+
+message_205:
+      text: \n<THE EARTH>...
+
+message_206:
+      text: \n<PLUTO>Was ist das, ERDE?
+
+message_207:
+      text: \n<PLUTO>Hm...\! Aha, ich verstehe.
+
+message_208:
+      text: \n<PLUTO>DIE ERDE sagt mir, dass sie deine Reise beobachtet hat.\! Sie sagt, dass Dein Wachstum sie inspiriert hat, und...\! dass sie Dich zu einem Kampf herausfordern möchte.
+
+message_209:
+      text: \n<PLUTO>Unsere letzte Schlacht wurde abgebrochen...\! aber vielleicht können wir sie jetzt beenden.\! Was sagst du dazu?
+
+message_215:
+      text: \plu\Com[2]\sinv[2]\{GWAHA\{HAHA\{HAHAHAHA!!\}
+
+message_210:
+      text: \n<PLUTO>Dann werden DIE ERDE und ich uns noch einmal zusammentun!\! Macht euch bereit, Kinder.\! Der Sieg wird nicht leicht werden!
+
+#YES
+
+message_211:
+      text: \n<THE EARTH>...
+
+message_212:
+      text: \n<PLUTO>Es scheint, als ob der Schüler den Lehrer überholt hat.\! Ich wusste immer, dass dieser Tag kommen würde...\! aber vielleicht nicht so früh.
+
+message_214:
+      text: \n<PLUTO>Danke, dass ihr uns erniedrigt habt, Kinder.
+
+message_213:
+      text: \n<PLUTO>Unsere Zeit im Universum dauert nicht ewig.\! Selbst in meinem Alter ist es wichtig, weiter zu lernen und zu wachsen.\! Ja! Das ist es, was es bedeutet, lebendig zu sein!
+
+message_220:
+      text: \n<PLUTO>Geht voran, Kinder...\! und leuchtet so hell wie die Sterne in der Galaxie!\! Es sind viele, die an euch glauben.\! Mehr als ihr wisst!
+
+#NO
+
+message_216:
+      text: Hm.\! Ich verstehe.\! Dann vielleicht ein anderes Mal.\n<PLUTO>
+
+#PLUTO FLOATS UP
+
+#DEFEATING BOSS RUSH
+
+message_230:
+      faceset: MainCharacter_Mari
+      faceindex: 3
+      text: \marHerzlichen Glückwunsch, dass ihr den BOSS RUSH gewonnen habt!\! Hier ist ein kleines Geschenk von mir.\! Ich habe es mit all meiner Liebe gemacht! Hehe...
+
+message_231:
+      text: Du bekommst \c[3]MARIs KEKS\c[0].
+
+message_232:
+      faceset: MainCharacter_Mari
+      faceindex: 0
+      text: \marIhr habt wirklich eine großartige Show hingelegt!\! BASIL und ich haben euch auf der großen Leinwand da drüben gesehen.\! Wir haben beide mitgefiebert!
+
+message_233:
+      faceset: MainCharacter_Basil
+      faceindex: 1
+      text: \basIch kann's nicht fassen, dass du den BOSS RUSH besiegt hast!\! Ihr seid die coolsten Leute überhaupt.\! Ich habe so ein Glück, so starke Freunde wie euch zu haben.
+
+#COOKIE TEXT
+
+message_234:
+      text: \c[3]MARIs KEKS\c[0] war außen perfekt knusprig und innen süß und klebrig.
+
+message_235:
+      text: Du erhälst durch \c[3]MARIs KEKS\c[0] 10 HERZ, 10 SAFT, 10 ATTACKE, 10 VERTEIDIGUNG, 10 TEMPO, and 10 GLÜCK!

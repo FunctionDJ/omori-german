@@ -1,0 +1,177 @@
+#### Translation: Finished
+#### Translated by: meta
+
+# =========================================================================================
+# FARAWAY TOWN Mavericks
+# =========================================================================================
+
+#Intro: Enter Mavericks House between Day 2 and Day 3
+#Play: fat_church.ogg upon entering
+#once player enters Daphne and Bowens room, change song to goofy_times.ogg
+#there is a cardboard cutout of Daphne and Bowen inside
+
+#Examining either cardboard cutout
+message_1:
+      text: Du findest eine Notiz.
+
+message_2:
+       text: \"Sieht so aus als hätten wir uns verlaufen...\!<br>Wir können nicht allzu weit gekommen sein...\!<br>Finde uns, kleiner Bruder.\"
+
+message_3:
+       text: Unterschrieben von, <br>DAPHNE und BOWEN (Deinen liebenden älteren Geschwistern)
+
+#upon exiting, song stays as goofy_times.ogg
+
+
+#HIDING SPOTS
+
+#There are now 2 lumps in the rug of the hallway.
+
+message_4:
+       text: Du drehst den Teppich um...\! und findest zwei kuschelige Kissen.
+
+message_5:
+       text: \"Das ist der älteste Trick der Welt...\! <br>Ich kann nicht glauben das du darauf reinfallen würdest...\"
+
+message_6:
+       text: Du öffnest den Kühlschrank... \! und findest eine Notiz im inneren.
+
+message_7:
+       text: \"Ho uhm...\! Sieht so aus als wär dein Pfad was kälter geworden...\"\! <br>\"Wie schade...\"
+
+#EXAMINE CURTAINS WITH SILHOUETTES
+
+message_8:
+       text: Du öffnest den Vorhang...\! und findest weitere Pappaufsteller.
+
+message_9:
+       text: \"Hast du wirklich gedacht wir haben nur Pappaufsteller von uns gekauft?\! Das wäre viel kostengünstiger gewesen.\"
+
+#Examine curtains with silhouettes:
+#Animation: A cat bolts out (You cannot find it after)
+
+#Examine Oven
+
+message_10:
+       text: Du öffnest den Ofen...\!<br>Die Luft füllt sich mit dem Geruch von frischen Brot.
+
+#Examine (General)
+
+message_11:
+       text: Du öffnest die Kabinentüren...
+
+message_12:
+       text: Aber du hast nichts wirklich interesantes gefunden.
+
+message_13:
+       text: Du siehst unter den Tisch...
+
+message_14:
+       text: Du siehst unter das Bett...
+
+message_15:
+       text: Du guckst vor der Badewanne nach...
+
+message_16:
+       text: Du siehst hinter die Uhr...
+
+message_17:
+       text: Du guckst hinter dem Bild nach...
+
+message_18:
+       text: Du hast einen Tresor gefunden.\! <br>Du tuhst besser so als wüsstest du nichts davon.
+
+message_19:
+       text: Du guckst hinter das Bücherregal...
+
+message_20:
+       text: Du schaust hinter die Statur...
+
+message_21:
+       text: Du guckst um Lagerfeuer nach...
+
+message_22:
+       text: Du hast einen versteckten Schalter gefunden.\! <br>Es ist warscheinlich besser wenn du ihn nicht anrührst.
+
+#ONE STATUE
+
+message_23:
+       text: Du hast einen versteckten Knopf gefunden.\! <br>Es ist warscheinlich besser wenn du ihn ignorierst.
+
+#Examine under The Mavericks Bed (Correct answer)
+
+#Bed begins shaking.
+message_24:
+       text: \n<DIE ZWILLINGE>\quake[1]\{\Com[2]BUUH!!\}
+
+message_25:
+       text: \n<EIN ZWILLING>Haha!\! Wir haben dich schön erschreckt, oder nicht!?
+
+message_26:
+       text: \n<DER ANDERE ZWILLING>...
+
+message_27:
+       text: \n<EIN ZWILLING>Hey, warte maln Sekündchen...\! Du bist nicht unser lieber kleiner Bruder...
+
+message_28:
+       text: \n<EIN ZWILLING>Hmm...\! Hmm...\! Unser kleiner Bruder ist jetzt zu cool für uns, oder nicht, BOWEN?\! Er hat nichtmal mehr Zeit mit seinen älteren Geschwistern zu spielen!
+
+message_29:
+       text: \n<DER ANDERE ZWILLING>Genau, DAPHNE...\! Das ist ziemlich...\! bedauerlich...
+
+message_30:
+       text: \n<EIN ZWILLING>Sigh...\! Wir haben kaum noch Zeit ausserhalb der Arbeit...\! Und wenn wir welche haben...\! Ist der kleine MIKHAEL nichtmal mehr hier um mit uns zu spielen!\!<br>Das ist unfair, oder nicht BOWEN?
+
+message_31:
+       text: \n<DER ANDERE ZWILLING>Das Leben kann manchmal so grausam sein...
+
+message_32:
+       text: \n<EIN ZWILLING>Nah, das ist ok.\! Jetzt haben wir ja neue Freunde...\! Obwohl...\!<br>Ich mir nicht sonderlich sicher bin was sie so machen.\! Unterhaltet uns, liebe Freunde!
+
+message_33:
+       text: \n<DER ANDERE ZWILLING>Ja, unterhaltet uns!
+
+#If PET ROCK is activated: CLASH OF Jash
+
+#else
+
+message_34:
+       text: \n<EIN ZWILLING>Öh uhm...\! Ihr habt garnichts?
+
+message_35:
+       text: \n<DER ANDERE ZWILLING>Nah das ist ja schade...
+
+message_36:
+       text: \n<EIN ZWILLING>Das war ja alles ziemlich spaßig aber, wurd auch schnell ziemlich langweilig.
+
+message_37:
+       text: \nEIN ZWILLING>Komm, Bruder.\! Lass uns nach nem spaßigeren Spiel suchen.
+
+message_38:
+       text: \n<DER ANDERE ZWILLING>Machts gut, neue Freunde.\! Das war...\! angenehm.
+
+#DAPHNE and BOWEN walk out of THE MAVERICK'S ROOM into DAPHNE and BOWEN'S ROOM.
+
+message_39:
+       text: \n<EIN ZWILLING>Unsere Familie führt diese Bäkerei schon seit vier Generationen...\! Aber unser lieber kleiner Bruder hat sich seit er sechs ist dem Brot abgeschworen...
+
+message_40:
+       text: \n<EIN ZWILLING>Obwohl...\! Ich bin sicher, er wird schon irgendwann vorbeikommen.
+
+message_41:
+       text: \n<DER ANDERE ZWILLING>Mama und Papa wollen, dass wir die Bäckerei übernehmen, wenn wir mit der Schule fertig sind...\! was bringt es also zur Schule zu gehen?
+
+#Cutouts
+
+message_42:
+       text: Pappaufsteller der Zwillinge.\! Da steckt irgendwas an der Hinterseite.
+
+#Locked
+
+message_43:
+       text: Ein comicartig großes Vorhängeschloss ist auf mysteriöse Weise auf der Tür erschienen.
+
+#Note
+
+message_44:
+       text: Da steckt eine Notiz auf der Hinterseite.

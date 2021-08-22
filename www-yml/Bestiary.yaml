@@ -1,8 +1,9 @@
-#### Translation: Demo-only
+#### Translation: Finished
 #### Editing: Demo-only
 
 #### Translated by: lugi
 #### Checked by: bobbarberer, mewo, panaxyn, lemonjuice
+#### Comment: "einträge an sich sind fertig, namen sind teils meine vorschläge und teils noch unverändert" - lugi
 
 # =========================================================================================
 # Bestiary
@@ -25,8 +26,8 @@ Information:
         - OMORI
 
 
-        Ich glaube, es würde sich als
-        süßes Haustier eignen!
+        Es wäre ein echt süßes
+        Haustier, finde ich!
 
         - AUBREY
 
@@ -88,7 +89,7 @@ Information:
 
     text: |
         Von allen Häschen bringt es
-        einem am ehesten zum Niesen.
+        einen am ehesten zum Niesen.
         Versteckt sich gern in Bücher-
         regalen und unter Betten. Es
         scheint etwas schüchtern...
@@ -182,7 +183,6 @@ Information:
 
         -AUBREY
 
-
   57:
     name: MIXTAPE
     background: {name: 'battleback_ow_junkyard', x: 0, y: 0}
@@ -240,7 +240,6 @@ Information:
 
         - OMORI
 
-
   69:
     name: HAIFLUGZEUG
     background: {name: 'battleback_ow_junkyard', x: 0, y: 0}
@@ -259,33 +258,32 @@ Information:
         - OMORI
 
   142:
-    name: BUG BUNNY
+    name: KÄFERHÄSCHEN
     background: {name: 'battleback_pf_default', x: 0, y: 0}
     position: {x: 160, y: 425}
     character: {name: 'ENEMY_BUNNIES_2', index: 2}
     listIndex: 13
 
     text: |
-        Actually an arthropod.
-        It likes cold temperatures
-        and rolls down steep hills
-        for amusement. The hobby has
-        gained so much traction that
-        they now hold a yearly
-        hill-rolling competition.
+        Eigentlich ein Arthropode.
+        Es mag die Kälte, und rollt
+        gerne steile Hänge hinunter.
+        Das Hobby wurde so beliebt,
+        dass sie nun einen jährlichen
+        Hang-Roll-Wettkampf austragen.
 
         - OMORI
 
   146:
-    name: RARE BEAR
+    name: GEFÄHR-BÄR
     background: {name: 'battleback_pf_default', x: 0, y: 0}
     position: {x: 160, y: 450}
     character: {name: 'DW_EN_5', index: 0}
     listIndex: 14
 
     text: |
-        Warning: Do not provoke.
-        Do not show weakness.
+        Warnung: Nicht provozieren.
+        Keine Schwäche zeigen.
 
         - OMORI
 
@@ -297,15 +295,15 @@ Information:
     listIndex: 15
 
     text: |
-        Warning: Do not provoke.
-        Explodes when cornered.
+        Warnung: Nicht provozieren.
+        Explodiert bei Bedrängung.
         - OMORI
 
-        But why do they explode?
+        Aber warum explodieren sie?
         - KEL
 
-        Who planted this here
-        anyway?
+        Wer hat die überhaupt
+        hier angepflanzt?
         - AUBREY
 
   158:
@@ -316,9 +314,10 @@ Information:
     listIndex: 16
 
     text: |
-        Is this SPROUT MOLE upside
-        down or are we the ones who
-        are upside down?
+        Steht dieser SPROSSWURF auf
+        dem Kopf, oder sind wir
+        diejenigen, die auf dem Kopf
+        stehen?
 
         - OMORI
 
@@ -330,14 +329,14 @@ Information:
     listIndex: 17
 
     text: |
-        Hostile BUNNY spirits
-        yearning for revenge.
+        Feindliche HÄSCHEN-Geister,
+        die sich nach Rache sehnen.
 
         - OMORI
 
 
-        They're still kinda cute,
-        though...
+        Sie sind aber trotzdem
+        irgendwie süß...
 
         - AUBREY
 
@@ -349,12 +348,11 @@ Information:
     listIndex: 18
 
     text: |
-        A master of the blade.
-        A SPROUT MOLE who has
-        studied the art of combat
-        for many years in order to
-        be granted the prestigious
-        title of HAROLD.
+        Ein Meister des Schwertes.
+        Ein SPROSSWURF, der jahrelang
+        die Kampfkunst studiert hat,
+        um den begehrten Titel
+        HAROLD erteilt zu werden.
 
         - OMORI
 
@@ -366,12 +364,11 @@ Information:
     listIndex: 19
 
     text: |
-        A master of the axe.
-        A SPROUT MOLE who has
-        studied the art of combat
-        for many years in order to
-        be granted the prestigious
-        title of MARSHA.
+        Eine Meisterin der Axt.
+        Ein SPROSSWURF, der jahrelang
+        die Kampfkunst studiert hat,
+        um den begehrten Titel
+        MARSHA erteilt zu werden.
 
         - OMORI
 
@@ -383,12 +380,11 @@ Information:
     listIndex: 20
 
     text: |
-        A master of the bow.
-        A SPROUT MOLE who has
-        studied the art of combat
-        for many years in order to
-        be granted the prestigious
-        title of THERESE.
+        Eine Meisterin des Bogens.
+        Ein SPROSSWURF, der jahrelang
+        die Kampfkunst studiert hat,
+        um den begehrten Titel
+        THERESE erteilt zu werden.
 
         - OMORI
 
@@ -400,147 +396,144 @@ Information:
     listIndex: 21
 
     text: |
-        A master of the arcane.
-        A SPROUT MOLE who has
-        studied the art of combat
-        for many years in order to
-        be granted the prestigious
-        title of LUCIUS.
+        Ein Meister des Arkanen.
+        Ein SPROSSWURF, der jahrelang
+        die Kampfkunst studiert hat,
+        um den begehrten Titel
+        LUCIUS erteilt zu werden.
 
         - OMORI
 
   184:
-    name: HORSE HEAD
+    name: PFERDEKOPF
     background: {name: 'battleback_sw_default', x: 0, y: 0}
     position: {x: 160, y: 400}
     character: {name: 'DW_EN_5', index: 6}
     listIndex: 22
 
     text: |
-        One part of a futile attempt to
-        look like a complete horse.
+        Ein Teil eines zwecklosen Versuchs,
+        wie ein ganzes Pferd auszusehen.
 
         - OMORI
 
 
-        Well... At least they
-        tried their best...
+        Na ja... Wenigstens hat er
+        sein Bestes gegeben...
         - AUBREY
 
   188:
-    name: HORSE BUTT
+    name: PFERDEPO
     background: {name: 'battleback_sw_default', x: 0, y: 0}
     position: {x: 160, y: 400}
     character: {name: 'DW_EN_3', index: 3}
     listIndex: 23
 
     text: |
-        This costume is the butts.
+        Dieses Kostüm ist am Arsch.
 
         - OMORI
 
 
-        Oh, now you're just being mean!
+        Ach, jetzt bist du einfach
+        nur fies!
+
         - AUBREY
 
-
-
   97:
-    name: BUN BUNNY
+    name: BROTHÄSCHEN
     background: {name: 'battleback_oo_default', x: 0, y: 0}
     position: {x: 160, y: 425}
     character: {name: 'ENEMY_BUNNIES', index: 2}
     listIndex: 24
 
     text: |
-        Kind of cute. Might be vegan.
+        Irgendwie süß. Könnte vegan sein.
         - OMORI
 
-        Is this vegan?
+        Ist das vegan?
         - KEL
 
-        Not sure if vegan.
+        Nicht sicher, ob es vegan ist.
         - HERO
 
-        Definitely not vegan...
+        Ganz bestimmt nicht vegan...
         - AUBREY
 
   839:
-    name: CUPCAKE BUNNY
+    name: CUPCAKE-HÄSCHEN
     background: {name: 'battleback_oo_default', x: 0, y: 0}
     position: {x: 160, y: 425}
     character: {name: 'ENEMY_BUNNIES', index: 4}
     listIndex: 25
 
     text: |
-        An evil cupcake parasite
-        that has taken a poor
-        FOREST BUNNY as its host.
+        Ein böser Cupcake-Parasit, der
+        sich ein armes WALDHÄSCHEN
+        als sein Wirt genommen hat.
 
-        The FOREST BUNNY's eyes are
-        filled with silent screams.
+        Die Augen des WALDHÄSCHENS
+        sind von stummen Schreien erfüllt.
 
         - OMORI
 
   843:
-    name: MILKSHAKE BUNNY
+    name: MILCHSHAKE-HÄSCHEN
     background: {name: 'battleback_oo_default', x: 0, y: 0}
     position: {x: 160, y: 425}
     character: {name: 'ENEMY_BUNNIES', index: 5}
     listIndex: 26
 
     text: |
-        A FOREST BUNNY with a
-        milkshake strapped on
-        its back.
+        Ein WALDHÄSCHEN mit einem
+        Milchshake auf seinem Rücken
+        befestigt.
 
         - OMORI
 
   847:
-    name: PANCAKE BUNNY
+    name: PFANNKUCHEN-HÄSCHEN
     background: {name: 'battleback_oo_default', x: 0, y: 0}
     position: {x: 160, y: 425}
     character: {name: 'ENEMY_BUNNIES', index: 3}
     listIndex: 27
 
     text: |
-        A cute FOREST BUNNY that
-        sports its fallen brethren
-        as a fashionable hat.
+        Ein süßes WALDHÄSCHEN, das
+        seine gefallenen Brüder als
+        schicken Hut trägt.
 
         - OMORI
 
   851:
-    name: S.S. SNAKE
+    name: ERDBEERSCHLANGE
     background: {name: 'battleback_excavation_1', x: 0, y: 0}
     position: {x: 160, y: 425}
     character: {name: 'DW_EN_1', index: 7}
     listIndex: 28
 
     text: |
-        A.K.A.
-        STRAWBERRY SHORT SNAKE,
-        a short snake with a long
-        name.
+        Die wahrscheinlich längste
+        Erdbeere der Welt.
 
         - OMORI
 
   133:
-    name: PORCUPIE
+    name: PORCUPIE (TORTENSTACHLER)
     background: {name: 'battleback_excavation_1', x: 0, y: 0}
     position: {x: 160, y: 425}
     character: {name: 'DW_EN_2', index: 1}
     listIndex: 29
 
     text: |
-        A rejected dessert sentenced
-        to wander the wasteland for an
-        eternity.
+        Ein verworfenes Dessert, das
+        dazu verurteilt wurde, die Wüste
+        auf ewig zu durchstreifen.
 
         - OMORI
 
 
-        Was its flavor too sharp?
+        War sein Geschmack zu scharf?
 
         - HERO
 
@@ -553,16 +546,16 @@ Information:
     listIndex: 30
 
     text: |
-        Kind of cute. Might be vegan.
+        Irgendwie süß. Könnte vegan sein.
         - OMORI
 
-        I am 100% sure this is vegan.
+        Das ist hundertpro vegan.
         - KEL
 
-        Pretty sure this is vegan.
+        Ziemlich sicher, das ist vegan.
         - HERO
 
-        Definitely not vegan...
+        Ganz bestimmt nicht vegan...
         - AUBREY
 
   789:
@@ -573,16 +566,16 @@ Information:
     listIndex: 31
 
     text: |
-        Scientific Name -
+        Wissenschaftlicher Name:
         Coriandrum sativum
-        Stats, per 100 grams -
-        Energy- 22.71 Calories
-        Vitamin K - 310 mcg
-        Potassium - 521 mg
-        Iron - 1.77 mg
+        100 g enthalten:
+        Energie - 95,02 kJ (22,71 kcal)
+        Vitamin K - 0,31 mg
+        Kalium - 521 mg
+        Eisen - 1,77 mg
 
-        Are coriander and cilantro
-        the same thing?
+        Sind Cilantro und Koriander
+        dasselbe?
 
         - KEL
 
@@ -594,17 +587,15 @@ Information:
     listIndex: 32
 
     text: |
-        Scientific Name -
+        Wissenschaftlicher Name:
         Zingiber officinale
 
-        A flowering plant whose
-        rhizome is widely used as a
-        spice and a folk medicine.
-        It is an herbaceous perennial
-        which grows annual
-        pseudostems about a meter
-        tall, bearing narrow leaf
-        blades.
+        Eine Blütenpflanze, dessen
+        Rhizom als Küchengewürz oder
+        Arzneidroge verwendet wird.
+        Es ist eine ausdauernde krautige
+        Pflanze, die jährlich Wuchshöhen
+        von etwa 1 Meter erreicht.
 
         - OMORI
 
@@ -616,16 +607,16 @@ Information:
     listIndex: 33
 
     text: |
-        Did you know that eating
-        CELERY burns more calories
-        than you get from it?
-        It's because you gotta
-        chew it!
+        Wusstet ihr, dass man beim
+        Essen von SELLERIE mehr
+        Kalorien verbrennt, als man
+        bekommt? Und zwar weil man
+        ihn kauen muss!
 
         - KEL
 
 
-        Everyone knows that, KEL...
+        Das weiß doch jeder, KEL...
 
         - AUBREY
 
@@ -637,12 +628,12 @@ Information:
     listIndex: 34
 
     text: |
-        An abomination.
+        Eine Abscheulichkeit.
 
         - OMORI
 
 
-        Truly appalling.
+        Wahrhaft entsetzlich.
 
         - AUBREY
 
@@ -654,57 +645,56 @@ Information:
     listIndex: 35
 
     text: |
-        Poultry in motion.
+        Eher Renn-Flügel als Geh-Flügel.
 
         - HERO
 
 
-        Ain't nothing but a
-        chicken wing!
+        Da lachen ja die Hühner!
 
         - KEL
 
   198:
-    name: FISH BUNNY
+    name: FISCHHÄSCHEN
     background: {name: 'battleback_dw_highway', x: 0, y: 0}
     position: {x: 160, y: 300}
     character: {name: 'ENEMY_BUNNIES_2', index: 3}
     listIndex: 36
 
     text: |
-        A FOREST BUNNY that has
-        aptly adapted to its
-        environment. They travel in
-        groups as they do not
-        like to be alone.
+        Ein WALDHÄSCHEN, das sich
+        passend an seine Umgebung
+        angepasst hat. Sie bewegen
+        sich in Gruppen fort, da sie
+        nicht gerne allein sind.
 
         - OMORI
 
   206:
-    name: MUSSEL
+    name: MUSCHKEL
     background: {name: 'battleback_dw_highway', x: 0, y: 0}
     position: {x: 160, y: 425}
     character: {name: 'DW_EN_3', index: 6}
     listIndex: 37
 
     text: |
-        A very muscular mussel.
-        It keeps an incredibly
-        strenuous workout regimen
-        in order to maintain its
-        rock solid physique.
+        Eine sehr muskulöse Muschel.
+        Sie hält einen unglaublich
+        mühsamen Trainingsplan ein,
+        um ihre felsenfeste Statur
+        zu pflegen.
 
         - OMORI
 
   210:
-    name: REVERSE MERMAID
+    name: FRAUJUNGMEER
     background: {name: 'battleback_dw_highway', x: 0, y: 0}
     position: {x: 160, y: 425}
     character: {name: 'DW_EN_3', index: 5}
     listIndex: 38
 
     text: |
-        Fish a was I, wish I, wish I.
+        Fisch ein wär ich, wollt' ich.
 
         - OMORI
 
@@ -716,92 +706,93 @@ Information:
     listIndex: 39
 
     text: |
-        Exclusively the fin part of a
-        shark.
+        Ausschließlich der Flossenteil
+        eines Hais.
 
         - OMORI
 
   218:
-    name: SQUIZZARD
+    name: SQUIZZARD (KALMAGIER)
     background: {name: 'battleback_dw_highway', x: 0, y: 0}
     position: {x: 160, y: 350}
     character: {name: 'DW_EN_6', index: 0}
     listIndex: 40
 
     text: |
-        The most despicable creature
-        on the planet. Has no friends,
-        is never invited to parties,
-        and is terrible at jokes.
+        Die widerwärtigste Kreatur auf
+        dem Planeten. Hat keine Freunde,
+        wird nie zu Festen eingeladen
+        und kann überhaupt keine Witze
+        erzählen.
 
         - OMORI
 
   250:
-    name: SLIME BUNNY
+    name: SCHLEIMHÄSCHEN
     background: {name: 'battleback_dw_sglair', x: 0, y: 0}
     position: {x: 160, y: 425}
     character: {name: 'ENEMY_BUNNIES_2', index: 4}
     listIndex: 41
 
     text: |
-      Too sticky to hug,
-      too sticky to love.
+      Zu klebrig für Umarmungen,
+      zu klebrig für Liebe.
 
       - OMORI
 
 
-      Made of slime...
-      tastes like lime!
+      Der Schleim schmeckt, ich wette...
+      bestimmt nach Limette!
 
       - KEL
 
   254:
-    name: WATERMIMIC
+    name: WASSERMIMIC
     background: {name: 'battleback_dw_sglair', x: 0, y: 0}
     position: {x: 160, y: 425}
     character: {name: 'DW_IMPORTANTOBJ', index: 3}
     listIndex: 42
 
     text: |
-        An obviously fake trap that
-        would only be able to fool the
-        most feeble-minded of
-        individuals.
+        Eine offensichtlich falsche Falle,
+        die nur die dümmlichsten
+        Personen täuschen könnte.
 
         - OMORI
 
 
-        Aw, nuts! I thought this was
-        a watermelon for sure!!
+        Ach, Mist! Ich dachte, das
+        wär' jetzt ganz sicher 'ne
+        Wassermelone!!
 
         - KEL
 
   262:
-    name: SNOT BUBBLE
+    name: ROTZBLASE
     background: {name: 'battleback_dw_sglair', x: 0, y: 0}
     position: {x: 160, y: 300}
     character: {name: 'DW_EN_6', index: 1}
     listIndex: 43
 
     text: |
-        A fragile being with a short
-        lifespan. It leads a life of
-        impermanence and smells
-        like a wet dog.
+        Ein fragiles Wesen mit einer
+        kurzen Lebensdauer. Es führt
+        ein Leben der Vergänglichkeit
+        und riecht wie nasser Hund.
 
         - OMORI
 
   258:
-    name: WORM-BOT
+    name: WURM-BOT
     background: {name: 'battleback_dw_sglair', x: 0, y: 0}
     position: {x: 160, y: 420}
     character: {name: 'DW_EN_7', index: 0}
     listIndex: 44
 
     text: |
-        A robotic worm with razor
-        sharp teeth. Its favorite
-        food is carrots.
+        Ein Roboterwurm mit
+        messerscharfen Zähnen.
+        Seine Leibspeise ist Karotten.
 
         - OMORI
 
@@ -813,17 +804,17 @@ Information:
     listIndex: 45
 
     text: |
-        A self-proclaimed scientific
-        genius. Specializes in
-        theoretical chemistry, but its
-        true passion lies on the
-        silver screen.
+        Ein selbsternanntes Genie der
+        Wissenschaft. Spezialisiert sich
+        auf theoretische Chemie, doch
+        ihre wahre Leidenschaft gilt
+        der Kinoleinwand. 
 
         - OMORI
 
 
-        I hope it gets its big break
-        one day!
+        Hoffentlich schafft sie mal
+        ihren großen Durchbruch!
 
         - AUBREY
 
@@ -835,26 +826,26 @@ Information:
     listIndex: 46
 
     text: |
-        A monster made up of all the
-        strongest parts from all the
-        strongest SPROUT MOLES.
+        Ein Monstrum, das aus all den
+        stärkstern Teilen all der
+        stärksten SPROSSWÜRFE
+        besteht.
 
         - OMORI
 
-
   881:
-    name: SLICE, SESAME, & SOURDOUGH
+    name: SCHEIBE, SESAM & SAUERTEIG
     background: {name: 'battlebacks_dd_default', x: 0, y: 0}
     position: {x: 160, y: 425}
     character: {name: 'DW_NPC_17', index: 5}
     listIndex: 47
 
     text: |
-        The souls of bread children
-        brought back to life by
-        a mysterious power. They only
-        come as a group because
-        they are all good friends.
+        Die Seelen von Brotkindern, die
+        von einer mysteriösen Kraft
+        wiedererweckt wurden. Sie
+        erscheinen nur als Gruppe, weil
+        sie alle gute Freunde sind.
 
         - OMORI
 
@@ -866,18 +857,17 @@ Information:
     listIndex: 48
 
     text: |
-        Let me start off by saying
-        that everything you're about
-        to hear is 100% true. There
-        was a garage sale last
-        summer. I spotted a dusty
-        cartridge of a game I never
-        heard of before. I bought it,
-        but when I got home, it didn't
-        work. When I went back to
-        the garage sale, the house
-        was burnt down. :O
-
+        Erst einmal will ich sagen, dass
+        alles, was du gleich hören wirst,
+        100% wahr ist. Letzten Sommer
+        war bei jemandem ein Flohmarkt.
+        Ich sah eine staubige Kassette
+        von einem Spiel, von dem ich noch
+        nie gehört hatte. Ich kaufte sie,
+        aber als ich heimkam, funktionierte
+        sie nicht. Als ich zurück zum
+        Flohmarkt ging, war das Haus
+        abgebrannt. :O
 
   105:
     name: COPYPASTA
@@ -887,36 +877,36 @@ Information:
     listIndex: 49
 
     text: |
-        A COPYPASTA is a pasta
-        that copies itself.
+        Eine COPYPASTA ist Pasta,
+        die sich selbst kopiert.
         - OMORI
 
-        A COPYPASTA is a pasta
-        that copies itself.
+        Eine COPYPASTA ist Pasta,
+        die sich selbst kopiert.
         - KEL
 
-        A COPYPASTA is a pasta
-        that copies itself.
+        Eine COPYPASTA ist Pasta,
+        die sich selbst kopiert.
         - AUBREY
 
   125:
-    name: LIVING BREAD
+    name: LEBENDE BROTE
     background: {name: 'battlebacks_dd_default', x: 0, y: 0}
     position: {x: 160, y: 425}
     character: {name: 'DW_EN_2', index: 6}
     listIndex: 50
 
     text: |
-        A demon bread, baked to
-        perfection. Its only purpose
-        is to consume LIFE JAM.
+        Ein dämonisches Brot, zur
+        Perfektion gebacken. Sein
+        einziger Zweck ist der Verzehr
+        von MARMELEBEN.
 
         - OMORI
 
 
 
-
-        Bleh!!
+        Bäh!!
 
         - KEL
 
@@ -928,34 +918,35 @@ Information:
     listIndex: 51
 
     text: |
-        Maybe a little sad...
-        But definitely not dead.
+        Vielleicht etwas traurig...
+        Doch tot ist er noch nicht.
 
         - OMORI
 
-        That doesn't even rhyme...
+
+        Das reimt sich nicht mal...
 
         - AUBREY
 
   859:
-    name: TOAST GHOST
+    name: TOAST-GEIST
     background: {name: 'battlebacks_dd_default', x: 0, y: 0}
     position: {x: 160, y: 300}
     character: {name: 'DW_EN_2', index: 7}
     listIndex: 52
 
     text: |
-        An unamused apparition
-        that spouts ominous phrases like
-        “When there is no more room
-        in Hell, the bread shall walk
-        the Earth.”
+        Ein wenig begeisterter Geist, der
+        ominöse Phrasen von sich gibt, wie:
+        "Wenn in der Hölle kein Platz
+        mehr ist, kommen die Brote
+        auf die Erde zurück."
 
         - OMORI
 
 
-        This one looks kind of like
-        you, OMORI!
+        Dieser sieht irgendwie aus
+        wie du, OMORI!
 
         - AUBREY
 
@@ -967,10 +958,10 @@ Information:
     listIndex: 53
 
     text: |
-        An erratic entity that was
-        born from the cries of lost
-        souls. It slowly screams
-        itself to death.
+        Ein launisches Wesen, das
+        aus den Schreien verirrter
+        Seelen entstand. Es schreit
+        sich langsam zu Tode.
 
         - OMORI
 
@@ -996,38 +987,37 @@ Information:
         - KEL
 
   87:
-    name: SNOW PILE
+    name: SCHNEEHAUFEN
     background: {name: 'battleback_ff_xsh', x: 0, y: 0}
     position: {x: 160, y: 450}
     character: {name: 'DW_EN_4', index: 1}
     listIndex: 55
 
     text: |
-        An unintentionally cursed
-        patch of snow. It wonders
-        why it is alive.
+        Ein ungewollt verwunschener
+        Haufen Schnee. Er fragt sich,
+        warum er lebt.
 
         - OMORI
 
   83:
-    name: SNOW ANGEL
+    name: SCHNEE-ENGEL
     background: {name: 'battleback_ff_xsh', x: 0, y: 0}
     position: {x: 160, y: 500}
     character: {name: 'DW_EN_8', index: 0}
     listIndex: 56
 
     text: |
-        Guardians of SNOWGLOBE
-        MOUNTAIN... Its eyes are
-        filled with stories.
+        Wächter des SCHNEEKUGEL-
+        BERGS... Seine Augen sind von
+        Geschichten erfüllt.
 
-        SNOW ANGELS are known to
-        appear to lost travelers
-        and disappear with them
-        into the snowfall.
+        SCHNEE-ENGEL erscheinen
+        bekanntlich vor verirrten
+        Reisenden, und verschwinden
+        mit ihnen in den Schneefall.
 
         - OMORI
-
 
   365:
     name: BOSS
@@ -1174,17 +1164,17 @@ Information:
         - OMORI
 
   424:
-    name: KING CRAWLER
+    name: KÖNIG KRABBLER
     background: {name: 'battleback_pf_default', x: 0, y: 0}
     position: {x: 190, y: 490}
     character: {name: 'DW_EN_6', index: 3}
     listIndex: 65
 
     text: |
-        A mindless parasite that kills
-        SPROUT MOLES and harvests
-        their empty husks in order to
-        extend its own body.
+        Ein sinnloser Parasit, der
+        SPROSSWÜRFE tötet und ihre
+        leeren Hüllen sammelt, um seinen
+        eigenen Körper zu verlängern.
 
         - OMORI
 
@@ -1196,13 +1186,12 @@ Information:
     listIndex: 66
 
     text: |
-        One of the SPROUT MOLE's
-        many predators. KING
-        CARNIVORE invades SPROUT
-        MOLE habitats by burrowing
-        underground. They prefer
-        their SPROUT MOLES warm
-        and chewy.
+        Einer von vielen SPROSSWURF-
+        Räubern. KING CARNIVORE dringt
+        durchs Graben in SPROSSWURF-
+        Habitate ein. Es bevorzugt
+        seine SPROSSWÜRFE warm und
+        zäh.
 
         - OMORI
 
@@ -1214,9 +1203,9 @@ Information:
     listIndex: 67
 
     text: |
-        The most untrustworthy of
-        SPROUT MOLES. Do not
-        believe anything that he says.
+        Der unzuverlässigste unter den
+        SPROSSWÜRFEN. Glaub ihm kein
+        einziges Wort.
 
         - AUBREY
 
@@ -1229,13 +1218,13 @@ Information:
     listIndex: 68
 
     text: |
-        A true master of the blade.
-        A SPROUT MOLE who has
-        studied the art of combat
-        for hundreds of years in
-        order to surpass the title of
-        HAROLD and be granted the
-        ultimate title of MAXIMUS.
+        Ein wahrer Meister des
+        Schwertes. Ein SPROSSWURF,
+        der die Kampfkunst
+        jahrhundertelang studiert hat,
+        um den Titel HAROLD zu über-
+        treffen, und den ultimativen
+        Titel MAXIMUS erteilt zu werden.
 
         - OMORI
 
@@ -1248,14 +1237,13 @@ Information:
     listIndex: 69
 
     text: |
-        A true master of the blade.
-        The son of a SPROUT MOLE
-        who has studied the art of
-        combat for hundreds of
-        years in order to surpass the
-        title of HAROLD and be
-        granted the ultimate title of
-        MAXIMUS.
+        Ein wahrer Meister des
+        Schwertes. Der Sohn eines
+        SPROSSWURFS, der die Kampf-
+        kunst jahrhundertelang studiert
+        hat, um den Titel HAROLD zu
+        übertreffen, und den ultimativen
+        Titel MAXIMUS erteilt zu werden.
 
         - OMORI
 
@@ -1267,14 +1255,13 @@ Information:
     listIndex: 70
 
     text: |
-        A true master of the blade.
-        The grandson of a SPROUT
-        MOLE who has studied the
-        art of combat for hundreds
-        of years in order to surpass
-        the title of HAROLD and be
-        granted the ultimate title of
-        MAXIMUS.
+        Ein wahrer Meister des
+        Schwertes. Der Enkel eines
+        SPROSSWURFS, der die Kampf-
+        kunst jahrhundertelang studiert
+        hat, um den Titel HAROLD zu
+        übertreffen, und den ultimativen
+        Titel MAXIMUS erteilt zu werden.
 
         - OMORI
 
@@ -1293,11 +1280,17 @@ Information:
         everywhere. Has a soft spot
         for HERO.
 
+        Die impulsive, hübsche, verrückte
+        Herzogin, die in einem großen, rosa
+        Schloss im GLÜHFLÄMMCHEN-WALD
+        wohnt. Allseits von SPROSSWÜRFEN
+        beliebt. Hat eine Schwäche für HERO.
+
         - OMORI
 
 
-        Hey... Let's not bring this up
-        again, okay?
+        Hey... Bitte sprich das nicht
+        wieder an, okay?
 
         - HERO
 
@@ -1309,35 +1302,35 @@ Information:
     listIndex: 72
 
     text: |
-      A creature from another realm,
-      summoned by a plate of
-      oatmeal cookies.
+      Ein Wesen aus einer anderen Welt,
+      von einem Teller Haferkekse
+      beschworen.
       - OMORI
 
-      Truly evil!
+      Wahrhaftig böse!
       - AUBREY
 
-      Dastardly!
+      Heimtückisch!
       - KEL
 
-      Nefarious, even!
+      Nefarious, sogar!
       - HERO
 
 
   415:
-    name: UNBREAD TWINS
+    name: UNBROTE ZWILLINGE
     background: {name: 'battlebacks_dd_biscuit_doughie', x: 0, y: 0}
     position: {x: 210, y: 500}
     character: {name: 'DW_NPC_17', index: 3}
     listIndex: 73
 
     text: |
-         BISCUIT and DOUGHIE, the
-         unbread twins from another
-         realm who are forced to
-         bake and transport bread
-         eternally via summoning
-         circle. Ohoooooo...
+         BISCUIT und DOUGHIE, die
+         unbroten Zwillinge aus einer
+         anderen Welt, die ewig dazu
+         gezwungen sind, Brot zu backen,
+         und es per Beschwörungskreis
+         zu befördern. Ohoooooo...
 
          - OMORI
 
@@ -1349,17 +1342,17 @@ Information:
     listIndex: 74
 
     text: |
-        A recently-divorced CAPT.
-        SPACEBOY. His soul has
-        transcended beyond space
-        and time and has evolved
-        past useless human emotions.
+        Ein frisch geschiedener CAPT.
+        SPACEBOY. Seine Seele hat
+        Raum und Zeit überschritten,
+        und sich über nutzlose menschliche
+        Gefühle hinaus entwickelt.
 
         - OMORI
 
 
-        Poor, CAPT. SPACEBOY...
-        Nobody deserves this...
+        Armer CAPT. SPACEBOY...
+        Niemand hat das verdient...
 
         - AUBREY
 
@@ -1372,38 +1365,38 @@ Information:
     listIndex: 75
 
     text: |
-        A venture capitalist /
-        entrepreneur / loan shark who
-        owns 51% of the DEEP WELL.
-        There is nothing he believes in
-        more than a signed contract.
+        Ein Risikokapitalist /
+        Unternehmer / Kredithai, der 51%
+        des TIEFEN BRUNNENS besitzt.
+        An nichts glaubt er mehr, als an
+        einen unterschriebenen Vertrag.
 
         - OMORI
 
 
-        Hey, it's the boss!
-        Love that guy!
+        Hey, es ist der Chef!
+        Ich liebe den Kerl!
 
         -KEL
 
   202:
-    name: GATOR GUY
+    name: KROKO-KERL
     background: {name: 'battleback_dw_lastresort_interior', x: -90, y: 0}
     position: {x: 175, y: 500}
     character: {name: 'DW_NPC_GATOR', index: 0}
     listIndex: 76
 
     text: |
-        The trusted and loyal
-        henchman of MR. JAWSUM.
-        It is highly likely that they
-        have all signed questionable
-        contracts with him.
+        Die treuen und vertrauten
+        Handlanger von MR. JAWSUM.
+        Es ist höchst wahrscheinlich,
+        dass sie alle fragwürdige
+        Verträge bei ihm
+        unterschrieben haben.
 
-        They prefer to talk through
-        their walkie-talkies even
-        if they are all in the
-        same room.
+        Sie sprechen lieber über ihre
+        Walkie-Talkies, selbst wenn sie
+        alle im selben Raum sind.
 
         - OMORI
 
@@ -1415,10 +1408,10 @@ Information:
     listIndex: 77
 
     text: |
-        The astonishingly glorious
-        expanded version of PLUTO,
-        the strongest planet in all the
-        cosmos and the universe.
+        Die atemberaubend prächtige
+        expandierte Version von PLUTO,
+        dem stärksten Planeten im
+        gesamten Kosmos und Universum.
 
         - OMORI
 
@@ -1430,11 +1423,12 @@ Information:
     listIndex: 78
 
     text: |
-        A dangerous killer robot bent
-        on destroying life as we know
-        it. We are lucky to have seen it
-        and still be alive.
-
+        Ein gefährlicher Killer-Roboter,
+        der das Leben, wie wir es kennen,
+        auslöschen will. Wir haben Glück,
+        nach unserer Begegnung mit ihm
+        noch am Leben zu sein.
+        
         - OMORI
 
   550:
@@ -1445,11 +1439,11 @@ Information:
     listIndex: 79
 
     text: |
-        The failed? experiment of the
-        SLIME SISTER, MARINA.
-        Makes strange noises in an
-        attempt to communicate.
-        Smells like strawberries.
+        Das gescheiterte (?) Experiment
+        der SCHLEIM-SCHWESTER
+        MARINA. Versucht, mit komischen
+        Geräuschen zu kommunizieren.
+        Riecht nach Erdbeeren.
 
         - OMORI
 
@@ -1461,11 +1455,11 @@ Information:
     listIndex: 80
 
     text: |
-        A goddess of immeasurable
-        power and poise. The light
-        that she emits is capable of
-        causing acute blindness, and
-        in some cases, death.
+        Eine Göttin unermesslicher
+        Macht und Fassung. Das Licht,
+        das sie ausstrahlt, kann zu
+        akuter Blindheit und in manchen
+        Fällen zum Tod führen.
 
         - OMORI
 
@@ -1477,13 +1471,12 @@ Information:
     listIndex: 81
 
     text: |
-        The reckless and rash
-        middle-child of the SLIME
-        SISTERS. Has a short temper.
-        Enjoys taking living things
-        apart and putting them back
-        together, usually without
-        their permission...
+        Die waghalsige und voreilige
+        mittlere SCHLEIM-SCHWESTER.
+        Temperamentvoll. Nimmt Lebe-
+        wesen gern auseinander und
+        setzt sie wieder zusammen,
+        meistens ohne ihre Erlaubnis...
 
         - OMORI
 
@@ -1495,17 +1488,16 @@ Information:
     listIndex: 82
 
     text: |
-        The devious and cunning
-        oldest SLIME SISTER. Knows
-        how to find enjoyment in
-        everything. She has mastered
-        all the sciences, but sticks
-        with programming as it
-        requires the least amount of
-        movement.
+        Die hinterhältige und listige
+        älteste SCHLEIM-SCHWESTER.
+        Kann in allem Freude finden.
+        Sie beherrscht alle Wissenschaften,
+        aber bleibt beim Programmieren,
+        da es am wenigsten Bewegung
+        erfordert.
 
-        Is quite fond of
-        cheesy potato chips.
+        Ist von käsigen
+        Kartoffelchips ganz angetan.
 
         - OMORI
 
@@ -1517,15 +1509,15 @@ Information:
     listIndex: 83
 
     text: |
-        The calm and practical youngest
-        SLIME SISTER. Mainly deals with
-        liquid elements in vials because
-        they are pretty.
+        Die ruhige und praktische jüngste
+        SCHLEIM-SCHWESTER. Behandelt
+        hauptsächlich Flüssigkeiten in
+        Ampullen, weil sie hübsch sind.
 
-        She is an expert at diffusing
-        difficult situations since her
-        sisters like to argue quite
-        frequently.
+        Sie kann schwierige Situationen
+        gut entschärfen, da sich ihre
+        Schwestern ziemlich oft gerne
+        streiten.
 
         - OMORI
 
@@ -1537,6 +1529,12 @@ Information:
     listIndex: 84
 
     text: |
-        Absolute, raw terror.
+        Absoluter, blanker Schrecken.
+
         - OMORI
 
+
+        Und auch weich und matschig!
+        Njak, njak!
+
+        - HUMPHREY

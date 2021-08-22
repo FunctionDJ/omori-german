@@ -11,7 +11,9 @@
     "assets": [
       "fonts/",
       "img/atlases/",
-      "img/characters/"
+      "img/characters/",
+      "img/pictures/",
+      "img/system/"
     ],
     "data": ["www-data/"]
   }

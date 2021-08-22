@@ -1,7 +1,8 @@
-import { execFile, getAllModFiles, getGlobal } from "./general"
+import { execFile, getGlobal } from "./general"
 import { buildAndAttach } from "./action-map"
 import { Archiver } from "archiver"
-import { Global } from "../../config/types"
+import fg from "fast-glob"
+import { Mod } from "../types"
 
 /**
  * Gets roots like "img" from the mod.json "files" property,
@@ -18,13 +19,12 @@ export const getRootsFromFilesProperty = (filesProperty: Record<string, string[]
 
 export const fillArchive = async (
   archive: Archiver,
-  modObject: any,
-  roots: string[],
+  modObject: Mod,
   noCompression = false
 ) => {
   archive.append(JSON.stringify(modObject, null, 2), { name: "mod.json" })
 
-  const includes = (await getAllModFiles(roots))
+  const includes = (await getAllModFiles(modObject.files))
     .filter(e => !e.endsWith("_index.json"))
 
   const global = await getGlobal()
@@ -73,3 +73,9 @@ export const getNewModObject = async (modObject: any, tag: string) => ({
   ...modObject,
   version: getNumberFromTag(tag)
 })
+
+export const getAllModFiles = async (files: Record<string, string[]>) => {
+  const roots = getRootsFromFilesProperty(files)
+  const glob = `(${roots.join("|")})/**`
+  return await fg(glob)
+}

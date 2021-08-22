@@ -1,0 +1,105 @@
+#### Translation: Finished
+#### Translated by: lugi
+
+# =========================================================================================
+# Sidequest: Where's the Remote?
+# =========================================================================================
+
+#Remote 1
+
+message_1:
+      text: \n<TYPISCH AMERIKANISCHER KERL>Hey, Burschen!\! Wie geht's?\! Ich muss schon sagen...\! <br>Nichts geht über ein langes Wochenende mit meiner Lieblingscouch und meiner Lieblingssendung im Fernsehen.
+
+message_2:
+      text: \n<TYPISCH AMERIKANISCHER KERL>Es gibt nur eine Sache, die mich an diesem sonst perfekten Tag gerade stört...
+
+message_3:
+      text: \n<TYPISCH AMERIKANISCHER KERL>Ich kann meine \c[4]FERNBEDIENUNG\c[0] nirgendwo finden, und ich bin viel zu entspannt, um von dieser Couch aufzustehen!
+
+message_4:
+      text: \n<TYPISCH AMERIKANISCHER KERL>Falls ihr sie sieht, könntet ihr sie mir geben?\! Danke, Kinder.
+
+#Examine Couch
+
+message_5:
+      text: Du siehst eine \c[4]FERNBEDIENUNG\c[0] unter der Couch.\! Hebst du sie auf?
+
+#Talk to Cris's Dad after getting Remote
+
+message_6:
+      text: \n<TYPISCH AMERIKANISCHER KERL>Hey, da ist meine \c[4]FERNBEDIENUNG\c[0]!
+
+message_7:
+      text: Du gibst dem TYPISCH AMERIKANISCHEN KERL die \c[4]FERNBEDIENUNG\c[0].
+
+message_8:
+      text: \n<TYPISCH AMERIKANISCHER KERL>Danke, Kinder!\! Hier, nehmt etwas von meinem \c[3]ORANGE JOE\c[0]!
+
+message_9:
+      text: Du erhältst \c[3]ORANGE JOE\c[0]!
+
+#Remote 2
+
+message_10:
+      text: \n<TYPISCH AMERIKANISCHER KERL>Hey, Burschen!\! Wie geht's?\! <br>Ich hab anscheinend wieder meine \c[4]FERNBEDIENUNG\c[0] verloren!
+
+message_11:
+      text: \n<TYPISCH AMERIKANISCHER KERL>Ich weiß noch, dass ich mal aufstand, um aufs Klo zu gehen, <br>aber als ich wiederkam, war sie weg...
+
+message_12:
+      text: \n<TYPISCH AMERIKANISCHER KERL>Könntet ihr im Haus nach ihr suchen?\! <br>It's gotta be around here somewhere!
+
+#Examine Bathroom Cabinet:
+
+message_13:
+      text: Du siehst eine \c[4]FERNBEDIENUNG\c[0] zwischen den Handtüchern.\! Hebst du sie auf?
+
+message_14:
+      text: \n<TYPISCH AMERIKANISCHER KERL>Wieder mal danke, Kinder!\! Ich hab lang drüber nachgedacht...\!<br>und ich glaube, ich nahm sie aus Versehen mit ins Bad und vergaß sie dann dort.
+
+message_15:
+      text: \n<TYPISCH AMERIKANISCHER KERL>Ihr habt es mir erspart, von dieser sehr bequemen Couch aufzustehen.\! Ich kann euch nicht genug danken.\! Bitte, nehmt euch noch eine Dose \c[3]ORANGE JOE!\c[0]\! Ihr habt's euch verdient!
+
+#Remote 3
+
+message_16:
+      text: \n<TYPISCH AMERIKANISCHER KERL>Hey, Burschen!\! Wie geht's?\! Ich weiß nicht, wie das andauernd passiert, aber ich hab meine \c[4]FERNBEDIENUNG\c[0] schon wieder verloren!
+
+message_17:
+      text: \n<TYPISCH AMERIKANISCHER KERL>Ich schwöre...\! diesmal hatte ich sie bloß beim Einschlafen in meiner Hand, und als ich aufwachte, war sie weg!\! Wir müssen wohl einen Geist im Haus haben oder so...
+
+message_18:
+      text: \n<TYPISCH AMERIKANISCHER KERL>Falls ihr sie zufällig findet, könntet ihr sie wiederbringen?\!<br>Danke nochmal, Kinder!
+
+message_19:
+      text: Du siehst eine \c[4]FERNBEDIENUNG\c[0] im Kuchen.\! Hebst du sie auf?
+
+message_20:
+      text: \n<TYPISCH AMERIKANISCHER KERL>Hey, da ist sie!
+
+message_21:
+      text: Du gibst dem TYPISCH AMERIKANISCHEN KERL die \c[4]FERNBEDIENUNG\c[0].
+
+message_22:
+      text: \n<TYPISCH AMERIKANISCHER KERL>Tja, ihr habt's wieder mal geschafft, Kinder!\! Ihr wisst, was das heißt...\! Hier ist noch 'ne Dose süßer \c[3]ORANGE JOE!\c[0]
+
+message_23:
+      text: \n<TYPISCH AMERIKANISCHER KERL>Ihr wart die letzten Tage echt stark.\! Ich kann euch nich' genug danken!\! Wenn ich meine \c[4]FERNBEDIENUNG\c[0] jemals wieder verliere, kenn ich die Richtigen!
+
+message_30:
+      text: Du siehst eine \c[4]FERNBEDIENUNG\c[0] unter der Couch.
+
+message_31:
+      text: Du siehst eine \c[4]FERNBEDIENUNG\c[0] zwischen den Handtüchern.
+
+message_32:
+      text: Du siehst eine \c[4]FERNBEDIENUNG\c[0] im Kuchen.
+
+message_33:
+      text: Du hast immer noch die \c[4]FERNBEDIENUNG\c[0].\!<br>Du solltest dieses Haus nicht mit ihr verlassen.
+
+message_50:
+      text: Du erhältst eine \c[4]FERNBEDIENUNG\c[0].
+
+message_51:
+      text: Du erhältst eine \c[4]FERNBEDIENUNG\c[0].\! Wie ist sie überhaupt da drin gelandet?

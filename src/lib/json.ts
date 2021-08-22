@@ -1,7 +1,6 @@
 import path from "path"
 import fs from "fs/promises"
 import { makeDirIfNotExist } from "./filesytem"
-import { Global } from "../../config/types"
 
 export const loadAndMinifyJson = async (filepath: string) => {
   const object = await loadJson(filepath)
@@ -19,23 +18,13 @@ export const writeJson = async (filepath: string, object: any, pretty = true) =>
   return fs.writeFile(filepath, content)
 }
 
-export const loadJson = async (filepath: string) => {
+export const loadJson = async <T>(filepath: string): Promise<T> => {
   const content = await fs.readFile(filepath, "utf-8")
-  return JSON.parse(content)
-}
-
-export const checkJson = async (filepath: string, global: Global) => {
-  const data = await loadJson(filepath)
-
-  if (filepath.endsWith("_index.json")) {
-    const valid = global.indexValidator(data)
-    global.indexStore[filepath] = data
-
-    if (!valid) {
-      throw new Error(global.getAjvErrorText())
-    }
-  } else {
-    global.filesNeedIndex.push(filepath)
+  try {
+    return JSON.parse(content)
+  } catch (error) {
+    error.message = `Error when trying to parse "${filepath}":\n${error.message}`
+    throw error
   }
 }
 
@@ -50,7 +39,7 @@ export const validateIndex = (indexStore: Record<string, any>, filesNeedIndex: s
     }
 
     if (!index[base]) {
-      throw new Error(`File "${filepath}" missing in "${indexPath}"`)
+      throw new Error(`File "./${filepath}" missing in "./${indexPath}/_index.yaml"`)
     } else {
       delete index[base]
     }

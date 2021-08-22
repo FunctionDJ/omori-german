@@ -1,5 +1,4 @@
 #### Translation: Finished
-
 #### Translated by: lugi, haj
 
 wrongPlacingMessage:
@@ -20,7 +19,7 @@ error_message:
 faraway_message1:
     background: 0
     position: 2
-    text: \n<25/12 - WEINACHTEN>Mein erstes Foto!\!<br>Es ist mein bester Freund, \n[8], der seine neue Geige ausprobiert.<br><br>Er fängt wieder an, Unterricht zu nehmen, damit er bei Auftritten mit seiner Schwester MARI spielen kann.\! So spannend!
+    text: \n<25/12 - WEINACHTEN>Mein erstes Foto!\!<br>Es ist mein bester Freund \n[8], der seine neue Geige ausprobiert.<br>Er fängt wieder an, Unterricht zu nehmen, damit er bei Auftritten mit seiner Schwester MARI spielen kann.\! Wie spannend!
 
 faraway_message2:
     background: 0
@@ -30,7 +29,7 @@ faraway_message2:
 faraway_message3:
     background: 0
     position: 2
-    text: \n<18/2 - MEIN GEBURTSTAG>Ein weiteres Gruppenfoto.<br>\!Das war kurz nachdem ich all meine Geschenke geöffnet hatte!<br><br>MARI hat mir dieses Fotoalbum gekauft, und alle anderen haben mir Filmmaterial für meine Kamera gekauft.\! Ich werde mein Bestes tun, um alles zu nutzen.
+    text: \n<18/2 - MEIN GEBURTSTAG>Ein weiteres Gruppenfoto.<br>\!Das war kurz nachdem ich all meine Geschenke geöffnet hatte!<br>MARI hat mir dieses Fotoalbum gekauft, und alle anderen haben mir Filmmaterial für meine Kamera gekauft.\! Ich werde mein Bestes tun, um alles zu nutzen.
 
 faraway_message4:
     background: 0
@@ -40,22 +39,22 @@ faraway_message4:
 faraway_message5:
     background: 0
     position: 2
-    text: \n<18/2 - MEIN GEBURTSTAG>\n[8] spielt ein Videospiel auf der Couch.<br>\!\n[8] Omori ist ein wenig schüchtern, aber er ist ein wirklich guter Zuhörer.<br><br>Ich muss mich immer bei ihm ausheulen, wenn ich mich aufrege oder gestresst bin.\! Manchmal habe ich das Gefühl, dass ich ihn störe, aber es scheint ihn nicht zu stören.
+    text: \n<18/2 - MEIN GEBURTSTAG>\n[8] spielt ein Videospiel auf der Couch.<br>\!\n[8] ist ein wenig schüchtern, aber er ist ein wirklich guter Zuhörer.<br>Ich muss mich immer bei ihm ausheulen, wenn ich mich aufrege oder gestresst bin.\! Manchmal habe ich das Gefühl, dass ich ihn störe, aber es scheint ihn nicht zu stören.
 
 faraway_message6:
     background: 0
     position: 2
-    text: \n<18/2 - MEIN GEBURTSTAG>MARI und HERO sind auf der Couch eingeschlafen.<br>\!Sie sehen so kuschelig zusammen aus... Hihi...<br><br>Ich hoffe, dass sie nichts gegen das Foto haben.<br>!MARIs Vater wäre vielleicht ein bisschen sauer, wenn er es sehen würde...
+    text: \n<18/2 - MEIN GEBURTSTAG>MARI und HERO sind auf der Couch eingeschlafen.<br>\!Sie sehen so kuschelig zusammen aus... Hihi...<br>Ich hoffe, dass sie nichts gegen das Foto haben.<br>\! MARIs Vater wäre vielleicht ein bisschen sauer, wenn er es sehen würde...
 
 faraway_message7:
     background: 0
     position: 2
-    text: \n<9/3>HERO und MARI waschen das Geschirr vom Frühstück ab.<br><br>Wir sind dieses Wochenende bei MARI und \n[8] zu Gast.<br><br>Es wird in letzter Zeit wärmer, also gehen wir gleich in den Park.<br>! KEL sagt, dass es ein geheimes Seegebiet hinter ein paar Büschen gibt, also werden wir es uns alle ansehen!
+    text: \n<9/3>HERO und MARI waschen das Geschirr vom Frühstück ab.<br>Wir sind dieses Wochenende bei MARI und \n[8] zu Gast.<br>Es wird in letzter Zeit wärmer, also gehen wir gleich in den Park.<br>! KEL sagt, dass es ein geheimes Seegebiet hinter ein paar Büschen gibt, also werden wir es uns alle ansehen!
 
 faraway_message8:
     background: 0
     position: 2
-    text: \n<9/3>Wir sind zurück aus dem Park, aber KEL ist immer noch voller Energie.<br><br><br>Er hat HERO zu einem Armdrücken herausgefordert, aber wir alle wissen, wer gewinnen wird...<br>! Bitte sei nachsichtig mit ihm, HERO...
+    text: \n<9/3>Wir sind zurück aus dem Park, aber KEL ist immer noch voller Energie.<br>Er hat HERO zu einem Armdrücken herausgefordert, aber wir alle wissen, wer gewinnen wird...<br>! Bitte sei nachsichtig mit ihm, HERO...
 
 faraway_message9:
     background: 0
@@ -70,47 +69,47 @@ faraway_message10:
 faraway_message11:
     background: 0
     position: 2
-    text: \n<10/3>Ich zeige \n[8] ein Buch, das ich gelesen habe.\! MARI hat meine Kamera genommen, als ich nicht aufgepasst habe.<br><br>Ich sollte wirklich besser auf meine Sachen aufpassen.
+    text: \n<10/3>Ich zeige \n[8] ein Buch, das ich gelesen habe.\! MARI hat meine Kamera genommen, als ich nicht aufgepasst habe.<br>Ich sollte wirklich besser auf meine Sachen aufpassen.
 
 faraway_message12:
     background: 0
     position: 2
-    text: \n<10/3>Das sind wir alle, die mit \n[8]'s Stofftieren kuscheln. <br>Er hat SO VIELE, und sie sind alle SO WEICH! \Ich wünschte, ich könnte für immer hier liegen.
+    text: \n<10/3>Das sind wir alle, die mit \n[8]s Stofftieren kuscheln. <br>Er hat SO VIELE, und sie sind alle SO WEICH!\! Ich wünschte, ich könnte für immer hier liegen.
 
 faraway_message13:
     background: 0
     position: 2
-    text: \n<31/3>Es ist schon der letzte Tag im März!<br>Wir machen ein Picknick mit MARI an unserem geheimen Platz am See.<br><br>MARI wollte ein Foto von allen machen! \!Sag "Cheese"!
+    text: \n<31/3>Es ist schon der letzte Tag im März!<br>Wir machen ein Picknick mit MARI an unserem geheimen Platz am See.<br>MARI wollte ein Foto von allen machen! \!Sag "Cheese"!
 
 faraway_message14:
     background: 0
     position: 2
-    text: \n<31/3>Nachdem wir alles gegessen hatten, schliefen alle ein, außer HERO, MARI und mir.<br><br>Etwas Unglückliches passierte, als ich das Foto machte. \!Ähm... Vielen Dank, HECTOR.\! Ich werde es später mit Klebeband abdecken müssen.
+    text: \n<31/3>Nachdem wir alles gegessen hatten, schliefen alle ein, außer HERO, MARI und mir.<br>Etwas Unglückliches passierte, als ich das Foto machte. \!Ähm... Vielen Dank, HECTOR.\! Ich werde es später mit Klebeband abdecken müssen.
 
 faraway_message15:
     background: 0
     position: 2
-    text: \n<9/4>Ich habe MARI heute auf dem Heimweg von der Schule erwischt, wie sie \n[8] auf dem Arm trug.\! Er muss im Bus eingeschlafen sein.<br><br>Ich fand das so süß, dass ich so schnell wie möglich meine Kamera rausgeholt habe, um dieses einmalige Foto zu schießen!\! Seufz...\! Manchmal wünschte ich, ich hätte ein Geschwisterchen.
+    text: \n<9/4>Ich habe MARI heute auf dem Heimweg von der Schule erwischt, wie sie \n[8] auf dem Arm trug.\! Er muss im Bus eingeschlafen sein.<br>Ich fand das so süß, dass ich so schnell wie möglich meine Kamera rausgeholt habe, um dieses einmalige Foto zu schießen!\! Seufz...\! Manchmal wünschte ich, ich hätte ein Geschwisterchen.
 
 faraway_message16:
     background: 0
     position: 2
-    text: \n<21/4>MARI bringt allen bei, wie man Blumenkränze macht!<br><br><br>Hier sind \n[8] und KEL mit MARIs Blumenkranz.<br>Sieht doch perfekt aus, oder?<br>Wenn nur MARI auch so denken würde.
+    text: \n<21/4>MARI bringt allen bei, wie man Blumenkränze macht!<br><br>Hier sind \n[8] und KEL mit MARIs Blumenkranz.<br>Sieht doch perfekt aus, oder?<br>Wenn nur MARI auch so denken würde.
 
 faraway_message17:
     background: 0
     position: 2
-    text: \n<21/4>\n[8] Sunny und KEL haben es aufgegeben, Blumenkränze zu basteln und sind abgehauen, aber AUBREY und ich haben den Dreh schnell raus!<br><br>Alle sind der Meinung, dass eine Blumenkrone sehr gut zu mir passt.<br>Vielleicht ist auch nur eine Blume okay.
+    text: \n<21/4>\n[8] Sunny und KEL haben es aufgegeben, Blumenkränze zu basteln und sind abgehauen, aber AUBREY und ich haben den Dreh schnell raus!<br>Alle sind der Meinung, dass eine Blumenkrone sehr gut zu mir passt.<br>Vielleicht ist auch nur eine Blume okay.
 
 faraway_message18:
     background: 0
     position: 2
-    text: \n<21/4>HERO bastelt immer noch an seiner Blumenkrone.<br>!Es dauert ein bisschen, aber er kommt voran.<br>Du musst seine Ausdauer bewundern!
+    text: \n<21/4>HERO bastelt immer noch an seinem Blumenkranz.\!<br>Es dauert ein bisschen, aber er kommt voran.<br>Mann muss seine Ausdauer bewundern!
 
 faraway_message19:
     background: 0
     position: 2
-    text: \n<29/4>Es regnet heute super stark!<br>Der Regen scheint im Frühling immer aus dem Nichts zu kommen.<br>AUBREY hat mich gebeten, ein Bild von ihr mit ihrem neuen Regenmantel zu machen.<br>! Es ist ihre Lieblingsfarbe, rosa!
+    text: \n<29/4>Es regnet heute super stark!<br>Der Regen scheint im Frühling immer aus dem Nichts zu kommen.<br>AUBREY hat mich gebeten, ein Bild von ihr mit ihrem neuen Regenmantel zu machen.\!<br> Es ist ihre Lieblingsfarbe, rosa!
 
 faraway_message20:
     background: 0
@@ -120,12 +119,12 @@ faraway_message20:
 faraway_message21:
     background: 0
     position: 2
-    text: \n<29/4>Nur KEL, der wieder KEL ist...<br><br><br>Wir sind zu HOBBEEZ gegangen, aber der Ladenbesitzer hat KEL gesagt, dass er seine Jacke draußen lassen soll, da KEL alle seine Comics nass macht.<br><br>!Sorry, LADENBESITZER.
+    text: \n<29/4>Nur KEL, der wieder KEL ist...<br><br>Wir sind zu HOBBEEZ gegangen, aber der Ladenbesitzer hat KEL gesagt, dass er seine Jacke draußen lassen soll, da KEL alle seine Comics nass macht.\!<br>Sorry, LADENBESITZER.
 
 faraway_message22:
     background: 0
     position: 2
-    text: \n<25/5>Es war ziemlich viel los in letzter Zeit mit der Schule, aber wir haben endlich die Zeit gefunden, uns zu treffen und heute in den Park zu gehen.<br><br>Hier ist KEL, wie er seine Beine an einem Baum aufhängt.<br>Er ist so ein guter Kletterer!<br>Ich wünschte, ich wäre so furchtlos wie er.
+    text: \n<25/5>Es war ziemlich viel los in letzter Zeit mit der Schule, aber wir haben endlich die Zeit gefunden, uns zu treffen und heute in den Park zu gehen.<br>Hier ist KEL, wie er seine Beine an einem Baum aufhängt.<br>Er ist so ein guter Kletterer!<br>Ich wünschte, ich wäre so furchtlos wie er.
 
 faraway_message23:
     background: 0
@@ -145,12 +144,12 @@ faraway_message25:
 faraway_message26:
     background: 0
     position: 2
-    text: \n<22/6>KEL kühlt sich mit etwas erfrischendem ORANGE JOE ab!<br><br><br>Ich sollte ihm nicht zu nahe kommen, sonst macht er meine Kamera nass.<br>KEL ist dafür bekannt, seine Getränke zu verschütten.
+    text: \n<22/6>KEL kühlt sich mit etwas erfrischendem ORANGE JOE ab!<br><br>Ich sollte ihm nicht zu nahe kommen, sonst macht er meine Kamera nass.<br>KEL ist dafür bekannt, seine Getränke zu verschütten.
 
 faraway_message27:
     background: 0
     position: 2
-    text: \n<22/6>Wir haben \n[8] im Sand vergraben!<br>Es hat ewig gedauert, aber er sieht aus, als würde er sich dabei amüsieren.<br><br>Ich frage mich, ob er Hilfe brauchen wird, um wieder herauszukommen.<br>Ich schätze, ich werde ihm bis dahin Gesellschaft leisten.
+    text: \n<22/6>Wir haben \n[8] im Sand vergraben!<br>Es hat ewig gedauert, aber er sieht aus, als würde er es genießen.<br>Ich frage mich, ob er Hilfe brauchen wird, um wieder herauszukommen.<br>Ich schätze, ich werde ihm bis dahin Gesellschaft leisten.
 
 faraway_message28:
     background: 0
@@ -170,22 +169,22 @@ faraway_message30:
 faraway_message31:
     background: 0
     position: 2
-    text: \n<20/7 - \n[8]'S BIRTHDAY>Juhu! \n[8] wird heute 12 Jahre alt!\! Obwohl \n[8], AUBREY, KEL und Ich im selben Schuljahr sind, ist \n[8] jünger als wir alle.<br> Er ist das Baby der Gruppe, also müssen wir uns um ihn kümmern!
+    text: \n<20/7 - \n[8]s GEBURTSTAG>Juhu! \n[8] wird heute 12 Jahre alt!\! Obwohl \n[8], AUBREY, KEL und ich im selben Schuljahr sind, ist \n[8] jünger als wir alle.<br>Er ist das Baby der Gruppe, also müssen wir uns um ihn kümmern!
 
 faraway_message32:
     background: 0
     position: 2
-    text: \n<20/7 - \n[8]'S BIRTHDAY>\n[8] mit einem super großen Geschenk in der Hand, von MARI und HERO!<br>\!Hmm... Ich frage mich, was es ist.
+    text: \n<20/7 - \n[8]s GEBURTSTAG>\n[8] mit einem super großen Geschenk in der Hand, von MARI und HERO!<br>\!Hmm... Ich frage mich, was es ist.
 
 faraway_message33:
     background: 0
     position: 2
-    text: \n<20/7 - \n[8]'S BIRTHDAY>Du kannst es auf dem Foto nicht wirklich erkennen, aber MARI und HERO haben \n[8] ein riesiges Bauklotz-Set geschenkt.<br><br>\n[8] scheint aber viel mehr an der Schachtel interessiert zu sein.<br>Er benimmt sich genau wie MARIs neues Kätzchen MEWO!
+    text: \n<20/7 - \n[8]s GEBURTSTAG>Du kannst es auf dem Foto nicht wirklich erkennen, aber MARI und HERO haben \n[8] ein riesiges Bauklotz-Set geschenkt.<br>\n[8] scheint aber viel mehr an der Schachtel interessiert zu sein.<br>Er benimmt sich genau wie MARIs neues Kätzchen MEWO!
 
 faraway_message34:
     background: 0
     position: 2
-    text: \n<20/7 - \n[8]'S BIRTHDAY>\n[8] will die Box nicht verlassen, also hat KEL einen Futternapf hineingestellt.<br>Ich schätze, diese Box wird das neue Zuhause von \n[8] und MEWO sein.
+    text: \n<20/7 - \n[8]s GEBURTSTAG>\n[8] will die Box nicht verlassen, also hat KEL einen Futternapf hineingestellt.<br>Ich glaube, Das wird \n[8] und MEWOs neues Zuhause.
 
 faraway_message35:
     background: 0
@@ -200,17 +199,17 @@ faraway_message36:
 faraway_message37:
     background: 0
     position: 2
-    text: \n<14/8>Ta-da!\! Den ganzen Sommer über haben wir an einem Baumhaus in \n[8]'s Garten gearbeitet und heute ist es endlich fertig!<br><br>HERO und sein Dad haben die meiste Arbeit gemacht, aber AUBREY und ich haben Papierpflanzen für die Fensterbank gemacht!\! Wir haben alle einen ziemlich guten Job gemacht, wenn ich das mal so sagen darf!
+    text: \n<14/8>Ta-da!\! Den ganzen Sommer über haben wir an einem Baumhaus in \n[8]'s Garten gearbeitet und heute ist es endlich fertig!<br>HERO und sein Dad haben die meiste Arbeit gemacht, aber AUBREY und ich haben Papierpflanzen für die Fensterbank gemacht!\! Wir haben alle einen ziemlich guten Job gemacht, wenn ich das mal so sagen darf!
 
 faraway_message38:
     background: 0
     position: 2
-    text: \n<14/8>Ich ging auf die Toilette und kam zu diesem Foto zurück...<br><br><br>KEL sagt, er habe aus Versehen ein Foto von sich gemacht,<br>aber ich glaube ihm nicht...
+    text: \n<14/8>Ich ging auf die Toilette und kam zu diesem Foto zurück...<br><br>KEL sagt, er habe aus Versehen ein Foto von sich gemacht,<br>aber ich glaube ihm nicht...
 
 faraway_message39:
     background: 0
     position: 2
-    text: \n<16/8>Wir alle hängen in unserem brandneuen Baumhaus ab!<br>Sieht so aus, als würde \n[8] endlich das Buch lesen, das ich ihm gezeigt habe!<br><br>Ich möchte jeden Tag hier drin verbringen, aber es ist eine Schande, dass die Sommerferien fast vorbei sind.<br> Ich hoffe, wir können das Baumhaus im nächsten Sommer öfter benutzen!
+    text: \n<16/8>Wir alle hängen in unserem brandneuen Baumhaus ab!<br>Sieht so aus, als würde \n[8] endlich das Buch lesen, das ich ihm gezeigt habe!<br>Ich möchte jeden Tag hier drin verbringen, aber es ist eine Schande, dass die Sommerferien fast vorbei sind.<br> Ich hoffe, wir können das Baumhaus im nächsten Sommer öfter benutzen!
 
 faraway_message40:
     background: 0
@@ -220,7 +219,7 @@ faraway_message40:
 faraway_message41:
     background: 0
     position: 2
-    text: \n<6/9>Ich spiele Karten mit KEL, HERO, und AUBREY.\! Sie sind so leicht zu lesen. Sie können nichts in ihren Gesichtern verbergen!<br><br>MARI hat für alle Kekse von Grund auf gebacken.<br>Sie waren schokoladenbraun und super lecker, wie immer!
+    text: \n<6/9>Ich spiele Karten mit KEL, HERO, und AUBREY.\! Sie sind so leicht zu lesen. Sie können nichts in ihren Gesichtern verbergen!<br>MARI hat für alle Kekse von Grund auf gebacken.<br>Sie waren schokoladenbraun und super lecker, wie immer!
 
 faraway_message42:
     background: 0
@@ -230,7 +229,7 @@ faraway_message42:
 faraway_message43:
     background: 0
     position: 2
-    text: \n<9/9>Heute ist der erste Schultag!\! Ich, \n[8], KEL und AUBREY sind schon früh wach. \! AUBREY ist so fotogen!
+    text: \n<9/9>Heute ist der erste Schultag!\! \n[8], KEL, AUBREY und Ich, sind schon früh wach.\!AUBREY ist so fotogen!
 
 faraway_message44:
     background: 0
@@ -245,7 +244,7 @@ faraway_message45:
 faraway_message46:
     background: 0
     position: 2
-    text: \n<22/9>MARI übt ihren Part für ein großes Konzert nächsten Monat.<br>Wir werden alle hingehen und zusehen!<br><br>Es wird der erste gemeinsame Auftritt von MARI und \n[8] sein, aber ich kann mir gut vorstellen, dass sie es gut machen werden!\ Wir werden alle unsere Unterstützung aus dem Publikum zeigen!
+    text: \n<22/9>MARI übt ihren Part für ein großes Konzert nächsten Monat.<br>Wir werden alle hingehen und zusehen!<br>Es wird der erste gemeinsame Auftritt von MARI und \n[8] sein, aber ich kann mir gut vorstellen, dass sie es gut machen werden!\ Wir werden alle unsere Unterstützung aus dem Publikum zeigen!
 
 faraway_message47:
     background: 0
@@ -255,7 +254,7 @@ faraway_message47:
 faraway_message48:
     background: 0
     position: 2
-    text: \n<22/9>Nach einigem Betteln kam \n[8] zu MARI, um für den Auftritt zu üben... Hehe...<br><br>Sie arbeiten noch an ein paar Sachen, aber sie klingen schon so fantastisch! Ich kann mir vorstellen, dass sie großartig sein werden.<br><br>Los, MARI! Los, \n[8]!\! Ihr schafft das!
+    text: \n<22/9>Nach einigem Betteln kam \n[8] zu MARI, um für den Auftritt zu üben... Hehe...<br>Sie arbeiten noch an ein paar Sachen, aber sie klingen schon so fantastisch! Ich kann mir vorstellen, dass sie großartig sein werden.<br>Los, MARI! Los, \n[8]!\! Ihr schafft das!
 
 #DREAM WORLD
 

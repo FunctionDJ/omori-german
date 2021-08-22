@@ -1,3 +1,19 @@
 Skills.json:
   Status: Partial
   Credits: [jasu]
+
+Items.json:
+  Status: Finished
+  Credits: [mewo, jasu]
+
+Weapons.json:
+  Status: Finished
+  Credits: [jasu]
+
+Armors.json:
+  Status: Finished
+  Credits: [jasu]
+
+States.json:
+  Status: Finished
+  Credits: [jasu]

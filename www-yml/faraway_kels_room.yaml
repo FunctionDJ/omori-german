@@ -1,0 +1,120 @@
+#### Translation: Finished
+#### Translated by: haj
+
+# =========================================================================================
+# Farawaytown: Kels Room
+# =========================================================================================
+
+#=========================Kels Room==============================
+
+
+message_1:
+      faceset: MainCharacters_Faraway
+      faceindex: 16
+      text: \kelWas ist los, HERO?
+
+message_2:
+      faceset: MainCharacters_Faraway
+      faceindex: 36
+      text: \her...
+
+message_3:
+      faceset: MainCharacters_Faraway
+      faceindex: 13
+      text: \kelOh...ich weiß...\! Es muss eine Spinne im Zimmer sein.\!<br>Keine Sorge, HERO! Ich rette dich!
+
+message_4:
+      faceset: MainCharacters_Faraway
+      faceindex: 17
+      text: \kelWo ist denn nun die lästige kleine...
+
+message_5:
+      faceset: MainCharacters_Faraway
+      faceindex: 23
+      text: \kelA-ha! Jetzt hab ich dich!
+
+#*squish SFX*
+
+message_6:
+      faceset: MainCharacters_Faraway
+      faceindex: 12
+      text: \kelEs ist alles in Ordnung, HERO.\! Du kannst es ruhig angehen lassen.\!<br>Die Spinne ist weg!
+
+message_7:
+      faceset: MainCharacters_Faraway
+      faceindex: 36
+      text: \her\}...\! Zeigen Sie mir.
+
+message_8:
+      faceset: MainCharacters_Faraway
+      faceindex: 17
+      text: \kelHuch?\! Hast du was gesagt, HERO?
+
+message_9:
+      faceset: MainCharacters_Faraway
+      faceindex: 36
+      text: \herZeig mir die Spinne.
+
+message_10:
+      faceset: MainCharacters_Faraway
+      faceindex: 16
+      text: \kelAch ja, stimmt.
+
+message_11:
+      faceset: MainCharacters_Faraway
+      faceindex: 12
+      text: \kelHier, sieh mal.\! Siehst du? \! Sie ist wirklich tot..
+
+message_12:
+      faceset: MainCharacters_Faraway
+      faceindex: 36
+      text: \her...
+
+message_13:
+      faceset: MainCharacters_Faraway
+      faceindex: 17
+      text: \kelIch werde sie jetzt die Toilette runterspülen, okay?
+
+#*KEL LEAVES THE ROOM*
+#*Toilet flush SFX*
+#*KEL comes back*
+
+message_14:
+      faceset: MainCharacters_Faraway
+      faceindex: 14
+      text: \kel\sinv[1]Und... ich bin wieder da!\sinv[0]\! Aber die Spinne ist weg!\! Es ist wie Magie!
+
+message_15:
+      faceset: MainCharacters_Faraway
+      faceindex: 36
+      text: \her... ... ...
+
+message_16:
+      faceset: MainCharacters_Faraway
+      faceindex: 36
+      text: \her... ... ... ... ... ... ...
+
+message_17:
+      faceset: MainCharacters_Faraway
+      faceindex: 37
+      text: \herHuff...\! Gott sei Dank...
+
+message_18:
+      faceset: MainCharacters_Faraway
+      faceindex: 17
+      text: \kelHERO...\! Ich habe das Gefühl, dass deine Angst vor Spinnen noch schlimmer geworden ist...
+
+message_19:
+      faceset: MainCharacters_Faraway
+      faceindex: 18
+      text: \kelDu solltest wirklich versuchen, daran zu arbeiten!\! Was ist, wenn eine Spinne auftaucht, wenn ich nicht hier bin?
+
+message_20:
+      faceset: MainCharacters_Faraway
+      faceindex: 35
+      text: \herKeuch... Du glaubst wirklich, dass das passieren könnte?
+
+message_21:
+      faceset: MainCharacters_Faraway
+      faceindex: 22
+      text: \kelMann, HERO...\! Das ist einer dieser seltenen Momente, in denen ich mich wie der große Bruder fühle!

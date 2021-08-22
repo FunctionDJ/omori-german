@@ -1,0 +1,52 @@
+#### Translation: Finished
+#### Translated by: haj
+
+# =========================================================================================
+# Sidequest: Gino's High score
+# =========================================================================================
+
+#Examine Gino's arcade machine
+
+message_1:
+      text: \n<GLASSES MAN>Ich...\! Ich habe es endlich geschafft...\! Ich habe einige Zeit damit verbracht <br>SPROUT MOLE EATER zu spielen und habe jetzt endlich den Welt-Highscore geschlagen...
+
+message_2:
+      text: \n<GLASSES MAN>Zugegeben...\! Seit über 20 Jahren hat niemand mehr dieses Spiel gespielt...\!<br>aber trotzdem!\! Es ist eine Leistung auf die ich stolz sein kann!
+
+message_3:
+      text: \n<GLASSES MAN>Hey! Du bist der Junge, der das letzte Stück des Spielautomaten zurückgebracht hat!
+
+message_4:
+      text: \n<GLASSES MAN>Wolltest du SPROUT MOLE EATER spielen?
+
+#Yes/No
+
+#If yes
+message_5:
+      text: \n<GLASSES MAN>Coole Sache!\! Ich werde mal aus dem Weg gehen... für den Moment.
+
+#If No
+message_6:
+      text: \n<GLASSES MAN>Okay!\! Dann mehr für mich!
+
+#GINO moves one step to the left.
+
+#Exit game after beating Gino's Score:
+
+message_7:
+      text: \n<GLASSES MAN>Ich...\! Ich kann es nicht glauben...\! Du hast einfach vor meinen Augen...\! Du hast meinen Highscore übertroffen!\! Diese späten Nächte, in denen ich davon träumte, der SPROUT MOLE EATER Champion zu sein...
+
+message_8:
+      text: \n<GLASSES MAN>Es war viel zu schnell vorbei...\! Ich hatte noch nicht einmal Gelegenheit zu feiern!
+
+message_9:
+      text: \n<GLASSES MAN>Schnief...\! Nein...\! Dies ist nicht die Zeit, um verbittert zu sein!\! <br>Das ist jetzt dein Moment!\! Du hast dir deinen Platz als SPROUT MOLE EATER Champion redlich verdient!
+
+message_10:
+      text: \n<GLASSES MAN>Hier, nimm das mit.\! Denk an mich, wenn du berühmt bist!
+
+message_20:
+      text: \n<GLASSES MAN>Denk an mich, wenn du berühmt bist, Champion!
+
+message_30:
+      text: Ein Spiel namens "SPROSSWURF ESSER".\!<br>Es kostet $1,00 zum Spielen.
