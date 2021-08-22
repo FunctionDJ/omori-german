@@ -1,4 +1,4 @@
-import { execFile, getAllModFiles } from "./general"
+import { execFile, getAllModFiles, getGlobal } from "./general"
 import { buildAndAttach } from "./action-map"
 import { Archiver } from "archiver"
 import { Global } from "../../config/types"
@@ -20,13 +20,14 @@ export const fillArchive = async (
   archive: Archiver,
   modObject: any,
   roots: string[],
-  noCompression = false,
-  global: Global
+  noCompression = false
 ) => {
   archive.append(JSON.stringify(modObject, null, 2), { name: "mod.json" })
 
   const includes = (await getAllModFiles(roots))
     .filter(e => !e.endsWith("_index.json"))
+
+  const global = await getGlobal()
 
   for (const filepath of includes) {
     if (noCompression) {
