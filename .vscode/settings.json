@@ -30,4 +30,10 @@
   "search.exclude": {
     "/yml-auto-translation/": true
   },
+  "logViewer.watch": [
+    {
+      "title": "OneLoader Latest Log",
+      "pattern": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\OMORI\\latest.log"
+    }
+  ]
 }
