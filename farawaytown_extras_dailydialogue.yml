@@ -1,0 +1,1889 @@
+# =========================================================================================
+# Farawaytown extras daily dialogue
+# =========================================================================================
+
+#=========================================================================================
+# DAY 1 - DAY
+#=========================================================================================
+
+# ===================Basil================
+#Examine BASIL's House Door.
+message_0:
+      text: delet this
+
+message_1:
+      faceset: MainCharacters_Faraway
+      faceindex: 20
+      text: Hmm...\! Keine Antwort...\kel
+
+message_2:
+      faceset: MainCharacters_Faraway
+      faceindex: 20
+      text: Vielleicht ist BASIL im Bad oder so.\kel
+
+message_3:
+      faceset: MainCharacters_Faraway
+      faceindex: 20
+      text: Na gut.\! Wir können später nochmal vorbeischauen.\kel
+
+message_4:
+      faceset: MainCharacters_Faraway
+      faceindex: 20
+      text: Komm schon, \n[8]!\! Wir haben ein \c[4]FOTOALBUM\c[0] zu finden!\! Lass uns im \c[11]WEITWEG-PARK\c[0] ach Hinweisen suchen!\kel
+
+#===============ANGEL=====================
+
+#Location: WEITWEG-PARK (Cutscene: Charlie & Angel Fight)
+
+message_10:
+      text: \n<ANGEL>Meister ist zum Brunnen im \c[11]WEITWEG-PLAZA\c[0] gegangen.\! <br>Er sagte, er würde dort ein paar Mädchen für...\! ein Date treffen oder so.\ang
+
+#===============CHARLIE=====================
+
+#Location: WEITWEG-PARK (Cutscene: Charlie & Angel Fight)
+
+message_20:
+      text: \n<CHARLIE>...
+
+message_21:
+      text: \n<CHARLIE>....................................
+
+#===============EINZELGÄNGER=====================
+
+#Location: Town Plaza
+
+message_30:
+      text: \n<EINZELGÄNGER>Ich werde euch nicht verraten, wo AUBREY ist, bis ihr mich DEN EINZELGÄNGER nennt!
+
+
+#===============MALERIN=====================
+
+#Location: Artist's house - Agree with me! Quest
+
+message_40:
+      text: \n<MALERIN>Hmmm...\! Dieses Werk...\! ist womöglich mein bisher Bestes!
+
+#===============Bebe=====================
+
+#Location: Town Plaza (Near the fountain)
+
+message_50:
+      text: \n<BEBE>Ich habe mir gerade gewünscht, dass ich heute die Liebe meines Lebens treffen werde!
+
+#After Cutscene: The Maverick's Loss
+
+message_51:
+      text: \n<BEBE>Wow...\! Dieser Junge mit blonder Perücke ist so cool...\! Ich wünschte, ich hätte so viel Selbstvertrauen wie er.
+
+
+#===============Bebe's Mom=====================
+
+#Location: Supermarket
+
+message_60:
+      text: \n<BEBES MUTTER>Mein Sohn BILLY is solch ein Pedant für die Umwelt.\! <br>Er und seine Freunde sammeln immer dem Müll in der Stadt.
+
+message_61:
+      text: \n<BEBES MUTTER>Es ist schön zu sehen, dass sich die Jugend heutzutage um die Umwelt kümmert!
+
+#===============Billy=====================
+
+#Location: Supermarket
+
+message_70:
+      text: \n<BILLY>All diese Container in dieser Abteilung können immer wieder zu<br>neuen Containern wiederverwertet werden...\! <br>Solch ein schönes Konzept, nicht wahr?
+
+#===============BRENTS MUTTER=====================
+
+#Location: BRENT'S HOUSE
+
+message_80:
+      text: \n<BRENTS MUTTER>Gut gemacht, Tutor...\! Komm morgen gerne wieder!
+
+#===============WÄRTER=====================
+
+#Location: GINO'S PIZZA
+
+message_90:
+      text: \n<WÄRTER>Aye, Kinderchen.\! Ihr habt mich auf meiner Pause erwischt!
+
+message_91:
+      text: \n<WÄRTER>GWAHAHAHAHA!!
+
+message_92:
+      text: \n<WÄRTER>Ich überlege schon seit zehn Minuten, was ich essen soll, <br>aber ich weiß nicht warum ich so grübel...\! <br>Weil ich bei GINO's bin, ist sowieso alles gut!
+
+#===============After completing Medication Quest: Charlie's Mom=====================
+
+#Location: Other street in front of her HOUSE
+
+message_100:
+      text: \n<CHARLIES MUTTER>Meine Tochter kümmert sich normalerweise so fürsorglich um mich...\! <br>Ich frage mich, wo sie steckt...
+
+message_101:
+      text: \n<CHARLIES MUTTER>Sie war immer ziemlich ruhig, aber sie hat letztens neue Freunde gefunden.\! <br>Ich hoffe, sie vergisst mich nicht...
+
+#===============CRIS' VATER=====================
+
+#Location: Where's the Remote? Couch in Cris's HOUSE
+
+message_110:
+      text: Die Augen von CRIS' VATER sind auf den Fernseher fixiert.
+
+message_111:
+      text: \n<CRIS' VATER>Nummer 85 war weit offen! Was war das denn für ein Pass!?
+
+#===============CRIS' MUTTER=====================
+
+#Location: CRIS'S HOUSE in the kitchen
+
+message_120:
+      text: \n<CRIS' MUTTER>Gefiel dir der Kuchen?\! Ich arbeite daran, mein Rezept für den Sommerschluss-Jahrmarkt zu perfektionieren!\! Ich habe bisher jedes Jahr gewonnen, in dem ich teilgenommen habe. Dieses Jahr wird keine Ausnahme!\! Ohoho!
+
+#===============CURTSEY=====================
+
+#Location: CANDY SHOP
+
+message_130:
+      text: \n<CURTSEY>Willkommen!\! Wir hoffen, unsere \c[3]SÜßIGKEITEN\c[0] bringen euch zum lachen!
+
+#===============Daphne & Bowen=====================
+
+#Location: Supermarket, working at the Bakery
+
+message_140:
+      text: \n<DAPHNE>Frisches Brot...
+
+message_141:
+      text: \n<BOWEN>Frisches Brot...
+
+message_142:
+      text: \n<DAPHNE UND BOWEN>Wollt ihr frisches Brot?
+
+#===============Gino=====================
+
+#Location: Gino's Pizza: Sitting at table
+
+message_150:
+      text: \n<GINO>Hallo, hallo!\! Mein Name ist GINO!
+
+message_151:
+      text: \n<GINO>Nein...\! Das ist nicht mein Laden...\! aber sie geben mir zum Geburtstag jedes Jahr eine kostenlose \c[3]GANZE PIZZA\c[0], das ist ganz toll.
+
+
+#===============Hector (Dog)=====================
+
+#Location: Player's Street
+
+message_160:
+      text: \n<HECTOR>Wuff! Wuff! Wuff! Wuff!\! Wuff! Wuff! Wuff! Wuff! Wuff! Wuff!\! <br>(Ich bin ein braver Junge!)
+
+#===============SPORTSKANONE=====================
+
+#Location: WEITWEG-PARK, running around the basketball court
+
+message_170:
+      text: \n<SPORTSKANONE>Schnauf...\! Schnauf...\! Oh, hey!\! Was geht?\! Schnauf...\! Was machst du denn hier, KEL?\! Bist du von hier?
+
+message_171:
+      faceset: MainCharacters_Faraway
+      faceindex: 20
+      text: \kelOh, woah\!! Ich habe nicht erwartet, dich hier zu sehen, JAY!
+
+message_172:
+      faceset: MainCharacters_Faraway
+      faceindex: 20
+      text: \kel\n[8], das ist JAY.\! Er ist der Kapitän der Footballmannschaft von meiner Highschool!\! Ich wusste nicht, dass du auch Basketball spielst!
+
+message_173:
+      text: \n<SPORTSKANONE>Ehh...\! Schnauf...\! Ich bin nur hier, um Zeit totzuschlagen.\! Es ist mehr ein Hobby als alles andere.\! Du probierst es dieses Jahr auch in der Basketballmannschaft, stimmt's KEL?\! Vielleicht kannst du mir ja Tricks zeigen!
+
+message_174:
+      faceset: MainCharacters_Faraway
+      faceindex: 20
+      text: \kelJa, klar doch!\! Klingt nach Spaß...\! aber vielleicht ein andermal.\! Mein Kindheitsfreund \n[8] verlässt in ein paar Tagen die Stadt, also hängen wir heute den ganzen Tag ab.\! Ich werd dich aber danach noch treffen!
+
+message_175:
+      text: \n<SPORTSKANONE>Klar, wir können etwas für nächste Woche ausmachen.\! Dieselbe Zeit am selben Ort?
+
+message_176:
+      faceset: MainCharacters_Faraway
+      faceindex: 20
+      text: \kelJapp!\! Klingt gut!\! Bis dann!
+
+#After talking again
+
+message_177:
+      text: \n<SPORTSKANONE>Schnauf...\! Schnauf...\! Schnauf...\! Schnauf...
+
+
+#===============JESSES VATER=====================
+
+#Location: WEITWEG-PARK, sweeping the ground
+
+message_190:
+      text: \n<FALTIGE STIRN>Hey, Freunde!\! Schön euch zu sehen.\! Das Übliche...\! Putzen, Müll aufsammeln und Flächen wischen.\! Seufz...\! Es gibt so viel zu putzen...\! Das geht alleine einfach nicht!
+
+
+#===============JESSES VATER=====================
+
+#Location: Joy's House - Tutoring Joy Quest
+
+#After completing Tutoting joy quest
+message_200:
+      text: \n<JOY>Papa ist besonders streng zu mir, weil mein großer Bruder Michael nichtmehr zur Schule gegangen ist und Musiker wurde...\! Er spielt manchmal Gitarre am \c[11]WEITWEG-PLAZA\c[0]!\! Er ist wirklich gut!
+
+#===============JESSES VATER=====================
+
+#Location: Joy's Dad - Tutoring Joy Quest
+
+message_210:
+      text: \n<JOYS VATER>Großartig!\! Du solltest es in Betracht ziehen, Vollzeit Nachhilfe zu geben!\!<br>Kommt morgen bitte wieder!
+
+
+#===============KAREN=====================
+
+#Location: Hardware store: After Picking up paint quest
+
+message_220:
+      text: \n<KAREN>Besucht uns bitte, wenn ihr Zeit habt!\! <br>Wir überlegen uns, in zwei Tagen eine Einweihungsfeier zu veranstalten.\! <br>Es wäre toll, wenn ihr uns Gesellschaft leisten würdet!
+
+
+#===============KATIE=====================
+
+#Location: Hobbeez - Pet Rock Fight
+
+message_230:
+      text: \n<KATIE>Dieser Laden ist etwas klein, aber er hat viele alte und seltene Sammlerstücke!\! <br>Es kommen sogar Leute aus der Stadt, um hier einzukaufen!
+
+
+#===============KIM AND VANCES VATER =====================
+
+#Location: Hardware Store- Fix Pipe Quest 1
+
+#After hardware store- fix pipe quest 1, kim and vance's dad is in his house next to the pipe
+message_240:
+      text: \n<VANCES VATER>Grummel, grummel...\! Das Rohr ist schon wieder kaputt...
+
+message_241:
+      text: \n<VANCES VATER>Mist...\! Dann probier ich's morgen nochmal...
+
+
+#===============KIM AND VANCES MUTTER =====================
+
+#Location: Other Street - Missing Shears Quest
+
+#Kim's Mom moves to Kim's Mom's house living room after Missing Shears Quest. Snipping Bonsai.
+
+message_250:
+      text: \n<KIMS MUTTER>Schnipp, schnipp...\! schnipp, schnipp, schnipp...
+
+message_251:
+      text: \n<KIMS MUTTER>Ah, hi ihr beiden!\! Ich habe euch nicht so bald erwartet!
+
+message_252:
+      text: \n<KIMS MUTTER>Schaut mal!\! Mich um diese Bonsais zu kümmern ist eines meiner Hobbies.\! Es hilft mir dabei...\! Stress abzubauen.
+
+message_253:
+      text: \n<KIMS MUTTER>Danach werde ich Abendessen für meine Kinder KIM und VANCE vorbereiten.\! Ich hoffe, sie sind heute nicht wieder spät dran...\! oder sonst...
+
+message_254:
+      text: \n<KIMS MUTTER>SCHNIPP, SCHNIPP, SCHNIPP, SCHNIPP, SCHNIPP, SCHNIPP, SCHNIPP, SCHNIPP!!
+
+#===============LUCAS (DOG) =====================
+
+#Location: Artist's house
+
+message_260:
+      text: \n<LUCAS>WUFF, WUFF, WUFF, WUFF, WUFF!
+
+message_261:
+      text: \n<MALERIN>Lucas!\! Hör mit dem Kläffen auf!
+
+
+#===============MINCY =====================
+
+#Location: WEITWEG-PARK - Company Quest 1
+
+message_270:
+      text: MINCY zeichnet eifrig vor sich hin.
+
+#===============PRETTY BOY=====================
+
+#Location: WEITWEG-PARK - Pet Rock Fight
+
+message_280:
+      text: \n<HÜBSCHER JUNGE>Das Leben war in letzter Zeit etwas stressvoll, aber Leute hier zu beobachten hilft mir dabei, Dinge ins rechte Licht zu rücken.\! Vielleicht gewöhne ich es mir an, öfter in diesen Park zu kommen...\! Manchmal muss man einfach eine Pause machen und den Moment genießen!
+
+
+#===============POLLY=====================
+
+#Location: WEITWEG-PARK - Pet Rock Fight
+
+message_290:
+      text: Diese junge Dame sieht sehr beunruhigt aus.\! Sie schaut nicht vom Boden weg.
+
+
+#===============POLLY=====================
+
+#Location: WEITWEG-PARK
+
+message_300:
+      text: \n<PREDIGER>Ich bin auf dem Weg zur \c[11]KIRCHE\c[0], aber ich mache für gewöhnlich einen Spaziergang, bevor ich meine Predigten halte.\! Seit ich ein Kind war habe ich schlimmes Rampenfieber, aber ein landschaftlicher Spaziergang scheint mich immer zu beruhigen!
+
+
+#===============RECYCULTISTS=====================
+
+#Location: PARK
+
+message_310:
+      text: \n<RECYCULTIST>Wir sind RECYCULTISTS, Anhänger HEILIGEN TONNE!
+
+message_311:
+      text: \n<RECYCULTIST>Da alle zumüllen, <br>müssen alle Menschen akzeptieren, dass sie Müll sind!
+
+message_312:
+      text: \n<RECYCULTIST>Reduziert, verwertet, und recyclet!
+
+
+#===============SARAH=====================
+
+#Location: Supermarket in grocery section
+
+message_320:
+      text: \n<SARAH>Meine Mutter und ich sind im \c[11]OTHERMART\c[0], um gesunde Sachen zu kaufen, da sie gestern alle Snacks im Haus weggeworfen hat... Ich glaube, sie ist in letzter Zeit im Gesundheitswahn, weil mein Vater nur Junkfood isst... Warum denn nicht beides?
+
+
+#===============SARAH=====================
+
+#Location: Gino's Pizza eating Pizza
+
+message_330:
+      text: \n<SARAHS VATER>Meine Frau sagt mir ständig, ich werde dicker und fetter, aber ich kann einfach nicht anders, wenn wir so nah an \c[11]GINO'S PIZZA\c[0] wohnen!\! Oh...\! Mmm...\! Pizza...
+
+#===============SEAN=====================
+
+#Location: Hardware Store (picking paint quest)
+#After completing Picking Paint Quest:
+
+message_340:
+      text: \n<SEAN>Vielen Dank für die Hilfe! Wir sind beide aus hier in der Gegend, aber wir sind erst neulich zusammen in ein brandneues Haus eingezogen... In der Straße nahe der \c[11]KIRCHE\c[0].
+
+
+#===============TUCKER=====================
+
+#Location: Charlie's Basement - Pet Rock Fight
+
+message_350:
+      text: \n<TUCKER>Ich grüße dich, Mensch!\! Man nennt mich TUCKER...
+
+
+#=========================================================================================
+# DAY 1 - SUNSET
+#=========================================================================================
+
+
+#========================== BASIL================================
+
+#Location: Basil's House (Cutscene: Polly)
+#BASIL's eyes follow \n[8].
+
+message_361:
+      faceset: MainCharacter_Basil
+      faceindex: 17
+      text: \n<BASIL>O-Oh... Hi, \n[8]...
+
+message_362:
+      faceset: MainCharacter_Basil
+      faceindex: 17
+      text: \n<BASIL>W-Was... starrst du mich so an?
+
+message_363:
+      faceset: MainCharacter_Basil
+      faceindex: 17
+      text: \n<BASIL>Schön, dich mal wieder zu sehen... Haha...
+
+message_364:
+      faceset: MainCharacter_Basil
+      faceindex: 17
+      text: \n<BASIL>\fn<OMORI_GAME>Alles wird wieder gut...\! Alles wird wieder gut...\! Alles wird wieder gut...\! Alles wird wieder gut...\! Alles wird wieder gut...\! Alles wird wieder gut...\
+
+
+#========================== ANGEL================================
+
+#Location: Hobbeez looking at comics (Pet Rock Fight)
+
+message_370:
+      text: \n<ANGEL>Was schaust du so!?\! Nur dass du's weißt, ich bin hier ein Stammgast! Ich muss die neusten Comics lesen, bevor die Schule wieder anfängt!
+
+
+#========================== CHARLIE (CHARLENE)================================
+
+#Location: Hardware store looking at flowers
+
+message_380:
+      text: \n<CHARLIE> ...
+
+#========================== DER EINZELGÄNGER================================
+
+#Location: WEITWEG-PARK running in place in an open area
+
+message_390:
+      text: \n<DER EINZELGÄNGER>Ah!\! Wenn das nicht KEL und \n[8] sind!
+
+message_391:
+      text: \n<DER EINZELGÄNGER>Ihr mögt vorher meine Blamage miterlebt haben...\! aber es ist nun Zeit, dass ich meine Ehre zurückerlange!
+
+message_392:
+      faceset: MainCharacters_Faraway
+      faceindex: 14
+      text: \kelWas ist es dieses Mal, MIKHAEL?
+
+message_393:
+      text: \n<DER EINZELGÄNGER>Grr...\! Du mit deiner Frechheit!
+
+message_394:
+      text: \n<DER EINZELGÄNGER>KEL!\! Ich fordere dich zu einem Rennen heraus!!
+
+message_395:
+      faceset: MainCharacters_Faraway
+      faceindex: 14
+      text: \kelWirklich?\! Ein Rennen?
+
+message_396:
+      faceset: MainCharacters_Faraway
+      faceindex: 14
+      text: \kelIch weiß ja nicht...\! Ich bin ziemlich schnell...
+
+message_397:
+      text: \n<DER EINZELGÄNGER>Hah!\! Das sagst du jetzt noch!\! Wart's bloß ab, bis ich dir die Resultate meines Tranings demonstriere!
+
+message_398:
+      faceset: MainCharacters_Faraway
+      faceindex: 14
+      text: \kelIch mein's ernst, MIKHAEL.\! Ich wollte dich nur vorwarnen...\! Ich bin schnell.\! Ich meine, WIRKLICH schnell.
+
+message_399:
+      faceset: MainCharacters_Faraway
+      faceindex: 14
+      text: \kelHey, ich hab's!\! Um es etwas fairer zu machen, kannst du deinen Roller benutzen, wenn du willst!
+
+message_400:
+      text: \n<DER EINZELGÄNGER>Verspotte mich ja nicht!
+
+message_401:
+      text: \n<DER EINZELGÄNGER>Komm schon, KEL!\!<br>Du kannst viel reden, aber kannst du auch Gas geben!?\! Sei kein Weichei!\! Zeig mir doch, was du drauf hast!
+
+message_402:
+      faceset: MainCharacters_Faraway
+      faceindex: 14
+      text: \kelSeufz...\! Muss ich mir das wirklich antun?
+
+message_403:
+      faceset: MainCharacters_Faraway
+      faceindex: 14
+      text: \kelEntschuldige, \n[8].\! Das wird echt nicht lange dauern.
+
+#PLAYER is at the finish line.
+#CAMERA pans to KEL and DER EINZELGÄNGER who are on the other side of the track.
+
+
+message_404:
+      text: \n<DER EINZELGÄNGER>Auf die Plätze!!
+
+message_405:
+      faceset: MainCharacters_Faraway
+      faceindex: 14
+      text: \kelFertig...
+
+message_406:
+      text: \n<DER EINZELGÄNGER and KEL>LOS!
+
+#KEL runs quickly, and the camera follows
+#After a few seconds,DER EINZELGÄNGER slowly walks into the screen from off CAMERA
+
+message_407:
+      text: \n<DER EINZELGÄNGER>Schnauf...\! Schnauf...\! Schnauf...\! Schnauf...\! Warte...\! ich...\! Schnauf...\! ich will eine Revanche...
+
+message_408:
+      faceset: MainCharacters_Faraway
+      faceindex: 14
+      text: \kelIch denke nicht, MIKHAEL...\! Es wird etwas spät, oder?
+
+message_409:
+      text: \n<DER EINZELGÄNGER>Schnauf...\! schnauf...\! schnauf...\! schnauf...\! schnauf...\! schnauf...\! schnauf...\! schnauf...
+
+#DER EINZELGÄNGER's wig falls off and he picks it up and puts it back on.
+
+message_410:
+      text: \n<DER EINZELGÄNGER>Schnauf...\! schnauf...\! schnauf...\! schnauf...\! schnauf...\! schnauf...\! schnauf...\! schnauf...\! Bitte...
+
+message_411:
+      text: \n<DER EINZELGÄNGER>Schnauf...\! Ich...\! schnauf...\! will...\! schnauf...\! eine...\! Revanche...\! schnauf...
+
+message_412:
+      faceset: MainCharacters_Faraway
+      faceindex: 14
+      text: \kelOkay...\! Ähh...\! Vielleicht ein andermal...\! Ich und \n[8] gehen jetzt mal...\! Man sieht sich, MIKHAEL..
+
+#cutscene ends
+
+
+message_413:
+      text: \n<DER EINZELGÄNGER>Schnauf... Schnauf... Schnauf... Schnauf... Schnauf... Schnauf... Schnauf... Schnauf... Verflucht seist du, KEL... Schnauf...
+
+message_414:
+      text: \n<DER EINZELGÄNGER>Das ist nicht das Ende... Schnauf... vom EINZELGÄNGER... Schnauf...
+
+#========================== BEBE================================
+
+#Location: WEITWEG-PARK running in place in an open area
+
+message_420:
+      text: \n<BEBE>Ich glaube, ich habe heute die Liebe meines Lebens gefunden...\! Ich hoffe, er bemerkt mich!
+
+#========================== BEBES MUTTER================================
+
+#Location: Candy Shop
+
+message_430:
+      text: \n<BEBES MUTTER>Schokolade ist der bester Freund von Mädchen!<br>Jedoch...\! sind Diamanten auch ziemlich weit oben...
+
+#========================== BILLY================================
+
+#Location: WEITWEG-PARK
+
+message_440:
+      text: \n<BILLY>Der Schmutz auf diesem Planeten...\! Da wird mir schlecht...\! Ich wünschte, ich könnte ihn...\! einfach auslöschen.
+
+#========================== WÄRTER===============================
+
+#Location: Graveyard
+
+message_450:
+      text: \n<WÄRTER>Hier ist es ziemlich still, was?\! Man kann den Lärm der Straßen garnicht hören. Heh... Hier gibt es nur umherwandernde Seelen...\! Und mich natürlich!
+
+message_451:
+      text: \n<WÄRTER>Was schaut ihr so? Ich bin noch nicht tot!
+
+message_452:
+      text: \n<WÄRTER>GWAHAHAHAHA!!
+
+#========================== DAPHNE & BOWEN===============================
+
+#Location: Church
+
+message_460:
+      text: \n<DAPHNE>Unsere Familie geht einmal pro Woche zur \c[11]KIRCHE\c[0] ...
+
+message_461:
+      text: \n<BOWEN>Manchmal zweimal...
+
+message_462:
+      text: \n<DAPHNE>Manchmal dreimal...
+
+
+#========================== POLLY===============================
+
+#Location: Basil's House
+
+#After cutscene: Polly
+message_470:
+      text: \n<POLLY>Abendessen ist bald fertig.\! Fühl dich hier wie zuhause!
+
+#After cutscene: Awkward Dinner
+message_471:
+      text: \n<POLLY>Du fragst dich wahrscheinlich, wer ich bin, stimmt's?\! Ich bin... nur eine Pflegerin, die sich um BASILs Großmutter kümmert.
+
+message_472:
+      text: \n<POLLY>Vor einigen Monaten haben BASILs Eltern mich als BASILs Betreuerin eingestellt, da sie aus Geschäftsgründen oft aus dem Land reisen.
+
+message_473:
+      text: \n<POLLY>Ich gebe mein Bestes, so viel wie möglich für BASIL zu tun, da seine Eltern nie zuhause sind, aber... seit ich hier bin, habe ich das Gefühl, dass BASIL versucht, mich zu vermeiden...
+
+message_474:
+      text: \n<POLLY>Wenn ich mir die Fotos von ihm in seinem Album ansehe, scheint er nichtmal dieselbe Person zu sein. Ich frage mich, ob ich etwas falsch mache...
+
+
+#==========================Preacher===============================
+
+#Location: Church
+
+message_480:
+      text: \n<PREDIGER>Hmm...\! Ich würde Kämpfe mitten während einer Predigt normalerweise nicht zulassen...\! aber das schien sehr wichtig zu sein.
+
+message_481:
+      text: \n<PREDIGER>Für die letzten paar Jahre ist dieses Mädchen AUBREY jede Woche hierher gekommen, aber nie hat sie mit irgendjemandem geredet.\! Ich habe es einige Male versucht, mit ihr zu reden... aber sie nennt mich immer...\! Schimpfwörter...
+
+message_482:
+      text: \n<PREDIGER>Sie scheint, sehr bekümmert zu sein.\! Vielleicht könnte sie Freunde gebrauchen.
+
+#==========================Sarah===============================
+
+#Location: Sarah's House
+
+message_490:
+      text: \n<SARAH>Oh, hi!\! Ich habe Aufruhr aus der Küche gehört.\! Ist Papas \c[4]EHERING\c[0] wieder in das Waschbecken gefallen?\! Das passiert ihm oft...\! Er weiß aber nicht, dass ich es weiß... Hehe...
+
+message_491:
+      text: \n<SARAH>Wie auch immer, hi! Ich bin SARAH!\! Schön, euch kennenzulernen!
+
+#Talk to SARAH again
+
+message_492:
+      text: \n<SARAH>Seit Mama in ihrem Gesundheitswahn ist, haben wir keine Chips oder Snacks mehr im Haus...\! aber...\! Ich schätze, Karotten und Sellerie schmecken auch gut...\! wenn man sie in Ranch-Dressing eintunkt...
+
+#==========================Sarah's Dad===============================
+
+#Location: Sarah's House (Ring in the sink quest)
+
+message_500:
+      text: \n<SARAHS VATER>Hmm...\! Hey, habt ihr eine große Chipstüte irgendwo rumliegen sehen?\! Ich könnte schwören, ich habe letztens erst eine riesige Tüte gekauft...
+
+#==========================Sarah's Mom===============================
+
+#Location: Sarah's House (Ring in the sink quest)
+
+message_510:
+      text: \n<SARAHS MUTTER>Meine Familie und ich sollten diese Woche eigentlich anfangen, gesund zu essen, aber der Geruch von \c[11]GINO'S PIZZA\c[0] ist so verlockend...\! Seufz...\! Vielleicht ist ab und zu etwas Fettiges doch in Ordnung...
+
+#==========================The Maverick's Dad===============================
+
+#Location: Church
+
+message_520:
+      text: \n<DER EINZELGÄNGERS MUTTER>Oh, meine Güte...\! Schnief...\! Sieht so aus, als wäre unser jüngster Sohn wieder nicht zur \c[11]KIRCHE\c[0] gegangen...
+
+message_521:
+      text: \n<DER EINZELGÄNGERS VATER>Seufz...\! MIKHAEL...\! Wo bist du nur?\! Warum musst du deiner Mutter nur solche Sorgen bereiten?
+
+#=========================================================================================
+# DAY 2 - DAY
+#=========================================================================================
+
+
+#==========================Aubrey===============================
+
+#Location: Gino's Pizza until Cutscene: Dropping off Stuff at Kel's
+
+message_530:
+      faceset: MainCharacters_Faraway
+      faceindex: 0
+      text: \aub...
+
+message_531:
+      text: AUBREY schaut nicht von ihrem Teller hoch.
+
+
+#==========================Basil===============================
+
+#Location: WEITWEG-PARK near the Secret Lake entrance.
+
+message_540:
+      faceset: MainCharacter_Basil
+      faceindex: 20
+      text: \basH-Hey...\! KEL...\! Hey, \n[8]...
+
+message_541:
+      faceset: MainCharacters_Faraway
+      faceindex: 20
+      text: \kelHey, BASIL!\! Schön, dich wieder unterwegs zu sehen!\! Geht es dir seit gestern wieder besser?
+
+message_542:
+      faceset: MainCharacter_Basil
+      faceindex: 20
+      text: \basHuh?\! G-Gestern?\! W-Wovon redest du?
+
+message_543:
+      faceset: MainCharacters_Faraway
+      faceindex: 20
+      text: \kelDu hattest gestern extremes Bauchweh, oder nicht?\! Deswegen bist du während dem Essen auf's Bad gegangen, oder?
+
+message_544:
+      faceset: MainCharacter_Basil
+      faceindex: 20
+      text: \basA-Ah...\! Oh, stimmt...
+
+message_545:
+      faceset: MainCharacters_Faraway
+      faceindex: 20
+      text: \kelWolltest du heute wieder mit uns abhängen?\! \n[8] ist nicht mehr so lange hier, weißt du...
+
+message_546:
+      faceset: MainCharacter_Basil
+      faceindex: 20
+      text: \basAhh...\! Mmmm...\! Ich weiß nicht...
+
+message_547:
+      faceset: MainCharacter_Basil
+      faceindex: 20
+      text: \basV-Vielleicht morgen...
+
+message_548:
+      faceset: MainCharacter_Basil
+      faceindex: 20
+      text: \basMir geht...\! es nicht so gut.
+
+message_549:
+      faceset: MainCharacters_Faraway
+      faceindex: 20
+      text: \kelAwww...\! Alles klar.\! Man sieht sich später!
+
+message_550:
+      faceset: MainCharacter_Basil
+      faceindex: 20
+      text: \basO-Okay...
+
+#BASIL is gone after leaving this map.
+
+
+#==========================ANGEL===============================
+
+#Location: Gino's Pizza until Cutscene: Dropping off Stuff at Kel's
+
+message_560:
+      text: \n<ANGEL>FWAAAAAAAAAAAA!!
+
+message_561:
+      text: \n<ANGEL>\n[8] und KEL!\! Was macht ihr denn hier!?\! Wisst ihr etwa nicht, dass es unhöflich ist, Leute zu stören, während sie essen!?
+
+
+#==========================CHARLIE (CHARLENE)===============================
+
+#Location: Gino's Pizza until Cutscene: Dropping off Stuff at Kel's
+
+message_570:
+      text: \n<CHARLIE>H-Hallo...
+
+#==========================Kim===============================
+
+#Location: Gino's Pizza until Cutscene: Dropping off Stuff at Kel's
+
+message_580:
+      text: \n<KIM>Ewwww...\! Es sind Nerds!\! Grummel, grummel...<br>Lasst uns alleine! Wir haben nichts mit euch zu tun!
+
+#==========================The Maverick===============================
+
+#Location: Gino's Pizza until Cutscene: Dropping off Stuff at Kel's
+
+message_590:
+      text: \n<DER EINZELGÄNGER>Ah...\! meinä Zungäh...
+
+
+#==========================VANCE==============================
+
+#Location: Gino's Pizza until Cutscene: Dropping off Stuff at Kel's
+
+message_600:
+      text: \n<VANCE>Mampf...\! mampf...\! mampf...\! mampf...\! mampf...\! mampf...\! mampf...\! mampf...\! pizza...\! mampf...\! mampf...\! mampf...\! mampf...\! mampf...\! mampf...\! mampf...\! mampf...
+
+#==========================MALERIN==============================
+
+#Location: Artist's House (Lost Lucas)
+
+message_610:
+      text: \n<MALERIN>Seufz...\! LUCAS...\! Mach mir doch nicht solche Sorgen.
+
+
+#==========================BEBE==============================
+
+#Location: Gino's Pizza
+
+message_620:
+      text: \n<BEBE>Ach du meine Güte...\! Mein Schwarm sitzt dort...\! Was mach ich nur?\! Was mach ich nur?\! Durchatmen, Bebe...\! Du musst cool bleiben!
+
+#==========================BEBES MUTTER==============================
+
+#Location: Gino's Pizza
+
+message_630:
+      text: \n<BEBES MUTTER>Meine älteste Tochter kommt heute Abend von der Uni zurück! Sie hat bestimmt viele Tipps dafür, was heutzutage hip und cool ist... Hoho! Ich kann's kaum erwarten!
+
+#==========================BILLY (Recycultist)==============================
+
+#Location: WEITWEG-PARK in a Recycultist's Outfit
+
+message_640:
+      text: \n<RECYCULTIST>Brüder und Schwestern, wir alle müssen akzeptieren, dass wir MÜLL sind.\! Auch wenn wir MÜLL sind, solange wir bioabbaubar bleiben, ist es noch nicht zu spät für uns.
+
+#==========================BRENT==============================
+
+#Location: Brent's House: Sneaking out Brent
+#After Sneaking Out Brent
+#Location: WEITWEG-PARK running in circles
+
+message_650:
+      text: \n<BRENT>\sinv[1]Aaaaaaaahhhhhhhhhhhhh!!\! Das macht so viel Spaß!
+
+#==========================BRENTS MUTTER==============================
+
+#Location: Town Plaza Gossiping with Kim's Mom
+
+message_660:
+      text: \n<BRENTS MUTTER>Wie ich schon sagte...\! kannst du es glauben...\! und ihr...\! aber dann...\! mhmm...
+
+#==========================WÄRTER==============================
+
+#Location: Graveyard
+
+message_670:
+      text: \n<WÄRTER>Etwas ist verkehrt in der Luft...\! Die Seelen...\! Sie heulen...
+
+message_671:
+      text: \n<WÄRTER>Mir scheint es, als bereiten sie eine Willkommensfeier vory...\! Jemand in der Nähe muss ihnen wohl bald Gesellschaft leisten.
+
+message_672:
+      text: \n<WÄRTER>Eh?\! Was schaut ihr so?\! Denkt ihr ich bin irre oder was?
+
+message_673:
+      text: \n<WÄRTER>GWAHAHAHAHA!!\! Urteilt nicht so voreilig!\! Ihr würdet es auch glauben, hättet ihr gesehen was ich gesehen habe!
+
+
+#==========================CHARLIES MUTTER==============================
+
+#Location: Charlie's House
+
+message_680:
+      text: \n<CHARLIES MUTTER>Hallo nochmal! Ich muss euch erneut dafür danken, dass ihr mir gestern meine Medizin gebracht habt... Wisst ihr, ihr erinnert mich an zwei meiner Söhne!
+
+message_681:
+      text: \n<CHARLIES MUTTER>Sie sind sehr verschieden, aber verstehen sich wirklich gut. Leute sagen immer, sie gleichen sich gegenseitig aus... Hek...hek...
+
+message_682:
+      text: \n<CHARLIES MUTTER>Es mag nicht so scheinen, aber ich werde dieses Jahr 64! Ich habe sieben Kinder, aber alle sind ausgezogen außer mein ältester Sohn und meine jüngste Tochter. Mein ältester Sohn verlässt aber nie sein Zimmer, also wird er wohl nie gehen...
+
+#==========================Cris's Dad==============================
+
+#Location: WEITWEG-PARK
+
+message_690:
+      text: \n<CRIS' VATER>Puh...\! Frikadellen zu machen ist harte Arbeit...\! Aber wenn ich einmal in den zarten, saftigen Burger reinbeiße, wird es sich lohnen.\! Mmm...\! Ich kann ihn jetzt schon fast schmecken...
+
+message_691:
+      text: \n<CRIS' MUTTER>Schätzchen, pass auf!\! Die Frikadellen brennen an!
+
+message_692:
+      text: \n<CRIS' VATER>Oh Mist!\! Danke, Schatz. Das war knapp...
+
+#==========================Cris's Mom==============================
+
+#Location: WEITWEG-PARK
+
+message_693:
+      text: \n<CRIS' MUTTER>Was ein schöner Tag für ein Picknick!\! Ich habe meine Spezialitäten mitgenommen...\! Hühnerpastete, Zitronenkuchen und natürlich meinen weltberühmten Apfelkuchen!
+
+#==========================CURTSEY==============================
+
+#Location: Hobbeez
+
+message_700:
+      text: \n<CURTSEY>Ich arbeite im \c[11]SÜßWARENLADEN\c[0], aber ich bin während Pausen gerne hier! Es gibt immer was Neues zu sehen, daher wird mir nie langweilig.
+
+
+#==========================GINO==============================
+
+#Location: Gino's Pizza
+
+message_710:
+      text: \n<GINO>...
+
+
+#=========================HECTOR (DOG)==============================
+
+#Location: Player's Street
+
+message_720:
+      text: \n<HECTOR>Wuff!\! Wuff!\! Wuff!\! Wuff!\! Wuff!\! Wuff!\! Wuff!\! Wuff!\! Wuff!\! Wuff?\! (Bin ich ein braver Junge?)
+
+
+#=========================JESSES VATER==============================
+
+#Location: WEITWEG-PARK
+
+message_730:
+      text: \n<JESSE>Hey, Freunde!\! Schön euch zu sehen.\! Diese neuen RECYCULTIST-Leute, die in letzter Zeit aufkreuzen, machen hier große Veränderungen!
+
+message_731:
+      text: \n<JESSE>Das ist das erste Mal, dass ich so viele Leute sehe, die Müll aufsammeln. Das macht meine Arbeit um einiges leichter... Har har...
+
+message_732:
+      text: \n<JESSE>Irgendwas ist an ihnen aber verdächtig...
+
+
+#=========================JOY==============================
+
+#Location: Joy's House (Sneaking out Joy quest)
+
+
+message_740:
+      text: \n<JOY>Hop! \}Und-\{Hop! \}Und-\{Hop! Hop! Hop!
+
+#=========================JOYs VATER==============================
+
+#Location: Supermarket talking to AYEE
+
+message_750:
+      text: \n<JOYs VATER>嗨妈，你今天好吗？
+
+message_751:
+      text: \n<AYEE>有点忙，但还可以! JOY 好吗?
+
+message_752:
+      text: \n<JOYs VATER>她正在读书...很努力!
+
+message_753:
+      text: Du verstehst nichts von was sie sagen.
+
+
+#=========================KAREN==============================
+
+#Location: Sean's House
+
+message_760:
+      text: \n<KAREN>Wir sind gerade dabei, unsere neue Tapete einzurichten! Danach gehen wir zum \c[11]OTHERMART\c[0], um Einkäufe für morgen zu erledigen... So beschäftigt!
+
+#=========================KELS VATER==============================
+
+#Location: Hardware Store Garden
+
+#Exclamation on Kel
+
+message_770:
+      faceset: MainCharacters_Faraway
+      faceindex: 20
+      text: \kelUh-oh... Hey... uh... \n[8]... Lass uns woanders hingehen!
+
+message_771:
+      faceset: MainCharacters_Faraway
+      faceindex: 20
+      text: \n<KELs VATER>KEL! Bist du das? Was machst du denn hier? Solltest du nicht etwas für deine Mutter besorgen?
+
+message_772:
+      faceset: MainCharacters_Faraway
+      faceindex: 20
+      text: \kelOh, hi PAPA! Hab dich dort garnicht gesehen! Heh heh...
+
+message_773:
+      faceset: MainCharacters_Faraway
+      faceindex: 20
+      text: \kelKomm schon, \n[8]... Wir müssen gehen...
+
+message_774:
+      faceset: MainCharacters_Faraway
+      faceindex: 20
+      text: \n<KELs VATER>Oh, alles klar. Bis später, Champ!
+
+
+#=========================KIMS MUTTER==============================
+
+#Location: Town Plaza Gossiping with Kim's Mom
+
+message_780:
+      text: Sowie das eine Mal, als wir...\! ja...\! und dann...\! ehrlich gesagt...\! ja, absolut...
+
+
+#=========================LUCAS (DOG)==============================
+
+#LOCATION: Player's Street (Lost Lucas quest)
+
+message_790:
+      text: Wuff, wuff! Wuff!
+
+
+#=========================POLLY==============================
+
+#LOCATION: Artist's House
+
+message_800:
+      text: \n<POLLY>Sonnenblumen sind meine Lieblingsblumen...
+
+#=========================PREDIGER==============================
+
+#LOCATION: Church
+
+message_810:
+      text: \n<PREDIGER>Den ganzen Tag hatte ich ein komisches Gefühl über den Friedhof.\! Das letzte Mal, als das vorkam, war als...\! Schon gut...\! Es muss reiner Zufall sein.
+
+
+#=========================SARAH==============================
+
+#LOCATION: Sarah's House
+
+message_820:
+      text: \n<SARAH>Mama und Papa haben sich in letzter Zeit echt viel gestritten...\! Ich hoffe, es wird alles gut.
+
+
+#=========================SARAHs VATER==============================
+
+#Location: Gino's Pizza
+
+message_830:
+      text: \n<SARAHS VATER>Meine Frau sagt mir ständig, ich werde dicker und fetter, aber ich kann einfach nicht anders, wenn wir so nah an \c[11]GINO'S PIZZA\c[0] wohnen!\!
+
+message_831:
+      text: \n<SARAHS VATER>Seufz...\! Ich sollte mir aber wirklich nichts holen.\! Letzte Nacht hat meine Frau Pepperoni in meinem Atem gerochen und wurde wirklich sauer...
+
+
+#=========================SARAH's MOM==============================
+
+#Location: Sarah's House (Toilet seat quest)
+
+message_840:
+      text: \n<SARAHS MUTTER>Mein Mann ist so ein Depp! Wir sollten eigentlich auf Familiendiät sein, aber ich habe letzte Nacht Pepperoni in seinem Atem gerochen!
+
+#=========================SEAN==============================
+
+#Location: SEAN'S HOUSE
+
+message_850:
+      text: \n<SEAN>Schnauf...\! Schnauf...\! Das ist harte Arbeit, aber es wird sich auszahlen!
+
+
+#=========================================================================================
+# DAY 2 - SUNSET
+#=========================================================================================
+
+
+#=========================BASIL==============================
+
+#Location: BASIL'S ROOM IN BED
+
+message_860:
+      faceset: MainCharacter_Basil
+      faceindex: 20
+      text: \n<BASIL>\n[8]...\! Es...\! gibt keinen Ausweg aus dieser Situation... oder?
+
+message_870:
+      faceset: MainCharacters_Faraway
+      faceindex: 20
+      text: \kelArmer BASIL... In den letzten Tagen musste er viel durchmachen...
+
+message_880:
+      faceset: MainCharacters_Faraway
+      faceindex: 40
+      text: \herBASIL...\! Du musst müde sein.\! Bitte ruhe dich aus...\! Wir schauen morgen nochmal nach dir.
+
+#=========================ANGEL==============================
+
+#Location: Angel's Bedroom
+
+message_890:
+      text: \n<ANGEL>FWAAAAAAAAAAAAA!!! Was macht ihr denn in meinem Haus!?\! Hat meine Schwester euch reingelassen?
+
+message_891:
+      text: \n<ANGEL>Fufufu...\! Das ist der perfekte Moment, euch zu einer Revanche herauszufordern!\! Bereit oder nicht, es geht los!
+
+#[Battle: Angel]
+
+#player win
+message_892:
+      text: \n<ANGEL>Hmph... was ihr nicht wusstet, ist dass ich diesen Kampf nur als Analyse eurer Stärken und Schwächen genutzt habe... Nächstes Mal wird euer Sieg nicht so leicht sein!
+
+#player lose
+message_893:
+      text: \n<ANGEL>Hmph... Ich kann sehen, dass ihr mich geschont habt... Ich mag zwar ein Kind sein, aber ich bin nicht blöd!
+
+
+#=========================CHARLIE==============================
+
+#Location: Charlie's Bedroom
+
+#Charlie explanation mark
+
+message_900:
+      faceset: MainCharacters_Faraway
+      faceindex: 20
+      text: \kelWarte mal...\! Du bist CHARLENE?\! Ich dachte die ganze Zeit, dein Name sei CHARLIE...
+
+message_901:
+      text: \n<CHARLENE>... Hallo...\! Mein Name ist...\! CHARLENE...
+
+message_902:
+      faceset: MainCharacters_Faraway
+      faceindex: 20
+      text: \kelWarum sagst du's denn nicht gleich!?
+
+message_903:
+      text: \n<CHARLENE>...
+
+
+#=========================KIM==============================
+
+#Location: Kim's Bedroom (Mom's House) staring at the photo of AUBREY and KIM next to her bed.
+
+message_910:
+      text: \n<KIM>AUBREY...
+
+message_911:
+      text: \n<KIM>Ah!\! Grummel...\! Grummel...\! Wieso denkt ihr, ihr könntet einfach in das Zimmer von anderen latschen!?\! Ihr müsst euch mit meiner Mutter angefreundet haben, was?\! Sie lässt jeden rein, der ihr zuhört...
+
+#====================DER EINZELGÄNGER==============================
+
+#Location: The Maverick's Bedroom
+
+message_920:
+      text: \n<DER EINZELGÄNGER>Mein Bruder und meine Schwester sind echt ein Klotz am Bein, was? Hier sind alle gleich!
+
+#====================VANCE==============================
+
+#Location: Vance's Bedroom (Mom's House)
+
+message_930:
+      text: \n<VANCE>Mampf... Mampf... Mampf... \sinv[1]Mmm... \c[3]SÜßIGKEITEN\c[0]...\sinv[0]
+
+message_931:
+      text: \n<VANCE>Oh, hey. Was geht?
+
+message_932:
+      faceset: MainCharacters_Faraway
+      faceindex: 20
+      text: \kelHuh? Du bist so ruhig... Willst du uns nicht zu einem Kampf herausfordern oder so?
+
+message_933:
+      text: \n<VANCE>Hmm... Nein, ich habe keinen Stress mit euch. KIM und ich machen einfach immer dieselben Dinge.
+
+message_934:
+      text: \n<VANCE>Ich bin nur ein Jahr älter als sie, aber keiner glaubt mir wegen meinem Bart...
+
+message_935:
+      text: \n<VANCE>Ich weiß das sie eine große Klappe hat, aber sie hat auch ein großes Herz. Und ich? Ich bin wohl ihr Muskel! Gahaha...
+
+
+#====================MALERIN==============================
+
+#Location: Artist's house
+
+message_940:
+      text: \n<MALERIN>Ich plane mein nächstes Gemälde, aber ich weiß nicht wo ich anfangen soll... Es ist so schwer, sich etwas Gutes einfallen zu lassen!
+
+
+#====================Bebe==============================
+
+#Location: Bebe's House
+
+message_950:
+      text: \n<BEBE>Ich überlege, meinem Schwarm einen Brief darüber zu schreiben, was ich für ihn empfinde...
+
+#====================Bebe's Mom==============================
+
+#Location: Bebe's House (Pick up furniture quest)
+
+message_960:
+      text: \n<BEBES MUTTER>Meine Kaffeemaschine steht in der Küche. Vorsicht... Der Kaffee ist sehr stark!
+
+#====================Brandi==============================
+
+#Location: Bebe's House
+
+message_970:
+      text: \n<BRANDI>Oh, hey!\! Ich bin BRANDI...\! Ich bin heute von der Uni zurückgekommen.\! Ich vermisse die Stadt jetzt schon!\! Es ist hier einfach viel zu ruhig.
+
+#====================BRENTS MUTTER==============================
+
+#Location: Hardware Store looking at flowers
+
+message_980:
+      text: \n<BRENTS MUTTER>Manchmal bin ich einfach hier, um die Blumen anzuschauen. Ich denke darüber nach, eine ins Haus zu stellen, aber ich habe gehört, das manche Blumen Ameisen anlocken...
+
+message_981:
+      text: \n<BRENTS MUTTER>Es wird heiß weil Sommer ist... Ich will bloß keine Ameisen in meinem Haus haben!
+
+
+#====================WÄRTER==============================
+
+#Location: Graveyard (Lost dentures quest)
+
+message_990:
+      text: \n<WÄRTER>Hiwfä!\! Meinä Zähne sind wäg!!\! Kannste sie pfinden!?
+
+#After finding teeth:
+
+message_991:
+      text: \n<WÄRTER>GWAHAHAHA!!
+
+message_992:
+      text: \n<WÄRTER>Danke, Leute.\! Manchmal mögen die Geister es, mir Streiche zu spielen!
+
+message_993:
+      text: \n<WÄRTER>Sie wollen nichts böses tun...\! Meine alten Augen sind einfach nicht, was sie einst waren...
+
+
+#====================CRIS' MUTTER==============================
+
+#Location: Supermarket
+
+message_1000:
+      text: \n<CRIS' MUTTER>La-di-dee!\! La-di-da!\! La-di-dee!\! La-di-da!
+
+#====================CURTSEY==============================
+
+#Location: Pharmacy
+
+message_1010:
+      text: \n<CURTSEY>MISS CANDICE sagte mir, ich soll Schmerztabletten für ihre Kopfschmerzen kaufen. Anscheinend klauen viele Kinder hier \c[3]SÜßIGKEITEN\c[0]... Sie sind wohl echt mutig. MISS CANDICE ist echt furchteinflößend, wenn sie sauer ist...
+
+#====================KAREN==============================
+
+#Location: Supermarket
+
+message_1020:
+      text: \n<KAREN>Hmmm... Ich habe noch nie für eine ganze Party gekocht... Vielleicht war ich dieses Mal etwas zu ambitioniert...
+
+message_1021:
+      text: \n<KAREN>Sollte ich qualitativer oder quantitativer einkaufen? Wie soll ich wissen, welche Marke ich kaufen soll? Sind grüne und rote Zwiebeln gleich?
+
+message_1022:
+      text: \n<KAREN>Seufz... Vielleicht hätten wir einfach Lieferservice bestellen sollen.
+
+message_1023:
+      text: \n<SEAN>Hey, stress dich nicht so sehr, KAREN. Ich glaube an dich! Außerdem... wenn sonst niemand dein Essen isst, werde zumindest ich es tun!
+
+message_1024:
+      text: \n<KAREN>Oh, SEAN... Wie süß von dir. Womit habe ich dich nur verdient?
+
+
+#====================KELS VATER==============================
+
+#After Cutscene: Polly's Worry:
+
+#Location: Kel's Living Room watching TV
+
+message_1030:
+      text: \n<KELS VATER>Ich habe eurer Mutter Hilfe angeboten, Abendessen zu kochen, aber ihr wisst wie sie ist... Dann sitze ich einfach hier und schaue fern.
+
+#After Cutscene: Kel's Mom
+#Location: Kel's Dining Room
+
+message_1031:
+      text: \n<KELS VATER>Denkt daran, eurer Mutter zu sagen, wie gut ihr Essen schmeckt!
+
+#After Cutscene: Convincing Kel's Mom:
+#Location: Kel's Living Room
+
+message_1032:
+      text: \n<KELS VATER>Mach dir keine Sorgen um deine Mutter, HERO. Sie vermisst dich einfach! Ihr wird es besser gehen, wenn sie sich beruhigt hat... Geht ruhig und macht euer Ding! Ich stelle sicher, dass es ihr gut geht.
+
+#KELS VATER leaves to KEL'S PARENT'S ROOM.
+#Examine KEL'S PARENT'S ROOM.
+
+message_1033:
+      text: Die Tür ist verschlossen.
+
+#====================KELS MUTTER==============================
+
+#After Cutscene: Polly's Worry:
+
+#Location: Kel's Living Room
+
+message_1040:
+      text: \n<KELS MUTTER>Okay, du kannst gehen...\! Aber sei zum Abendessen wieder zuhause!
+
+
+#====================Kim and Vance's Mom==============================
+
+#Location: Kim's House
+message_1050:
+      text: \n<KIMS MOM>Schnipp... schnipp... schnipp... schnipp... schnipp...
+
+message_1051:
+      text: \n<KIMS MOM>Mein Sohn und meine Tochter sollten jetzt zuhause sein! Was ist so wichtig, das sie davon aufhält, mit ihrer Mutter abzuhängen!?
+
+message_1052:
+      text: \n<KIMS MOM>SCHNIPP, SCHNIPP, SCHNIPP, SCHNIPP, SCHNIPP, SCHNIPP, SCHNIPP!!
+
+#====================Polly==============================
+
+#Location: Basil's House
+message_1060:
+      text: \n<POLLY>Ich habe gemerkt, dass BASIL viel in den Park geht, aber als ich geschaut habe war er nicht da... Seiner Großmutter geht es nicht gut...
+
+message_1061:
+      text: \n<POLLY>Ich wollte ihn auf das Unvermeidliche vorbereiten, aber als ich geredet habe, zitterte er und ist weggerannt... Seufz... Ich hoffe, ihm geht's gut...
+
+
+#====================SARAH==============================
+
+#Location: Sarah's House
+
+message_1070:
+      text: \n<SARAH>Mama und Papa sind noch nicht nach Hause gekommen. Es wird spät... Wo sind sie nur?
+
+#talk again
+
+message_1071:
+      text: \n<SARAH>Ich versuche, gesund zu essen, aber wir haben kein Ranch-Dressing mehr... Wie soll ich jetzt nur Karotten und Sellerie essen?
+
+#====================SARAHS VATER==============================
+
+#Location: Candy Shop (Anniversary chocolate quest)
+
+message_1080:
+      text: \n<SARAHS VATER>Ihr habt echt mein Leben gerettet. Ruft mich an, wenn ihr Hilfe braucht. Ich bin euch was schuldig!
+
+#====================SARAHS MUTTER=============================
+
+#Location: Gino's Pizza (Anniversary Pizza quest)
+
+message_1090:
+      text: \n<SARAHS MUTTER>Oh, Schatz! Du lässt mich erröten... Ich werde mich für immer an diesen Jahrestag erinnern!
+
+
+#====================SEAN=============================
+
+#Location: Supermarket
+
+message_1100:
+      text: \n<KAREN>Hmm... Ich habe noch nie für eine ganze Party gekocht... Vielleicht war ich dieses Mal etwas zu ambitioniert...
+
+message_1101:
+      text: \n<KAREN>Sollte ich qualitativer oder quantitativer einkaufen? Wie soll ich wissen, welche Marke ich kaufen soll? Sind grüne und rote Zwiebeln gleich?
+
+message_1102:
+      text: \n<KAREN>Seufz... Vielleicht hätten wir einfach Lieferservice bestellen sollen.
+
+message_1103:
+      text: \n<SEAN>Hey, stress dich nicht so sehr, KAREN. Ich glaube an dich! Außerdem... wenn sonst niemand dein Essen isst, werde zumindest ich es tun!
+
+message_1104:
+      text: \n<KAREN>Oh, SEAN... Wie süß von dir. Womit habe ich dich nur verdient?
+
+
+#=========================================================================================
+# DAY 3 - DAY
+#=========================================================================================
+
+#Location: Hobbeez looking at trading cards in the display case. (Pet Rock Fight)
+
+message_1110:
+      text: \n<ANGEL>Schaut euch mal all diese super seltenen und teuren Sammelkarten an... Ich will meine Sammlung vervollständigen, aber ich habe nur 5$! Es ist schwer, ein Kind zu sein...
+
+message_1111:
+      text: \n<ANGEL>Woah, was ist das!? Ich habe einen 20$-Schein in meiner Gesäßtasche gefunden! Heute ist wohl mein Glückstag! Fufufufu... Dann kann ich mir wohl wenigstens eine super seltene Karte leisten...
+
+#If player completes quest: Bring Angel home
+
+message_1112:
+      text: ANGEL ist wie fest gefroren.\! Es wird eine Weile dauern, bis er sich erholt.
+
+#==============CHARLIE (CHARLENE)======================================================
+
+#Location: Hardware Store - Flower Quest
+
+message_1120:
+      text: \n<CHARLIE>H-Hallo...
+
+message_1121:
+      text: \n<CHARLIE>Hier... Für dich...
+
+message_1122:
+      text: Du erhältst eine \c[4]BLUMENSPANGE\c[0].
+
+message_1123:
+      text: \n<CHARLIE>Blumen sind so schön...
+
+
+#==============KIM======================================================
+
+#Location: Park (Ding-Dong)
+
+message_1130:
+      text: \kimHey, schaut mal! Es sind AUBREY und die Nerds!
+
+message_1131:
+      text: \aubHey, KIM. Wie geht's?
+
+message_1132:
+      text: \kimGanz gut, ganz gut. Nachdem ich und der Rest der Gang uns diesen komischen Müllhaufen angeschaut haben, sind wir gegangen, um unser eigenes Ding zu machen.
+
+message_1133:
+      text: \kimPapa hat gesagt, dass er uns heute Abend zu einer tollen Party bringt... sollte cool werden.
+
+message_1134:
+      text: \vanAwwww, yeah! Gratis Essen!
+
+message_1135:
+      text: \kimUm die Zeit totzuschlagen, werden wir unser Lieblingsspiel spielen... KLINGELSTREICHE!
+#Ding Dong Ditch: Explanation
+
+
+#==============The Maverick===========================================
+
+#Location: Hobbeez
+
+message_1140:
+      text: \n<EINZELGÄNGER>Ich versuche schon den ganzen Tag, dieses Spiel zu gewinnen, aber ich schaffe es nicht. Seufz... Wieso ist es so schwer, etwas zu finden, das ich wirklich kann!?
+
+#==============VANCE===========================================
+#Location: Park (Ding-Dong)
+
+message_1150:
+      text: \vanSo... viel... Müll...
+
+#==============MALERIN===========================================
+#Location: Artist's House (Bring back Angel)
+
+message_1160:
+      text: \artAhh...\! Endlich, Ruhe und Frieden...
+
+#==============AUBREYS MUTTER===========================================
+#Location:  Aubrey's House
+
+message_1170:
+      text: \n<AUBREYS MUTTER>...
+
+#==============BEBE===========================================
+#Location:  WEITWEG-PARK
+
+message_1180:
+      text: \n<BEBE>Ich habe meiner großen Schwester von meinem Schwarm erzählt! Sie wollte, dass ich ihn ihr zeige, also stehen wir dort, wo er normalerweise mit seinen Freunden abhängt...
+
+#==============BEBES MUTTER===========================================
+#Location:  WEITWEG-PARK
+
+message_1190:
+      text: \n<BEBES MUTTER>Ah, was ich nur für meine Töchter kochen soll... Meine Tochter BRANDI kommt endlich von der Uni zurück! Wobei... ich koche nicht sehr oft. Vielleicht sollten wir einfach woanders essen gehen.
+
+#==============BRANDI===========================================
+#Location:  WEITWEG-PARK
+
+message_1200:
+      text: \n<BRANDI>Als BEBE mir von ihrem Schwarm erzählt hat, musste ich ihn selbst sehen.\! Noch ist er nicht gekommen...\! aber BEBE sagte mir, wir schauen nach jemandem mit einer blonden Perücke.
+
+message_1201:
+      text: \n<BRANDI>Seufz...\! BEBE hat schlechten Geschmack, was Jungs angeht...\! Wer wird sich nur um sie kümmern, wenn ich zurück in die Uni gehe?
+
+#BRANDI: If Hero is the leader
+
+message_1202:
+      text: \n<BRANDI>Aye! HERO, du bist es! Hehe... Es ist komisch, dich hier zu sehen statt in der Uni. Du besuchst wohl auch deine Familie... Familie ist toll und so, aber ich kann's kaum erwarten, wieder meine Freunden zu sehen... Zuhause passiert nie was Interessantes, weißt du?
+
+#==============BRENT===========================================
+#Location:  Brent's House
+
+message_1210:
+      text: \n<BRENT>Hey, Tutoren. Danke, dass ihr mir mit diesen Arbeitsblättern geholfen habt... Ich denke, ich schaffe sie jetzt alleine, aber ihr wart eine große Hilfe!
+
+#If you snuck out Brent
+
+message_1211:
+      text: \n<BRENT>Psst... aber ich wollte Ihnen eigentlich dafür danken, dass ihr mir gestern habt, mich rauszuschleichen... Hehehe... Sie sind der coolste Tutor überhaupt!
+
+#==============BRENTS MUTTER===========================================
+#Location:  Kim's House
+
+message_1220:
+      text: \n<BRENTS MUTTER>Wie ich eben sagte... kannst du es glauben... und sie... aber dann... mhmm...
+
+#==============WÄRTER===========================================
+#Location:  Graveyard
+
+message_1230:
+      text: \n<WÄRTER>Die Seelen heulen schon den ganzen Tag...\!<br>Ich bete für diese kleine Stadt. Heute Nacht wird jemand trauern.
+
+#==============CHARLIES MUTTER===========================================
+#Location:  Charlie's House
+
+message_1240:
+      text: \n<CHARLIES MUTTER>Oh, du hast also neue Freunde! Hallo! Willkommen!
+
+message_1241:
+      text: \n<CHARLIES MUTTER>Wie nett von euch allen, eine einsame, alte Dame an so einem schönen Tag zu besuchen. Es gibt bestimmt viele bessere Dinge, die ihr mit eurer Zeit machen könntet.
+
+#==============CRIS' VATER===========================================
+#Location:  Cris's House (where is the remote quest 3)
+
+message_1250:
+      text: \n<CRIS' VATER>Hey!\! Das war ein später Treffer!\! Wo zum Teufel ist die Flagge!?
+
+#==============CRIS' MUTTER===========================================
+#Location:  Cris's House
+
+message_1260:
+      text: \n<CRIS' MUTTER>Mein letzter Kuchen roch etwas komisch, als ich ihn aus dem Ofen genommen habe...
+
+#==============Daphne and Bowen===========================================
+#Location:  The Mavericks House (Pet Rock Fight)
+
+message_1270:
+      text: \n<DAPHNE>Unser kleiner Bruder MIKHAEL hat kein Brot gegessen, seit er 6 Jahre alt war...
+
+message_1271:
+      text: \n<BOWEN>Bald wird er sein Schicksal akzeptieren... Es gibt kein Entkommen...
+
+message_1272:
+      text: \n<DAPHNE>Albernes Brüderchen...
+
+message_1273:
+      text: \n<BOWEN>Albernes Brüderchen...
+
+#==============JESSE===========================================
+#Location:  Jesse's House
+
+message_1280:
+      text: \n<JESSE>Seufz... Als ich klein war, hatte ich zwei sehr gute Freunde, BRENT und JOY, aber sie wurden sehr ernst was Schule angeht, also hänge ich nicht mehr mit ihnen ab. Wie es ihnen wohl geht...
+
+#==============JESSES VATER===========================================
+#Location:  WEITWEG-PARK
+
+message_1290:
+      text: \n<JESSES VATER>Ich weiß nicht wie, aber dieser Müllhaufen ist hier plötzlich aufgetaucht. Ich habe die Vermutung, es waren die RECYCULTISTS...
+
+message_1291:
+      text: \n<JESSES VATER>Seufz... ich werde hier wohl für immer putzen.
+
+
+#==============JOY===========================================
+#Location:  Joy's House
+
+message_1300:
+      text: \n<JOY>Mein großer Bruder MICHAEL hat mir gesagt, er geht heute von zuhause, um Musiker zu werden... Ich sollte eigentlich nicht, aber es ist mir bei Papa ausgerutscht. Ich hoffe, Michael wird nicht sauer auf mich sein...
+
+#==============JOYS VATER===========================================
+#Location:  Joy's House (Michael's Lunch quest)
+
+message_1310:
+      text: \n<JOYs VATER>Schnief... Oh... Die letzten Jahre war ich so streng zu ihm...
+
+message_1311:
+      text: \n<JOYs VATER>Ich...\! Ich hoffe, ihn eines Tages wieder zu sehen...\! <br>Vielleicht sogar im Fernsehen!\! Haha!
+
+#==============KAREN===========================================
+#Location:  Sean's House (Cooking help quest)
+
+message_1320:
+      text: \n<KAREN>Danke nochmal für eure Hilfe. Ihr seid wirklich nette Leute! Man sieht sich auf der Feier heute Abend!
+
+message_1321:
+      text: \n<SEAN>Wir werden euch erwarten!
+
+#==============KELS VATER===========================================
+#Location: WEITWEG-PARK (Forgot Meat quest)
+#Finish Forgot Meat (Before Sunset)
+
+message_1330:
+      text: \n<KELS VATER>Wisst ihr, ihr solltet am Abend nochmal vorbeischauen. Ihr könnt gerne ein paar von den leckeren Burgern haben!
+
+message_1331:
+      text: \n<KELS VATER>Ihr solltet euch heute vergnügen. Das Wetter ist himmelhaft!
+
+#==============KELS MUTTER===========================================
+#Location:  WEITWEG-PARK
+
+message_1340:
+      text: \n<KELS MUTTER>Hallo Jungs! Schön zu sehen, dass ihr wenigstens etwas Zeit mit mir verbringt!
+
+message_1341:
+      text: \n<KELS MUTTER>Bitte bleibt doch eine Weile. Wir haben heute das beste Wetter!
+
+#==============KIM and VANCES VATER===========================================
+#Location:  HARDWARE STORE (fix pipe quest 3)
+
+
+message_1350:
+      text: \n<VANCES VATER>Hey!\! Wisst ihr, ich habe einen Sohn und eine Tochter in eurem Alter!\! Sie heißen VANCE und KIM!
+
+message_1351:
+      text: \n<VANCES VATER>Ihre Mutter und ich sind schon geschieden, seit sie jung waren...
+
+message_1352:
+      text: \n<VANCES VATER>Ich sehe sie nicht so oft wie ich wollen würde, also verwöhne ich sie mit \c[3]SÜßIGKEITEN\c[0], wenn ich sie sehe! Heh heh...
+
+message_1354:
+      text: \n<VANCES VATER>Sie sind gute Kinder...\! wirklich!\! Manchmal  mache ich mir Sorgen, weil sie immer in Schwierigkeiten geraten, aber wenigstens haben sie sich gegenseitig...
+
+#==============KIM and VANCES MUTTER===========================================
+#Location:  Kim's House
+
+message_1360:
+      text: \n<KIMS MUTTER>Wie das eine Mal, als wir...\! ja...\! und dann...\! ehrlich gesagt glaube ich, dass...\! ja, definitiv...
+
+#==============Lucas(Dog)===========================================
+#Location:  Artist's House, running around Angel
+
+message_1370:
+      text: \n<LUCAS>Awwooo!\! Arf, arf, arf!
+
+#==============Polly===========================================
+#Location:  Basil's House
+
+message_1380:
+      text: \n<POLLY>Ich denke, dass BASIL es wertschätzt, dass ihn Freunde besuchen. Er war in letzter Zeit alleine, also muss er sich einsam fühlen...
+
+message_1381:
+      text: \n<POLLY>Es ist schön zu sehen, dass BASIL Freunde hat, die sich so sehr um ihn kümmern.
+
+#==============Preacher===========================================
+#Location:  Church
+
+message_1390:
+      text: \n<PREDIGER>Ah, heute halte ich leider keine Predigt, aber lauft hier gerne herum. Hier sind alle willkommen.
+
+#==============Sally===========================================
+#Location:  WEITWEG-PARK
+
+#Randomly selected
+message_1400:
+      text: \n<SALLY>Abuuuu... Ubuuuuuuu...
+
+message_1401:
+      text: SALLY schneidet eine Grimasse.
+
+message_1402:
+      text: SALLY zieht an deiner Nase.
+
+message_1403:
+      text: SALLY sitzt auf deinem Fuß.
+
+message_1404:
+      text: SALLY rollt herum.
+
+#==============SARAH===========================================
+#Location: Sarah's House
+
+message_1410:
+      text: \n<SARAH>Mama hat gesagt, dass wir heute Abend zu \c[11]GINO'S PIZZA\c[0] gehen...\! Juchhu!
+
+#==============SARAHS VATER===========================================
+#Location: Sarah's House watching TV on the couch together
+
+message_1420:
+      text: \n<SARAHS VATER>Zzzzzzzzz...\| Schnarch...
+
+#==============SARAHS MUTTER===========================================
+#Location: Sarah's House watching TV on the couch together
+
+message_1430:
+      text: \n<SARAHS MUTTER>Das...\! schnief...\! ist mein Lieblingsfilm...\! schnief...
+
+#==============SEAN===========================================
+#Location: Aubrey's Street in front of his house
+
+message_1440:
+      text: \n<SEAN>Hey, Leute! Ich will euch daran erinnern, dass unsere Einweihungsfeier heute Abend ist. Alle sind eingeladen. Ich hoffe, man sieht sich heute Abend! Wir werden sehr viel Essen haben.
+
+#after cooking help Quest
+
+message_1441:
+      text: \n<KAREN>Danke nochmal für eure Hilfe. Ihr seid wirklich nette Leute! Man sieht sich auf der Feier heute Abend!
+
+message_1442:
+      text: \n<SEAN>Wir werden euch erwarten!
+
+# =========================================================================================
+# DAY 3 - SUNSET
+# =========================================================================================
+
+#==============KEL===========================================
+#If Player enters sean and karens house
+#Location: Sean and Karens House
+
+message_1450:
+      faceset: MainCharacters_Faraway
+      faceindex: 20
+      text: \kelNun...\! Heute ist unser letzter Tag gemeinsam, was \n[8]?
+
+message_1451:
+      faceset: MainCharacters_Faraway
+      faceindex: 20
+      text: \kelEs ist schön, eine Feier zu haben, bevor du in neue Horizonte schreitest!
+
+message_1452:
+      faceset: MainCharacters_Faraway
+      faceindex: 20
+      text: \kelAmüsiere und entspanne dich einfach für's Erste.\! Wir sind in guter Gesellschaft!
+
+#==============HERO===========================================
+#If Player enters sean and karens house
+#Location: Sean and Karens House
+
+message_1460:
+      faceset: MainCharacters_Faraway
+      faceindex: 40
+      text: \herSo eine Feier hatte ich lange nicht mehr.\! An der Uni haben wir auch Feiern, aber sie sind nicht so...\! reizend.
+
+message_1461:
+      faceset: MainCharacters_Faraway
+      faceindex: 40
+      text: \herSchön, dass alle das Essen genießen...\! Wir haben dafür gemeinsam hart gearbeitet, nicht wahr?
+
+#==============AUBREY===========================================
+#If Player enters sean and karens house
+#Location: Sean and Karens House
+
+message_1470:
+      faceset: MainCharacters_Faraway
+      faceindex: 0
+      text: \aubHmph...\! Es ist wahr...
+
+message_1471:
+      faceset: MainCharacters_Faraway
+      faceindex: 0
+      text: \aubEssen schmeckt immer besser, wenn man es selber macht...
+
+
+#==============KIM===========================================
+#Location: Sean and Karens House
+
+message_1480:
+      text: \kimHey, du bist es!\! Mann...\! jetzt ist die Party nicht mehr so cool...
+
+message_1481:
+      text: \kimHeh heh...\! War nur Spaß, Nerd.
+
+message_1482:
+      text: \kimAUBREY hat mir gesagt, dass du morgen gehst.\! Das klingt blöd, aber ich bin mir sicher, alles wird gut.
+
+#Stomach grummel sfx
+
+message_1483:
+      text: \kimOh! Ich habe nicht gegrummelt...\! Das war mein Bauch.\! Ich sollte essen, bevor es kalt wird!
+
+
+#==============DER EINZELGÄNGER===========================================
+#Location: Starting at Bakery
+
+message_1490:
+      text: \n<DER EINZELGÄNGER>Vielleicht habe ich das Geschäft meiner Familie zu schnell verurteilt...\! Ich bin lange davor weggelaufen, aber es scheint, als könnte ich alles andere nicht.
+
+message_1491:
+      text: \n<DER EINZELGÄNGER>Bin ich vielleicht gut im Backen?
+
+#==============VANCE===========================================
+#Location: Sean and Karens House
+
+message_1500:
+      text: \vanMampf...\! mampf...\! mampf...\! mampf...\! mampf...\! Awwww, yeah!\! Gratis Essen!
+
+
+#==============BEBE===========================================
+#Location: TOWN PLAZA
+
+message_1510:
+      text: \n<BEBE>Das ist der erste Ort, an dem ich meinen Schwarm getroffen habe...\! Ich hoffe, er kommt bald vorbei...
+
+
+#==============BEBES MUTTER===========================================
+#Location: Bebe's House
+
+message_1520:
+      text: \n<BEBES MUTTER>Hast du Bebe gesehen?\! Sie wird spät zum Abendessen sein...\! Wir haben Chinesisch bestellt!
+
+
+#==============BRANDI===========================================
+#Location: Bebe's House
+
+message_1530:
+      text: \n<BRANDI>Gut, dass Mama Chinesisch bestellt hat...\! Alles das sie kocht ist so fade, aber sag's ihr nicht.
+
+#if leader is HERO
+
+message_1531:
+      text: \n<BRANDI>Hey HERO...\! Bleibst du zum Abendessen?\! Das geht mir viel zu schnell!\! Denkst du nicht, wir sollten miteinander ausgehen, bevor du meine Mutter kennenlernst?
+
+
+#==============BRENT===========================================
+#Location: Brent's House
+
+message_1540:
+      text: \n<BRENT>Juhu!\! Papa ist zuhause!
+
+#==============BRENTS VATER===========================================
+#Location: Brent's House
+
+message_1550:
+      text: \n<BRENTS VATER>Tag und Nacht zu arbeiten ist manchmal anstrengend, aber Abendessen mit meiner Familie zu haben zeigt mir, dass es das wert ist.
+
+#==============BRENTS MUTTER===========================================
+#Location: Brent's House
+
+message_1560:
+      text: \n<BRENTS MUTTER>Es ist schön, dass alle mal zuhause sind. Mein Mann arbeitet manchmal spät in die Nacht hinein. BRENT muss seinen Vater sehr vermisst haben.
+
+
+#==============HECTOR===========================================
+#Location: WEITWEG-PARK chasing something
+
+message_1570:
+      text: \n<HECTOR>Wuff, wuff, wuff, wuff, wuff, wuff, wuff, wuff, wuff, wuff!
+
+#==============JOY===========================================
+#Location: JOY'S HOUSE
+
+message_1580:
+      text: \n<JOY>Papa ist heute besonders nett zu mir, hehe...
+
+message_1581:
+      text: \n<JOY>Er sagte, er geht morgen mit mir und Oma an den Strand!\! Ich kann's kaum erwarten!
+
+#==============JOYS DAD===========================================
+#Location: JOY'S HOUSE
+
+message_1590:
+      text: \n<JOYS VATER>Schnief.. Mein großer Junge ist so groß und hat sein Nest verlassen. Vielleicht sollte ich etwas lockerer zu JOY sein sein...
+
+message_1591:
+      text: \n<JOYS VATER>... Sie steckt schon den ganzen Sommer in ihrem Zimmer. Kinder bleiben wohl nicht für immer Kinder, was?
+
+#==============KAREN===========================================
+#Location: Sean's House (Housewarming party)
+
+message_1600:
+      text: \n<KAREN>Willkommen bei unserer Einweihungsfeier! Fühlt euch wie zuhause... nur heute Abend... hehe...
+
+message_1601:
+      text: \n<SEAN>Entspannt euch und genießt das Essen! Ihr könnt solange bleiben wie ihr wollt... aber vernünftig!
+
+#==============KELS VATER===========================================
+#Location: Farawy Park
+
+message_1602:
+      text: \n<KELS VATER>Hier ist etwas von eurem alten Herren. Je älter ihr werdet, desto schwerer wird es, sich mit Leuten anzufreunden... also wenn ihr gute habt, ist es wichtig sie wertzuschätzen. Freunde können lebenslang sein, wisst ihr!
+
+
+#==============KIM AND VANCES DAD===========================================
+#Location: Farawy Park
+
+message_1610:
+      text: \n<KIM AND VANCES VATER>Ahhh... Gemeinsame Zeit mit meinen beiden Kindern. Wer könnte sich mehr wünschen?
+
+
+#==============KIMS MOM===========================================
+#Location: Kim's House
+
+message_1620:
+      text: SCHNIPP, SCHNIPP, SCHNIPP, SCHNIPP, SCHNIPP, SCHNIPP, SCHNIPP!
+
+#==============MINCY===========================================
+#Location: Farawy Park (Company Quest 6)
+
+message_1630:
+      text: \n<MINCY>Ich werde euch auf keinen Fall vergessen.\! Niemals...
+
+#==============POLLY===========================================
+#Location: Basil's House
+
+#After cutscene: Polly's WElcome
+message_1640:
+      text: \n<POLLY>Oh, BASIL... Wieso kannst du nicht sehen, dass alle für dich da sind?
+
+#After cutscene: Basil won't leave his ROOM
+message_1641:
+      text: \n<POLLY>Bitte macht alles, um ihm zu helfen... Wenn das irgendwas schafft, dann ihr!
+
+#==============SARAH===========================================
+#Location: Gino's Pizza
+
+message_1650:
+      text: \n<SARAH>Urf...\! Wie soll ich nur essen, wenn meine Eltern so turteltaubenhaft sind?
+
+#==============SARAHS VATER===========================================
+#Location: Gino's Pizza
+
+message_1660:
+      text: \n<SARAHS VATER>Schnief...\! Ich habe eine Pizza in meiner linken Hand und die Hand meiner Frau in meiner rechten.\! Mehr könnte ich mir nicht erwünschen...
+
+#==============SARAHS MUTTER===========================================
+#Location: Gino's Pizza
+
+message_1670:
+      text: \n<SARAHS MUTTER>Hehe...\! Das ist nett, stimmt's Mäuschen?

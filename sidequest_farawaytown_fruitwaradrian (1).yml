@@ -1,0 +1,91 @@
+
+# =========================================================================================
+# Sidequest: Fruit War (Adrian)
+# =========================================================================================
+
+#Quest intro
+
+message_1:
+      text: \n<APPLE GUY>Huff...\! Huff...\! Huff...\! Huff...\! \Com[2]Trink \c[3]APFELSAFT\c[0]!
+
+message_2:
+      text: \n<APPLE GUY>Hast Du jemals diesen Satz gehört... "Täglich einen Apfel essen, und den Arzt kannst Du vergessen"?
+
+message_3:
+      text: \n<APPLE GUY>Das gleiche Konzept gilt für \c[3]APFELSAFT\c[0]!
+
+message_4:
+      text: \n<APPLE GUY>\c[3]APFELSAFT\c[0] unterstützt die Hydrierung!\! Es enthält Pflanzenstoffe und kann die Gesundheit des Herzens stärken...\! Es kann auch das Gehirn schützen, wenn man älter wird!
+
+message_5:
+      text: \n<APPLE GUY>Meiner Meinung nach gibt es keine Nachteile!
+
+#If any ORANGENSAFT is inventory:
+message_6:
+      text: \n<APPLE GUY>Ist das \c[3]ORANGENSAFT\c[0], was du da hast?\!<br>\Com[2]Das ist Müll!\! Trink das Zeug nicht!
+
+message_7:
+      text: APFEL-TYP hat deinen \c[3]ORANGENSAFT\c[0] weggeworfen...
+
+message_8:
+      text: \n<APPLE GUY>Ha! Dem zeig ich's!
+
+message_9:
+      text: \n<APPLE GUY>Also... Würdest du gerne etwas \c[3]APFELSAFT\c[0] für $2.00 kaufen?\$
+
+#[Yes/No]
+
+#if yes
+
+message_100:
+      text: Du bekommst \c[3]APFELSAFT\c[0]!
+
+message_10:
+      text: \n<APPLE GUY>Ja! \Com[2]Trink \c[3]APFELSAFT\c[0]!\! Du wirst es lieben!
+
+
+#if no
+message_11:
+      text: \n<APPLE GUY>Gut...\! Das ist okay...\!<br>Solange du keinen \c[3]ORANGENSAFT\c[0] kaufst...
+
+#Buy more from Adrian than Brayden:
+
+message_12:
+      text: \n<APPLE GUY>Huff...\! Huff...\! Ha!\! Wie ich vorausgesagt habe...\! \c[3]APFELSAFT\c[0] ist eine viel bessere Alternative zu \c[3]ORANGENSAFT\c[0]!\! Mein Bruder wird schon bald die Dummheit seiner Taten erkennen!
+
+#Buy more from Brayden than Adrian:
+
+message_13:
+      text: \n<APPLE GUY>Mein Bruder hört nicht auf, über das Geschäft an seinem \c[3]ORANGENSAFT\c[0] Stand zu prahlen...
+
+message_14:
+      text: \n<APPLE GUY>Huff...\! Das macht nichts... \! Huff...\! Ich werde immer fest an \c[3]APFELSAFT\c[0]!\! glauben. Niemand wird mir das jemals kaputt machen!
+
+#Not enough dollars
+
+message_15:
+      text: \n<APPLE GUY>Hmm...\! Du hast wohl nicht genug für eine köstliche Flasche \c[3]APFELSAFT\c[0]...
+
+#While wearing an Orange Headband
+
+message_16:
+      text: \n<APPLE GUY>Warte, ist das ein...\! \c[13]ORANGENES KOPFBAND\c[0]...\! das du da trägst?\! Ich verweigere dir jeglichen \c[3]APFELSAFT\c[0] solange du das nicht abnimmst!
+
+#After buying 5 APFELSAFTs
+
+message_101:
+      text: \n<APPLE GUY>\{\{\sinv[1]HOOO-HAHHHHHHHHH!!
+
+message_17:
+      text: \n<APPLE GUY>Nimm dieses Geschenk, weil du so ein guter Kunde warst!\! <br>Es ist ein \c[13]ROTES KOPFBAND\c[0], die Farbe der Äpfel!
+
+message_18:
+      text: \n<APPLE GUY>Hmpf! Wie ich sehe, trägt einer deiner Freunde ein \c[13]ORANGENES KOPFBAND\c[0]...\! Ich werde dir das verzeihen, aber nur dieses eine Mal!
+
+message_19:
+      faceset: MainCharacters_Faraway
+      faceindex: 37
+      text: \herHeh heh...\! Das tut mir leid...
+
+message_20:
+      text: Du bekommst ein \c[13]ROTES KOPFBAND\c[0]!
