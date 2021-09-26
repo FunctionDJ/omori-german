@@ -1,0 +1,108 @@
+# =========================================================================================
+# Farawaytown extras daily dialogue
+# =========================================================================================
+
+# ===================STRANGER 1================
+#OLIVGRÜNE MÜTZE, by bus stop
+
+message_1:
+      text: \n<OLIVGRÜNE MÜTZE>Hmm...\! Sieht so aus, als hätte der Bus heute Verspätung.
+
+message_2:
+      text: \n<OLIVGRÜNE MÜTZE>Oder vielleicht bin ich einfach spät dran...
+
+message_3:
+      text: \n<OLIVGRÜNE MÜTZE>Mann...\! Ich hoffe, ich habe ihn nicht schon wieder verpasst.
+
+message_4:
+      text: \n<OLIVGRÜNE MÜTZE>Als ich klein war, ist meine Familie oft in diesen Park gegangen.\! Ich erinnere mich an einen See mit einer Statue in der Mitte...\! aber ich kann ihn nicht mehr finden.
+
+# ===================STRANGER 2================
+#Older man with glasses
+
+message_10:
+      text: \n<ALTER MANN MIT BRILLE>Ich treffe mich mit jemandem, aber die Person ist spät dran...\! Sag mir nicht, ich wurde abgewiesen!
+
+# ===================STRANGER 3================
+#Brown hair lady
+
+message_20:
+      text: \n<BRAUNES HAAR DAME>Ähh...\! Kann ich dir helfen?
+
+# ===================STRANGER 4================
+#Newsreporter
+
+message_30:
+      text: \n<REPORTER>Ich arbeite beim Nachrichtensender in der Stadt, aber manchmal fahre ich während Pausen in den \c[11]WEITWEG-PARK\c[0].\! Irgendwas ist an diesem Ort einfach beruhigend.
+
+# ===================STRANGER 5================
+#Pencil in hair man
+
+message_40:
+      text: \n<STIFT-MANN>Ich brauche einen guten Softdrink.\! Ich arbeite an meinem nächsten großen Projekt und brauche etwas, das mich wachhält!
+
+# ===================STRANGER 6================
+#Glasses boy
+
+message_50:
+      text: \n<BRILLEN-JUNGE>Mein Lieblingsroman hat neulich eine Comicadaptierung bekommen!\! ...\! Aber der Hauptcharakter sieht garnicht so aus, wie ich ihn mir vorgestellt habe...
+
+# ===================STRANGER 7================
+#Tall man
+
+message_60:
+      text: \n<FREMDER>Ich bin mir ziemlich sicher, dass ich mich verirrt habe.\! Sowohl körperlich...\! als auch geistlich.
+
+# ===================STRANGER 8================
+#Messy hair man
+
+message_70:
+      text: \n<CHAOTISCHES HAAR MANN>Ich liebe Bananen sehr.\! Ich könnte sie den ganzen Tag lang anstarren.
+
+message_71:
+      text: \n<CHAOTISCHES HAAR MANN>Als ich gestern eine Banane gegessen habe...\! hab ich einen coolen überwucherten See hinter dem Park entdeckt.
+
+message_72:
+      text: \n<CHAOTISCHES HAAR MANN>Aber kurz darauf sind Hooligans auf Rollern aufgekreuzt und haben mich rausgeschmissen.
+
+message_73:
+      text: \n<CHAOTISCHES HAAR MANN>\com[2]Und noch schlimmer, sie haben sogar meine Banane weggeworfen!
+
+message_74:
+      text: \n<CHAOTISCHES HAAR MANN>Seufz...\! Ich kann es nicht zulassen, dass mich ein Haufen Kinder rumkommandieren!\! Ich bin immerhin ein Erwachsener!\! ...\! Zumindest ein junger Erwachsener...
+
+
+# ===================STRANGER 9================
+#Doctor
+
+message_80:
+      text: \n<PROFESSIONELLER>Mal sehen...\! Welches Medikament hilft bei einem 30-Stunden-Flug am meisten?
+
+# ===================STRANGER 10================
+#Player lookalike
+
+message_90:
+      text: \n<DÜNNER JUNGE>Was glotzt du so?
+
+# ===================STRANGER 11================
+#Kel lookalike
+
+message_100:
+      text: \n<ENERGETISCHER JUNGE>Ich spiele ein Spiel mit meinem besten Freund!
+
+# ===================MOVERS================
+
+message_101:
+      text: \n<FREMDER>\sinv[1]Lebe wohl...\| Lebe wohl...\| Lebe wohl...
+
+message_102:
+      text: \n<FREMDER>Was für eine Zukunft dich wohl erwartet?
+
+message_103:
+      text: \n<FREMDER>Deine Mutter wartet draußen auf dich.
+
+message_104:
+      text: \n<FREMDER>Es ist Zeit, diesen Ort hinter sich zu lassen und neu anzufangen.
+
+message_105:
+      text: \n<FREMDER>Mögest du ein langes und glückliches Leben führen.

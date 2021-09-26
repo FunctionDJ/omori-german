@@ -1,0 +1,383 @@
+### Translation: Finished
+
+### Translated by: jasu
+
+# =========================================================================================
+# Dreamworld NPC dialogue
+# =========================================================================================
+
+# ==============SLIME GIRLS LAIR (HUMPHREY)========================
+
+
+                        #====NIGHT 3====
+
+#CLEANING HUMPHREY
+#Location: Slime Girls Lair / Humphrey
+message_0:
+      text: \humFeg...\. feg...\. feg...
+
+#FIGHTING 1/2 HUMPHREY
+#Location: Slime Girls Lair / Humphrey
+message_1:
+      text: \humHände hoch, ich!
+
+message_2:
+      text: \humNein, Hände hoch, DU!
+
+#FLOATING HUMPHREY
+#Location: Slime Girls Lair / Humphrey
+message_3:
+      text: \hum\sinv[1]Weeeeeeeeeeeeeeeeeeeeee!!
+
+#GAMBLER 1 HUMPHREY
+#Location: Slime Girls Lair / Humphrey
+message_4:
+      text: \humIch weiß, dass du bluffst!\! Du kannst mich nicht austricksen, ich!
+
+#GAMBLER 2 HUMPHREY
+#Location: Slime Girls Lair / Humphrey
+message_5:
+      text: \humDu kannst diese Hand nicht übertreffen, ich!\! Ich gehe all in!
+
+#GAMER HUMPHREY
+#Location:Slime Girls Lair / Humphrey
+message_6:
+      text: \humSprich mich später an. Ich bin mitten im Spiel!
+
+#PAINTING HUMPHREY
+#Location: Slime Girls Lair / Humphrey
+message_7:
+      text: \humWah, jawohl...\! Mein großartigstes Meisterwerk...\! Hon, hon!
+
+#READING HUMPHREY
+#Location: Slime Girls Lair / Humphrey
+message_8:
+      text: \humLaut meinen Berechnungen macht Lesen einen schlau!
+
+#RUNNING HUMPHREY
+#Location: Slime Girls Lair / Humphrey
+message_9:
+      text: \humSchnauf...\! Schnauf...\! Schnauf...\! Ich investiere viel harte Arbeit darin, meine Figur beizubehalten!
+
+#TANNING HUMPHREY
+#Location: Slime Girls Lair / Humphrey
+message_10:
+      text: \humAhhh...\! Was ein Leben...\! Sommerbräune, ich komme!
+
+#SNALEY
+#Location: Slime Girls Lair / Medusa River 1 (228)
+message_50:
+      text: \n<SNALEY>Dieser Pool sieht aber toll aus!
+
+#WATERFALL HUMPHRIES 1
+message_11:
+      text: \humKlar! Ich liebe es, Brücken zu bauen!
+
+message_12:
+      text: \humOkay! Wenn alle anderen das machen...
+
+message_13:
+      text: \humOch man... Schon wieder Brückeneinsatz?\!<br>Wann krieg ich mal was zu essen?
+
+message_22:
+      text: \humDu meinst am Wasserfall unten?\! Okay! Beeilen wir uns!
+
+#WATERFALL HUMPHRIES 2
+
+message_16:
+      text: \humEine Brücke also?
+
+message_21:
+      text: \humIch bin schon auf dem Weg!
+
+message_14:
+      text: \humIhr wollt mich als Sprungbrett benutzen, um eure unklaren Ziele voranzubringen?\! Klingt nach einem Plan!
+
+message_15:
+      text: \humIst es schon Brückenzeit?\! Die Zeit verfliegt wohl schnell, was?
+
+message_17:
+      text: \n<HUMPHREY BRÜCKEN, BRÜCKENEXPERTE>Endlich! Meine Zeit ist gekommen!
+
+message_18:
+      text: \n<HUMPHREY AUFZUG, AUFZUGSEXPERTE>Aufzüge sind eigentlich besser als Brücken, aber na schön.
+
+message_19:
+      text: \humNun...\! ...\! In Ordnung!
+
+message_20:
+      text: \humWie ein weiser Wal einst sagte... "Na gut!"
+
+message_27:
+      text: \humWir HUMPHREYS in MEDUSAs Abteilung tragen den Stolz, die Besten der Besten zu sein!
+
+message_23:
+      text: \humMEDUSA behandelt uns gut und füttert uns regelmäßig...\!<br>Man kann nicht dasselbe von MARINA und MOLLY behaupten!
+
+message_24:
+      text: \humAlle HUMPHREYS aus MARINAs Abteilung verschwinden ständig, deshalb fragt sie MEDUSA immer nach mehr...\!<br>Schluck...\! Ich hoffe, ich bin nicht der Nächste...
+
+message_25:
+      text: \humMan merkt es, wenn MEDUSA sauer ist, weil sie dann ruhelos hin und her geht.\! Nie schreit sie dich an, aber dennoch...\! Es ist ziemlich furchterregend.
+
+message_26:
+      text: \humPasst auf!\! Manche der verschütteten Flüssigkeiten sollten nicht von Menschen angefasst werden!
+
+message_29:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 2
+      text: \aubHUMPHREY! Kannst du uns bitte helfen, eine Brücke zu bauen?
+
+message_30:
+      text: Wissenschaftlicher Kauderwelsch.
+
+#==
+
+#spikes DIALOGUE
+
+message_31:
+      faceset: 01_OMORI_BATTLE
+      faceindex: 0
+      text: \n<OMORI>...
+
+message_32:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 4
+      text: \aubSei vorsichtig!\! Ich vertraue diesem Typen nicht im Geringsten...
+
+message_33:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 31
+      text: \kelPuh...\! Ich dachte schon, ihr würdet mich wählen...
+
+message_34:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 39
+      text: \herPass auf, ja?<br>Wenn es ernst wird, helfe ich dir.
+
+
+#==
+
+#MEDUSA area
+
+message_40:
+      text: \n<HUMPHREY>Ich lese ein Buch über Klimaanlagen!\!<br>Es ist sehr lehrreich!
+
+message_41:
+      text: \n<HUMPHREY>Ich versuche, mich zu entspannen...\! aber ich muss ständig an dieses wirklich interessante Buch über Klimaanlagen denken, das ich mal gelesen habe...
+
+message_42:
+      text: \n<HUMPHREY>Wisst ihr, worauf ich total abfahre?\! Klimaanlagen.\!<br>Sind sie nicht das Beste überhaupt?
+
+
+#Humphrey PUZZLE HINT Guy
+
+message_45:
+      text: \n<WEISER HUMPHREY>\sinv[1]Herzlich Walkommen, Freunde!\!\sinv[0]<br>Wollt ihr einen HUMPHREY-TIPP für 300 MUSCHELN?\$
+
+#HARD PUZZLE HINT
+message_46:
+      text: \n<WEISER HUMPHREY>Wie ein WEISER HUMPHREY einst sagte...\!<br>\"Zähle deine Gegner...\! Dann wird die Reihenfolge zum Sieg führen.\"
+
+message_110:
+      text: \n<WEISER HUMPHREY>\com[2]Was!? Ihr steckt immernoch fest?\!<br>Ugh... na gut.\! Wie wäre es damit?
+
+message_111:
+      text: \n<WEISER HUMPHREY>Wie ein WEISER HUMPHREY einst sagte...\! \"Zähle deinen Gegner, um den Weg zu enthüllen...\! Beobachte daraufhin das fallende Wasser.\"
+
+
+#EASY PUZZLE HINT
+
+message_47:
+      text: \n<WEISER HUMPHREY>Wie ein WEISER HUMPHREY einst sagte...\!<br>\"Wenn alles andere nicht klappt, versuche, von links nach rechts zu lesen!\"
+
+#MED PUZZLE HINT
+message_48:
+      text: \n<WEISER HUMPHREY>Wie ein WEISER HUMPHREY einst sagte...\!<br>\"Manchmal ist die Rückseite interessanter als die Vorderseite!\"
+
+#NOT ENOUGH CLAMS
+message_49:
+      text: \n<WEISER HUMPHREY>Tut mir leid, das geht nicht!\! Ich kann keinen HUMPHREY-TIPP für weniger als 300 MUSCHELN rausgeben!
+
+message_51:
+      text: \n<WEISER HUMPHREY>\{\{\Com[2]\sinv[1]LEE-CKER!!
+
+message_52:
+      text: \n<WEISER HUMPHREY>Hier ist euer Tipp!\! Ich werde ihn nicht wiederholen.
+
+message_53:
+      text: \n<WEISER HUMPHREY>Okay... Nun gut, wie ihr wollt!
+
+#WITHOUT PUZZLE ACTIVATION
+message_54:
+      text: \n<WEISER HUMPHREY>\sinv[1]Herzlich Walkommen, Freunde!\!\sinv[0] Puzzles sind nicht für jeden.\! Wenn ihr feststecken solltet, kann ich euch ein wenig helfen...\! oder vielleicht viel!
+
+message_56:
+      text: \n<HUMPHREY>Ah... natürlich!\! Die Berechnungen sind so viel leichter, wenn man sie so auslegt...
+
+message_57:
+      text: \n<HUMPHREY>Also wenn ich das Ergebnis multipliziere...\! Unendlich abziehe...\! Dann durch null teile...\! Und die eins übertrage...\! Ergibt sich...\!<br>eine imaginäre Zahl!
+
+message_58:
+      text: \n<WEISER HUMPHREY>\sinv[1]Herzlich Walkommen, Freunde!\!\sinv[0] Puzzles sind nicht für jeden, aber das ist gerade ziemlich irrelevant.
+
+
+#WATERFALL HUMPHRIES 2
+
+#===
+#MUTANTHEART
+
+message_60:
+      text: \n<MUTANTHEART>\}H-Hanno...
+
+message_61:
+      text: \n<MUTANTHEART>\}H-Hanno!
+
+message_62:
+      text: MUTANTHEART stupst dich zurück an.
+
+message_63:
+      text: \n<MUTANTHEART>\sinv[1]\}Hanno~
+
+message_64:
+      text: MUTANTHEART scheint erfreut zu sein!
+
+message_65:
+      text: \n<MUTANTHEART>\}H...\! Hanno?
+
+message_66:
+      text: Was willst du tun?
+
+message_67:
+      text: ANSTUPSEN
+
+message_68:
+      text: STREICHELN
+
+message_69:
+      text: KÄMPFEN
+
+message_70:
+      text: NICHTS
+
+message_71:
+      text: Du stupst MUTANTHEART an.
+
+message_72:
+      text: Du streichelst MUTANTHEART.
+
+message_73:
+      text: Du streichelst die Monstrosität.
+
+message_74:
+      text: Du stupst die Monstrosität an.
+
+message_100:
+      text: \n<HUMPHREY>Seufz...\! Hört ihr, wie die da oben Spaß haben?\! Diese Teilzeitarbeiter haben es gut.
+
+message_101:
+      text: \n<HUMPHREY>MEDUSA und ihre Schwestern haben die Welt seit Jahrhunderten erforscht.\! Diese Bücher sind die Erträge ihrer Arbeit!
+
+message_102:
+      text: \n<HUMPHREY>Egal wie oft ich dieses Experiment durchführe, ergibt sich nie, was es sollte.\! Ich sollte mich wohl wieder an die Anleitung halten...
+
+message_103:
+      text: \n<HUMPHREY>\sinv[1]Zzzzzzzzzzzzzzzzzzzzz...
+
+message_104:
+      text: \n<HUMPHREY>All der Schleim wird wirklich zur Gefahr.\! Vielleicht sollten wir einen putzenden HUMPHREY ausfrom MOLLYs Abteilung einstellen.
+
+#MARINA
+#Location: Slime Girls Lair / Humphrey
+#[Main Quest]
+
+#MEDUSA
+#Location: Slime Girls Lair / Humphrey
+#[Main Quest]
+
+#MOLLY
+#Location: Slime Girls Lair / Humphrey
+#[Main Quest]
+
+#MUTANTHEART
+#Location: N/A
+
+#PERFECTHEART
+#Location: N/A
+
+#ROBOHEART
+#Location: Slime Girls Lair / Humphrey
+#[Main Quest]
+
+
+                        #====NIGHT 4====
+#CLEANING HUMPHREY
+#Location: Slime Girls Lair / Humphrey
+#Same as NIGHT 3.
+
+#FIGHTING 1/2 HUMPHREY
+#Location: Slime Girls Lair / Humphrey
+#Same as NIGHT 3.
+
+#FLOATING HUMPHREY
+#Location: Slime Girls Lair / Humphrey
+#Same as NIGHT 3.
+
+#GAMBLER 1 HUMPHREY
+#Location: Slime Girls Lair / Humphrey
+#Same as NIGHT 3.
+
+#GAMBLER 2 HUMPHREY
+#Location: Slime Girls Lair / Humphrey
+#Same as NIGHT 3.
+
+#GAMER HUMPHREY
+#Location: Slime Girls Lair / Humphrey
+#Same as NIGHT 3.
+
+#PAINTING HUMPHREY
+#Location: Slime Girls Lair / Humphrey
+#Same as NIGHT 3.
+
+#READING HUMPHREY
+#Location: Slime Girls Lair / Humphrey
+#Same as NIGHT 3.
+
+#RUNNING HUMPHREY
+#Location: Slime Girls Lair / Humphrey
+#Same as NIGHT 3.
+
+#TANNING HUMPHREY
+#Location: Slime Girls Lair / Humphrey
+#Same as NIGHT 3.
+
+#MARINA (Head Only)
+#Location: Slime Girls Lair / Humphrey - Marina's Body Quest
+#Sidequest: Marina
+
+#MEDUSA (Head Only)
+#Location: Slime Girls Lair / Humphrey - Medusa's Body Quest
+#Sidequest: Medusa
+
+#MOLLY (Head Only)
+#Location: Slime Girls Lair / Humphrey - Molly's Body Quest
+#Sidequest: Molly
+
+#MUTANTHEART
+#Location: Slime Girls Lair / Humphrey
+
+#PERFECTHEART
+#Location: Slime Girls Lair / Humphrey
+#Dreamworld_extras_slimegirls
+
+#ROBOHEART
+#Location: N/A
+
+
+#--- WATERFALL HUMPHRIES
+
+message_200:
+      text: \n<HUMPHREY>Na sowas... Ihr seid vorbeigekommen, als ich noch dabei war, diese Röhre zu reparieren!
+
+message_201:
+      text: \n<HUMPHREY>Ahh... endlich! Ein Raum ohne Wasserfall...\! Dieses helle weiße Licht ist perfekt, um mich zu bräunen!

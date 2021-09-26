@@ -1,0 +1,99 @@
+#==================================================================
+
+#KEL ERRANDS
+
+#==================================================================
+#PIZZA
+#==================================================================
+
+message_0:
+      text: \n<PIZZA MANN>Hallo und herzlich willkommen bei \c[11]GINO'S PIZZA\c[0]!\!<br>Was kann ich für euch tun?
+
+message_1:
+      faceset: MainCharacters_Faraway
+      faceindex: 14
+      text: \kelHallo! Ich bin hier, um eine Bestellung abzuholen!
+
+message_2:
+      text: \n<PIZZA MANN>Ich verstehe!\! Was hättest du gerne?\!<br>Oh... ich weiß...\! Hättest du gerne...\! Pizza?\! Nom nom...
+
+message_3:
+      faceset: MainCharacters_Faraway
+      faceindex: 12
+      text: \kelIch glaube, meine Mutter hat heute Morgen eine Bestellung für ein \c[3]HERO SANDWICH\c[0] aufgegeben!\! Ich bin nur hier, um es abzuholen.
+
+message_4:
+      text: \n<PIZZA MANN>Oh...\! Ich verstehe...\! Du bist die Familie, die ständig Sandwiches...\! statt Pizza bestellt...
+
+message_5:
+      faceset: MainCharacters_Faraway
+      faceindex: 16
+      text: \kelAber...\! es steht...\! auf der Speisekarte, oder?
+
+message_6:
+      text: \n<PIZZA MANN>Hmm...\! Ja...\! Du hast Recht...\! Ich denke schon...
+
+message_7:
+      text: \n<PIZZA MANN>Ja, gut! Ich werde es holen gehen!
+
+#KEL turns to PLAYER.
+
+message_8:
+      faceset: MainCharacters_Faraway
+      faceindex: 17
+      text: \kelWeißt du...\! Ich weiß nicht, ob ich dir das jemals erzählt habe, aber deshalb ist der Spitzname meines Bruders HERO...
+
+message_9:
+      faceset: MainCharacters_Faraway
+      faceindex: 15
+      text: \kelDu würdest denken, dass es einen wirklich coolen Grund gibt, wie zum Beispiel, dass er als Kind einen Welpen gerettet hat oder so...\!<br>Aber nein...<br>Er mag einfach Sandwiches!
+
+message_10:
+      text: \n<PIZZA MANN>Okay, hier ist dein \c[3]HERO SANDWICH\c[0].\! Guten Appetit!
+
+#KEL turns to PIZZA MANN.
+
+message_11:
+      faceset: MainCharacters_Faraway
+      faceindex: 14
+      text: \kelCool, danke!
+
+#KEL turns to PLAYER.
+
+message_12:
+      faceset: MainCharacters_Faraway
+      faceindex: 24
+      text: \kelAlles klar, wir können loslegen, \n[8]!\!<br>Ich bin bereit, wenn du es bist!
+
+#==================================================================
+#BAKERY
+#==================================================================
+
+message_20:
+      text: \n<MR. BÄKER>Willkommen in unserer Familienbäckerei! Was möchtest du gerne haben?
+
+message_21:
+      faceset: MainCharacters_Faraway
+      faceindex: 12
+      text: \kelHallo! Ich bin hier, um eine Bestellung abzuholen!
+
+message_22:
+      text: \n<MR. BÄKER>Hmm...\! Ah, ja!\! Deine Mutter sagte, du würdest kommen... obwohl ich dich etwas früher erwartet habe.\! Ich hole deine Bestellung mal!
+
+#MR. BÄKER walks into door and then walks back out.
+
+message_23:
+      faceset: MainCharacters_Faraway
+      faceindex: 17
+      text: \kelWusstest du, dass Diese Bäckerei MIKHAELs Familie gehört?\!<br>Ich schätze, man kann es nicht wirklich erkennen, weil er die ganze Zeit diese schreckliche gelbe Perücke trägt...
+
+message_24:
+      faceset: MainCharacters_Faraway
+      faceindex: 16
+      text: \kelEs scheint, als würde er sich ziemlich anstrengen, um aufzufallen und anders zu sein!
+
+message_25:
+      text: \n<MR. BÄKER>Hier ist deine Bestellung, Sir!\! Wir hoffen, dich bald wieder zu sehen!\!<br>Genieße deine Backwaren.
+
+#message 11
+#message 12

@@ -1,0 +1,125 @@
+
+# =========================================================================================
+# Feed Humphrey
+# ========================================================================================
+
+message_0:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 36 #replace
+      text: \herHey, MR. JAWSUM! Wir sind gekommen, um hallo zu sagen!
+
+message_1:
+      text: \jawHERO...\! Bist du das wirklich?
+
+message_2:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 38 #replace
+      text: \herJawohl, ich bin's!\! Wie läuft's?
+
+message_3:
+      text: \jawDem Unternehmen geht's schlecht, HERO...\! \quake[1]Wirklich schlecht.\quake[0]
+
+message_4:
+      text: \jawSeit du uns verlassen hast, hat sich alles geändert.\! All die Anleger sind ausgestiegen, das Bauwesen wurde pausiert und wir verlieren mehr und mehr Kunden!
+
+message_5:
+      text: \jawAll die Zeichen weisen auf eines hin! <br>\!Das ist nicht der Weg, den ich in meinem Leben hätte einschlagen sollen...
+
+message_6:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 39 #replace
+      text: \herSagen Sie doch nicht sowas, MR. JAWSUM!\!<br>Sie sind der beste...\! und einzige Boss, den ich jemals hatte!
+
+message_7:
+      text: \jawVersteht mich nicht falsch, ich will mich nicht schlechtreden oder sowas.\! Ich habe bloß eine Lektion fürs Leben gelernt!
+
+message_8:
+      text: \jawIch habe allerlei erfolgreiche Nebengeschäfte, aber...\! <br>Der \c[11]LETZTE HALT\c[0] war meine Leidenschaft, versteht ihr?
+
+message_9:
+      text: \jawJa...\! Ich habe meine Entscheidung bereits getroffen...<br>\!Ich denke, es ist Zeit, das Handtuch zu werfen.
+
+message_10:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 46 #replace
+      text: \her\Com[2]Warten Sie, MR. JAWSUM!\! Sie können jetzt nicht aufg-
+
+message_11:
+      text: \jawNimm dies, HERO...\!<br>Das ist für alles, das du für mich getan hast.
+
+message_12:
+      text: Du erhältst einen \c[4]RIESIGEN SCHECK\c[0].
+
+message_13:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 47 #replace
+      text: \herO-Oh!\! Also gut.\! Vielen Dank.
+
+message_14:
+      text: \jawAchja, und...\! noch was.\!<br>HERO,\| ich will, dass du...\| den \c[11]LETZTEN HALT\c[0] übernimmst.
+
+message_40:
+      text: \n<KROKO-KERL>Hier ist Ihre Krawatte, Boss.
+
+message_15:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 46 #replace
+      text: \her\Com[2]W-Was?\! Sind Sie sich sicher?\! Aber ich bin doch erst 15!
+
+message_16:
+      text: \jawHERO!\! Nie in meinem Leben war ich mir sicherer!\! Sag es nicht den anderen, aber...\! du warst immer mein Favorit.
+
+message_17:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 46 #replace
+      text: \herMR. JAWSUM...
+
+message_18:
+      text: \jawHeh...\! Und damit hat sich das geklärt.\!<br>Dann gibt es nur noch...\! eine Sache zu tun.
+
+message_19:
+      text: \jaw\{\sinv[1]\Com[2]ZEIT FÜR URLAUB, BABY!!\sinv[0]
+
+message_20:
+      text: \jawDer olle JAWSUM wird die Zeit seines Lebens haben!\!<br>Man sieht sich! Vermisst mich bloß nicht, ja?
+
+message_28:
+      text: \jaw\Com[2]\Sinv[2]\{\{JAWHAW\{HAWHAW\{HAWHAW!!\Sinv[0]
+
+
+#Talk to Humphrey
+
+message_21:
+      text: \hum\sinv[1]Ahhhhhhhhh...\! Das war ein schönes Nickerchen.\! Meine Bauchschmerzen sind auch weg.\! Aber ich bin \quake[1]immernohc...\| so...\| hungrig...
+
+message_22:
+      text: \hum\sinv[1]Sieh wal einer an!\sinv[0]\! Ich rieche etwas absolut fabelhaftes!\! Ist das etwa ein \c[4]RIESIGER SCHECK\c[0], den ihr da habt?\!<br>Könnte ich...\! vielleicht...\! einmal abbeißen?
+
+#[Nod/Shake]
+#[Nod]
+message_23:
+      text: Du gibst HUMPHREY HEROs \c[4]RIESIGEN SCHECK\c[0] to HUMPHREY.
+
+message_24:
+      text: \hum\sinv[1]\{LEEEEEE...\{\Com[2]CKER!!\sinv[0]\}
+
+#HUMPHREY opens his mouth and burps
+
+message_25:
+      text: \hum\sinv[1]Also das nenne ich mal Gourmet!\sinv[0]
+
+#HUMPHREYS stomach gurgles
+
+message_26:
+      text: \humAh... Geht doch!\! Jetzt wo ich voll bin, sollte alles wieder beim Alten sein...
+
+#note: Humphrey becomes re-accessible as a map
+
+#[Shake]
+
+message_27:
+      text: \humOh...\! Aber er sieht so lecker aus...
+
+
+message_29:
+      text: \humNunja...\! fast...\! \quake[1]Nyak, nyak...\quake[0]

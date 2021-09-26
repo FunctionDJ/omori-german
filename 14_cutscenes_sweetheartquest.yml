@@ -1,0 +1,457 @@
+# =========================================================================================
+# Cutscene: Basil is Still Missing
+# =========================================================================================
+
+#Trigger: Examine bed and choose to sleep.
+#OMORI is on the floor, and gets up. He is surrounded by KEL, AUBREY, and HERO.
+
+#HERO jumps.
+
+message_0:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 3
+      text: OMORI! Wilkommen zurück!\aub
+
+message_1:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 19
+      text: Siehst du, HERO? Ich habe dir gesagt, du sollst dir keine Sorgen machen.\!<br>OMORI taucht immer auf, wenn wir ihn brauchen!\kel
+
+message_2:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 4
+      text: Ist alles in Ordnung, OMORI?<br>Wir haben uns Sorgen um dich gemacht...\aub
+
+#KEL walks towards staircase.
+
+message_3:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 19
+      text: Jetzt wo du hier bist, lass uns rausgehen und nach BASIL suchen!\!<br>Er zählt auf uns!\kel
+
+#AUBREY jumps.
+
+message_4:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 10
+      text: Sei geduldig, KEL! <br>Wir müssen zuerst sicherstellen, ob es OMORI gut geht!\aub
+
+#AUBREY has an idea.
+
+message_5:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 1
+      text: Oder vielleicht... Du und HERO können selbst gehen.\aub
+
+#AUBREY looks at OMORI.
+
+message_6:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 2
+      text: Komm schon, OMORI! Lass uns gemeinsam auf Entdeckungsreise gehen...\aub
+
+message_7:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 3
+      text: Nur wir zwei!\aub
+
+#KEL jumps.
+
+message_8:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 30
+      text: Hey, du kannst uns da nicht rauslassen!\kel
+
+#HERO looks at AUBREY.
+
+message_9:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 39
+      text: Er hat recht, AUBREY. Das müssen wir gemeinsam als Team machen.\her
+
+message_10:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 38
+      text: Du weißt nie, wann du die Hilfe von jemandem brauchst.\! <br>Wir sind stärker, wenn wir zusammenarbeiten!\her
+
+#AUBREY looks away.
+
+message_11:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 9
+      text: Hmph! OMORI und mir wird es auch alleine gut gehen.\aub
+
+#AUBREY looks at OMORI.
+
+message_12:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 1
+      text: Du wirst mich beschützen, nicht wahr, OMORI?\aub
+
+#KEL looks at AUBREY.
+
+message_13:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 31
+      text: Ihhh... Ekelig... Nehmt euch ein Zimmer.\kel
+
+message_14:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 39
+      text: Komm schon, AUBREY. Es ist Zeit, jetzt ernst zu werden.\!<br>Sagen wir MARI, dass es OMORI gut geht.\!<br>Du weißt, wie sie sich immer Sorgen um ihn macht...\her
+
+message_15:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 8
+      text: Okay, okay... Gut...\!<br>Ich wollte nur ein bisschen Spaß haben...\aub
+
+
+# =========================================================================================
+# Cutscene: Sweetheart's Quest for Hearts
+# =========================================================================================
+
+#Trigger: Walk to Stump Entrance
+#A line of four SPROUT MOLES are walking toward PYREFLY FOREST.
+
+message_30:
+      text: Oh Junge, oh Junge!\! Ich habe schon ewig auf dieses Event gewartet!\!<br>Es ist wirklich ein herrlicher Tag!\n<SPROSSWURF>
+
+message_31:
+      text: Oh ja, oh ja!\! Endlich wird unsere glorreiche Prinzessin SWEETHEART endlich ihren Auftritt haben!\n<SPROSSWURF>
+
+message_32:
+      text: Oh mein, oh mein!\! Ich kann meine Aufregung kaum zügeln.\!<br>Diese Show wird mit Sicherheit die Spannenste von allen sein!\n<SPROSSWURF>
+
+message_33:
+      text: Oh Schatz, oh Schatz!\! Wir müssen uns beeilen!\! <br>Unsere erste Reihe \c[4]SHOWTICKETS\c[0] sind genau hier!\!<br>Wir stehen vor der Zeit unseres Lebens und dürfen nicht zu spät kommen!\n<SPROSSWURF>
+
+message_34:
+      text: Nun... welcher Weg war es wieder?\n<SPROSSWURF>
+
+#Before Cutscene block
+message_43:
+      text: \n<SPROSSWURF>Oh Junge, oh Junge!
+
+message_44:
+      text: \n<SPROUT MOLE>Oh ja, oh ja!
+
+message_45:
+      text: \n<SPROUT MOLE>Oh mein, oh mein!
+
+message_46:
+      text: \n<SPROUT MOLE>Oh Schatz, oh Schatz!
+
+#KEL is surprised and walks forward.
+
+message_35:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 31
+      text: Ahh! Es ist eine Horde von VERIRRTEN SPROSSWÜRFEN!\! \Com[2]Lasst uns sie besiegen!\kel
+
+#[4 LOST SPROUT MOLES BATTLE]
+
+message_36:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 17
+      text: Hey, cool! Diese SPROSSWÜRFE haben einige Tickets fallen lassen!\kel
+
+#AUBREY jumps.
+
+message_37:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 1
+      text: Lass mich mal sehen!\!<br>Oh, das sind erste Reiheplätze für eine Art Show they're front row tickets... \aub
+
+message_38:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 0
+      text: Mit...\! SWEETHEART?\aub
+
+message_39:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 39
+      text: War das nicht Kapitän SPACEBOY's Exfreundin?\her
+
+#AUBREY looks at HERO.
+
+message_40:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 2
+      text: Ja! Es ist eine Art Wettbewerb oder so!\aub
+
+message_41:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 1
+      text: Wenn wir zufällig vorbeikommen, sollten wir anhalten und zusehen!\! <br>Wir haben ja immerhin erste Reihe \c[4]SHOWTICKETS\c[0]!\aub
+
+message_42:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 36
+      text: Naja...\! gut.\!<br>Vielleicht können wir ja vorbeischauen, wenn wir zufällig darauf stoßen.\her
+
+# =========================================================================================
+# Cutscene: Pyreflies Intro
+# =========================================================================================
+
+#Trigger: Enter Pyrefly Forest
+
+message_60:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 27
+      text: Ugh...\! Jetzt, wo ich nochmal nachdenke... Lasst uns BASIL woanders suchen.\! Dieser Ort bereitet mir Gänsehaut\kel
+
+message_61:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 10
+      text: Sei kein Kleinkind, KEL.\!<br>Hier und dort sind nur ein paar Spinnenweben!\aub
+
+message_62:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 31
+      text: \{\quake[1]AAAAAAAHH!!\!<br>DA IST NE SPINNE IN DEINEN HAAREN!!\kel\quake[0]
+
+message_63:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 6
+      text: \{\Com[2]W-WAS? \Com[2]WO? \Com[2]MACH SIE WEG!!\aub\quake[0]
+
+message_64:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 17
+      text: Haha! Ich mach nur Witze!<br>Na, wer ist der, der Angst hat!\kel
+
+message_65:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 8
+      text: Hmph! Das ist nicht gerade lustig, KEL...\aub
+
+# =========================================================================================
+# Cutscene: Sweetheart's Bachelor Contest
+# =========================================================================================
+
+#Trigger: Walk in proximity of SWEETHEART stage.
+
+message_80:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 2
+      text: Wow, schaut euch diese große Bühne an!<br>Es ist genauso toll wie ich es mir vorgestellt habe!\aub
+
+message_81:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 3
+      text: Setzen wir uns hin.<br>Es sieht so aus, als würde die Show gleich losgehen!\aub
+
+# =========================================================================================
+# Cutscene: Sweetheart's Bachelor Contest (Cont.)
+# =========================================================================================
+
+#Trigger: Examine Front Row Seats.
+
+#Camera pans to stage.
+#Spot light moves around.
+#SMM walks onto the stage.
+
+message_100:
+      text: Damen und Herrenwürfen...\!<br>Wilkommen zu einer Spezialepisode von...\!<br>\"SWEETHEART SUCHT DEN LIEBESSTAR!\"\smm
+
+#Applause
+
+message_101:
+      text: Vor unserer Show wollten wir uns einen Moment Zeit nehmen, um das Leben von jemandem zu ehren, der uns alle inspiriert hat. \!<br>Unser geliebter Anführer, DEN ALTEN SPROSS.\smm
+
+#The curtain opens and a portrait of YE OLD SPROUT is shown.
+
+message_102:
+      text: Er war der Vater, den wirklich keiner von uns verdient hat.\! <br>Lasst uns eine Schweigeminute, als Erinnerung an ihn, einlegen.\smm
+
+message_103:
+      text: ...\| ...\| ...\| ...\| ...  \smm
+
+message_104:
+      text: Möge er in Frieden ruhen.\smm
+
+#Curtains close.
+
+message_105:
+      text: \sinv[1]\{UND NUN...\. WEITER MIT DER VORSTELLUNG!!\smm
+
+#Curtains open, changing the graphic behind to SWEETHEART'S Show Graphic.
+
+message_106:
+      text: Letztes Mal bei \"SWEETHEART SUCHT DEN LIEBESSTARSWEETHEART'S QUEST FOR HEARTS\"...\!<br>Unsere geliebte Prinzessin...\! hat sich wieder einmal...\! nicht in einen von unseren geeigneten Anwärtern verliebt!\smm
+
+message_107:
+      text: Dieses Mal...\! haben wir drei neue attraktive Kandidaten zusammengetrommelt!\! Wird einer von ihnen SWEETHEART's Herz im Sturm erobern?\! Lasst uns sie jetzt enthüllen!\smm
+
+#Contestant #1 comes out and makes a circle around the stage.
+
+message_108:
+      text: KANDIDAT \#1 ist ein Einheimischer aus dem SPROSSWURFDORF!\smm
+
+message_109:
+      text: Er ist ein Meter hoch!\! Sein Lieblingsessen ist \c[3]TOFU\c[0]. Er hat eine gewaltige Sammlung von Plastikflamingos... und er erfreut sich an langen Spaziergängen durch die engen Tunnel!\smm
+
+message_110:
+      text: \Com[2]\{APPLAUDIERT FÜR KANDIDAT \#1!\smm
+
+#Applause.
+#Contestant #2 comes out and makes a circle around the stage.
+
+message_111:
+      text: KANDIDAT \#2 ist... Jap, ihr habt richtig geraten!\! <br>Auch ein Einheimischer aus dem SPROSSWURFDORF!\smm
+
+message_112:
+      text: Passt auf! Hier kommt er mit erstaunlichen 3 Fuß und 1 Zoll!\!<br>Seine Hobbies sind laufen, rennen und kriechen!\smm
+
+message_113:
+      text: Seine Lieblingsfarbkombination ist grün auf braun und er verbringt seine Wochenden damit, sich in dreckiger Wäsche herumzuwälzen!<br>\!Mmm... würzig.\smm
+
+message_114:
+      text: \Com[2]\{APPLAUDIERT FÜR KANDIDAT \#2!\smm
+
+#Applause.
+
+message_115:
+      text: Und nun etwas komplett Anderes!\smm
+
+#Contestant #3 comes out and makes a circle around the stage.
+
+message_116:
+      text: KANDIDAT \#3 kommt den ganzen Weg her von \c[11]OTHERWORLD\c[0]!\smm
+
+message_117:
+      text: Als wäre vom Himmel gefallen... buchstäblich!\!<br>Ihm und uns gemäß, macht das ihn zu einem guten Fang.\! <br>Applaudiert für SNALEY!\smm
+
+#Scattered applause.
+
+message_118:
+      text: Und nun...\! Der Moment auf den ihr gewartet habt...\smm
+
+message_119:
+      text: \{\sinv[1]DÄMPFT DIE LICHTER, BITTE!!\smm
+
+#Lights dim.
+
+message_120:
+      text: \sinv[1]Sie emittiert...\| Schönheit... \|Sie strahlt...\| Anmut aus...\|<br>Sie hat wirklich ...\| das pulchritudinöste Gesicht...\smm
+
+message_121:
+      text: Ja!\! Ihr wisst über wen wir reden!<br>\!Sie ist alles, was erstaunlich und wunderbar ist, und sie ist gerade dabei, genau diese Bühne zu betreten!\smm
+
+message_122:
+      text: Bitte...\! Begrüßt ganz herzlich...<br>\!die eine ... \!die einzige... \!die prachtvolle...\smm
+
+message_123:
+      text: \{\{\{\Com[2]SWEETHEA-\smm
+
+#Lightning strikes and hits SNALEY. He gets fried and turns into ashes, then blows away.
+#There is a blackout.
+
+#Screen goes black and re-centers around party.
+message_124:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 4
+      text: Oh, nein! Ein Stromausfall!\!<br>Und was machen wir nun? Ich weiß nicht, wir als nächstes machen sollen!\aub
+
+message_125:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 36
+      text: Lasst uns einfach abwarten... Ich bin sicher, dass die SPROSSWÜRFE ihren Strom bald wieder anschalten!\her
+
+#Camera pans to area side of stage..
+#SPROUT MOLE runs in.
+
+message_126:
+      text: Hilfe! Wir wissen nicht, was wir tun sollen!\n<SPROSSWURF>
+
+#SPROUT MOLE runs in from the other side.
+
+message_127:
+      text: Hilfe! Wir wissen auch nicht, was wir tun solle!\n<SPROSSWURF>
+
+#SPROUT MOLE jumps.
+
+message_128:
+      text: Hilfe!\n<SPROSSWURF>
+
+#Other SPROUT MOLE jumps.
+
+message_129:
+      text: \{Hilfe!!\n<SPROSSWURF>
+
+#SPROUT MOLE jumps.
+
+message_130:
+      text: \Com[2]\{\{HILFE!!!\n<SPROSSWURF>
+
+#Other SPROUT MOLE jumps.
+
+message_131:
+      text: \Com[2]\{\{\{HILFE!!!!\n<SPROSSWURF>
+
+#Both SPROUT MOLE jump.
+
+message_132:
+      text: \quake[1]\{HHII\{\Com[2]LLLLFFFFFF\Com[2]\{FFFFFFFFEEEEEEE!!!!!\quake[0]\n<SPROSSWURF>
+
+#Camera pans to party.
+
+message_133:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 42
+      text: ...\! Naja...\! Vielleich sollten wir uns doch umschauen nur für den Fall.\her
+
+# =========================================================================================
+# Cutscene: Sweetheart's Bachelor Contest (Cont.)
+# =========================================================================================
+
+#     - Upon exiting SW Stage:
+
+message_150:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 39
+      text: Wow... Ich schätze mal der Stromausfall hat auch das ganze \c[11]SPROSSWURFDORF\c[0] betroffen!\her
+
+message_151:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 4
+      text: HERO, was machen wir nun?\aub
+
+message_152:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 37
+      text: Keine Sorge, AUBREY. Hier kommt mein handwerkliches Können ins Spiel!\! In solchen Fällen sollten wir wahrscheinlich nach...\! einer Art Backup-Generator suchen!\her
+
+#    - There's a room full of treadmills in bottom floor. Map 166
+
+message_153:
+      text: \n<WÄCHTERWURF>Macht schneller, Jungs! Wir müssen uns beeilen!
+
+message_154:
+      text: \n<SPROSSWURF>Wir geben unser Bestes, Wächter!
+
+message_155:
+      text: \n<SPROSSWURF>Schneller geht nicht!
+
+message_156:
+      text: \n<SPROSSWURF>Warum funktioniert das nicht!? Ich fühl mich krank.
+
+message_157:
+      text: \n<SPROSSWURF>Rennt einfach weiter, moles!\! Nichts wird je richtig fertig, wenn man nicht ein wenig schwitzt!
+
+message_158:
+      text: Dieses Kabel steckt nicht in der Steckdose.\! Steckten wir es rein?
+
+#YES/NO
+
+message_159:
+      text: \n<WÄCHTERWURF>\Com[2]Was habe ich gesagt, Würfe? Harte Arbeit zahlt sich aus!<br>\!Jetzt rennt weiter!
+
+message_160:
+      text: \n<SPROSSWURF>Huff... huff... huff... huff...
+
+message_161:
+      text: \n<WÄCHTERWURFE>Schneller, Männer!\! Wir müssen an unsere Grenzen gehen und nach einer helleren Zukunft streben!
+
+message_162:
+      text: Eine sehr große, glückliche Steckdose.
