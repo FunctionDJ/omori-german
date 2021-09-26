@@ -1,0 +1,22 @@
+{
+  "name": "omori-german",
+  "type": "module",
+  "scripts": {
+    "prepare": "husky install",
+    "build": "npm test && node scripts/build",
+    "test": "node scripts/check",
+    "toggle": "node scripts/toggle"
+  },
+  "devDependencies": {
+    "archiver": "^5.3.0",
+    "commander": "^8.1.0",
+    "dotenv": "^10.0.0",
+    "fast-glob": "^3.2.7",
+    "google-spreadsheet": "^3.1.15",
+    "husky": "^7.0.0",
+    "imagemin": "^8.0.0",
+    "imagemin-pngquant": "^9.0.2",
+    "js-yaml": "^4.1.0",
+    "terser": "^5.7.1"
+  }
+}

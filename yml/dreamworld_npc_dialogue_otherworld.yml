@@ -1,0 +1,534 @@
+### Translation: Finished
+### Editing: None
+
+### Translated by: ✨ Jasuanti 🌸#7924
+
+# =========================================================================================
+# Dreamworld NPC dialogue
+# =========================================================================================
+
+# ==============OTHERWORLD========================================
+
+                        #====NIGHT 1-2====
+
+#Colony Mole 1
+#Location: Sprout mole Colony
+message_0:
+      text: \n<KOLONIEWURF>Viele SPROSSWÜRFE lebten hier...\! aber viele von ihnen zogen in eine größere Kolonie um, irgendwo in einem großen Wald.
+
+message_1:
+      text: \n<KOLONIEWURF>Es war ein riskanter Umzug, deshalb blieben einige von uns zurück...
+
+message_2:
+      text: \n<KOLONIEWURF>Mein Bruder ging mit dem Rest der SPROSSWÜRFE...\!<br>Denkt ihr, er erinnert sich noch an mich?
+
+#Colony Mole 2
+#Location: Sprout mole Colony
+message_3:
+      text: \n<KOLONIEWURF>Ich grüße euch, Reisende. Willkommen in meinem Zuhause! \!<br>Es ist bescheiden und klein, aber es ist meins.
+
+#Colony Mole 3
+#Location: Sprout mole Colony
+message_4:
+      text: \n<KOLONIEWURF>Wir SPROSSWÜRFE sind hochingelligente Wesen!
+
+#CREEPY CAT
+#Location: Old Barn
+message_5:
+      text: \n<GRUSELIGE KATZE>Miau... \!\SINV[2]Miau?\SINV[0] \!\SINV[1]Miau...\SINV[0]\! \QUAKE[1]Miiiiiiiiauuuuuu...\QUAKE[0]
+
+#DUCKIE JR
+#Location: Outskirts
+#Ref: sidequests_dreamworld_duckjr
+
+#Ferris
+message_6:
+      text: \n<FERRIS>Dieser Ort war einst ein unberührtes Tierschutzgebiet, aber aufgrund des starken Tourismuswachstums sammelt sich hier immer mehr Müll an...
+
+message_7:
+      text: \n<FERRIS>Hebt euren Müll auf, Leute! So schwer ist das nicht!
+
+#Laramie
+message_8:
+      text: \n<LARAMIE>Eine Bande von WELTRAUM-PIRATEN campt hier schon eine Weile...
+
+message_9:
+      text: \n<LARAMIE>Ich habe gehört, der KAPITÄN entschloss sich plötzlich, nicht mehr reisen zu gehen, also nahm die Hälfte seiner Bande das Schiff und ging!
+
+#LONE Mole
+message_10:
+      text: \n<EINSAMER WURF>\Com[2]\{HEY, WAS SOLL DAS!?!?\}
+
+message_11:
+      text: \n<EINSAMER WURF>Ich gab mir die Mühe, mich von der Gesellschaft zu isolieren, und dann kreuzt ihr auf und ruiniert alles!
+
+message_12:
+      text: \n<EINSAMER WURF>\Com[2]\{IHR BEHEBT DAS BESSER SOFORT!!\}
+
+message_13:
+      text: Ihr halft dem SPROSSWURF dabei, die Pylonen wieder aufzustellen.
+
+#Mr DUCKIE
+#Mrs DUCKIE
+#Ref: sidequests_dreamworld_duckjr
+
+#PO
+message_14:
+      text: \n<PO>Die Sterne am Nachthimmel zu betrachten lässt den Rest der Welt so klein erscheinen.
+
+#Talk with Kel as leader
+
+message_15:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 19
+      text: \kelWow, Miss. Sie sind aber groß...
+
+message_16:
+      text: \n<PO>Danke, Kleiner!!\! Es ist meistens eher anstrengend, aber wenigstens kann ich die Sterne besser sehen.
+
+message_17:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 19
+      text: \kelWas!? Groß zu sein ist nicht anstrengend!\!<br>Alles ist besser, wenn man groß ist.
+
+message_18:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 18
+      text: \kelEines Tages werde ich so groß sein wie Sie!
+
+message_19:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 11
+      text: \aubKlar doch, \n[3]. Träum weiter...
+
+#Recycline Machine
+#sidequest_dreamworld_recycle
+
+#Scarecrow
+#Scarecrow friend 1,2,3
+#sidequest_dreamworld_crowfriends
+
+#JJ
+message_20:
+      text: Ghettoblaster anmachen?
+
+message_21:
+      text: \n<JOCK JAMS>\Com[2]\SINV[2]\{!!!!!!!!!\{!!!!!\{!!!!!!!!!!\}!!!!!\}!!!!!!!!!\}\SINV[0]
+
+message_22:
+      text: Ghettoblaster ausmachen?
+
+message_23:
+      text: \n<JOCK JAMS>...
+
+#SMOL
+
+message_24:
+      text: \smoIch bin SMOL, der kleinste Zentaur der Welt. \!<br>Seht euch all meine Auszeichnungen an!
+
+message_25:
+      text: There's a bunch of sticks scattered all around the house.
+
+message_26:
+      text: Eine pferdförmige Trophäe.\!<br>\"MEISTES PFERD - 2. PLATZ\".
+
+message_27:
+      text: Ein Zertifikat.\!<br>\"WINZIGSTER ZENTAUR - 1. PLATZ\".
+
+message_28:
+      text: Eine lange Trophäe.\!<br>\"KLEINSTER ZENTAUR - 1. PLATZ\".
+
+message_29:
+      text: Eine kurze Trophäe.\!<br>\"KLITZEKLEINSTER ZENTAUR - 1. PLATZ\".
+
+#PESSI
+
+message_31:
+      text: \pesHi! Ich bin PESSI, und wie ihr sicherlich bemerkt habt...\!<br>\Com[2]\{ICH LIEBE SWEETHEART!\}
+
+message_32:
+      text: \pesIch habe jeden Fan-Artikel, den sie veröffentlicht hat...\!<br>Ich besitze SWEETHEART-Poster, Figuren, Sticker, Shirts, ihre gesamte Diskographie, und alles das man sich jemals erträumen könnte!
+
+message_33:
+      text: \pesIch bin mir sicher, dass ihr keine Sammlung finden werdet, die mehr beinhaltet als meine!
+
+message_34:
+      text: \pesMich einen Super-Fan zu nennen ist untertrieben...\!<br>Ich bin der \QUAKE[1]ultimative\QUAKE[0] Fan.
+
+message_35:
+      text: \pesEinmal habe ich SWEETHEART fast getroffen.\!<br>Wir aßen einfach zufälligerweise im selben Restaurant...\!<br>Es war Schicksal, denke ich.
+
+message_36:
+      text: \pesWir bestellten außerdem dasselbe Gericht!\! Nicht dass ich gesehen und kopiert hätte, was sie bestellte.
+
+message_37:
+      text: \pesIch wollte sogar für ihr Essen zahlen, aber ich habe am selben Tag schon eine neu erschienene lebensgroße SWEETHEART-Statue gekauft...
+
+message_38:
+      text: \pesWas wohl Gutes an sich hatte, denn das Mädchen war nur jemand in einem Kostüm, das wie SWEETHEARTs aussah!
+
+message_39:
+      text: \pesEs ist nicht so, als hätte ich es nicht bemerkt.\! Nur ein schlechter Fan würde eine normale Person mit SWEETHEART verwechseln!
+
+message_40:
+      text: \pesHey, pass auf!\! das ist meine selbstgezogene PINKSTERN-Blume...\! SWEETHEARTs Favorit, natürlich!
+
+message_41:
+      text: \pesWenn sie nicht auf einer kontrollierten Fläche wachsen, verbreiten sie sich wie ein Lauffeuer und es ist unmöglich, sie anzuhalten, da sie auf fast allem wachsen können.
+
+message_42:
+      text: Auf den ersten Blick wirkt dies wie eine wirklich unausstehliche Person...\!<br>Aber es ist nur eine Statue.
+
+#SNAKE
+message_43:
+      text: \n<SCHLANGE>\SINV[1]Ssssssssssssssss!\SINV[0]\! (What a thrill!)
+
+#SNALEY
+message_44:
+      text: \n<SNALEY>Oh, meine Güte! \!Stehe ich etwa im Weg?\!<br>Tut mir wirklich leid.\! Ich mache Platz.
+
+message_45:
+      text: \n<SNALEY>Oh, ups!\! Ich stehe wohl im Weg.\!<br>Meine Güte, es tut mir wirklich leid.\! Ich mache Platz.
+
+#TV Girl
+#Coffee Machine quest
+
+#Veggie Kid (Eggplant)
+#Outskirts
+
+message_50:
+      text: \n<GEMÜSLEIN>Wir sind auf Abenteuer!
+
+#Veggie Kid (Onion)
+#Outskirts
+
+message_51:
+      text: \n<GEMÜSLEIN>Wir sind Abenteurer!
+
+#Veggie Kid (Potato)
+#Outskirts
+
+message_52:
+      text: \n<GEMÜSLEIN>Wir werden erkunden!
+
+#Veggie Kid (Tomato)
+#Outskirts
+
+message_53:
+      text: \n<GEMÜSLEIN>Wir sind Erkunder!
+
+#Space Pirate ACE
+#Location: Space boyfriends House
+
+message_54:
+      text: \n<WELTRAUM-PIRAT ASS>CAPT. SPACEB-\! Ich meine, SPACE BOYFRIEND ist nicht aus seinem Bett gekommen seit...\! \QUAKE[1]sie...\QUAKE[0] \!nicht mehr vorbeigekommen ist...
+#Location: Frozen Lake
+
+message_55:
+      text: \n<WELTRAUM-PIRAT ASS>Was ihr da gemacht habt war sehr mutig.\! Ich würde den KAPITÄN niemals so herausfordern... \!Ihr würdet wirklich großartige WELTRAUM-PIRATEN sein.
+
+#Space Pirate AMIGO
+#Location: Space boyfriends House
+
+message_56:
+      text: \n<WELTRAUM-PIRAT AMIGO>\SINV[1]Zzzzzzzzz...\SINV[0]
+
+#Space Pirate BRO
+#Location: Space boyfriends House
+
+message_57:
+      text: \n<WELTRAUM-PIRAT BRO>SPACE BOYFRIEND...\!<br>Was kann ich für dich tun, bro?<br>\!Warum kommst du nicht aus dem Bett?
+
+#Location: Frozen Lake
+
+message_58:
+      text: \n<WELTRAUM-PIRAT BRO>Bro...\! Diese \c[3]SNO-CONES\c[0]...\! sind richtig gut.
+
+#Space Pirate KUMPEL
+#Location: Space boyfriends backyard
+
+message_59:
+      text: \n<WELTRAUM-PIRAT KUMPEL>Kumpel...\! Blöd, das du zu solchen Zeiten kommen musstest...
+
+#Location: Frozen Lake
+
+message_60:
+      text: \n<WELTRAUM-PIRAT KUMPEL>Es ist schön, den KAPITÄN wieder bei uns zu haben!\! Yeah, Kumpel!
+
+
+#Space Pirate CHEF
+#Location: Campsite
+
+message_61:
+      text: \n<WELTRAUM-PIRAT CHEF>Squak!\! Es ist hier wirklich langweilig, seit CAPT. SPACEB- ich meine, SPACE BOYFRIEND die WELTRAUM-PIRATEN übernahm...
+
+message_62:
+      text: \n<WELTRAUM-PIRAT CHEF>Ich meine...\! seht euch an, was SPACE BOYFRIEND mit dem Schiff des alten KAPITÄNs gemacht hat!\! CAPT. PINKBEARD würde das niemals gefallen!
+
+#Location: Campsite
+
+message_64:
+      text: \n<WELTRAUM-PIRAT CHEF>Squak!\! CAPT. SPACEBOY ist wieder beim Alten!?\!<br>Ich muss das CAPT. PINKBEARD sofort mitteilen!
+#WELTRAUM-PIRAT CHEF flies away and becomes N/A
+
+#Space Pirate ALTER
+#Location: Space boyfriends backyard (Solar System)
+
+message_65:
+      text: \n<WELTRAUM-PIRAT ALTER>Ahoi, Alter!\! Hier war mal PLUTO, SPACE BOYFRIENDs geschätzter Planet... aber er ist verschwunden!
+
+#Location: Frozen Lake
+
+message_66:
+      text: \n<WELTRAUM-PIRAT ALTER>Alter... Ich kann es nicht fassen, dass der KAPITÄN uns allen \c[3]SNO-CONES\c[0] spendiert hat... \!Schnief...\! Ich bin gerade sehr gerührt.
+
+#Space Pirate KAMERAD
+#Location: Campsite
+
+message_67:
+      text: \n<WELTRAUM-PIRAT KAMERAD>Ahoi, Kamerad!\! Wir arbeiten für SPACE BOYFRIEND.\! Ich vermisse die guten alten Zeiten als Pirat!
+
+#Location: Frozen Lake
+
+message_68:
+      text: \n<WELTRAUM-PIRAT KAMERAD>Ahoi, Kamerad!\! Bist du hier, um \c[3]SNO-CONES\c[0] mit uns zu haben?
+
+#CHEF AFTER SBF IS BACK HOME WITH dad
+
+message_69:
+      text: \n<WELTRAUM-PIRAT CHEF>Der verschollene Sohn ist also zurückgekehrt...\! Hmph!\! Mal sehen, wie lange das anhält...
+
+#Space Pirate KOLLEGE
+#Location: Space Boyfriend's House
+
+message_80:
+      text: \n<WELTRAUM-PIRAT KOLLEGE>All Ich hörte, der Rest der Crew beschwert sich in letzter Zeit über Langeweile.\! Bin ich der einzige hier, der es irgendwie genießt, hier zu putzen?
+
+#Location: Space Boyfriend's House
+
+message_81:
+      text: \n<WELTRAUM-PIRAT KOLLEGE>CAPT. SPACEBOY ist wieder er selbst?\! Das ist großartig, Kollege!\! Wenn die Crew zurück auf Reisen ist, werde ich hierbleiben und Wache halten.\! Irgendjemand muss das ja tun, nicht wahr?
+
+#Space Pirate GEFÄHRTE
+#Location: Space Boyfriend's House
+
+message_82:
+      text: \n<WELTRAUM-PIRAT GEFÄHRTE>Es ist gerade ein wenig schwer, Gefährte, aber nichtsdestotrotz...\! Ich glaube an den KAPITÄN!
+#Location: Frozen Lake
+
+message_83:
+      text: \n<WELTRAUM-PIRAT GEFÄHRTE>Meine \c[3]SNO-CONE\c[0] schmeckt nach nichts!
+
+                        #====NIGHT 2====
+
+#Colony Mole 1 same as night 1-2
+#Colony Mole 2 same as night 1-2
+#Colony Mole 3 same as night 1-2
+#Creepy Cat same as night 1-2
+#Duckie Jr same as night 1-2
+#Ferris same as night 1-2
+#JJ same as night 1-2
+#LARAMIE
+message_88:
+      text: \n<LARAMIE>Ich hörte, die WELTRAUM-PIRATEN sind wieder auf Reisen! <br>Schön für sie!\! Hmm...\! ich frage mich...\! was macht sie überhaupt zu Piraten?\! Was stehlen sie denn so?
+#Lone Mole N/A
+#Duckies same as night 1-2
+#Pessi same as night 1-2
+#Pluto N/A
+#PO same as night 1-2
+#Recycle Machine same as night 1-2
+#Scarecrow same as night 1-2
+#Scarecrow Friend 1,2,3 same as night 1-2
+#SMOL same as night 1-2
+#SNAKE same as night 1-2
+#SNALEY N/A
+#SPACE BOYFRIEND N/A
+#TVGIRL
+message_89:
+      text: \n<TV MÄDCHEN>Verflixt...\! Alles das sie zurzeit ausstrahlen sind Wiederholungen...\!<br>Wann kommt denn mal was neues?
+
+#GEMÜSLEINS N/A
+#Space Pirate ACE N/A
+#Space Pirate AMIGO N/A
+#Space Pirate BRO N/A
+#Space Pirate KUMPEL
+message_90:
+      text: \n<WELTRAUM-PIRAT KUMPEL>\SINV[1]PLUTO...\! Komm raus, wo auch immer du steckst!\SINV[0]
+
+#Space Pirate CHEF N/A
+#Space Pirate ALTER
+message_91:
+      text: \n<WELTRAUM-PIRAT ALTER>CAPT. SPACEBOY und manche der Piraten sind mit großer Eile irgendwohin verschwunden...
+
+message_92:
+      text: \n<WELTRAUM-PIRAT ALTER>Aber ich und mein Alter entschlossen uns, nach CAPT. SPACEBOYs verschollenen Planeten, PLUTO, zu suchen...\!<br>Hmm...\! Wo könnte er bloß sein?
+
+#Space Pirate KAMERAD
+#Space Pirate KOLLEGE
+message_93:
+      text: \n<WELTRAUM-PIRAT KOLLEGE>Du hast es gerade so verpasst, Kollege! Jeder ist mit CAPT. SPACEBOYs brandneuem Schiff gegangen!\! Ich bin froh, sagen zu können, dass CAPT. SPACEBOY und WELTRAUM-PIRATEN wieder bei voller Kraft sind!
+
+message_94:
+      text: \n<WELTRAUM-PIRAT KOLLEGE>Ich hoffe, alle haben Spaß!
+
+#Space Pirate GEFÄHRTE
+message_95:
+      text: \n<WELTRAUM-PIRAT GEFÄHRTE>Der KAPITÄN kommandierte mich, dazubleiben, um auf sein altes Schiff aufzupassen.\! Er ist so cool, wenn er mir Befehle erteilt!
+
+
+                        #====NIGHT 3====
+
+#Colony Mole 1: Same as Night 1-2
+#Colony Mole 2: Same as Night 1-2
+#Colony Mole 3: Same as Night 1-2
+#Creepy Cat: Show Creepy Cat Picture
+#Duckies: Same as Night 1-2
+#Ferris: Same as Night 1-2
+#JJ: Same as Night 1-2
+#LARAMIE
+message_100:
+      text: \n<LARAMIE>Ich hörte, der KAPITÄN der WELTRAUM-PIRATEN ist von \c[11]OTHERWORLD\c[0] spurlos verschwunden...
+
+message_101:
+      text: \n<LARAMIE>Die WELTRAUM-PIRATEN müssen wieder in Panik sein!\! Es ist bei ihnen immer was los, nicht wahr?
+
+#LONE Mole
+#Location: Forgotten Pier
+message_102:
+      text: \n<EINSAMER WURF>Ich bin ganz allein!\! Ich liebe es hier!
+
+#PESSI: Sprout Mole Village - Stolen quest (Incomplete)
+#Pluto: N/A
+#PO: Same as Night 1-2
+#Recycle: Same as Night 1-2
+#Scarecrow: Same as Night 1-2
+#Scarecrow Friend 1,2,3 same as Night 1-2
+#Smol: Same as Night 1-2
+#Snake: Same as Night 1-2
+#Snaley: Location: N/A
+#Space BF: Frozen Forest quest
+#TV Girl: Same as Night 2
+#Veggie kids: N/A
+#Space pirate ACE
+#Space Pirate Amigo: Last Resort: Same as Night 1-2
+#Space Pirate Bro: Location Last Resort
+message_105:
+      text: \n<WELTRAUM-PIRAT BRO>Nachdem SWEETHEART gegangen ist, ist CAPT. SPACEB-, ich meine...\! SPACE HUSBAND weggelaufen und verschwunden...
+
+message_106:
+      text: \n<WELTRAUM-PIRAT BRO>Ein Suchtrupp hält Ausschau nach ihm, aber bisher ist die Suche erfolglos!\! Wo könnte er nur sein?
+
+#Space pirate KUMPEL
+#Location: Orange Oasis
+message_107:
+      text: \n<WELTRAUM-PIRAT KUMPEL>\SINV[1]Oh, PLUTO...\! PLUTO...\! Wo bist du?\!\SINV[0]<br>Seufz...\! Dieser Ort ist riesig.\!<br>Wie sollen wir ihn nur jemals finden?
+
+#Space Pirate CHEF
+#Location: Last Resort
+message_108:
+      text: \n<WELTRAUM-PIRAT CHEF>Bwark!\! Dieser Ort ist deprimierend!
+
+#Space pirate ALTER
+#Location: Orange Oasis
+message_109:
+      text: \n<WELTRAUM-PIRAT ALTER>Seufz...\! Ich vermisse langsam die Crew, Alter...
+
+message_110:
+      text: \n<WELTRAUM-PIRAT KAMERAD>Keuch...\! Keuch...\! KAPITÄN...\! mein Kamerad...\!<br>Trotz allem...\! Glaube ich an dich!
+
+message_111:
+      text: \n<WELTRAUM-PIRAT KOLLEGE>Ahoi, Kollege!\! Ich bin froh, sagen zu können, dass CAPT. SPACEBOY und WELTRAUM-PIRATEN wieder bei voller Kraft sind!\! Ich hoffe, alle haben Spaß!
+
+#WELTRAUM-PIRAT GEFÄHRTE: Same as Night 2
+
+                        #====NIGHT 4====
+
+message_130:
+      text: \n<LARAMIE>Ich hörte, dass CAPT. SPACEBOYs Vater PINKBEARD zurückkehrte, nachdem CAPT. SPACEBOY verschwand!\!<br>Oh, wie dramatisch!\! Kann es noch dramatischer werden?
+
+#Lone Mole: N/A
+#ESSI: Slime Girl's Lair
+
+message_140:
+      text: \n<WELTRAUM-PIRAT ACE>Juhu!\! Der KAPITÄN ist zurück...\! erneut...\! aber wie lange?
+
+message_141:
+      text: \n<WELTRAUM-PIRAT AMIGO>Wenn du deinen Schmerz spüren kannst...\! kannst du ihn auch heilen.
+
+#Location: Lost Forest
+message_142:
+      text: \n<WELTRAUM-PIRAT KUMPEL>Hey, Kumpel...\!<br>Ich glaube nicht, dass PLUTO an einem Ort wie diesen ist.
+
+message_143:
+      text: \n<WELTRAUM-PIRAT ALTER>Ich glaube, wir haben uns verirrt, Alter...\!<br>Wir sind weit weg von Zuhause.
+
+message_144:
+      text: \n<WELTRAUM-PIRAT BRO>Schnief...\! Ich wusste, der KAPITÄN würde zurückkehren...\! Willkommen zu Hause, KAPITÄN.
+
+message_145:
+      text: \n<WELTRAUM-PIRAT ACE>Schnief...\! Der KAPITÄN ist weg...\! schon wieder...
+
+#========================== Message in a bottle ========================
+
+message_160:
+      text: Es ist Flaschenpost!
+
+message_161:
+      text: In ihr steht...<br>"Fülle die Lücke aus."
+
+message_162:
+      text: "When the Moon hits your eye like a big pizza pie,<br>that's ________."
+
+message_163:
+      text: Was ist deine Antwort?
+
+message_164:
+      text: Du schreibst deine Antwort und wirfst die Flasche in den See.
+
+message_165:
+      text: OMORI
+
+message_166:
+      text: AUBREY
+
+message_167:
+      text: KEL
+
+message_168:
+      text: HERO
+
+
+#-----
+
+message_170:
+      text: Die WELTRAUM-PIRATEN singen vor sich hin.
+
+
+#----
+
+message_200:
+      text: \n<BAUWURF>Nachdem SWEETHEART ihre letzte Folge ausstrahlte, ziehen manche SPROSSWÜRFE zurück in die Kolonien.
+
+message_201:
+      text: \n<BAUWURF>Dies ist erstklassiger Grundbesitz!
+
+message_202:
+      text: \n<NEUER KOLONIEWURF>Viele hat man beim zweiten großen Umzug verloren...\! aber Fortschritte bringen auch ihre Opfer!
+
+message_203:
+      text: \n<NEUER KOLONIEWURF>Hier hat man so viel Freiraum als im \c[11]SPROSSWURFDORF\c[0].\! Vielleicht ein wenig \sinv[1]zu\sinv[0] viel.
+
+message_204:
+      text: \n<BIG MOLIO>Seid gesegnet.
+
+message_205:
+      text: \n<NEUER KOLONIEWURF>Ich weiß nicht, was ich von Mitbewohnern halten soll...\!<br>Ich hoffe, sie spülen das Geschirr für mich.
+
+message_206:
+      text: \n<BAUWURF>Building towards a brighter future...\! That's the SPROUT MOLE way!
+
+message_207:
+      text: \n<NEUER KOLONIEWURF>Ich weiß nicht, was ich von Mitbewohnern halten soll...\!<br>Ich hoffe, sie falten die Wäsche für mich.
+
+message_208:
+      text: \n<NEUER KOLONIEWURF>Ich weiß nicht, was ich von Mitbewohnern halten soll...\!<br>Ich hoffe, sie machen die Einkäufe für mich.

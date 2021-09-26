@@ -1,0 +1,432 @@
+message_500:
+  text: Bist du sicher, dass du gehen willst?
+message_50:
+  text: Der Bildschirm starrte dich an.
+message_501:
+  text: Eine schwarze Tür wirft einen schwachen Schatten.\!<br>Was möchtest du tun?
+message_502:
+  text: Innen ist es rein weiß.
+message_510:
+  text: Du fühlst dich krank...
+message_511:
+  text: Du kannst jetzt nicht rausgehen.
+message_512:
+  text: Du fühlst dich krank...\! Ein Ausflug zur Toilette sollte helfen.
+message_550:
+  text: Hier gibt es ein Loch.
+message_551:
+  text: Hier gibt es ein Loch.
+message_552:
+  text: Hier ist ein Loch.\! In das Loch greifen?
+message_553:
+  text: Du hast einen kalten Luftzug gespürt.
+message_554:
+  text: Du hast gespürt, dass jemand deine Hand hält.
+message_555:
+  text: Hier ist ein Loch.\! In das Loch schauen?
+message_556:
+  text: Du siehst nichts im Inneren.
+message_557:
+  text: Hier ist ein Loch.\! In das Loch gehen?
+message_558:
+  text: Ein Teil dieses Regals wurde ausgeräumt.\!<br>Hier ist ein Loch.\! Schau in das Loch?
+message_570:
+  text: Du hast ein Band mit der Aufschrift "BIRTH".
+message_571:
+  text: Fotos von deinen Freunden.\! Alle Gesichter sind durchgestrichen.
+message_0:
+  text: Du siehst einen Jungen, der etwas Glänzendes in eine Truhe fallen lässt.
+message_1:
+  text: Du siehst einen Jungen, der in der Ecke seines Zimmers weint.
+message_2:
+  text: Du siehst einen Jungen, der sich die Fingerknöchel kratzt.
+message_3:
+  text: Du siehst einen Jungen, der aus seinem Fenster schaut.
+message_4:
+  text: Du siehst zwei Jungen und ihren Hund draußen spielen.
+message_5:
+  text: Du siehst einen Jungen, der eine Tür verschließt.
+message_6:
+  text: Du siehst einen Jungen, der auf eine Wand starrt.
+message_7:
+  text: Du siehst einen Jungen, der einen Bleistift in seinen Schreibtisch gräbt.
+message_8:
+  text: Du siehst einen Jungen, der etwas im Gras vergräbt.
+message_9:
+  text: Du siehst einen Jungen in einem dunklen Raum sitzen.<br>Der Junge lügt und lügt, immer und immer wieder.
+message_10:
+  text: Du siehst einen Jungen am Klavier sitzen.<br>Der Junge spielt ein paar Noten und murmelt etwas vor sich hin.
+message_11:
+  text: Du siehst einen Jungen, der seine Bettlaken umdreht.
+message_12:
+  text: Du siehst einen Jungen, der auf seine Finger starrt.\! <br>Er wimmert vor Schmerzen.
+message_13:
+  text: Du siehst einen Mann, der seine Autotür schließt und wegfährt.
+message_14:
+  text: Du siehst einen Mann, der verzweifelt einen Baum im Hinterhof fällen will.
+message_20:
+  text: Du schreist in die Box, aber niemand hört dich.
+message_21:
+  text: Du hörst MOM leise weinen.\!<br>\"Da, da... \n[8]...\! Wir werden dich beschützen...\!<br>Alles wird gut...\"
+message_22:
+  text: Du hörst MOM leise weinen.\! <br>\"Wo...\! Wo ist deine Geige?\"
+message_23:
+  text: Du hörst eine Stimme aus dem Inneren der Box murmeln.
+message_24:
+  text: \fn<OMORI_GAME>Es war ein Unfall. Es war ein Unfall. Es war ein Unfall. <br>Es war ein Unfall. Es war ein Unfall. Es war ein Unfall. <br>Es war ein Unfall. Es war ein Unfall. \beben[1]Es war ein Unfall.\beben[0]
+message_25:
+  text: Du findest ein Notizbuch.\! Der gleiche Satz wird <br>über und über geschrieben.
+message_26:
+  text: \fn<OMORI_GAME>\quake[1]Es ist alles meine Schuld. Es ist alles meine Schuld. It's all my fault. <br>Es ist alles meine Schuld. Es ist alles meine Schuld. It's all my fault. <br>Es ist alles meine Schuld. Es ist alles meine Schuld.<br>Es ist alles meine Schuld.
+message_35:
+  text: Du schaust in die Box, aber es ist nichts drin.
+message_27:
+  text: Eine häutungslose Schlange.\! Sie wurde sauber geschnitten und in einer perfekt geraden Linie platziert.
+message_28:
+  text: Du klingelst mit der Glocke...\! aber sie macht keinen Ton.
+message_29:
+  text: Ein Kuchen.\! Willst du ihn essen?
+message_30:
+  text: Während du kaust, beginnst du das Knirschen der Knochen zu hören.
+message_31:
+  text: Du kaust ein wenig langsamer...\! und stellst fest, dass deine Backenzähne fehlen.
+message_32:
+  text: Eine weiße Reiherorchidee.
+message_33:
+  text: Hast du Lust zu schwimmen?
+message_34:
+  text: Willst du aufhören zu schwimmen?
+message_36:
+  text: \n<KLEINE EINS>}Hilf mir...
+message_37:
+  text: \n<LITTLE ONE>\}OMORI... Ich bin traurig...
+message_38:
+  text: Früher war hier etwas.
+message_39:
+  text: Du hast Angst.
+message_40:
+  text: Ein leeres Polaroid.
+message_41:
+  text: Es ist ein Bild von dir.
+message_42:
+  text: Du hast ☐☐☐☐ gefunden!
+message_43:
+  text: Du hast ☐☐☐ ☐☐!
+message_44:
+  text: Du hast etwas gegessen.
+message_47:
+  text: Du hast 'KEY' INGREDIENT!
+message_45:
+  text: In diesen Schreibtisch ist die Zeichnung einer SPROUT MOLE geätzt.
+message_46:
+  text: Diese Tür ist mit einem 'KEY' INGREDIENT verschlossen.
+message_48:
+  text: Du hast die Tür entriegelt.
+message_100:
+  text: \basAhh...\! Endlich bist du gekommen...\! Es tut mir wirklich leid.\! Es ist vielleicht zu spät für mich, aber bitte versuche mich zu retten, ok?\! Versprichst du mir das, \n[8]?
+message_101:
+  text: \n<KEL>HI, OMORI!\^
+message_102:
+  text: \n<DEER KOPF>Erkennst du dein Zuhause noch?
+message_103:
+  text: Willst du zurück zum Festland schwimmen?
+message_104:
+  text: Es ist wirklich heiß.
+message_105:
+  text: \n<CRAB>Ich kann es kaum erwarten, braun zu werden!
+message_106:
+  text: CRAB liegt im Sterben.
+message_107:
+  text: Es ist eine Palme.
+message_110:
+  text: Die Wetterfahne ist nach Westen ausgerichtet.
+message_111:
+  text: Die Wetterfahne ist nach Norden ausgerichtet.
+message_112:
+  text: Die Wetterfahne ist nach Osten ausgerichtet.
+message_120:
+  text: Du hast das STEAK gegessen.
+message_121:
+  text: Ein schwebender Spiegel.\! Du bist ganz allein.\!<br>Willst du Verstecken spielen?
+message_122:
+  text: 5...\| 4...\| 3...\| 2...\| 1!
+message_123:
+  text: Ich habe dich gefunden!
+message_124:
+  text: Willst du wieder spielen?
+message_125:
+  text: Du hast etwas gesehen, aber entschieden, dass es nichts für dich ist.
+message_126:
+  text: Du bist zu voll zum Laufen.
+message_127:
+  text: \n<swethort>im pafect
+message_128:
+  text: \n<swothert>o hoho
+message_129:
+  text: \n<swumphart>Augen ap hier
+message_115:
+  text: \n<SHATTERED OMORI>5...\|4...\|3...\|2...\|1!
+message_130:
+  text: \n<OMOLI>\}Hungrig...
+message_131:
+  text: \n<OMOLI>\}Bitte Geld...
+message_132:
+  text: ZWEI DOLLARN an OMOLI geben?
+message_133:
+  text: Du hast keine ZWANZIG DOLLARS.
+message_134:
+  text: \n<OMOLI>\}Thabks...
+message_135:
+  text: \n<BIG POCKET>I'm gonna dance!
+message_136:
+  text: Hast du Lust zu tanzen?
+message_137:
+  text: Du wusstest nicht, wie man den Tanz macht.
+message_138:
+  text: PLUTO sieht nicht wie er selbst aus.<br>Du hast beschlossen, dass es besser ist, ihn in Ruhe zu lassen.
+message_139:
+  text: \n<LOOMY>Oh! Na, wenn das nicht mein alter Freund ist!\! Ich habe die Fähigkeit, mich schnell zwischen Orten zu bewegen, indem ich durch Toiletten reise!
+message_140:
+  text: \n<LOOMY>TAG mich ein und ich zeige es dir, OMORI!
+message_141:
+  text: Du kennst diese Person nicht.
+message_142:
+  text: \n<LOOMY>Trage mich ein, OMORI!
+message_143:
+  text: \n<LOOMY>Hey, TAG me in!
+message_144:
+  text: Du hast Lust, deine Freunde zu sehen.
+message_145:
+  text: \n<PINATA GUY>\sinv[1]\{\{WOOOOOOOOOOOOOOOOOOOOO!!!
+message_150:
+  text: Du hast zwanzig DOLLARS!
+message_151:
+  text: Willkommen bei MONEY SPACE.\!<br>Nur KEL ist hier erlaubt.
+message_155:
+  text: Bruder...\! Ich bin so froh, dass du hier bist...
+message_160:
+  text: Schau dir an, was du getan hast.
+message_165:
+  text: \n<DADDY LONGLEGS>Ah...\! Du bist einen weiten Weg nach unten gekommen.\!<br>Aber du solltest umkehren, solange du noch kannst.
+message_170:
+  text: \n<HERO>Hey, OMORI!\! Bist du hungrig?
+message_171:
+  text: \n<HERO>Ich wollte gerade etwas kochen, aber mir fehlen ein paar wichtige Zutaten.\! Warum findest du nicht welche und bringst sie mir zurück?
+message_172:
+  text: \n<HERO>Hast du etwas für mich zum Kochen gefunden?\!<br>Ich habe es in einer Minute fertig!
+message_173:
+  text: \n<HERO>Huh...\! das hat sich nicht so entwickelt, wie ich es mir vorgestellt habe, aber es wäre eine Verschwendung, es nicht zu geben, also...
+message_174:
+  text: \n<HERO>Genuss!
+message_180:
+  text: Da ist ein STUFFED TOY im Weg.
+message_181:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 3
+  text: Du hast meinen Liebesbrief angenommen...<br>Das bedeutet, dass wir auf ein Date gehen, richtig?<br>
+message_182:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 0
+  text: Ich liebe dich, OMORI! Bitte geh mit mir aus!\aub
+message_183:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 0
+  text: Ich werde dir für immer folgen!
+message_184:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 4
+  text: Du hast gestern gesagt, dass wir zusammen abhängen, also leihe ich mir dich für den Rest des Nachmittags aus, okay?\aub
+message_185:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 1
+  text: Hehe... Hast du lange gewartet?\! Es ist unhöflich, eine Dame warten zu lassen, weißt du... Komm schon! Lass uns gehen!\aub
+message_186:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 5
+  text: Dieser Idiot KEL ist losgezogen und hat mein STUFFED TOY wieder versteckt...<br>Du hilfst mir doch, ihn zu finden, oder?<br>
+message_187:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 10
+  text: \com[2]Du bist spät dran, OMORI!\! Warum hast du so lange gebraucht?\aub
+message_188:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 2
+  text: OMORI...\! I-\aub
+message_189:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 11
+  text: Warte mal kurz... Wer sind all die Mädels hinter dir?\aub
+message_190:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 1
+  text: Ich habe ein Date mit OMORI! \aub
+message_191:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 10
+  text: \com[2]Nein, ich habe ein Date mit OMORI!\aub
+message_192:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 9
+  text: Nun, wir können nicht alle mit OMORI ausgehen...\aub
+message_193:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 0
+  text: Hm? Was ist das?\aub
+message_194:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 8
+  text: So...so weit ist es also gekommen.\aub
+message_195:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 6
+  text: Huff...\! huff...\! huff...\aub
+message_196:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 5
+  text: Huff...\! huff...\! huff...\aub
+message_197:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 5
+  text: Du...\! Du bist ziemlich stark...\aub
+message_198:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 6
+  text: Du bist gar nicht so schlecht...\! selbst...\aub
+message_199:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 10
+  text: \com[2]Aber es wird Zeit, dass wir das zu Ende bringen!
+message_200:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 10
+  text: Gib einfach auf!
+message_201:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 9
+  text: \com[2]Ich werde nie gegen dich verlieren!\aub
+message_202:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 11
+  text: Das...\! scheint nirgendwohin zu gehen...\aub
+message_203:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 5
+  text: Ich kann nicht mehr kämpfen...\! Ich bin so müde...\aub
+message_204:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 9
+  text: Es gibt nur einen Weg, wie wir das wirklich klären können...\aub
+message_205:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 10
+  text: \com[2]OMORI!\aub
+message_206:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 10
+  text: \com[2]Mit wem von uns gehst du aus!?\aub
+message_207:
+  text: LINKS AUBREY
+message_208:
+  text: RECHTS AUBREY
+message_209:
+  text: ...\! Du musst eingenickt sein...
+message_210:
+  text: \n<FACELESS>Auch wenn du etwas versteckst, wird es immer da sein.
+message_211:
+  text: \n<FACELESS>Es tut mir leid, aber ich kann mich nicht erinnern, wer du bist.
+message_212:
+  text: Die FACELESS sprechen leise flüsternd miteinander.
+message_213:
+  text: \n<FACELESS>Du siehst älter aus, OMORI...<br>Aber nicht weiser.
+message_214:
+  text: \n<FACELESS>Ich dachte, du hättest uns für deine anderen Freunde verlassen.\!<br>Es ist gut, dass du zurück bist.
+message_215:
+  text: \n<FACELESS>Ich hoffe du hattest Spaß ohne uns.
+message_216:
+  text: \n<FACELESS>Ich habe jemanden gesehen, der auf dich gewartet hat.<br>Ich denke, du solltest zu ihm gehen.
+message_217:
+  text: \n<FACELESS>Vorsichtig mit dem Geländer.
+message_218:
+  text: \n<FACELESS>Wie lange willst du uns hier noch einsperren?
+message_219:
+  text: \n<FACELESS>Geh nicht weg.
+message_230:
+  text: \n<HEROSAURUS>Akzeptierst du mich noch?
+message_300:
+  text: Ein unheimliches rotes Glühen strahlt von außen.<br>Du fühlst dich seltsam angezogen.
+message_301:
+  text: Die Tür ist verschlossen.
+message_400:
+  text: OMOCAT
+message_401:
+  text: ARCHEIA
+message_402:
+  text: TDS
+message_403:
+  text: MELONKID
+message_404:
+  text: OCEAN
+message_405:
+  text: SLEEPYKUYA
+message_406:
+  text: YIN
+message_407:
+  text: EMS
+message_408:
+  text: MINCED
+message_409:
+  text: PEDRO
+message_410:
+  text: RAI
+message_411:
+  text: ROCHELLE
+message_412:
+  text: KIM
+message_310:
+  text: \.\.\.\.\.\.\.\.\.\.\.\.\!\.\.\.\.\.\.\.\.\.\.\.\.\.\.
+message_311:
+  text: \aubHey, OMORI...\! Ich glaube, deine Schwester ignoriert uns.\! Vielleicht solltest du zu ihr gehen und mit ihr reden.
+message_312:
+  text: \kelWir können kein Picknick ohne MARI machen!
+message_313:
+  text: \herMARI ist schon lange nicht mehr zu Hause gewesen...\! Sie braucht nur etwas Platz, um sich anzupassen.
+message_315:
+  text: \n<VEGGIE KID>Mein Lieblingspillow ist wieder verschwunden!<br>Ich kann einfach nicht ohne es schlafen...
+message_316:
+  text: \n<VEGGIE KID>Hast du es schon gefunden?
+message_317:
+  text: Du hast ein PILLOW gefunden.
+message_318:
+  text: \n<VEGGIE KID>Das ist nicht mein PILLOW...\! aber trotzdem danke!
+message_319:
+  text: \n<PILLOW HIDER>Sie nennen mich PILLOW HIDER! Ich bin ein Meister im Verstecken von Kissen.
+message_320:
+  text: \n<SPROUT MOLE>Oh, du hast es gefunden.\! Vergiss die Sache mit dem PILLOW HIDER... Ich habe beschlossen, dass ich stattdessen etwas anderes besser verstecken kann.
+message_321:
+  text: \n<SPROUT MOLE>OMORI.
+message_575:
+  text: Eine Videokassette mit der Aufschrift "OMORI".\! Willst du es abholen?
+message_576:
+  text: Eine Videokassette mit der Aufschrift "BASIL".\! Willst du es abholen?
+message_233:
+  text: Ein riesiges Spinnennetz blockiert den Eingang.
+message_250:
+  faceset: MainCharacter_Basil
+  faceindex: 8
+  text: \who\fn<OMORI_GAME>...
+message_251:
+  text: MARI ist hier.
+message_252:
+  text: HERO ist hier.
+message_253:
+  text: BASIL ist hier.
+message_254:
+  text: AUBREY ist hier.
+message_255:
+  text: KEL ist hier.
+message_260:
+  text: Aus dem Inneren der Box geht ein Flüstern hervor.
+message_261:
+  text: \Fn<OMORI_GAME>Erkennst du dein Zuhause noch?
+message_262:
+  text: <fn<OMORI_GAME>MARI war schon lange nicht mehr zu Hause...

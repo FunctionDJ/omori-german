@@ -1,0 +1,58 @@
+message_0:
+  text: \n<PIZZA MAN>Hallo und willkommen bei \c[11]GINO'S PIZZA\c[0]!\!<br>Was kann ich dir bringen?
+message_1:
+  faceset: MainCharacters_Faraway
+  faceindex: 14
+  text: \kelHiya! Ich bin hier um eine Bestellung abzuholen!
+message_2:
+  text: \n<PIZZA MAN>Ich verstehe!\! Was möchtest du?\!<br>Oh...ich weiß...\! Möchtest du...\! Pizza?\! Nom nom...
+message_3:
+  faceset: MainCharacters_Faraway
+  faceindex: 12
+  text: \kel Ich glaube, meine Mutter hat heute Morgen eine Bestellung für ein \c[3]HERO SANDWICH\c[0] aufgegeben!\! Ich bin nur hier um es abzuholen.
+message_4:
+  text: \n<PIZZA MAN>Oh...\! Ich verstehe...\! Ihr seid die Familie, die ständig Sandwiches...\! statt Pizza bestellt...
+message_5:
+  faceset: MainCharacters_Faraway
+  faceindex: 16
+  text: \kelAber...\! es steht doch...\! auf der Speisekarte, oder?
+message_6:
+  text: \n<PIZZA MAN>Hmm...\! ja...\! du hast recht...\! Ich denke schon...
+message_7:
+  text: \n<PIZZA MAN>Okay! Ich werde es holen gehen!
+message_8:
+  faceset: MainCharacters_Faraway
+  faceindex: 17
+  text: \kelDu weißt schon...\! Ich weiß nicht, ob ich dir das jemals erzählt habe, aber deshalb ist der Spitzname meines Bruders HERO...
+message_9:
+  faceset: MainCharacters_Faraway
+  faceindex: 15
+  text: \kel Man könnte denken, dass es aus einem wirklich coolen Grund ist, wie zum Beispiel, dass er als Kind einen Welpen gerettet hat oder so...\!<br> Aber nein...<br> Er mag einfach Sandwiches!
+message_10:
+  text: \n<PIZZA MAN>Okay, hier ist dein \c[3]HERO SANDWICH\c[0].\! Bitte genieße es!
+message_11:
+  faceset: MainCharacters_Faraway
+  faceindex: 14
+  text: \kelCool, danke!
+message_12:
+  faceset: MainCharacters_Faraway
+  faceindex: 24
+  text: \kelAlles klar, wir können jetzt loslegen, \n[8]!<br>Ich bin bereit, wenn du es bist!
+message_20:
+  text: \n<MR. BAKER>Willkommen in unserer Familienbäckerei! Was möchtest du?
+message_21:
+  faceset: MainCharacters_Faraway
+  faceindex: 12
+  text: \kelHiya! Ich bin hier um eine Bestellung abzuholen!
+message_22:
+  text: \n<MR. BAKER>Hmm...\! Ah, ja!\! Deine Mutter hat gesagt, dass du kommst... obwohl ich erwartet habe, dass du etwas früher hier bist.\! Ich werde deine Bestellung holen!
+message_23:
+  faceset: MainCharacters_Faraway
+  faceindex: 17
+  text: \kelWusstest du das? Diese Bäckerei gehört MIKHAELs Familie.\!<br>Ich denke, man kann es nicht wirklich erkennen, weil er die ganze Zeit diese schreckliche gelbe Perücke trägt...
+message_24:
+  faceset: MainCharacters_Faraway
+  faceindex: 16
+  text: \kelEs scheint, als würde er sich ziemlich anstrengen, um aufzufallen und anders zu sein!
+message_25:
+  text: \n<MR. BAKER>Hier ist Ihre Bestellung, Sir!\! Wir hoffen, Sie bald zu sehen!\!<br>Bitte genießen Sie Ihre Backwaren.

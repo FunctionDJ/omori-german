@@ -1,0 +1,52 @@
+message_1:
+  text: \n<THICK EYEBROWS>Hey, Kinder...\! Ich muss dich um einen Gefallen bitten.<br>Kannst du diese LUNCHBOX zu dem Jungen mit der Gitarre im TOWN PLAZA bringen?
+message_40:
+  text: \n<THICK EYEBROWS>Sigh...\! Der Junge träumt viel zu viel...\! Das muss er von seiner Mutter haben.
+message_50:
+  text: \n<THICK EYEBROWS>Oh...\! Hmm...\! Aber es ist so schwer, sich zu verabschieden...
+message_2:
+  text: \n<THICK EYEBROWS>Danke...\! Ich weiß es zu schätzen.
+message_3:
+  text: Du hast eine \c[4]LUNCHBOX\c[0].
+message_4:
+  text: \n<GUITAR GUY>Heute ist der Tag...\! Ich verlasse endlich die Stadt, um ein Musiker zu werden...\! All die großen Worte, die ich darüber gesagt habe, es als Star zu schaffen...
+message_5:
+  text: \n<GUITAR GUY>Ich werde das durchziehen und mein Bestes in der großen Stadt versuchen!\! Wünsch mir Glück!
+message_6:
+  text: Du hast die \c[4]LUNCHBOX\c[0] an GUITAR GUY gegeben.
+message_7:
+  text: \n<GUITAR GUY>Huh? W-Was ist das? \! Das...\! Das sind Dads Käsemakkaroni!\! <br>Das hat er nicht mehr für mich gemacht, seit ich ein Kind war...
+message_8:
+  text: \n<GUITAR GUY>Sniff...\! Schnüffel...\! Danke, Dad...\! Ich werde eines Tages zurückkommen und dich stolz machen!\! Ich verspreche es!
+message_9:
+  text: \n<GUITAR GUY>Ah!\! Sorry, das wurde ein bisschen dramatisch...\! Eigentlich...\! Ich hatte einen Brief für meinen Vater geschrieben, aber ich bin zu feige, ihn ihm selbst zu geben.
+message_10:
+  text: \n<GUITAR GUY>Kannst du es bitte für mich liefern?
+message_11:
+  text: \n<GUITAR GUY>Danke...\! Ich weiß es zu schätzen.
+message_12:
+  text: Du hast einen \c[4]BRIEF FÜR DAD\c[0].
+message_13:
+  text: \n<GUITAR GUY>Da ist eine \c[4]CD\c[0] von einem meiner Songs drin...\! <br>Achtung, du kannst auch eine Kopie haben!
+message_14:
+  text: Du hast eine \c[4]SECRET CD\c[0]!
+message_15:
+  text: \n<GUITAR GUY>Danke nochmal.\! Das nächste Mal, wenn du mich siehst, wird es auf der großen Leinwand sein!
+message_16:
+  text: \n<GUITAR GUY>Oh...\! Aber es ist so schwer, sich zu verabschieden...
+message_42:
+  text: \n<THICK EYEBROWS>Ich sehe, du hast die \c[4]LUNCHBOX\c[0] weggegeben.\! Und? Hat es ihm gefallen?
+message_41:
+  text: Du hast \c[4]LETTER FOR DAD\c[0] an THICK EYEBROWS gegeben.
+message_17:
+  text: \n<THICK EYEBROWS>Das...\! Diese Schrift ist von meinem Sohn...
+message_18:
+  text: \n<THICK EYEBROWS>Oh...\! Ich war so hart zu ihm in den letzten Jahren...\! I...
+message_19:
+  text: \n<THICK EYEBROWS>Ahem...\! Danke, dass du das für mich ablieferst.\! I...\! Ich hoffe, dass ich ihn eines Tages wiedersehen werde...\! Vielleicht sogar im Fernsehen! Haha!
+message_30:
+  text: \n<THICK EYEBROWS>Ich frage mich, wie es meinem Sohn in der \c[11]TOWN PLAZA\c[0] geht...\! Er spielt immer auf seiner alten Gitarre...
+message_31:
+  text: \n<GUITAR GUY>Dank all dieser Spenden, sieht es so aus, als ob ich morgen endlich in die Stadt fahren kann!
+message_32:
+  text: \n<GUITAR GUY>Dank all dieser Spenden, sieht es so aus, als ob ich übermorgen endlich in die Stadt aufbrechen kann!

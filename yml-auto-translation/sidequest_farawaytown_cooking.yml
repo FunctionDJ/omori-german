@@ -1,0 +1,98 @@
+message_0:
+  text: \n<PIGTAILS LADY>Oh, hallo!\! Ich erinnere mich an dich! Du bist der Junge, der die Tapete für unser Haus ausgesucht hat.\! Ich sehe, du hast deine Freunde mitgebracht!
+message_1:
+  text: \n<PIGTAILS LADY>Wenn du wegen der Party hier bist, tut es mir leid. Es ist noch ein bisschen früh...
+message_2:
+  faceset: MainCharacters_Faraway
+  faceindex: 17
+  text: \kelOh Mist... Das ist unser Fehler!\! Wir kommen einfach später wieder!
+message_3:
+  faceset: MainCharacters_Faraway
+  faceindex: 31
+  text: \herHm?\! Sniff...\! Hm?\! Riecht ihr das auch?\!<br>Es riecht, als würde etwas brennen...
+message_4:
+  text: \n<PIGTAILS LADY>\com[2]\{\quake[1]EEEEEEEEEK!!!\quake[0] SORRY, ONE SECOND!
+message_5:
+  text: \n<PIGTAILS LADY>...
+message_6:
+  text: \n<PIGTAILS LADY>Aktuell...\! Ähm...\! Ihr Jungs wisst nicht zufällig, wie man kocht, oder? \! Ich könnte ein wenig Hilfe beim Abendessen brauchen...
+message_7:
+  faceset: MainCharacters_Faraway
+  faceindex: 14
+  text: \kelDu brauchst Hilfe beim Kochen?\! Dann ist heute dein Glückstag!<br> Mein Bruder HERO ist ein fantastischer Koch!\! Er wird dir bestimmt gleich etwas kochen können! Heh heh...
+message_8:
+  faceset: MainCharacters_Faraway
+  faceindex: 37
+  text: \herH-Huh?\! I-Ich werde?
+message_9:
+  text: \n<PIGTAILS LADY>Oh, danke!\! Bitte... komm rein!
+message_10:
+  text: \n<PIGTAILS LADY>Es tut mir leid, dass ich dich so belästige...\! Es ist das erste Mal, dass ich für so viele Leute koche, deshalb bin ich ein bisschen nervös...
+message_11:
+  faceset: MainCharacters_Faraway
+  faceindex: 13
+  text: \kelKeine Sorge.\! Wir werden dir helfen! Werden wir doch, Leute?\! \sinv[1]Werden wir doch?\sinv[0]
+message_12:
+  faceset: MainCharacters_Faraway
+  faceindex: 38
+  text: \herOh... Na gut, dann... \!Komm schon, Team.\!<br>Ich werde euch alle an die Arbeit schicken!
+message_13:
+  faceset: MainCharacters_Faraway
+  faceindex: 5
+  text: \aubHuh? W-Warte eine Sekunde... Sogar ich!?
+message_14:
+  faceset: MainCharacters_Faraway
+  faceindex: 38
+  text: \herJa, natürlich!\! Wir haben als Kinder immer zusammen gekocht, nicht wahr?
+message_15:
+  text: \n<PIGTAILS LADY>Vielen Dank! Fühl dich frei, alle Zutaten zu verwenden!\! Ich habe allerdings nicht viele...
+message_16:
+  faceset: MainCharacters_Faraway
+  faceindex: 30
+  text: \herDon't worry... Ich weiß, dass wir etwas Leckeres machen können!<br>Lasst uns an die Arbeit gehen!
+message_17:
+  faceset: MainCharacters_Faraway
+  faceindex: 14
+  text: \kel\Com[2]\SINV[1]AYE AYE, CAPTAIN!!!\SINV[0]
+message_18:
+  text: \n<CHECKERS GUY>Wow... Was riecht denn hier so lecker?
+message_19:
+  text: \n<PIGTAILS LADY>Oh, hallo SEAN!\! Unsere neuen Freunde haben mir gerade geholfen, das Abendessen für die Party heute Abend vorzubereiten!
+message_20:
+  text: \n<CHECKERS GUY>Nun ja...\! Es sieht so aus, als ob ihr einen tollen Job macht!\!<br> Ich bin fertig mit dem Aufbau draußen, also lass mich auch helfen!
+message_21:
+  text: \n<PIGTAILS LADY>\sinv[1]Yay!\! Jetzt können wir alle zusammen kochen!
+message_22:
+  text: \n<PIGTAILS LADY>\sinv[1]Puh...\sinv[0] Alles erledigt!\! Mit deiner Hilfe wird diese Party ein großer Erfolg werden!
+message_23:
+  text: \n<PIGTAILS LADY>Danke nochmal für all eure Hilfe.<br>\!Ihr seid alle so echt nette Leute!
+message_24:
+  faceset: MainCharacters_Faraway
+  faceindex: 29
+  text: \her Jederzeit!\! Danke, dass du uns deine Küche anvertraut hast...<br>\!Wir haben es wirklich genossen, mit euch zu kochen!
+message_25:
+  faceset: MainCharacters_Faraway
+  faceindex: 14
+  text: \kelJa, das hat wirklich Spaß gemacht!\! Ich kann es kaum erwarten, heute Abend auf der Party alles zu essen!
+message_26:
+  text: \n<CHECKERS GUY>Wir werden auf dich warten!
+message_27:
+  text: \n<PIGTAILS LADY>Passt auf euch auf!
+message_100:
+  text: \n<PIGTAILS LADY>Hallo, alle zusammen! Kommt rein!\! Die Party hat schon begonnen!
+message_101:
+  text: Lecker \c[3]COOKIES\c[0]!
+message_102:
+  text: Ein alter \c[3]PIE\c[0]!
+message_103:
+  text: Ein frisches \c[3]PIE\c[0]!
+message_104:
+  text: Ein großer alter Hühnerbraten.
+message_105:
+  text: Salat...
+message_106:
+  text: \n<CHECKERS GUY>Yo! Bist du aufgeregt für die Party heute Abend?\! Wir werden dich dort sehen!
+message_107:
+  text: Ein unfertiger Teller mit Essen.
+message_108:
+  text: Ein leckeres \c[3]CAKE SLICE\c[0]!

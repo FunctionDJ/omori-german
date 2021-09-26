@@ -1,0 +1,330 @@
+message_1:
+  text: \n<JASH>Ich bin JASH mit vielen Talenten und Meister in vielen Berufen.<br>\!Wie kann ich dir heute helfen?
+message_2:
+  text: \n<JASH>Danke für deine Schirmherrschaft.
+message_3:
+  text: \n<JASH>Du hast nicht genug CLAMS.
+message_4:
+  text: \n<JASH>Ich bin JASH mit vielen Talenten und Meister in vielen Berufen.
+message_5:
+  text: \n<JASH>Bitte warten Sie, Sir oder Madam.\! Bevor du gehst...<br>Ich wollte dir danken, dass du ein Gönner von JASH bist.
+message_6:
+  text: \n<JASH>Bitte nimm diesen \c[13]SALES TAG\c[0].\! Du wirst hier keine Rabatte bekommen, aber ich bin mir sicher, dass es dir irgendwie nützlich sein wird.
+message_7:
+  text: Du hast einen \c[13]SALES TAG\c[0].
+message_203:
+  text: \n<SNO-CONE JASH>Du hast nicht genug CLAMS.
+message_204:
+  text: \n<SNO-CONE JASH>Ich bin JASH der viele Talente hat und Meister in vielen Berufen ist.
+message_205:
+  text: \n<SNO-CONE JASH>Bitte warten Sie, Sir oder Madam.\! Bevor du gehst...<br>Ich wollte dir danken, dass du ein Gönner von JASH bist.
+message_206:
+  text: \n<SNO-CONE JASH>Bitte nimm diesen \c[13]SALES TAG\c[0].\! Du wirst hier keine Rabatte bekommen, aber ich bin mir sicher, dass es dir irgendwie nützlich sein wird.
+message_213:
+  text: \n<TOFU JASH>Du hast nicht genug CLAMS.
+message_214:
+  text: \n<TOFU JASH>Ich bin JASH der viele Talente hat und Meister in vielen Berufen ist.
+message_215:
+  text: \n<TOFU JASH>Bitte warten Sie, Sir oder Madam.\! Bevor du gehst...<br>Ich wollte dir danken, dass du ein Gönner von JASH bist.
+message_216:
+  text: \n<TOFU JASH>Bitte nimm diesen \c[13]SALES TAG\c[0].\! Du wirst hier keine Rabatte bekommen, aber ich bin mir sicher, dass es dir irgendwie nützlich sein wird.
+message_223:
+  text: \n<LEMON JASH>Du hast nicht genug CLAMS.
+message_224:
+  text: \n<LEMON JASH>Ich bin JASH der viele Talente hat und Meister in vielen Berufen ist.
+message_225:
+  text: \n<LEMON JASH>Bitte warten Sie, Sir oder Madam.\! Bevor du gehst...<br>Ich wollte dir danken, dass du ein Gönner von JASH bist.
+message_226:
+  text: \n<LEMON JASH>Bitte nimm diesen \c[13]SALES TAG\c[0].\! Du wirst hier keine Rabatte bekommen, aber ich bin mir sicher, dass es dir irgendwie nützlich sein wird.
+message_233:
+  text: \n<DEALER JASH>Du hast nicht genug CLAMS.
+message_234:
+  text: \n<DEALER JASH>Ich bin JASH der viele Talente hat und Meister in vielen Berufen ist.
+message_235:
+  text: \n<DEALER JASH>Bitte warten Sie, Sir oder Madam.\! Bevor du gehst...<br>Ich wollte dir danken, dass du ein Gönner von JASH bist.
+message_236:
+  text: \n<DEALER JASH>Bitte nimm diesen \c[13]SALES TAG\c[0].\! Du wirst hier keine Rabatte bekommen, aber ich bin mir sicher, dass es dir irgendwie nützlich sein wird.
+message_243:
+  text: \n<PARTY JASH>Du hast nicht genug CLAMS.
+message_244:
+  text: \n<PARTY JASH>Ich bin JASH der viele Talente hat und Meister in vielen Berufen ist.
+message_245:
+  text: \n<PARTY JASH>Bitte warten Sie, Sir oder Madam.\! Bevor du gehst...<br>Ich wollte dir danken, dass du ein Gönner von JASH bist.
+message_246:
+  text: \n<PARTY JASH>Bitte nimm dieses \c[13]SALES TAG\c[0].\! Du wirst hier keine Rabatte bekommen, aber ich bin mir sicher, dass es dir irgendwie nützlich sein wird.
+message_247:
+  text: \n<SMUGGLER JASH>Bitte warten Sie, Sir oder Madam.\! Bevor du gehst...<br>Ich wollte dir danken, dass du ein Gönner von JASH bist.
+message_248:
+  text: \n<SMUGGLER JASH>Bitte nimm diesen \c[13]SALES TAG\c[0].\! Du wirst hier keine Rabatte bekommen, aber ich bin mir sicher, dass es dir irgendwie nützlich sein wird.
+message_10:
+  text: \whoPsst...\! Hey!\! Psst...
+message_11:
+  text: \whoYou!\! Ja, du da drüben!
+message_12:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 4
+  text: \aubUmmm...\! OMORI...\! Ich glaube, der Briefkasten spricht mit uns...\\! <br>Vielleicht sollten wir nachsehen gehen...
+message_13:
+  text: \maiJa, ja! Hallo, geschätzter Kunde...<br>Willkommen in meinem Shop! Bitte kaufen Sie etwas! \}\sinv[1]Kekeke...
+message_14:
+  text: \maiJa, ja! Hallo, geschätzter Kunde...<br>Willkommen in meinem Shop! Bitte kaufen Sie etwas! \}\sinv[1]Kekeke...
+message_15:
+  text: \maiDanke, geschätzter Kunde!\!<br>Ich schätze Ihr Geschäft aufrichtig.<br>}\sinv[1]Kekeke...
+message_16:
+  text: \maiThank you kindly!
+message_17:
+  text: \Ich schätze keine Schaufensterbummler...
+message_18:
+  text: \maiWarte mal eine Sekunde...\!<br>Dafür hast du nicht genug CLAMS!\!<br>Was glaubst du, was ich hier betreibe? EINE CHARITY!?
+message_19:
+  text: \mai\Com[2]Was denkst du, was ich hier betreibe? Eine Wohltätigkeitsveranstaltung!?
+message_184:
+  text: \maiDie Summe wird <SHOPTOTAL>\G sein.
+message_185:
+  text: \maiDu hast keinen Platz für das...\! Werde zuerst etwas anderes los!
+message_186:
+  text: Wie viele hättest du gerne?
+message_187:
+  text: Wie viele wirst du verkaufen?\^^
+message_188:
+  text: \maiIm Austausch für deine Waren biete ich so viel...\! Wie hört sich das an?
+message_189:
+  text: \maiWas? Nach all dem willst du einfach abhauen!?
+message_200:
+  text: \maiAh, wenn das nicht HERO ist, mein liebster und schönster Kunde! Rabatte für dich, immer! Also... bitte kaufe etwas! \}\sinv[1]Kekeke...
+message_70:
+  text: \maiHey, ihr Kinder! Darf ich euch für diesen \c[13]POOL NOODLE\c[0] interessieren?<br>Es mag bescheiden aussehen, aber es hat das Potential eine sehr mächtige Waffe zu sein!
+message_71:
+  text: \maiAuch wenn du das weißt...\! Ich gebe es dir im Grunde für den günstigen, billigen Preis von 5000 CLAMS!
+message_72:
+  text: \maiBei dem Preis würdest du mich im Grunde genommen beklauen!
+message_73:
+  text: \maiWas denkst du?\! Willst du es?\$
+message_74:
+  text: \maiExzellent!\! Bitte kümmere dich sehr gut darum!\! <br>\}\sinv[1]Kekeke...\LECLEAR
+message_75:
+  text: \maiOh, ich verstehe...\! Aber dieser \c[13]POOL NOODLE\c[0] ist so selten und wertvoll...\!<br>Das musst du dir überlegen!\! Wie wäre es, wenn ich dir den Deal ein wenig versüße und den Preis auf 2.500 CLAMS senke?
+message_76:
+  text: \maiWie hört sich das an?\! Willst du es?\$
+message_77:
+  text: \maiDu...\! \Com[2]Du willst es immer noch nicht??<br>\QUAKE[1]Zu diesem Preis!?!?
+message_78:
+  text: \maiGrr... Hmpf...
+message_79:
+  text: \maiOkay, okay... \!Ich schneide hier wirklich die Kurve, aber hier geht es...
+message_80:
+  text: \maiMach dich bereit für den Deal deines Lebens!<br>1000 CLAMS, nimm es oder lass es bleiben!<br>
+message_81:
+  text: \maiDu...\! Du bist ein harter Brocken...
+message_82:
+  text: \maiHuff...\! Wie wäre es mit...\! 500 CLAMS...\$
+message_83:
+  text: \mai250 CLAMS?\$
+message_84:
+  text: \maiWisst ihr was...\! \Com[2]Gut!\!<br>Ich weiß gar nicht, warum ich mich so anstrenge...
+message_85:
+  text: \maiWenn du das \c[13]POOL NOODLE\c[0] nicht kaufen willst, dann nimm es einfach!
+message_87:
+  text: \maiSchmeiß das Ding einfach weg...\! Ich will es nie wieder sehen!
+message_88:
+  text: Du hast einen \c[13]POOL NOODLE\c[0].
+message_95:
+  text: \n<GOOMAN>Hey, du!\! Ja, du da mit dem stoischen Gesichtsausdruck!
+message_96:
+  text: \n<GOOMAN>Hey, du!\! Ja, du da mit der hübschen Schleife!
+message_97:
+  text: \n<GOOMAN>Hey, du!\! Ja, du da mit der kurzen Statur!
+message_98:
+  text: \n<GOOMAN>Hey, du!\! Ja, du da mit dem schönen Gesicht!
+message_99:
+  text: \n<GOOMAN>Könnte ich dich für ein ehrliches, komplett biologisches \c[3]BOTTLED WATER\c[0] interessieren?\ Wir haben einen Liquidationsverkauf!
+message_100:
+  text: \n<GOOMAN>Dieses \c[3]BOTTLED WATER\c[0] könnte dir gehören für den niedrigen, niedrigen Preis von \v[635] CLAMS!\! Na, willst du es haben?\$
+message_101:
+  text: \n<GOOMAN>Dieses \c[3]BOTTLED WATER\c[0] könnte dir gehören für den niedrigen, niedrigen Preis von \v[635] CLAMS!\! Na, willst du es haben?\$
+message_102:
+  text: \n<GOOMAN>\sinv[1]Wunderbar!\!\sinv[0] Nimm dieses \c[3]FLASCHENWASSER\c[0]. Es gehört jetzt dir!
+message_103:
+  text: \n<GOOMAN>Okay...\! aber du wirst dieses einmalige Angebot bereuen!
+message_104:
+  text: \n<GOOMAN>Sie suchen noch ein \c[3]BOTTLED WATER\c[0]?\!<br>Ich habe vielleicht noch eins auf Lager...
+message_105:
+  text: \n<GOOMAN>Du hast nicht genug CLAMS...
+message_106:
+  text: \n<GOOMAN>Bitte genieße dein \c[3]BOTTLED WATER\c[0]!
+message_107:
+  text: \n<GOOMAN>Du hast nicht genug CLAMS...
+message_108:
+  text: \n<GOOMAN>Oh... Also \sinv[1]now\sinv[0] willst du ein \c[3]BOTTLED WATER\c[0] kaufen?
+message_109:
+  text: \n<GOOMAN>Unglücklicherweise ist der Preis seit unserem letzten Gespräch gestiegen... Er liegt jetzt bei 635 €, aber ich hoffe, du nimmst mein Angebot trotzdem an! Heh heh...\$
+message_94:
+  text: Du hast ein \c[3]BOTTLED WATER\c[0].
+message_110:
+  text: \n<SNO-CONE JASH>Ich bin JASH mit vielen Talenten und Meister in vielen Berufen.<br>\!Wie kann ich dir heute helfen?
+message_111:
+  text: \n<SNO-CONE JASH>Danke für deine Schirmherrschaft.
+message_112:
+  text: \n<SNO-CONE JASH>Ich respektiere deine Entscheidung.
+message_113:
+  text: \n<SNO-CONE JASH>Es scheint, dass du nicht genug CLAMS hast...
+message_114:
+  text: \n<SNO-CONE JASH>Süß! Die Summe wird <SHOPTOTAL>\G sein.
+message_115:
+  text: \n<SNO-CONE JASH>Du hast nicht den Platz dafür...
+message_116:
+  text: Wie viele hättest du gerne?
+message_117:
+  text: Wie viele wirst du verkaufen?\^^
+message_118:
+  text: \n<SNO-CONE JASH>Superb.\! Deine Bestellung wird so viel ausmachen!
+message_119:
+  text: \n<SNO-CONE JASH>Ich respektiere deine Entscheidung.
+message_120:
+  text: \n<TOFU JASH>Hallo Sir oder Madam. Wären Sie daran interessiert, etwas feines \c[3]TOFU\c[0] zu kaufen?\! Es wird dich genau 1 CLAM kosten.\$
+message_121:
+  text: \n<TOFU JASH>Danke für deine Schirmherrschaft.
+message_122:
+  text: \n<TOFU JASH>Ich respektiere deine Entscheidung.
+message_123:
+  text: \n<TOFU JASH>Du hast nicht einmal 1 mickrige CLAM?\! Ich habe Mitleid mit dir.\! Hier ist trotzdem ein \c[3]TOFU\c[0].
+message_124:
+  text: \n<TOFU JASH>Süß! Die Summe wird <SHOPTOTAL>\G sein.
+message_125:
+  text: \n<TOFU JASH>Dafür hast du nicht den Platz!
+message_126:
+  text: Wie viele hättest du gerne?
+message_127:
+  text: Wie viele wirst du verkaufen?\^^
+message_128:
+  text: \n<TOFU JASH>Superb.\! Deine Bestellung wird so viel ausmachen!
+message_129:
+  text: \n<TOFU JASH>Ich respektiere deine Entscheidung.
+message_130:
+  text: \n<LEMON JASH>Hallo Sir oder Madam.\! Es sieht so aus, als ob wir keine \c[4]TRAIN PASSES\c[0] mehr haben, aber wir haben noch etwas \c[3]LEMONADE\c[0] übrig.\! Wolltest du \c[3]LEMONADE\c[0] kaufen?
+message_131:
+  text: \n<LEMON JASH>Danke für deine Schirmherrschaft.
+message_132:
+  text: \n<LEMON JASH>Ich respektiere deine Entscheidung.
+message_133:
+  text: \n<LEMON JASH>Es scheint, dass du nicht genug CLAMS hast...
+message_134:
+  text: \n<LEMON JASH>Süß! Die Summe wird <SHOPTOTAL>\G sein.
+message_135:
+  text: \n<LEMON JASH>Dafür hast du nicht den Platz!
+message_136:
+  text: Wie viele hättest du gerne?
+message_137:
+  text: Wie viele wirst du verkaufen?\^^
+message_138:
+  text: \n<LEMON JASH>Superb.\! Deine Bestellung wird so viel ausmachen!
+message_139:
+  text: \n<LEMON JASH>Ich respektiere deine Entscheidung.
+message_140:
+  text: \n<PARTY JASH>Ich bin JASH mit vielen Talenten und Meister in vielen Berufen.<br>\!Wie kann ich dir heute helfen?
+message_141:
+  text: \n<PARTY JASH>Danke für deine Schirmherrschaft.
+message_142:
+  text: \n<PARTY JASH>Party-Puper...
+message_143:
+  text: \n<PARTY JASH>Es scheint, dass du nicht genug CLAMS hast...
+message_144:
+  text: \n<PARTY JASH>Süß! Die Summe wird <SHOPTOTAL>\G sein.
+message_145:
+  text: \n<PARTY JASH>Dafür hast du nicht den Platz!
+message_146:
+  text: Wie viele hättest du gerne?
+message_147:
+  text: Wie viele wirst du verkaufen?\^^
+message_148:
+  text: \n<PARTY JASH>Superb.\! Deine Bestellung wird so viel ausmachen!
+message_149:
+  text: \n<PARTY JASH>Ich respektiere deine Entscheidung.
+message_170:
+  text: \n<DEALER JASH>Ich bin JASH mit vielen Talenten und Meister in vielen Berufen.<br>\!Wie kann ich dir heute helfen?
+message_171:
+  text: \n<DEALER JASH>Danke für deine Gunst.
+message_172:
+  text: \n<DEALER JASH>Du würdest ein gutes Angebot wie dieses ausschlagen?\! Schade...
+message_173:
+  text: \n<DEALER JASH>Es scheint, dass du nicht genug CLAMS hast...
+message_174:
+  text: \n<DEALER JASH>Superb. Der Gesamtbetrag wird <SHOPTOTAL>\G sein.
+message_175:
+  text: \n<DEALER JASH>Du hast nicht den Platz dafür...
+message_176:
+  text: Wie viele hättest du gerne?
+message_177:
+  text: Wie viele wirst du verkaufen?\^^
+message_178:
+  text: \n<DEALER JASH>Superb.\! Deine Bestellung wird so viel ausmachen!
+message_179:
+  text: \n<DEALER JASH>Ich respektiere deine Entscheidung.
+message_150:
+  text: \n<ELEANOR>Willkommen im \c[11]MUSTARD SUB\c[0]!\! Darf ich deine Bestellung aufnehmen?
+message_151:
+  text: \n<ELEANOR>Nichts dieses Mal?\!<br>Kein Problem! Bitte komm bald wieder!
+message_152:
+  text: \n<ELEANOR>Das ist unsere Spezialität!\! Die Summe wird <SHOPTOTAL>\G sein.
+message_193:
+  text: \n<ELEANOR>Dankeschön und einen schönen Tag!
+message_194:
+  text: \n<ELEANOR>Das ist unsere Spezialität!\! Wie wär's damit?
+message_195:
+  text: \n<ELEANOR>Du hast nicht den Platz dafür...
+message_196:
+  text: Wie viele hättest du gerne?
+message_197:
+  text: Wie viele wirst du verkaufen?\^^
+message_198:
+  text: \n<ELEANOR>Du hast es geschafft, Süße!\! Deine Bestellung wird so viel ausmachen!
+message_199:
+  text: \n<ELEANOR>Sorry...\! Du hast nicht genug CLAMS...
+message_160:
+  text: Ein Verkaufsautomat.\!<br>Kaufe ein \c[3]TASTY SODA\c[0] für 100 CLAMS?\$
+message_162:
+  text: Du hast nicht genug CLAMS.
+message_164:
+  text: Du hast nicht genug Platz in deiner TASCHE.
+message_163:
+  text: Ein kaltes \c[3]TASTY SODA\c[0] tauchte aus dem Automaten auf!
+message_161:
+  text: Ein Automat.\!<br>Alles ist ausverkauft.
+message_250:
+  text: \n<SMUGGLER JASH>Ich wurde wegen Schmuggels in den Kerker geschickt, aber alte Gewohnheiten sterben schwer.
+message_251:
+  text: \n<SMUGGLER JASH>Eine weise Entscheidung!
+message_252:
+  text: \n<SMUGGLER JASH>Ich respektiere deine Entscheidung.
+message_253:
+  text: \n<SMUGGLER JASH>Es scheint, dass du nicht genug CLAMS hast...
+message_254:
+  text: \n<SMUGGLER JASH>Süß! Die Summe wird <SHOPTOTAL>\G sein.
+message_255:
+  text: \n<SMUGGLER JASH>Dafür hast du nicht den Platz!
+message_256:
+  text: Wie viele hättest du gerne?
+message_257:
+  text: Wie viele wirst du verkaufen?\^^
+message_258:
+  text: \n<SMUGGLER JASH>Superb.\! Deine Bestellung wird auf so viel hinauslaufen!
+message_259:
+  text: \n<SMUGGLER JASH>Ich respektiere deine Entscheidung.
+message_300:
+  text: Ein verdächtiger blauer Briefkasten.
+message_350:
+  text: \n<GOOMAN>Du siehst aus, als wolltest du etwas frische \c[3]MILK\c[0], frisch von \c[11]SEACOW FARMS\c[0]!\! Es ist die frischeste frische \c[3]MILK\c[0] und wird sicher erfrischend sein für nur 500 CLAMS!\$
+message_351:
+  text: \n<GOOMAN>Es ist das Frischeste!
+message_352:
+  text: \n<GOOMAN>Willst du an diesem sehr einzigartigen und handgefertigten Pappausschnitt posieren?\! Es wird dich nur 100 CLAMS kosten!\$
+message_353:
+  text: \n<GOOMAN>Aufregend, danke.\! Es ist gleich da drüben, wenn du es benutzen willst.
+message_354:
+  text: \n<GOOMAN>Ich habe hier ein sehr, sehr einzigartiges \c[3]SODA\c[0], hergestellt aus feinstem \c[3]BUTT PEACHES\c[0].\! Ich spreche von dem weltberühmten \c[3]BUTT PEACH SODA\c[0], der dir jetzt für nur 600 CLAMS gehört!\$
+message_355:
+  text: \n<GOOMAN>Du wirst den Geschmack lieben.\! Es sind die Hintern! Und ich meine das auf eine gute Art und Weise.
+message_356:
+  text: \n<GOOMAN>Du siehst aus, als würdest du die Gefahr lieben.\! Ich habe einige gute Qualität \c[5]DYNAMITE\c[0], die nur darauf warten, benutzt zu werden...\! für den niedrigen Preis von 1500 CLAMS.\! Interessiert?\$
+message_357:
+  text: \n<GOOMAN>Komme für mehr zurück, wann immer du anfangen willst zu sprengen!

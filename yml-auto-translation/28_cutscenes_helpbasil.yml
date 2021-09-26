@@ -1,0 +1,236 @@
+message_0:
+  text: Oh... Gott sei Dank seid ihr zurückgekommen...\n<POLLY>
+message_1:
+  faceset: MainCharacters_Faraway
+  faceindex: 31
+  text: Stimmt etwas nicht? \her
+message_2:
+  text: Nun...\! BASIL ist wieder zu Hause, aber...\! <br>Er redet nicht mit mir.\n<POLLY>
+message_3:
+  faceset: MainCharacters_Faraway
+  faceindex: 32
+  text: Oh nein...\! Können wir irgendetwas tun, um zu helfen?\her
+message_4:
+  text: Das ist im Moment schwer zu sagen.<br>Als BASIL zurückkam, ging er direkt in sein Zimmer und schloss die Tür ab.<br><POLLY>
+message_5:
+  text: Seitdem habe ich kein Wort mehr aus ihm herausbekommen.\!<br>Vielleicht braucht er einfach etwas Zeit für sich...\! aber...\! Ich weiß es nicht...\!<br>Ich mache mir einfach Sorgen.\n<POLLY>
+message_6:
+  text: Könntet ihr versuchen, mit ihm zu reden?\n<POLLY>
+message_7:
+  faceset: MainCharacters_Faraway
+  faceindex: 12
+  text: Natürlich!\! Wir tun, was immer wir können, um zu helfen.\kel
+message_8:
+  text: Vielen Dank, ihr alle...\! Fühlt euch frei, hereinzukommen, wann immer ihr bereit seid.\n<POLLY>
+message_20:
+  faceset: MainCharacters_Faraway
+  faceindex: 38
+  text: Hi BASIL, hier ist HERO.\!<br>Ich bin hier mit KEL, AUBREY und \n[8].\! <br>Wir sind alle hier, um dich zu sehen!\her
+message_21:
+  text: ...
+message_22:
+  faceset: MainCharacters_Faraway
+  faceindex: 28
+  text: Können wir irgendetwas tun, um zu helfen?\her
+message_23:
+  text: ...\| ...\| ...
+message_24:
+  faceset: MainCharacters_Faraway
+  faceindex: 38
+  text: Wir wollten dich nur wissen lassen, dass wir hier sind.\! <br>Lass uns wissen, wenn du etwas brauchst, okay?\her
+message_25:
+  text: ...\| ...\| ...\| ...\| ...
+message_26:
+  text: Seufz...\! Vielleicht braucht er einfach etwas Zeit für sich...\!<br>Es tut mir wirklich leid, dass ich dich störe.\n<POLLY>
+message_27:
+  faceset: MainCharacters_Faraway
+  faceindex: 14
+  text: \kelMach dir keine Sorgen, POLLY... <br>Wenn ich in den letzten Tagen etwas gelernt habe, dann dass Freunde füreinander da sein sollten!
+message_28:
+  faceset: MainCharacters_Faraway
+  faceindex: 0
+  text: Hey, BASIL...\! Das ist AUBREY.\aub
+message_29:
+  text: ... ... ...
+message_30:
+  faceset: MainCharacters_Faraway
+  faceindex: 2
+  text: Ich wollte nur sagen, dass...<br>!Es tut mir leid, wie ich dich behandelt habe.<br>
+message_31:
+  text: ... ... ...
+message_32:
+  faceset: MainCharacters_Faraway
+  faceindex: 27
+  text: Würdest du bitte etwas sagen?\!<br>Wir wollen nur wissen, dass es dir gut geht.\aub
+message_33:
+  text: ...\| ...\| ...\| ...\| ...
+message_34:
+  faceset: MainCharacters_Faraway
+  faceindex: 27
+  text: ...\aub
+message_35:
+  faceset: MainCharacters_Faraway
+  faceindex: 0
+  text: Ich denke, wir sollten für ihn hierbleiben.\aub
+message_36:
+  faceset: MainCharacters_Faraway
+  faceindex: 35
+  text: Ja...\! Das letzte Mal haben wir alle den Fehler gemacht, uns gegenseitig zu verlassen, als wir uns am meisten brauchten.\!<br> Dieses Mal...\! bleiben wir zusammen. \her
+message_37:
+  faceset: MainCharacters_Faraway
+  faceindex: 28
+  text: POLLY...\! Meinst du, wir können hier für die Nacht schlafen?\her
+message_38:
+  text: Ohh...\! Ihr seid alle so nett...\!<br>Natürlich könnt ihr hier übernachten!\n<POLLY>
+message_39:
+  text: Ich denke, BASIL würde das wirklich zu schätzen wissen...<br>Ich weiß, dass es ihm eine Menge bedeuten würde.<br>
+message_40:
+  faceset: MainCharacters_Faraway
+  faceindex: 14
+  text: \{\sinv[1]AWESOME!\! ICH RUF DIE COUCH!!!
+message_41:
+  text: Ah, das geht alles so schnell! \n<POLLY>
+message_42:
+  text: Okay, dann. Da KEL die Couch will, kann jeder andere eine Steppdecke haben!\! Wir haben eine Menge davon.\n<POLLY>
+message_43:
+  text: Ich werde sie mir jetzt holen
+message_44:
+  faceset: MainCharacters_Faraway
+  faceindex: 3
+  text: Hmpf...\! Warum bekommst du die Couch?\aub
+message_45:
+  faceset: MainCharacters_Faraway
+  faceindex: 13
+  text: \sinv[1]Nun, duh!\sinv[0]\! Es ist, weil ich es zuerst genannt habe!
+message_46:
+  faceset: MainCharacters_Faraway
+  faceindex: 22
+  text: Au, das tat weh! \kel
+message_70:
+  faceset: MainCharacter_Basil_dark
+  faceindex: 29
+  text: Hey, \n[8]...\! Ich weiß, dass dies wahrscheinlich nicht die letzte Nacht in der Stadt war, die du erwartet hast.\her
+message_71:
+  faceset: MainCharacter_Basil
+  faceindex: 13
+  text: Aber ich will nur, dass du weißt, dass, auch wenn du morgen wegziehst...\! wir immer Freunde sein werden.\her
+message_72:
+  faceset: MainCharacter_Basil
+  faceindex: 44
+  text: Ugh...\! Das ist so kitschig, HERO.\aub
+message_73:
+  faceset: MainCharacter_Basil_dark
+  faceindex: 31
+  text: Hey! Ich sage nur, was ich denke! \her
+message_74:
+  faceset: MainCharacter_Basil_dark
+  faceindex: 8
+  text: Heh, heh...\! HERO ist schon immer so ein großer Softie gewesen...\! <br>Genau wie du, AUBREY.\kel
+message_75:
+  faceset: MainCharacter_Basil
+  faceindex: 47
+  text: \W-WAS SAGST DU!?
+message_76:
+  faceset: MainCharacter_Basil_dark
+  faceindex: 30
+  text: Haha... <br>Es ist schön, mal wieder so rumzuhängen.<br>Ich war so beschäftigt mit der Schule und dem Lernen.<br>Ich habe nicht mehr wirklich Zeit, Freunde zu finden.<br>
+message_77:
+  faceset: MainCharacter_Basil
+  faceindex: 44
+  text: ...\aub
+message_78:
+  faceset: MainCharacter_Basil
+  faceindex: 46
+  text: Nun...\! Du wirst uns immer haben...\! Schätze ich.\aub
+message_79:
+  faceset: MainCharacter_Basil_dark
+  faceindex: 8
+  text: Siehst du... Ich hatte Recht!\! Sieh mal, wer jetzt der Softie ist!\kel
+message_80:
+  faceset: MainCharacter_Basil
+  faceindex: 44
+  text: Hmpf...\aub
+message_81:
+  faceset: MainCharacter_Basil_dark
+  faceindex: 13
+  text: Aber, ja...es ist wahr.\! <br>Ich weiß, dass wir immer füreinander da sein werden.\! <br>Genauso wie ich weiß, dass MARI auch immer noch hier bei uns ist.\kel
+message_82:
+  faceset: MainCharacter_Basil_dark
+  faceindex: 29
+  text: ...\her
+message_83:
+  faceset: MainCharacter_Basil_dark
+  faceindex: 29
+  text: Weißt du... Ich hoffe, dass wir BASIL sehen können, bevor du morgen abreist, \n[8].\her
+message_84:
+  faceset: MainCharacter_Basil_dark
+  faceindex: 28
+  text: Es wäre schön, einen richtigen Abschied zu haben...\her
+message_85:
+  faceset: MainCharacter_Basil
+  faceindex: 46
+  text: Ja...\aub
+message_86:
+  faceset: MainCharacter_Basil_dark
+  faceindex: 13
+  text: \sinv[1]Gähn...\! Mann... Ich werde schläfrig.\kel
+message_87:
+  text: ...\| ...\| ...\kel
+message_88:
+  text: \sinv[1]Schnarch...\kel
+message_89:
+  faceset: MainCharacter_Basil
+  faceindex: 47
+  text: Was zum...\! Ist er schon eingeschlafen!?
+message_90:
+  text: \sinv[1]Schnarch...\ Schnarch...\ Schnarch...\
+message_91:
+  faceset: MainCharacter_Basil_dark
+  faceindex: 30
+  text: Yup, das ist KEL für dich...\! <br>Dieser Teil von ihm hat sich kein bisschen verändert.\her
+message_92:
+  faceset: MainCharacter_Basil_dark
+  faceindex: 28
+  text: Hey \n[8]...\! Ich danke dir für alles.\! Es war wahrscheinlich schwer, dein Haus nach all der Zeit zu verlassen...aber ich weiß es wirklich zu schätzen, dass du es für uns getan hast.\her
+message_93:
+  faceset: MainCharacter_Basil
+  faceindex: 13
+  text: Und, hey! Morgen ist der große Tag!\! Ich hoffe, du bist nicht zu besorgt wegen des Umzugs in eine neue Wohnung...\! Wenn überhaupt, dann hast du uns!\her
+message_94:
+  faceset: MainCharacter_Basil
+  faceindex: 14
+  text: Das Leben wird besser.\! Du musst nur positiv bleiben.\her
+message_95:
+  faceset: MainCharacter_Basil
+  faceindex: 44
+  text: Hmm...\! Das Leben wird besser, hm...\aub
+message_96:
+  faceset: MainCharacter_Basil
+  faceindex: 46
+  text: Hey, \n[8]...\! Nachdem du weggezogen bist...\!<br>Du solltest...\! vielleicht ab und zu mal zu Besuch kommen oder so.\aub
+message_97:
+  faceset: MainCharacter_Basil
+  faceindex: 13
+  text: Yeah! Dann können wir alle ein paar Sandwiches essen gehen!\! Oder vielleicht können wir alle in den Park gehen...\! oder an den Strand...\! oder einfach zu Hause sitzen und fernsehen...\! Wer weiß? Wir können alles machen!\her
+message_98:
+  faceset: MainCharacter_Basil_dark
+  faceindex: 0
+  text: Hehe...\! Das klingt irgendwie nett.\!<br>Denkst du, dass meine neuen Freunde auch kommen können?\aub
+message_99:
+  faceset: MainCharacter_Basil
+  faceindex: 13
+  text: Natürlich können sie das, AUBREY! Du musst nicht fragen!<br>Je mehr, desto besser, schließlich
+message_100:
+  text: <br>Sinv[1]Schnarch...<br>Komm schon Leute...<br>Es ist schon Zeit zu schlafen...<br>
+message_101:
+  faceset: MainCharacter_Basil_dark
+  faceindex: 0
+  text: Hehe...\! Ja, ja...\aub
+message_102:
+  faceset: MainCharacter_Basil_dark
+  faceindex: 0
+  text: Gute Nacht, Leute...\aub
+message_103:
+  faceset: MainCharacter_Basil_dark
+  faceindex: 30
+  text: Gute Nacht, KEL.\! Gute Nacht, AUBREY.\! Gute Nacht, \n[8].\!<br>See you all in the morning...\her

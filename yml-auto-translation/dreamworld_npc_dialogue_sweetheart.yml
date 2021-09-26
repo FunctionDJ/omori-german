@@ -1,0 +1,394 @@
+message_200:
+  text: \HALT, GEFANGENE!!!
+message_201:
+  text: \n<HAROLD>Hast du wirklich gedacht, dass du so einfach entkommen kannst!?
+message_202:
+  text: \n<HAROLD>Es geht zurück zu \c[11]THE DUNGEON\C[0] für euch vier!
+message_204:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 4
+  text: \n<AUBREY>Verdammt... und wir waren auch so nah dran!
+message_205:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 31
+  text: \n<KEL>\}Oh-oh... was machen wir jetzt?
+message_206:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 46
+  text: \n<HERO>Denk nach, HERO, denk nach!\! Komm schon... Wie kommen wir hier raus?\!<br>...\! Oh, ich hab's!
+message_207:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 36
+  text: \n<HERO>...\! Ähem...\! Im Gegenteil, Herr Ritter, ich glaube, Sie haben uns mit jemand anderem verwechselt! Hm, hm, ja.
+message_208:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 18
+  text: \n<KEL>\com[2]Hem, hem. Sei nicht so voreilig mit deinem Urteil!\!<br>Wir sind SPROUT MOLES, ohne Zweifel.
+message_209:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 1
+  text: \n<AUBREY>Hu, hu, in der Tat! Ah ja, durchaus!\! Ich bin auch ein Liebhaber von \c[3]TOFU\c[0] und SWEETHEART!\! Mmmmh... Köstliches SWEETHEA- ich meine, \c[3]TOFU\c[0].
+message_210:
+  text: \n<HAROLD>Egad! Meine Augen müssen mich getäuscht haben. Ich entschuldige mich, Brüder.<br> Es ist ziemlich schwer, durch diesen Helm zu sehen.
+message_211:
+  text: \n<HAROLD>Sehr gut, dann mach weiter.\! Ich werde meine Patrouille fortsetzen.\! Ihr solltet auch auf eure Posten zurückkehren, damit unser lieber SWEETHEART nicht merkt...
+message_212:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 37
+  text: \n<HERO>Heh... Wie wäre es mit einer schnellen Idee?
+message_213:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 2
+  text: \n<AUBREY>Das war so glatt, HERO!\! Mit diesen \c[4]SPROUT MOLE MASKS\c[0] werden wir es im Handumdrehen hier raus schaffen!
+message_214:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 24
+  text: \n<KEL>Müssen wir die wirklich weiter tragen, HERO?\!<br>Meiner juckt schon ganz schön...
+message_215:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 47
+  text: \n<HERO>Ja, KEL... Wir sollten sie anbehalten, bis wir hier rauskommen.\! Komm schon... Lasst uns gehen.
+message_0:
+  text: \n<GASTLISTE MOLE>Oh je! Wir haben einfach keine Zeit, all diesen widerspenstigen Gästen Einlass zu gewähren!\! Das zeigt nur, dass wir die Popularität unseres lieben SWEETHEART niemals unterschätzen dürfen...
+message_1:
+  text: \n<GÄSTELISTE MOLE>Du da! Diener mit den hässlichen Gesichtern!\! Das bevorstehende Hauptevent hat eine strenge Kleiderordnung.<br><br>Es ist von äußerster Wichtigkeit, dass unser Publikum genau nach SWEETHEARTs Vorgaben gekleidet ist.\! Hier ist eine einfache Tabelle, die sogar ein Nicht-SPROUT MOLE verstehen könnte!
+message_2:
+  text: \n<GUEST LIST MOLE>Was ist es jetzt? Brauchst du Hilfe bei etwas?
+message_3:
+  text: \n<GUEST LIST MOLE>Bitte die kleineren Gäste, dir zu folgen und sie zu mir zu bringen!\! So etwas Einfaches kannst du doch machen, oder?
+message_4:
+  text: \n<GUEST LIST MOLE>\com[2]Was machst du da!?<br>Das SPROUT MOLE ist ein geschätzter Gast!
+message_5:
+  text: Wie lautet der Dresscode nochmal?
+message_6:
+  text: Wie viele SPROUT MOLES sind noch übrig?
+message_7:
+  text: \n<GUEST LIST MOLE>Selbst von hier aus kann ich sehen, dass es \v[1001] Gäste gibt, die unpassend gekleidet sind!
+message_8:
+  text: \n<GÄSTELISTE MOLE>Selbst von hier aus kann ich sehen, dass es 1 Gast gibt, der unpassend gekleidet ist!
+message_10:
+  text: \n<GUEST LIST MOLE>Prachtvoll! Ich wusste, dass du es in dir hast!<br>Nun können wir endlich diese unpinkligen Gäste loswerden!
+message_11:
+  text: \n<GUEST LIST MOLE>Und damit ist das erledigt!\!<br>Diese unpinkligen Gäste werden nie wieder das Licht der Welt erblicken!
+message_12:
+  text: \n<GUEST LIST MOLE>\Com[2]\{GUARDS!!!\!\}<br>Escort diese SPROUT MOLE zu \c[11]THE DUNGEON\C[0]!
+message_20:
+  text: \n<PINK MOLE>Wie können sie es wagen, mich warten zu lassen! Ich bin ein geschätzter Gast!
+message_21:
+  text: \n<PINK? MOLE>Wie können sie es wagen, mich warten zu lassen! Ich bin ein geschätzter Gast!
+message_22:
+  text: \n<PINK? MOLE>\v[1001]
+message_23:
+  text: Vielleicht könnte jemand, der charmanter ist, seine Meinung ändern...
+message_30:
+  text: Willst du diese SPROUT MOLE bitten, dir zu folgen?
+message_40:
+  text: \n<HAROLD>\sinv[1]Ich weiß nicht, was man mir gesagt hat...\!<br>SWEETHEARTs Liebe ist so gut wie Gold!
+message_41:
+  text: \n<HAROLD>\sinv[2]Hut! Hut! Hut!
+message_42:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 37
+  text: Grüße, geschätzter Gast! Bitte folge mir, da deine Anwesenheit dringend erforderlich ist...\her
+message_60:
+  text: \n<HEAD CHEF MOLE>Urg... Meine lieben Souschefs...<br>Ich fürchte, mein Rücken hält einfach nicht mehr aus! Zu diesem unglücklichen Zeitpunkt gebe ich meinen Rücktritt bekannt.
+message_61:
+  text: \n<SOUS CHEF MOLE>Aber warte, Chef! Ohne dich, wer wird uns bei unserer Aufgabe führen, einen prächtigen Kuchen für die Hauptveranstaltung zu backen!?
+message_62:
+  text: \n<CHEF MOLE>Sous Chefs, es ist jetzt Zeit für einen von euch, ins Rampenlicht zu treten.\! Heute muss ein Kuchen gebacken werden! Unser aller Leben steht auf dem Spiel!
+message_63:
+  text: \n<SOUS CHEF MOLE>Oh, ja! Ich höre dich, Chef!\! Als der fähigste von uns,<br> werde ich mich freiwillig melden und diese Aufgabe übernehmen!\!<br> Ich werde dich nicht enttäuschen! Ich verspreche...
+message_70:
+  text: \n<weiterer SOUS CHEF MOLE>Hmm... Eigentlich...\! Ich denke, ich setze dieses Mal aus...
+message_71:
+  text: \n<weiterer Souschef MOLE>Ja, mein Magen fühlt sich nicht so gut an...
+message_74:
+  text: \n<SOUS CHEF MOLE>Bah! Ich brauche die Unterstützung von euch Hatern nicht!\! Ich werde einen Kuchen backen, der alle Kuchen beenden wird, du wirst schon sehen!
+message_72:
+  text: \n<SOUS CHEF MOLE>Hey, du da!\! Ihr vier seid jetzt SOUS CHEFS.\!<br>Meet mich in der Küche, pronto!
+message_73:
+  text: \n<SOUS CHEF MOLE>Warum hast du so lange gebraucht!? Gib Gas, ja?! Ich kann diesen Raum nicht verlassen, bis ich den besten Kuchen gebacken habe, den es gibt!
+message_80:
+  text: \n<SOUS CHEF MOLE>\com[2]Wo gehst du hin!? Komm wieder her!
+message_81:
+  text: \n<SOUS CHEF MOLE>Viel Glück...\! Du wirst es brauchen.
+message_82:
+  text: \n<SOUS CHEF MOLE>Sind Sie bereit, mit dem Backen zu beginnen?\! Folge einfach meinen Anweisungen und es wird dir gelingen.\! Ich kenne das Rezept des HEAD CHEFs auswendig!
+message_83:
+  text: \n<SOUS CHEF MOLE>Hey, sei nicht nervös!\! Vertrau mir, ich weiß, was ich tue!
+message_84:
+  text: \n<SOUS CHEF MOLE>Zuerst müssen wir den Ofen auf 75 DEGREES vorheizen!
+message_100:
+  text: Auf welche Temperatur willst du den Ofen vorheizen?
+message_101:
+  text: 75 DEGREES
+message_102:
+  text: 190 GRADEN
+message_103:
+  text: 350 GRADEN
+message_120:
+  text: WÄHLEN WILLKÜRLICH
+message_104:
+  text: Du hast den Ofen eingeschaltet Er wird jetzt vorgeheizt.
+message_105:
+  text: \n<SOUS CHEF MOLE>Exzellente Arbeit!\! Als nächstes musst du zwei Hauptzutaten in einer Schüssel mischen...\! BLUMEN und PING PONG KUGELN!
+message_106:
+  text: \n<SOUS CHEF MOLE>Du machst das toll!\! Als nächstes kommt das SALZ und der KÄSE!\!<br>Ja, schlage diese zusammen bis es eine Suppe ist!
+message_107:
+  text: Willst du den SUGAR nehmen?
+message_108:
+  text: Willst du das FLOUR nehmen?
+message_109:
+  text: Willst du den GARDEN SOIL nehmen?
+message_110:
+  text: Willst du die STRAWBERRIES nehmen?
+message_111:
+  text: Willst du die PINEBERRIES nehmen?
+message_112:
+  text: Willst du den FRUIT JUICE nehmen?
+message_113:
+  text: Willst du die BUTTER nehmen?
+message_114:
+  text: Willst du die PICKLES nehmen?
+message_115:
+  text: Willst du den FISH nehmen?
+message_116:
+  text: Willst du die EGGS nehmen?
+message_117:
+  text: Willst du den OLD BOOT nehmen?
+message_118:
+  text: Willst du das GANZE HÜHNCHEN nehmen?
+message_122:
+  text: Du trägst zu viele Zutaten mit dir herum.
+message_123:
+  text: \n<SOUS CHEF MOLE>Jetzt geht's ans Kochen! Zu guter Letzt schnappst du dir die SAUCE und schneidest sie in Stücke!
+message_124:
+  text: \n<SOUS CHEF MOLE>Großartig!\! Jetzt mischst du alles zusammen und stellst es in die Mikrowelle!\! So einfach ist das!
+message_125:
+  text: Nimm die CAKE BATTER?
+message_126:
+  text: Du schiebst den CAKE BATTER in den Ofen.
+message_127:
+  text: Du hast einen CAKE gebacken.\! Wow! Er sieht ziemlich gut aus!
+message_128:
+  text: Du hast einen CAKE gebacken.\! Sieht ganz okay aus.
+message_129:
+  text: Du hast einen CAKE gebacken.\! Das sieht nicht ganz richtig aus...
+message_130:
+  text: Du hast einen CAKE gebacken.\! ...\! Was zum Teufel hast du hier reingetan!?
+message_131:
+  text: \n<SOUS CHEF MOLE>Ah! Alles fertig?\! Wunderschöne Arbeit, muss ich sagen!\!<br>Lassen Sie uns eine Kostprobe nehmen!
+message_132:
+  text: \n<SOUS CHEF MOLE>\com[2]\{MARVELOUS, JUST AS I EXPECTED!!!\!\}<br>Die anderen SOUS CHEFS werden es bereuen!
+message_133:
+  text: \n<SOUS CHEF MOLE>Hmm... Dieser Kuchen ist gut, aber nicht gut genug, um die anderen zu beeindrucken...
+message_134:
+  text: \n<SOUS CHEF MOLE>Wow, das ist ja ekelhaft!\! Zurück zum Zeichenbrett, das ist es!
+message_135:
+  text: \n<SOUS CHEF MOLE>Oh, meine Güte... Das ist doch gar kein Kuchen! Es ist praktisch eine Suppe!
+message_136:
+  text: \n<SOUS CHEF MOLE>\com[2]...\!\beben[1]\{AWEKJRLKJFLKASNFAWIJGAWEFJAWEKFJAKFAASJFKA!
+message_137:
+  text: Bist du sicher, dass es das ist, was du tun willst?
+message_138:
+  text: Du musst alle deine Zutaten sammeln.
+message_140:
+  text: Nimm die MIXTURE?
+message_141:
+  text: Nimmst du den PLATTER?
+message_142:
+  text: Das brauchst du nicht.
+message_143:
+  text: Du brauchst mehr Zutaten.
+message_144:
+  text: \n<SOUS CHEF MOLE>\com[2]Was machst du da!? Komm zurück und backe diesen Kuchen!
+message_500:
+  text: \n<SOUS CHEF MOLE>\com[2]\{HEY! NO STEALING!
+message_145:
+  text: \n<SOUS CHEF MOLE>Gut, dass wir ihn los sind...\! Dieser Typ war so ein Langweiler.<br>Nun, bist du bereit, diesen Kuchen tatsächlich zu backen?
+message_146:
+  text: \n<SOUS CHEF MOLE>Cool! Als erstes musst du also den Ofen auf 350 Grad vorheizen.
+message_147:
+  text: \n<SOUS CHEF MOLE>Erinnere dich, es sind 350 DEGREES!
+message_148:
+  text: \n<SOUS CHEF MOLE>Hey, was machst du da!? Das ist nicht das, was ich gesagt habe!
+message_149:
+  text: \n<SOUS CHEF MOLE>Pass das nächste Mal auf!
+message_150:
+  text: \n<SOUS CHEF MOLE>Genial! Mische nun etwas MEHL und EIER zusammen.
+message_151:
+  text: \n<SOUS CHEF MOLE>Als nächstes kommt der ZUCKER und die BUTTER.\!<br>Schlage es, bis es schön fluffig ist!
+message_152:
+  text: \n<SOUS CHEF MOLE>Und jetzt endlich, für das Topping...\!<br>Es müssen einfach STRAWBERRIES sein!
+message_153:
+  text: \n<SOUS CHEF MOLE>Alles erledigt?\! Süß!\! Jetzt schnapp dir dein ganzes Zeug, packe es in die BAKING PAN und backe es im Ofen!
+message_154:
+  text: Du hast keine CAKE BATTER, die du in den Ofen schieben kannst.
+message_155:
+  text: \n<SOUS CHEF MOLE>Und so backt man einen Kuchen!
+message_156:
+  text: \n<SOUS CHEF MOLE>Mmm... Yup! Das wird reichen!<br>Endlich ein Kuchen, auf den unser verstorbener HEAD CHEF stolz sein würde.
+message_157:
+  text: \n<SOUS CHEF MOLE>Möge die Erinnerung an ihn ewig weiterleben...
+message_158:
+  text: \n<SOUS CHEF MOLE> Ihr könnt jetzt gehen, Diener! Seid frei!
+message_159:
+  text: Du kannst es jederzeit wieder versuchen.
+message_160:
+  text: Was zum Teufel hast du hier reingetan!?
+message_161:
+  text: Den \v[1001] zurücklegen?
+message_162:
+  text: \n<SOUS CHEF MOLE>Dies ist ein Kuchen, auf den unser verstorbener HEAD CHEF stolz gewesen wäre.\! Möge sein Andenken für immer weiterleben...
+message_163:
+  text: \n<SOUS CHEF MOLE> Ihr könnt jetzt gehen, Diener! Seid frei!
+message_164:
+  text: \n<HEAD CHEF MOLE>...
+message_165:
+  text: \n<SOUS CHEF MOLE>Wer bist du?
+message_166:
+  text: \n<SOUS CHEF MOLE>Wer bin ich!?
+message_167:
+  text: Eine Reihe von Zutaten...\! Einige sind appetitlicher als andere.
+message_168:
+  text: \n<SOUS CHEF MOLE>Möge die Erinnerung an unseren verstorbenen HEAD CHEF für immer weiterleben...
+message_169:
+  text: \n<SOUS CHEF MOLE>Mein Kuchen hat es wirklich auf die große Leinwand geschafft!\! Der verstorbene HEAD CHEF wäre stolz gewesen.\! Möge sein Andenken für immer weiterleben...
+message_300:
+  text: DAS FOYER
+message_301:
+  text: DIE KAMMERN
+message_310:
+  text: \n<BANDITO MOLE>\}Das ist ein Raubüberfall.
+message_320:
+  text: \n<SMUGGLER JASH>Ich wurde wegen Schmuggels in den Kerker geschickt...<br>Aber alte Gewohnheiten sterben schwer.
+message_321:
+  text: \n<SMUGGLER JASH>Das heißt, ich habe einige erlesene Waren zu verkaufen, Patron.\! Interessiert am Kauf?
+message_322:
+  text: \n<SMUGGLER JASH>Habe einige erlesene Waren zu verkaufen, Patron.
+message_350:
+  text: Im Kamin ist ein herzförmiger Schalter versteckt.<br>Willst du ihn drücken?
+message_351:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 40
+  text: Hmm...\! Ich frage mich, wofür das war...\her
+message_352:
+  text: Im Kamin ist ein herzförmiger Schalter versteckt...\! aber du hast ihn schon gedrückt.
+message_359:
+  text: \n<CANDLE BUNNY>\sinv[1]Pyon?
+message_355:
+  text: \n<HAROLD>Zurück auf eure Stationen, Neulinge!\!<br>Wir mögen keine Faulenzer!
+message_356:
+  text: \n<MARSHA>Wir nehmen unseren Job ernst!\! Die königliche Garde von SWEETHEART akzeptiert nur die Besten der Besten!
+message_357:
+  text: \n<LUCIUS>Ich habe mein ganzes Leben lang die Kunst des Kampfes studiert.\! Wenn ihr alle hart arbeitet...\! vielleicht könnt ihr eines Tages auch ein LUCIUS werden!
+message_358:
+  text: \n<THERESE>Hey, hast du SIR MAXIMUS irgendwo gesehen?\!<br>Der Typ schuldet mir ein paar CLAMS...
+message_370:
+  text: \n<CASTELLA>Ich habe euch alle in der letzten Folge von \"SWEETHEART'S QUEST FOR HEARTS\" gesehen!
+message_371:
+  text: \n<CASTELLA>Es war eine Folge, die meines liebsten SWEETHEART würdig war...\! aber ich hätte auf das Ende verzichten können.
+message_372:
+  text: \n<CASTELLA>SWEETHEART wird ihren Nachmittagstee vermissen...
+message_373:
+  text: \n<VIRTUOSO MOLE>Ah! Ich erkenne euch.\! Ihr müsst die bezahlten Schauspieler aus \"SWEETHEART'S QUEST FOR HEARTS\" sein!
+message_374:
+  text: \n<VIRTUOSO MOLE>Deine Performance war absolut atemberaubend.\! Ich habe jede Minute davon geglaubt.
+message_375:
+  text: \n<HAROLD>Was ist das für ein Ende?\! Ich wette, ihr habt das nicht für das Finale erwartet.
+message_376:
+  text: \n<MARSHA>Wir nehmen unseren Job ernst!\! Die königliche Garde von SWEETHEART akzeptiert nur die Besten der Besten!
+message_377:
+  text: \n<LUCIUS>Ich habe mein ganzes Leben lang die Kunst des Kampfes studiert.\! Junge SPROUT MOLES verbringen ihr Leben mit dem Training, um ein LUCIUS zu werden!
+message_378:
+  text: \n<THERESE>Hey, hast du SIR MAXIMUS irgendwo gesehen?\!<br>Der Typ schuldet mir ein paar CLAMS...
+message_400:
+  text: \n<PINK? MOLE>Natürlich! Das Personal hier ist wunderbar!
+message_401:
+  text: \n<PINK? MOLE>Wer glaubst du, dass du bist!? Ich möchte mit dem Manager sprechen!
+message_402:
+  text: \n<PINK? MOLE>Fein.
+message_403:
+  text: \n<PINK? MOLE>Nein.
+message_404:
+  text: \n<PINK? MOLE>\}"Hier ist 'BIGBOYZ' an 'ALPHA-3'...\!\Das Spiel ist vorbei.\! Brich die Mission ab.\"\ \quake[1]Bzzt...\quake[0]
+message_405:
+  text: \n<PINK? MOLE>Es tut mir leid, aber ich bin nicht der Maulwurf, den du suchst.
+message_406:
+  text: \n<PINK? MOLE>O-okay...\! aber du musst erklären, was los ist!
+message_407:
+  text: \n<PINK? MOLE>Ew... Wer bist du?\! Sprich nie wieder mit mir.
+message_408:
+  text: \n<PINK? MOLE>Muss ich in einer anderen Schlange stehen?
+message_409:
+  text: \n<PINK? MOLE>Vielleicht komme ich mit dir mit...\! Aber vielleicht werde ich es nicht.
+message_410:
+  text: \n<PINK? MOLE>Die Gesetze in diesem Land sind grausam...
+message_411:
+  text: \n<PINK? MOLE>Alles nur, weil ich meine Lieblingsfarbe Blau trage!? Ich werde mich niemals für dich bewegen!
+message_412:
+  text: \n<PINK? MOLE>Meine Anwesenheit ist erforderlich?\! Natürlich ist sie das.
+message_413:
+  text: \n<PINK? MOLE>Psh...\! oder was?
+message_414:
+  text: \n<PINK? MOLE>Dang... Ich wusste, ich habe die falsche Krawatte gewählt!
+message_415:
+  text: \n<PINK? MOLE>Ich bin achthundert Meilen gelaufen, um hierher zu kommen.\! Ich werde meinen Platz nicht aufgeben!
+message_416:
+  text: \n<PINK? MOLE>Mich? Sie müssen eine Ausnahme machen.\! Ich muss gehen und ihnen zeigen, was ich denke!
+message_417:
+  text: \n<PINK? MOLE>Nein! Vielleicht sollte \sinv[1]you\sinv[0] gehen!
+message_418:
+  text: \n<PINK? MOLE>Komme ich endlich ins Zentrum der Aufmerksamkeit?
+message_419:
+  text: \n<PINK? MOLE>Auf keinen Fall. Ich bin die wichtigste Person hier!
+message_420:
+  text: \n<PINK? MOLE>\sinv[1]WEEEEEEEEEHH!\sinv[0] Warum muss ich gehen!?
+message_421:
+  text: \n<PINK? MOLE>Oh ja? Zwing mich!
+message_422:
+  text: \n<PINK? MOLE>Oh...\! Ich wollte nur meinen einzigen Sohn sehen.
+message_423:
+  text: \n<PINK? MOLE>Kannst du lauter sprechen, Kleiner? Ich kann dich nicht hören!
+message_424:
+  text: \n<PINK? MOLE>Mein... natürlich! Du siehst aus wie ein \sinv[1]clean\sinv[0], aufrechter Gentleman!
+message_425:
+  text: \n<PINK? MOLE>Fass mich nicht an!\! Du siehst aus, als ob du Keime hättest!
+message_450:
+  text: Legst du den ZUCKER zurück?
+message_451:
+  text: Die MÜHLE zurücklegen?
+message_452:
+  text: Den GARTENBODEN zurücklegen?
+message_453:
+  text: Die STRAWBERRIES zurücklegen?
+message_454:
+  text: Die PINEBERRIES zurücklegen?
+message_455:
+  text: Den FRUIT JUICE zurückgeben?
+message_456:
+  text: Die BUTTER zurücklegen?
+message_457:
+  text: Legst du die PICKLES zurück?
+message_458:
+  text: Den FISH zurücksetzen?
+message_459:
+  text: Die EIER zurücklegen?
+message_460:
+  text: Den OLD SHOE zurücklegen?
+message_461:
+  text: Das GANZE HÜHNCHEN zurücklegen?
+message_462:
+  text: \n<SOUS CHEF MOLE>Hey! Kein Touchie!
+message_501:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 39
+  text: \herHey, geht es nur mir so oder scheint es auf einmal ruhiger zu sein?
+message_502:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 19
+  text: \kelWar da nicht vorhin eine Schar von SPROUT MOLES am Eingang?\! Ich sehe sie hier nirgends!
+message_503:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 1
+  text: \aubSie müssen sich endlich nach draußen gedrängt haben!\! Lass uns ihnen folgen, OMORI.\! Vielleicht können sie uns von hier wegführen!

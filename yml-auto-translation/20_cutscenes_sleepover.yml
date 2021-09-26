@@ -1,0 +1,228 @@
+message_0:
+  faceset: MainCharacter_Basil_dark
+  faceindex: 7
+  text: Wow...\! es hat mich gerade getroffen.\kel
+message_1:
+  faceset: MainCharacter_Basil_dark
+  faceindex: 11
+  text: Es ist schon so lange her, dass wir in deinem Haus waren...<br>obwohl wir direkt nebenan wohnen.\! Die Zeit vergeht wirklich wie im Flug, nicht wahr?\kel
+message_2:
+  faceset: MainCharacter_Basil_dark
+  faceindex: 30
+  text: Ja, das tut es sicher...\her
+message_3:
+  faceset: MainCharacter_Basil
+  faceindex: 13
+  text: Lass uns reingehen.\! Nach dir, \n[8]!\her
+message_10:
+  faceset: MainCharacter_Basil_dark
+  faceindex: 12
+  text: Whoa! Dieser Ort ist entrümpelt, \n[8]!\! <br>Dein Haus fühlt sich viel größer an, jetzt wo nichts mehr da ist.\kel
+message_11:
+  faceset: MainCharacter_Basil_dark
+  faceindex: 28
+  text: Früher stand hier eine Couch, auf der wir ferngesehen haben.\! <br>Wir kamen jedes Wochenende rüber und schauten morgens Zeichentrickfilme.\her
+message_12:
+  faceset: MainCharacter_Basil_dark
+  faceindex: 8
+  text: Ja, und das ist der Fleck von dem einen Mal, an dem ich meinen \c[3]ORANGE JOE\c[0]!\ verschüttet habe! MARI wurde so wütend auf mich...\kel
+message_13:
+  faceset: MainCharacter_Basil_dark
+  faceindex: 31
+  text: Nun, das liegt daran, dass ihre Katze hinein getreten ist und durch das ganze Haus gelaufen ist!
+message_14:
+  faceset: MainCharacter_Basil_dark
+  faceindex: 10
+  text: Heh, heh...\! Oh ja, hm? \kel
+message_15:
+  faceset: MainCharacter_Basil_dark
+  faceindex: 7
+  text: Aww, man...\!<br>Es sieht so aus, als würde es zu dunkel werden, um das Baumhaus zu sehen
+message_16:
+  faceset: MainCharacter_Basil_dark
+  faceindex: 28
+  text: Das ist okay. \! Vielleicht können wir morgen wiederkommen.\her
+message_17:
+  faceset: MainCharacter_Basil_dark
+  faceindex: 8
+  text: \Com[2]\{WAIT, I HAVE AN IDEA!!!<br>\}Wie wäre es, wenn wir einfach über Nacht bleiben würden?\kel
+message_18:
+  faceset: MainCharacter_Basil_dark
+  faceindex: 11
+  text: Es wird das letzte Mal sein, dass wir in diesem Haus für immer sind, richtig?
+message_19:
+  faceset: MainCharacter_Basil_dark
+  faceindex: 8
+  text: Und wann können wir das nächste Mal die Nacht mit \n[8] so verbringen? \kel
+message_20:
+  faceset: MainCharacter_Basil_dark
+  faceindex: 29
+  text: Ich würde gerne, aber...\! Mom wird nicht sehr glücklich darüber sein. \her
+message_21:
+  faceset: MainCharacter_Basil_dark
+  faceindex: 8
+  text: Sie wird wieder gesund!\! Ich bin es sowieso leid, nachts wegen SALLYs Weinen aufzuwachen.\! Du wirst mit Mama<br>eine ganze Woche lang abwaschen, oder? Das hast du dir verdient! \kel
+message_22:
+  faceset: MainCharacter_Basil_dark
+  faceindex: 31
+  text: Nun...\! Das ist wahr.\! Es wird wahrscheinlich gut gehen.\! <br>Wir wohnen direkt nebenan, es ist also nur ein Spaziergang! \her
+message_23:
+  faceset: MainCharacter_Basil_dark
+  faceindex: 8
+  text: Wohin gehst du, \n[8]?<br>Weißt du nicht, dass es unhöflich ist, deine Gäste hängen zu lassen?<br>
+message_24:
+  faceset: MainCharacter_Basil_dark
+  faceindex: 8
+  text: Schauen wir mal, was HERO im Klavierzimmer so treibt!
+message_25:
+  text: Du willst nachts nicht alleine rausgehen.
+message_40:
+  faceset: MainCharacter_Basil
+  faceindex: 15
+  text: Ah, ich erinnere mich an diesen Flur!\!<br>Der Schrank war links...\!<br>und das Klavierzimmer war rechts.  \Hier
+message_41:
+  faceset: MainCharacter_Basil
+  faceindex: 13
+  text: Ich frage mich, ob das Klavier noch da ist...! Ich gehe schon mal vor und schaue nach! \her
+message_42:
+  text: HERO hat die Party verlassen.
+message_60:
+  faceset: MainCharacter_Basil
+  faceindex: 15
+  text: Verurteile mich nicht zu hart.\! Ich habe schon eine Weile nicht mehr geübt.\her
+message_61:
+  faceset: MainCharacter_Basil_dark
+  faceindex: 14
+  text: Angeber...\kel
+message_62:
+  faceset: MainCharacter_Basil
+  faceindex: 14
+  text: Haha, ich schätze, ich hab's immer noch drauf.\her
+message_63:
+  faceset: MainCharacter_Basil
+  faceindex: 13
+  text: Hey, \n[8]. Das erinnert mich an etwas! Spielst du noch Geige?\her
+message_64:
+  faceset: MainCharacter_Basil_dark
+  faceindex: 29
+  text: Oh...\! Es ist nicht hier.\! Ich schätze, du hast es schon eingepackt.\her
+message_65:
+  faceset: MainCharacter_Basil_dark
+  faceindex: 28
+  text: Da war dieses Lied, das du mit MARI gespielt hast...\!<br>Es bleibt immer noch manchmal in meinem Kopf hängen, aber ich weiß<br>nicht mehr, wie es heißt.\her
+message_66:
+  faceset: MainCharacter_Basil_dark
+  faceindex: 30
+  text: Ihr zwei habt es immer und immer wieder gespielt.\!<br>Wir haben es sogar manchmal von unserem Haus aus gehört!\!<br>Wie war es noch mal?\
+message_67:
+  faceset: MainCharacter_Basil_dark
+  faceindex: 13
+  text: \sinv[1]Gähn...\! Mann, auf einmal werde ich richtig schläfrig.\! <br>Vielleicht sollten wir für heute Schluss machen.\kel\sinv[0]
+message_68:
+  faceset: MainCharacter_Basil_dark
+  faceindex: 28
+  text: Das klingt gut für mich. Ich muss sowieso früh aufstehen für meine morgendliche Joggingrunde!\her
+message_69:
+  faceset: MainCharacter_Basil
+  faceindex: 13
+  text: Also wo sollen wir schlafen, \n[8]?\! Wahrscheinlich irgendwo in deinem Zimmer, oder?\! Ich erinnere mich, dass du es immer gehasst hast, alleine zu schlafen.\
+message_70:
+  faceset: MainCharacter_Basil_dark
+  faceindex: 8
+  text: Ja, das klingt lustig!<br>Wir können auch auf dem Boden schlafen, wenn es sein muss!<br>Lasst uns ein paar Decken suchen!
+message_71:
+  faceset: MainCharacter_Basil_dark
+  faceindex: 31
+  text: Halt dich fest, KEL! Warte auf mich!\her
+message_90:
+  faceset: MainCharacter_Basil_dark
+  faceindex: 8
+  text: Hey, \n[8]! Wir haben ein Bett-Fort gebaut!\!<br>Ich hoffe, es macht dir nichts aus.\kel
+message_91:
+  faceset: MainCharacter_Basil_dark
+  faceindex: 31
+  text: Das war alles die Idee von KEL. Ich hatte nichts damit zu tun.\her
+message_92:
+  faceset: MainCharacter_Basil_dark
+  faceindex: 11
+  text: Übrigens, HERO... \n[8] und ich habe ein Geschenk für dich!\kel
+message_110:
+  text: KEL gab \c[4]HERO'S GIFT\c[0] an HERO!
+message_93:
+  faceset: MainCharacter_Basil_dark
+  faceindex: 13
+  text: Es ist PAPA CHIP'S CHIP-OFF-THE-OLD-BLOCK COOKBOOK!\! <br>Erinnert ihr euch daran?
+message_94:
+  faceset: MainCharacter_Basil
+  faceindex: 13
+  text: Natürlich will ich das!!!<br>Mann, ich erinnere mich, als ich Koch werden wollte...<br>Es scheint jetzt so albern zu sein.<br>
+message_95:
+  faceset: MainCharacter_Basil_dark
+  faceindex: 8
+  text: Hey, du warst ziemlich gut darin! \!<br>Und du kannst immer noch Koch sein, HERO!\kel
+message_96:
+  faceset: MainCharacter_Basil_dark
+  faceindex: 30
+  text: Ah...\! Es ist okay. \! Ich habe keine Zeit mehr für so etwas. \her
+message_97:
+  faceset: MainCharacter_Basil_dark
+  faceindex: 12
+  text: Aber...\! Du kochst wirklich gerne, nicht wahr?\!<br>Und die Leute müssen essen, richtig?\! Also wie...\! Warum nicht?\kel
+message_98:
+  faceset: MainCharacter_Basil_dark
+  faceindex: 31
+  text: Haha...\! Ich glaube nicht, dass es so funktioniert, KEL-\her
+message_99:
+  text: ...\| ...\| ...\|<br>\SINV[1]Schnarch...\| Schnarch...\| Schnarch...\kel
+message_100:
+  faceset: MainCharacter_Basil_dark
+  faceindex: 31
+  text: ...\her
+message_101:
+  faceset: MainCharacter_Basil_dark
+  faceindex: 30
+  text: Er ist so ein Schnellschläfer...\! Das war schon immer so, denke ich
+message_102:
+  faceset: MainCharacter_Basil_dark
+  faceindex: 28
+  text: Danke, dass wir hier übernachten durften, \n[8].\her
+message_103:
+  faceset: MainCharacter_Basil_dark
+  faceindex: 29
+  text: Ich wette, es war ziemlich hart in diesem leeren Haus...<BR>besonders ohne MARI.<br>
+message_104:
+  faceset: MainCharacter_Basil_dark
+  faceindex: 15
+  text: Es tut mir leid, dass ich nicht mehr für dich da sein konnte...\her
+message_105:
+  faceset: MainCharacter_Basil_dark
+  faceindex: 28
+  text: Alles fühlt sich jetzt so anders an...<br>aber es scheint, als wärst du so ziemlich derselbe geblieben
+message_106:
+  faceset: MainCharacter_Basil
+  faceindex: 13
+  text: Es ist irgendwie befreiend, um ehrlich zu sein! Haha!\her
+message_107:
+  faceset: MainCharacter_Basil_dark
+  faceindex: 30
+  text: Seufz...\! Es ist wirklich schön, dich wieder zu sehen.\! <br> Ich wünschte nur, AUBREY und BASIL könnten auch hier sein. \her
+message_108:
+  faceset: MainCharacter_Basil_dark
+  faceindex: 31
+  text: A-Anyway!\! Tut mir leid, dass ich geschimpft habe.\! Es ist schon spät. <br>Ich werde wahrscheinlich auch bald schlafen gehen.\her
+message_109:
+  faceset: MainCharacter_Basil
+  faceindex: 13
+  text: Gute Nacht, \n[8]! Wir sprechen uns morgen früh.\her
+message_130:
+  text: Du hast Lust, ein Bad zu nehmen.
+message_131:
+  text: Du hast gespürt, wie dich etwas nach unten gezogen hat...
+message_150:
+  faceset: MainCharacter_Basil_dark
+  faceindex: 30
+  text: \her bin ich froh, dass sich jemand um MARIs Klavier gekümmert hat.\! Es ist kaum noch Staub zu sehen.
+message_151:
+  faceset: MainCharacter_Basil_dark
+  faceindex: 9
+  text: \kelWie kommt es, dass HERO noch weiß, wie man alles gut spielt und so?\! Ich kann kaum noch Noten lesen...

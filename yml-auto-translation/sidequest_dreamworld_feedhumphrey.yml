@@ -1,0 +1,76 @@
+message_0:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 36
+  text: \herHey, MR. JAWSUM! Wir sind gekommen, um Hallo zu sagen!
+message_1:
+  text: \jawHERO...\! Bist du es wirklich?
+message_2:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 38
+  text: \herJa, das ist es wirklich!!! Wie läuft's denn so?
+message_3:
+  text: \KieferDas Geschäft läuft schlecht, HERO...\! \beben[1]Wirklich schlecht.\beben[0]
+message_4:
+  text: <br>Alle Investoren sind ausgestiegen, die Bauarbeiten sind zum Stillstand gekommen und wir haben viele Kunden verloren!
+message_5:
+  text: \KieferAlle Zeichen deuten auf das Gleiche hin! <br>\!Das ist nicht der Weg, den ich im Leben gehen soll...
+message_6:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 39
+  text: <br>Sagen Sie das nicht, MR. JAWSUM!<br>Sie sind der beste...<br>und einzige Chef, den ich je hatte!
+message_7:
+  text: \Versteh mich nicht falsch, ich mache mich nicht runter oder so.<br>Das ist nur eine Lektion fürs Leben!
+message_8:
+  text: <br>Ich habe alle möglichen erfolgreichen Nebenbeschäftigungen am Laufen, aber...<br>! <br>Das \c[11]LAST RESORT\c[0] war eine echte Leidenschaft von mir, weißt du?
+message_9:
+  text: \KieferJa...\! Ich habe meine Entscheidung bereits getroffen...<br>\!Ich denke, es ist Zeit für mich, aufzuhören.
+message_10:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 46
+  text: \her\Com[2]Warte, MR. JAWSUM!\! Du kannst nicht aufgeben n-
+message_11:
+  text: \KieferNimm das, HERO...\!<br>Das ist für alles, was du für mich getan hast.
+message_12:
+  text: Du hast einen RIESEN-CHECK[0].
+message_13:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 47
+  text: \herO-O-Oh!\! Okay, dann.\! Ich danke dir sehr.
+message_14:
+  text: \Da ist noch etwas...<br>HERO, ich möchte, dass du...<br>die LAST RESORT für mich übernimmst.
+message_40:
+  text: \n<GATOR GUY>Hier ist deine Krawatte, Bossman.
+message_15:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 46
+  text: \her\Com[2]W-Was? \! Bist du sicher?\! Aber ich bin doch erst 15 Jahre alt!
+message_16:
+  text: \jawHERO!\! Ich war mir in meinem ganzen Leben noch nie einer Sache so sicher!\! Sag es nicht den anderen, aber...\! du warst immer mein Liebling.
+message_17:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 46
+  text: \herMR. JAWSUM...
+message_18:
+  text: \KieferHeh...\! und damit ist alles geklärt.\!<br>Es gibt nur noch...\! eine Sache zu tun.
+message_19:
+  text: \jaw\{\sinv[1]\Com[2]IT'S TIME FOR A VACATION, BABY!!!\sinv[0]
+message_20:
+  text: \jawOl' JAWSUM wird die Zeit seines Lebens haben!<br>Wir sehen uns! Vermiss mich jetzt nicht!
+message_28:
+  text: \jaw\Com[2]\Sinv[2]\{\{JAWHAW\{HAWHAW\{HAWHAW!!\Sinv[0]
+message_21:
+  text: \hum\sinv[1]Ahhhhhhhh...\! Das war so ein gutes Nickerchen.\!<br> Mein Bauchweh ist ganz weg.\! Aber ich bin immer noch...so...hungrig...
+message_22:
+  text: \hum\sinv[1]Whale, whale, whale!\sinv[0]\! Ich rieche etwas absolut Leckeres!\! Ist das ein RIESENCHEIN, den du da hast? Könnte ich vielleicht... einen Happen davon abbekommen?
+message_23:
+  text: Du hast HEROs \c[4]GIANT CHECK\c[0] an HUMPHREY gegeben.
+message_24:
+  text: \hum\sinv[1]\{DEEEEEE...\{\Com[2]LICIOUS!!\sinv[0]\}
+message_25:
+  text: \hum\sinv[1]Das nenne ich mal Gourmet! \sinv[0]
+message_26:
+  text: \humAh... Da hast du es!!! Jetzt, wo ich vollgetankt bin, <br>sollte hier alles wieder normal sein...
+message_27:
+  text: \humOh...\! Aber es sieht so lecker aus...
+message_29:
+  text: \humWell...\! fast...\! \beben[1]Nyak, nyak...\beben[0]

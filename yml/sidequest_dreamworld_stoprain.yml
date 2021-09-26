@@ -1,0 +1,185 @@
+### Translation: Finished
+### Editing: Finished
+
+### Translated by: Lugitaro 🐉#0893
+### Corrections by: ~ฅ^•ﻌ•^ฅ~#2706 (Mewo)
+
+# =========================================================================================
+# STOP THE RAIN
+# ========================================================================================
+
+#Talk to Potatogirl
+
+message_1:
+      text: \n<GEMÜSLEIN>\Com[2]Ahhhh!\! Es regnet zu stark!\!<br>Es stört uns ein wenig!
+
+message_2:
+      text: \n<GEMÜSLEIN>In der Nähe befindet sich ein mystisches Ventil, das unseren Regenfall kontrolliert, doch nur der AUSERWÄHLTE kann es drehen...
+
+message_3:
+      text: \n<GEMÜSLEIN>Wenn uns niemand hilft, sind wir für immer zu leichtem Unbehagen verurteilt!
+
+#EXTRA GEMÜSLEIN VILLAGERS:
+
+message_4:
+      text: \n<GEMÜSLEIN>Wir fühlen uns etwas unwohl!\! Bitte mach, dass es aufhört!
+
+message_5:
+      text: \n<GEMÜSLEIN>Die Regenmenge beunruhigt mich ein wenig.
+
+message_6:
+      text: \n<GEMÜSLEIN>Wäre der Regen doch nur etwas leichter...
+
+message_7:
+      text: \n<GEMÜSLEIN>Es regnet nur ein bisschen zu stark, meinst du nicht?
+
+message_8:
+      text: \n<GEMÜSLEIN>Mir ist unangenehm.
+
+message_9:
+      text: \n<GEMÜSLEIN>Dieser Regen ist etwas unerträglich.
+
+message_10:
+      text: \n<GEMÜSLEIN>Ich verspüre eine geringe Menge körperlichen Unwohlseins.
+
+message_11:
+      text: \n<GEMÜSLEIN>Auf der Skala von angenehm zu unangenehm,\. wobei 1 für sehr angenehm,\. und 10 für sehr unangenehm steht,\. bin ich bei einer 6.
+
+message_12:
+      text: \n<GEMÜSLEIN>Bäh!
+
+message_13:
+      text: \n<GEMÜSLEIN>Igitt!
+
+message_14:
+      text: \n<GEMÜSLEIN>Pfui!
+
+message_15:
+      text: \n<GEMÜSLEIN>Eieiei!
+
+message_16:
+      text: \n<GEMÜSLEIN>Iih!
+
+message_17:
+      text: \n<GEMÜSLEIN>Ekelig!
+
+#EXAMINE VALVE AS OMORI
+
+message_18:
+      text: Möchtest du das Ventil leicht nach rechts oder nach links drehen?
+
+#[RIGHT/LEFT]
+#[RIGHT]
+message_19:
+      text: RECHTS
+#RAIN BECOMES lighter
+#Song changes to Puddles
+
+message_20:
+      text: Der Regen ist nun etwas leichter.
+
+#[LEFT]
+message_21:
+      text: LINKS
+#[Screen turns black.]
+
+message_45:
+      text: Der Regenfall wurde stärker, und überschwemmte \c[11]REGENSTADT\c[0].\!<br>Von \c[11]REGENSTADT\c[0] und seinen Einwohnern hörte man nie wieder.
+
+#[Party teleports to Oasis.]
+
+message_46:
+      text: Du bist der Held von \c[11]REGENSTADT\c[0]!
+
+#EXAMINE VALVE AS anyone else
+
+#[RIGHT/LEFT]
+message_22:
+      text: Es rührt sich nicht.
+
+#Talk to Potatogirl after adjusting Valve
+message_23:
+      text: \n<GEMÜSLEIN>Der Regen wurde angeglichen!\! Klasse!\!<br>Danke, AUSERWÄHLTER!\!<br>Wir werden deine gute Tat auf ewig in Erinnerung halten.
+
+#TOMATO KID walks up
+message_24:
+      text: \n<GEMÜSLEIN>Was sagst du da, Kind?\! Du willst mit ihnen gehen?\! Bist du dir sicher?
+
+#GEMÜSLEIN (Tomato) turns to GEMÜSLEIN (Potato).
+
+message_25:
+      text: \n<GEMÜSLEIN>Wenn du es so wünschst...
+
+message_26:
+      text: \n<GEMÜSLEIN>AUSERWÄHLTER...\! Dieses Kind möchte dich auf deiner Reise begleiten\!<br>Sie gehört nun dir.\! Bitte gib gut acht auf sie.
+
+message_27:
+      text: Du erhältst ein \c[13]GEMÜSLEIN\c[0].
+
+#Potato speaking:
+message_28:
+      text: \n<GEMÜSLEIN>Geht hin, Helden! Eure Reise erwartet euch!
+
+#QUEST complete
+
+#After quest dialogue
+
+#talk to potatogirl
+message_29:
+      text: \n<GEMÜSLEIN>Geht hin, Helden! Eure Reise erwartet euch!
+
+#extra veggie kid VILLAGERS
+
+message_30:
+      text: \n<GEMÜSLEIN>Der Regen hat jetzt die ideale Stärke!
+
+message_31:
+      text: \n<GEMÜSLEIN>Ahh...\! so...\! angenehm...
+
+message_32:
+      text: \n<GEMÜSLEIN>Ich bin mit der Regenmenge zufrieden.
+
+message_33:
+      text: \n<GEMÜSLEIN>Nun, da der Regen etwas leichter ist, ist er angenehm...
+
+message_34:
+      text: \n<GEMÜSLEIN>Es regnet genau richtig, meinst du nicht?
+
+message_35:
+      text: \n<GEMÜSLEIN>Mir ist angenehm.
+
+message_36:
+      text: \n<GEMÜSLEIN>Dieser Regen fühlt sich toll an!
+
+message_37:
+      text: \n<GEMÜSLEIN>Ich verspüre Behaglichkeit.
+
+message_38:
+      text: \n<GEMÜSLEIN>Auf der Skala von angenehm zu unangenehm,\. wobei 1 für sehr angenehm,\. und 10 für sehr unangenehm steht,\. bin ich bei einer 1.
+
+message_39:
+      text: \n<GEMÜSLEIN>Hurra!
+
+message_40:
+      text: \n<GEMÜSLEIN>Tut gut!
+
+message_41:
+      text: \n<GEMÜSLEIN>Juhuu!
+
+message_42:
+      text: \n<GEMÜSLEIN>Jippie!
+
+message_43:
+      text: \n<GEMÜSLEIN>Juchhu!
+
+message_44:
+      text: \n<GEMÜSLEIN>Yay!
+
+message_50:
+      text: Die Wasseroberfläche schimmert.
+
+message_51:
+      text: Willst du sie konzentriert anstarren?
+
+message_52:
+      text: Die Wasseroberfläche strahlt eine dunkle Kraft aus.

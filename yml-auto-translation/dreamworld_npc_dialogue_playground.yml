@@ -1,0 +1,246 @@
+message_0:
+  text: \banSpaß zu haben ist zu anstrengend, also reicht es mir, meinen Freunden beim Spaß haben zuzusehen.
+message_1:
+  text: \bunNOSE ist mein bester Freund.\!<br>Sie kann nicht viel sagen, aber sie ist wirklich schlau!
+message_2:
+  text: <br>Ich pflücke Blumen für jemand besonderen...
+message_3:
+  text: \Ich habe ein paar Blumen für jemand Besonderen gepflückt... \!Ich hoffe er mag sie...
+message_4:
+  text: \daiIch möchte jemandem Blumen schenken, aber er ist nur an Puzzles interessiert...\! Wenn ich nur ein \c[4]FLOWER PUZZLE\c[0] oder so finden könnte... \!Vielleicht würde er mich dann bemerken.
+message_5:
+  text: \daiIst das ein \c[4]FLOWER PUZZLE\c[0]?\! Für mich?\! <br>...\!\} Damit wird NEB vielleicht endlich auf mich aufmerksam.
+message_6:
+  text: \dai...
+message_7:
+  text: \dai\Com[2]\{Oh, nein! Ich habe seinen Namen gesagt!\} \}<br>Bitte tu so, als hättest du das nicht gehört...\}
+message_8:
+  text: \daiI- Ich frage mich, wann ich ihm das geben soll...
+message_10:
+  text: \n<BROWS>\SINV[2]\Com[2]AAAHHHH\{HHHHHHH}{HHHHHHHHH!!!\LECLEAR
+message_11:
+  text: \hap\SINV[1]Hop! \!\}And-a-\{Hop! \!\}And-a-\{Hop! \!\}And-a-\{Hop!\SINV[0]
+message_31:
+  text: \hap\SINV[1]Spin! \!\}And-a-\{Spin! \!\}And-a-\{Spin! \!\}And-a-\{Spin!\SINV[0]
+message_12:
+  text: \n<SHARLEEN>\}Hallo... \!Freunde...
+message_13:
+  text: \ladIch werde zum Mond schwingen!
+message_14:
+  text: \nebIch tue so, als wäre ich ein Planet.
+message_15:
+  text: \nebIch mag Puzzles.
+message_16:
+  text: NOSE sieht beschäftigt aus.
+message_17:
+  text: \renDie Nacht ist eine perfekte Nacht zum Sternegucken.
+message_18:
+  text: \shawWillst du dich uns anschließen, \n[1]?
+message_19:
+  text: \shawDas Gras fühlt sich hier wirklich gut an.
+message_20:
+  text: Die Sterne leuchten hell über dir...<br>\!Du hast keine Sorgen auf der Welt.
+message_21:
+  text: OMORI gelernt \c[1]OBSERVE\c[0]!
+message_30:
+  text: \n<JOKER JASH>\{\{\sinv[1]PEEK-A-BOO!!
+message_44:
+  text: \hap\Com[2]Halt dich fest, BANGS!\! Du wirst wieder gesund!
+message_45:
+  text: \banBROWS hat mich überfahren und niedergeschlagen, aber jetzt liege ich einfach hier, weil es sich gut anfühlt.
+message_46:
+  text: \n<VAN>Da, BROWS... \!Es ist nicht deine Schuld...
+message_47:
+  text: \n<BROWS>\Com[2]\SINV[2]AAAHHH\{\Com[2]HHHHH\{\Com[2]HHHHHHH\{\Com[2]HHHHHHHHH!!!\LECLEAR
+message_48:
+  text: \n<VAN>BERLY und ich spielen wieder Tetherball!
+message_60:
+  text: \berHey, dudes! Danke, dass du meinen \c[4]LOST BALL\c[0] zurückbekommen hast.\!<br>Wie du sehen kannst, verwende ich ihn für etwas Gutes!
+message_61:
+  text: \n<VAN>Ja, das ist sie wirklich.
+message_62:
+  text: \ber ich habe mir gedacht...\! Da ihr alle so nett wart, mir zu helfen...\! Werde ich großzügig sein und euch meine spezielle \c[1]SKILL\c[0] beibringen!
+message_63:
+  text: \berAber zuerst habe ich eine Frage an euch alle...<br>Wer von euch hat den härtesten Kopf?
+message_64:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 17
+  text: \kelNun, \Com[2]\{duh!\} Das müsste dann \n[2] sein!
+message_65:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 10
+  text: \aub\Com[2]\{WAS HAST DU GESAGT!?
+message_66:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 18
+  text: \kelWhoa, chill out!\! Keine \SINV[1]hard\SINV[0] Gefühle...\! kapiert?
+message_67:
+  text: \berHeh.\! Das klingt ungefähr richtig!
+message_68:
+  text: \berAlright \n[2], ich werde dir einen \c[1]SKILL\c[0] beibringen, nur unter hartgesottenen Leuten wie uns.
+message_69:
+  text: \berDas ist meine Spezialität... \c[1]HEADBUTT\c[0]! \!<br>Eigentlich ist es ganz einfach. \!Du rennst einfach auf jemanden zu und...
+message_70:
+  text: \QUAKE[1]\Com[2]\{WH\{\Com[2]HHH\{HHAA\{\Com[2]AAMMMM!!!\QUAKE[0]\ber
+message_71:
+  text: \berNun versuchst du es.
+message_72:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 8
+  text: \aubDas sieht aus, als würde es weh tun...<br>Und auch meine Haare versauen.<br>Und auch meinen Bogen ruinieren.
+message_73:
+  text: \berOh komm schon, \n[2]! Lebe ein wenig!\!<br>Unordentliches Haar zu haben hat noch niemandem geschadet.\!<br>\n[4] ist der lebende Beweis dafür.
+message_74:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 38
+  text: \herJa, darauf kannst du wetten!
+message_75:
+  text: \berWarum probierst du es nicht aus?
+message_76:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 9
+  text: \aubHmph!\! Schön...
+message_77:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 10
+  text: \aubAber wenn ich das mache... \!Ich werde alles geben, was ich habe!
+message_78:
+  text: \ber\QUAKE[1]\Com[2]\{WH\{\Com[2]HHH\{HHAA\{\Com[2]AAMMMMMMMMMMMMMM!!!\QUAKE[0]
+message_79:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 11
+  text: \aubErughh...
+message_80:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 11
+  text: \aub\SINV[1]Ich fühle mich... \!schwindelig...\SINV[0]
+message_81:
+  text: \ber\Com[2]\{WHOA! NICE ONE, AUBREY!!!<br>Ich wusste, dass ich Talent in dir gesehen habe.
+message_82:
+  text: \Herzlichen Glückwunsch!!!<br>Du hast die Prüfung mit Bravour bestanden!
+message_83:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 11
+  text: \aub\SINV[1]...Huh?\! Was ist los?\SINV[0]
+message_84:
+  text: \berVon diesem Tag an...<br> erkläre ich dich hiermit zu einem echten HEADBUTTER.
+message_85:
+  text: \berUnd nimm dieses Zertifikat Zeig es deinen Freunden. \!<br>Ich bin sicher, sie werden stolz sein!
+message_86:
+  text: AUBREY hat \c[1]HEADBUTT\c[0] gelernt.
+message_87:
+  text: Du hast ein \c[4]BUTT-ZERTIFIKAT\c[0].
+message_88:
+  text: \berKomm schon, VAN! Steck deinen Kopf rein!
+message_100:
+  text: \banBROWS will nicht aufhören mir ins Ohr zu schreien...
+message_101:
+  text: \bunSo, was würdest du heute gerne tun, NOSE?
+message_102:
+  text: \nebI... \!Liebesrätsel.
+message_103:
+  text: \n<VAN>BERLY mag irgendwie unsensibel erscheinen, aber es ist wirklich nur eine harte Fassade. \!Manchmal... Muss man Zeit mit Menschen verbringen, um das Echte zu sehen.
+message_104:
+  text: \n<VAN>Das kannst du wahrscheinlich nachempfinden, oder?
+message_110:
+  text: \ban Der Chef wollte mich einsetzen... aber als er merkte, dass ich nichts kann, sagte er mir, ich solle Betttester werden...  \!<br>Mmm... \!Yup... \!Dieses Bett fühlt sich wirklich gut an...
+message_111:
+  text: \berGut, gut, gut! Sieh mal, wen wir hier haben! \!Du versuchst mit dem großen Boss zu reden, was? \!Tut mir leid, dass ich deine Seifenblase zerplatzen lasse, aber ich kann hier nicht einfach irgendjemanden durchlassen, ohne dass du es merkst!
+message_112:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 19
+  text: \kel\sinv[1]Awwwwww, man...\sinv[0] wirklich? \!<br>\Com[2]Komm schon, BERLY! Wir kennen uns doch schon ewig! \!<br>Kannst du uns nicht einen kleinen, kleinen Gefallen tun?
+message_113:
+  text: \berGrummeln, grummeln...\! Sorry, KEL! Das ist ein Befehl vom Boss... \! Heute ist ein großer Tag, also will er keine...\! Störungen. \!<br> Wir müssen eine \c[3]TOFU\c[0] Spendenaktion für heute Abend vorbereiten!
+message_114:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 19
+  text: \kelAber BERLY... Ich bin es! \!Dein alter Freund KEL! \!<br>Ich und du kennen uns schon lange! <br>Denk an all unsere guten Zeiten zusammen...
+message_115:
+  text: \ber\Com[2]Hey, hör auf damit! Sie haben mich nicht ohne Grund zum Sicherheitschef gemacht! \!Sie wollten jemanden der hart ist... \!Jemand der harte Entscheidungen treffen kann! \!Eine harte Person!
+message_116:
+  text: \ber ich meine... Schau dir mein Abzeichen an... \!Es ist so glänzend!
+message_117:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 26
+  text: \kelHmm...\! Schnell, KEL! Denk dir schnell etwas aus!
+message_118:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 18
+  text: \kelOh, ich weiß! \! \sinv[1]Hey, BERLY...\!\sinv[0] Unser guter Freund OMORI hier ist an einem Job interessiert!\! Du weißt, dass der Boss niemals kostenlose Arbeit ablehnen würde!
+message_119:
+  text: \berHmmm... \!Das ist wahr.\! Aber...
+message_120:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 33
+  text: \kel\com[2]Bitte, BERLY! \!\SINV[2]Bitte, bitte, bitte, bitte, bitte!\sinv[0]
+message_121:
+  text: \berOh...\! Na gut... \!<br>Ich lasse dich dieses Mal durch. \!<br>Aber nur, wenn du mir vorher etwas \c[3]BOTTLED WATER\c[0] holst!\!<br>Ich bin ausgetrocknet!
+message_122:
+  text: \berHey! Du hast mir etwas \c[3]BOTTLED WATER\c[0]?\! Danke! Ich schulde dir was!\! Kommt schon, Jungs! Ich habe gehört, es gibt Pizza im Pausenraum!
+message_123:
+  text: \n<GATOR GUY>Alles klar! Gratis-Pizza!
+message_124:
+  text: \n<GATOR GUY>Ugh...\! Ich hoffe da sind keine Ananas drauf...
+message_107:
+  text: <br>Hast du das \c[3]BOTTLED WATER\c[0] schon bekommen?<br>Hopp, hopp! Wir sind völlig ausgedörrt!
+message_105:
+  text: \n<GATOR GUY>Wenn du weitermachen willst, musst du zuerst BERLY überzeugen.
+message_106:
+  text: \n<GATOR GUY>Ich werde mich nicht bewegen, bis BERLY sich bewegt.
+message_125:
+  text: BERLY ist zu sehr damit beschäftigt, ihr Gesicht auszustopfen, um dich zu bemerken.
+message_126:
+  text: \n<GATOR GUY>Ich liebe alle Arten von Pizza.
+message_127:
+  text: \n<GATOR GUY>Ugh... \!Ananas...
+message_128:
+  text: \berHey, ihr seid es! \!Ich habe vom Boss gehört, dass ihr alle die \c[11]LAST RESORT\c[0] verlasst... \!Ihr müsst uns alle mal besuchen kommen. Wir werden euch hier wirklich vermissen!
+message_129:
+  text: \n<BROWS>\SINV[2]\Com[2]AAAHHHH\{HHHHHHH}{HHHHHHHHH!!!\LECLEAR
+message_130:
+  text: \bunSigh...\!<br>Die Gäste an diesem Ort wissen wirklich, wie man eine Sauerei macht.
+message_132:
+  text: \bunEin Job zu haben ist wirklich hart. \!<br>Ich hoffe, NOSE geht es gut ohne mich...
+message_133:
+  text: \n<SHARLEEN>\}H-Hey... \!Kein Planschen im Pool... \!okay?
+message_134:
+  text: \daiDer Chef hat mir gesagt, ich soll malen was ich will, also male ich ein paar Blumen!
+message_135:
+  text: \hap\SINV[1]Sauber... \!\}Und-a-\{Reinigen... \!\}Und-a-\{Reinigen... \!\}And-a-\{clean...\SINV[0]
+message_136:
+  text: \Ich werde diesen Ort so hoch bauen, dass er den Mond erreichen wird!
+message_137:
+  text: \nebEngineering... \!ist wie ein Puzzlespiel... \!und ich liebe Puzzles.
+message_138:
+  text: \nosNose geht!
+message_139:
+  text: \n<SHAWN und REN>Wir hoffen, dass ihr euch im \c[11]LAST RESORT\c[0] wohlfühlt! Bitte lass uns wissen, wenn du etwas brauchst!
+message_140:
+  text: \n<VAN>Der Chef ließ mich früher in der Sicherheitsabteilung arbeiten, aber sie sagten, ich sei zu weich.
+message_141:
+  text: \n<VAN>Ich habe gehört, dass sie BERLY zur Sicherheitschefin gemacht haben!<br>Sie sagen, sie hat eine steife Oberlippe!
+message_151:
+  text: \n<VAN>Ich vermisse BERLY...
+message_142:
+  text: \banSeufz...<br>Ich werde es vermissen, ein Betttester im \c[11]LAST RESORT\c[0] zu sein...<br>Ich hatte endlich das Gefühl, meine wahre Berufung gefunden zu haben.
+message_143:
+  text: \berGrummeln, grummeln... \!Ich schätze, ich bin wieder ein normales Kind. \!Sicherheitschef war ein ziemlich spaßiger Job, aber nicht die ganze Zeit mit VAN rumhängen zu können, war schon irgendwie ätzend.
+message_144:
+  text: \bunOh, NOSE! Ich habe dich so sehr vermisst! \!Du hast mich auch vermisst, richtig?
+message_145:
+  text: \n<SHARLEEN>\}Hallo... \!wieder...
+message_146:
+  text: \daiDas Zeichnen von Blumen war ziemlich lustig, aber ich mag es lieber, an ihnen zu riechen.
+message_147:
+  text: \nebIch liebe Puzzles wirklich, wirklich, wirklich.
+message_148:
+  text: \n<VAN>Es ist schön zu wissen, dass BERLY mich nicht vergessen hat, als sie Sicherheitschefin wurde.
+message_149:
+  text: \Als ob ich dich jemals vergessen würde, du großer Klotz!
+message_150:
+  text: \n<VAN>Awww, es ist genau wie in alten Zeiten...
+message_200:
+  text: \Was ist das für ein Blödsinn!? Ich verlange, dass du mich sofort zu meiner Familie lässt!
+message_201:
+  text: \n<LEMON JASH>Sehe ich für dich wie ein \"TOM" aus?\! Wenn du mir ins Ohr schreist, wird der Zug auch nicht schneller fahren, Lady.

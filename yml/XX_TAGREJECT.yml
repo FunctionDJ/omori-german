@@ -1,0 +1,44 @@
+### Translation: Finished
+### Editing: None
+### Comment: 1-3 are unused
+
+### Translated by: Lugitaro 🐉#0893
+
+# -----------------------------------------------
+# - IF OMORI
+# -----------------------------------------------
+message_0:
+    text: Du bist nicht die richtige Person für diese Aufgabe.
+
+message_9:
+    text: Sieht aus wie ein Job für OMORI!
+
+message_10:
+    text: Sieht aus wie ein Job für AUBREY!
+
+message_11:
+    text: Sieht aus wie ein Job für KEL!
+
+message_12:
+    text: Sieht aus wie ein Job für HERO!
+
+message_13:
+    text: Sieht aus wie ein Job für \n[8]!
+
+# -----------------------------------------------
+# - IF AUBREY
+# -----------------------------------------------
+message_1:
+    text: AUBREY cannot help here.
+
+# -----------------------------------------------
+# - IF KEL
+# -----------------------------------------------
+message_2:
+    text: KEL cannot help here.
+
+# -----------------------------------------------
+# - IF HERO
+# -----------------------------------------------
+message_3:
+    text: HERO cannot help here.

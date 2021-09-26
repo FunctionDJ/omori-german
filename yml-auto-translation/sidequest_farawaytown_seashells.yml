@@ -1,0 +1,104 @@
+message_0:
+  faceset: MainCharacters_Faraway
+  faceindex: 14
+  text: \kelHey, Nachbar! Wie geht's denn so?
+message_1:
+  text: \n<BLUE-HAIRED GIRL>Hey, KEL!\! Oh, und wer ist noch bei dir?
+message_32:
+  faceset: MainCharacters_Faraway
+  faceindex: 14
+  text: \kel Ich habe meinen Bruder und meine Freunde mitgebracht!
+message_33:
+  faceset: MainCharacters_Faraway
+  faceindex: 14
+  text: \kelThis ist AUBREY!
+message_34:
+  faceset: MainCharacters_Faraway
+  faceindex: 14
+  text: \kelThis ist mein Bruder HERO!
+message_35:
+  faceset: MainCharacters_Faraway
+  faceindex: 14
+  text: \kelUnd das ist mein Freund \n[8]!
+message_2:
+  text: \n<BLUE-HAIRED GIRL>Oh, warte! Ich erkenne dich!\! Du bist \n[8], nicht wahr?\!<br>Entschuldige, es ist schon eine Weile her.\! Ich glaube, wir haben uns nur ein paar Mal getroffen...
+message_3:
+  text: \n<BLUE-HAIRED GIRL>Meine Familie hat schon immer hier gelebt, aber ich wurde für ein paar Jahre auf ein Internat geschickt und kam erst vor etwa drei Jahren zurück, glaube ich?
+message_4:
+  faceset: MainCharacters_Faraway
+  faceindex: 14
+  text: \kelHey, \n[8]! CRIS ist meine Nachbarin von nebenan und sie ist wirklich cool!\! Sie ist die schnellste Schwimmerin der Schule!
+message_5:
+  faceset: MainCharacters_Faraway
+  faceindex: 14
+  text: \kel\sinv[1]Wenn sie im Wasser ist, vergleichen die Leute sie mit einer Meerjungfrau...\! oder einem Hai...\! oder sogar einem Torpedo!\sinv[0]
+message_6:
+  text: \n<BLUE-HAIRED GIRL>Oh, KEL... An Komplimenten mangelt es dir nie, haha...
+message_7:
+  text: \Willst du dieses Jahr nicht für das Junior Uni-Basketballteam antreten? Ich bin mir sicher, dass du ein Volltreffer wirst... Hehe...
+message_8:
+  faceset: MainCharacters_Faraway
+  faceindex: 14
+  text: \kelNun, ich werde es versuchen!\! Ich habe ab und zu mit Fremden im Park gespielt!\! Ich glaube, ich werde besser, aber es ist ein bisschen schwer zu sagen...\! Heh...
+message_9:
+  faceset: MainCharacters_Faraway
+  faceindex: 15
+  text: \kelAber wenn ich Basketball so viel trainieren würde wie du Schwimmen, hätte ich wahrscheinlich eine bessere Chance...
+message_10:
+  text: \n<BLUE-HAIRED GIRL>Oh, ich bin nicht so fleißig...\! Es fühlt sich für mich wie Spaß an, ehrlich!\! Und außerdem...\! auch wenn ich es liebe, in Pools zu schwimmen, liebe ich das Schwimmen im Meer noch mehr!
+message_11:
+  text: <br>Ich liebe alles am Meer...<br>den Strand...<br>den Klang der Wellen...<br>sogar den Geruch von Seetang...<br>Ich liebe alles am Meer <br>Das Geräusch der Wellen...<br>Sogar den Geruch von Seetang...<br>Ah...\! Hehe...\! Sorry, ich muss ein wenig besessen klingen.
+message_12:
+  faceset: MainCharacters_Faraway
+  faceindex: 17
+  text: \kelDas ist total in Ordnung!!! <br>Es ist gut, für etwas leidenschaftlich zu sein, nicht wahr?
+message_13:
+  text: \n<BLUE-HAIRED GIRL>Hehe...\! Ich schätze...\! Eigentlich hat das alles angefangen, weil ich auf einer Insel im Internat war und meine Zeit dort wirklich genossen habe!
+message_14:
+  text: \n<BLUE-HAIRED GIRL>Das Meer erinnert mich an die Freunde, die ich dort gefunden habe...<br>Ich hoffe, dass ich sie vielleicht eines Tages wiedersehen kann.
+message_15:
+  text: \n<BLUE-HAIRED GIRL>Aber...\! Ich werde wohl vorerst nur \c[4]SEASHELLS\c[0] und so sammeln.
+message_16:
+  faceset: MainCharacters_Faraway
+  faceindex: 17
+  text: \kel Weißt du... diese Geschichte hat mich irgendwie an das hier erinnert, aber...<br>\n[8] zieht tatsächlich sehr bald von hier weg!
+message_17:
+  faceset: MainCharacters_Faraway
+  faceindex: 13
+  text: \kelVielleicht kannst du ihm ein paar Tipps geben, wie er mit dem Wegzug an einen neuen Ort umgehen kann!
+message_18:
+  text: \n<BLUE-HAIRED GIRL>Oh, \n[8] bewegt sich?\! Hmmm...\! Nun, von meinen Freunden weg zu sein, war am Anfang ziemlich hart...\! aber Veränderung ist einfach eine Tatsache des Lebens!
+message_19:
+  text: \n<BLUE-HAIRED GIRL>Es sind die Erinnerungen, die wir mit ihnen machen, die wir wertschätzen sollten.
+message_20:
+  text: \n<BLUE-HAIRED GIRL>Wisst ihr was...\! Ich habe gerade etwas beschlossen.<br>\!Wenn du irgendwelche \c[4]SEASHELLS\c[0] siehst, kannst du sie zu mir bringen?
+message_21:
+  text: \n<BLUE-HAIRED GIRL>Sie sind hier in der Gegend schwer zu finden, aber ich sorge dafür, dass es sich lohnt!
+message_22:
+  text: \n<BLUE-HAIRED GIRL>Oh, hey! Du hast ein \c[4]SEASHELL\c[0] gefunden!
+message_23:
+  text: Du hast BLUE-HAIRED GIRL einen \c[4]SEASHELL\c[0] gegeben.
+message_24:
+  text: \n<BLUE-HAIRED GIRL>Wow, das ist so ein süßer...\! Hehe... Danke dir!
+message_25:
+  text: Das BLAUHAARIGE MÄDCHEN fummelt an etwas in ihren Händen herum.
+message_26:
+  text: \n<BLUE-HAIRED GIRL>\com[2]Hey! Nicht gucken!
+message_27:
+  text: \n<BLUE-HAIRED GIRL>\com[2]Und... da!\! Es ist endlich geschafft!
+message_28:
+  text: \n<BLUE-HAIRED GIRL>Danke, dass du all diese süßen \c[4]SEASHELLS\c[0] für mich gesammelt hast!\!<br>Hier ist etwas, das ich für dich gemacht habe.
+message_29:
+  text: \n<BLUE-HAIRED GIRL>Meine Freunde haben einen für mich gemacht, als ich das Internat auf der Insel verlassen habe...\! also dachte ich, ich könnte dieses Gefühl mit jemand anderem teilen!
+message_30:
+  text: Du hast ein \c[13]SEASHELL NECKLACE\c[0].
+message_31:
+  text: \n<BLUE-HAIRED GIRL>Ich hoffe, dass der Anblick dich an deine Zeit hier erinnert!\!<br>Viel Glück mit allem! Ich bin mir sicher, dass es dir gut gehen wird!
+message_107:
+  text: \n<BLUE-HAIRED GIRL>Ich hoffe, dass der Anblick dieses \c[13]SEASHELL NECKLACE\c[0] dich an deine Zeit hier erinnert!\! Viel Glück mit allem! Ich bin mir sicher, dass es dir gut gehen wird!
+message_100:
+  text: Du hast einen \c[4]SEASHELL\c[0] gefunden!
+message_105:
+  text: \n<BLUE-HAIRED GIRL>Hallo KEL und \n[8]!\! Wenn du irgendwelche \c[4]SEASHELLS\c[0] siehst, kannst du sie zu mir bringen?
+message_106:
+  text: \n<BLUE-HAIRED GIRL>Sie sind hier in der Gegend schwer zu finden, aber ich sorge dafür, dass es sich lohnt!

@@ -1,0 +1,204 @@
+### Translation: Finished
+### Editing: Finished
+
+### Translated by: ~ฅ^•ﻌ•^ฅ~#2706 (Mewo)
+# Corrections by: Lugitaro 🐉#0893
+
+# -----------------------------------------------
+# - THE WHITE DOOR
+# -----------------------------------------------
+message_0:
+    text: "Eine weiße Tür wirft einen schwachen Schatten.\\!<br>Was würdest du gerne tun?"
+message_1:
+    text: "DIE TÜR ÖFFNEN"
+message_2:
+    text: "NICHTS TUN"
+message_3:
+    text: "Du starrst auf die Tür."
+
+# -----------------------------------------------
+# - THE CAT
+# -----------------------------------------------
+message_4:
+    text: "\\n<MEWO>Miau?\\! (Wartest du darauf, dass etwas passiert?)"
+
+message_404:
+    text: "\\n<MEWO>Miau?\\! (Hier gibt es nicht viel zu tun, oder?)"
+
+message_405:
+    text: "\\n<MEWO>Miau?\\! (Oder etwa doch?)"
+
+message_406:
+    text: "\\n<MEWO>Miau?\\! (Suchst du nach einem Ausweg?)"
+
+message_407:
+    text: "\\n<MEWO>Miau...\\! (Es gibt immer einen...\\| aber...)"
+
+message_408:
+    text: "\\n<MEWO>Miau?\\! (Wartest du auf etwas?)"
+
+message_409:
+    text: "\\n<MEWO>Miau?\\! (Wann kommt Mama zurück?)"
+
+
+# -----------------------------------------------
+# - THE LAPTOP
+# -----------------------------------------------
+message_5:
+    text: "Du fährst deinen Laptop hoch."
+message_6:
+    text: "Was würdest du gerne tun?"
+message_7:
+    text: "DIE TASTATUR ANSCHAUEN"
+message_8:
+    text: "DEN BILDSCHIRM ANSTARREN"
+message_40:
+    text: "DEIN TAGEBUCH ÖFFNEN"
+message_9:
+    text: "AUSLOGGEN"
+message_10:
+    text: "Du starrst auf den Bildschirm."
+message_11:
+    text: "Die Hitze des Laptops wärmt deinen Schoß.\\!\\lb Es fühlt sich gut an."
+message_12:
+    text: "Du kannst den Laptop nicht von dieser Seite verwenden."
+
+# -----------------------------------------------
+# - THE SKETCHBOOK
+# -----------------------------------------------
+message_13:
+    text: "Dein Skizzenbuch.\\!\\lb Reinschauen?"
+message_14:
+    text: "JA"
+message_15:
+    text: "NEIN"
+
+# -----------------------------------------------
+# - THE TISSUE BOX
+# -----------------------------------------------
+message_16:
+    text: "Eine Taschentuchbox, um deine Sorgen wegzuwischen."
+
+# -----------------------------------------------
+# - THE LIGHTBULB
+# -----------------------------------------------
+message_17:
+    text: "Eine Glühbirne hängt von der Decke, wo auch immer sie ist.\\!\\lb<br>In die Glühbirne schauen?"
+message_18:
+    text: "Sie ist innen pechschwarz.\\! Du kannst gar nichts erkennen."
+
+# -----------------------------------------------
+# - THE KNIFE
+# -----------------------------------------------
+message_19:
+    text: "Etwas ist in der Nähe runtergefallen."
+message_20:
+    text: "Du findest ein \\v[49].\\!\\lb <br>Du kannst dein Spiegelbild klar in der Klinge erkennen."
+
+# -----------------------------------------------
+# - LIGHTBULB BREAK
+# -----------------------------------------------
+message_30:
+    text: "Sie ist innen pechschwarz.\\! Du kannst gar nichts erkennen."
+
+# -----------------------------------------------
+# - MISCELLANOUS
+# -----------------------------------------------
+message_21:
+    text: "Du kannst nicht ohne eine Waffe rausgehen."
+
+message_31:
+    text: "Du kriegst ein VERSCHWOMMENES FOTO."
+
+message_32:
+    text: Du kriegst ein GLÄNZENDES MESSER.
+
+# -----------------------------------------------
+#           "WHITE SPACE" (MAP 388)
+# -----------------------------------------------
+
+
+
+# -----------------------------------------------
+# - THE WHITE DOOR
+# -----------------------------------------------
+message_100:
+    text: "Eine weiße Tür wirft einen schwachen Schatten.\\!<br>Was würdest du gerne tun?"
+message_101:
+    text: "DIE TÜR ÖFFNEN"
+message_102:
+    text: "DIE TÜR ANSTARREN"
+message_103:
+    text: "Du starrst auf die Tür."
+
+# -----------------------------------------------
+# - THE CAT
+# -----------------------------------------------
+message_104:
+    text: \n<CAT>Miau?
+
+# -----------------------------------------------
+# - THE LAPTOP
+# -----------------------------------------------
+message_105:
+    text: "Ist bloß ein Rauschen."
+message_106:
+    text: "Was würdest du gerne tun?"
+message_107:
+    text: "DIE TASTATUR ANSCHAUEN"
+message_108:
+    text: "DEN BILDSCHIRM ANSTARREN"
+message_109:
+    text: "AUSLOGGEN"
+message_110:
+    text: "Du starrst auf den Bildschirm."
+# message_111:
+#     text: "Die Hitze des Laptops wärmt deinen Schoß.\\!\\lb Es fühlt sich gut an."
+message_112:
+    text: "Du kannst den Laptop nicht von dieser Seite verwenden."
+
+# -----------------------------------------------
+# - THE SKETCHBOOK
+# -----------------------------------------------
+message_113:
+    text: "Ein Skizzenbuch.\\!\\lb Reinschauen?"
+message_114:
+    text: "JA"
+message_115:
+    text: "NEIN"
+
+# -----------------------------------------------
+# - THE TISSUE BOX
+# -----------------------------------------------
+message_116:
+    text: "Eine Taschentuchbox."
+
+# -----------------------------------------------
+# - THE LIGHTBULB
+# -----------------------------------------------
+message_117:
+    text: "Eine Glühbirne hängt von der Decke, wo auch immer sie ist.\\!\\lb<br>In die Glühbirne schauen?"
+message_118:
+    text: "Sie ist innen pechschwarz.\\! Du kannst gar nichts erkennen."
+
+# -----------------------------------------------
+# - OMORI
+# -----------------------------------------------
+message_120:
+    faceset: 01_OMORI_BATTLE
+    faceindex: 0
+    text: \n<OMORI>...
+
+message_121:
+    text: "Eine Glühbirne hängt von der Decke.\\!\\lb<br>Möchtest du sie zerstören?"
+
+message_125:
+    text: Du erlernst \c[1]ROTE HÄNDE\c[0].
+
+message_126:
+    text: Du findest eine Karte.
+
+#BLACK SPACE Door
+
+message_200:
+    text: "Eine schwarze Tür wirft einen tiefen Schatten.\\!<br>Was würdest du gerne tun?"

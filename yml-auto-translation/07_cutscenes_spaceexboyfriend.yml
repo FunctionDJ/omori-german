@@ -1,0 +1,138 @@
+message_0:
+  text: Nun, ich werde es sein! Ihr Kinder habt es wirklich geschafft!\! Es ist ein bisschen dreckig, aber das ist unser fehlendes \c[4]SPECIAL MIXTAPE\c[0] auf jeden Fall!\!<br>Vielen Dank, mein Junge.\spg
+message_1:
+  text: Damit können wir endlich SPACE BOYFRIEND aufwecken!\spg
+message_2:
+  text: KEL griff in Ihre TASCHE<br>und holte das \c[4]SPECIAL MIXTAPE\c[0] heraus.
+message_3:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 4
+  text: Eigentlich, was das angeht...\! Wir haben vielleicht ein paar schlechte Nachrichten.\!<br>Wir haben ein Gerücht gehört, dass SPACE BOYFRIEND und SWEETHEART...\! Nun...\! Dass sie sich getrennt haben.\aub
+message_4:
+  text: \Com[2]W-Was? Haben sie es wirklich getan?\!<br>Diesmal wirklich?\!<br>Oh nein...\! Aber das würde bedeuten...\spg
+message_5:
+  text: Dass es keinen Sinn mehr hat, ihm das \c[4]SPECIAL MIXTAPE\c[0] vorzuspielen...\! Alle Hoffnung...\! ist verloren.\spg
+message_6:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 18
+  text: \Com[2]Hey, SPACE BOYFRIEND! Wir haben dein \c[4]SPECIAL MIXTAPE\c[0] zurück! \kel
+message_7:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 17
+  text: ...\kel
+message_8:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 26
+  text: Hmpf... Du kannst dich wenigstens bei uns bedanken.\kel
+message_9:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 4
+  text: Oh, sei nicht so niedergeschlagen, SPACE PIRATE GUY! Es ist nur ein Gerücht...<br>und selbst wenn es wahr ist, ist es nicht das Ende der Welt.<br>
+message_10:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 1
+  text: Menschen kommen immer wieder über Trennungen hinweg!\! <br>Ich bin mir sicher, dass SPACE BOYFRIEND bald wieder auf den Beinen sein wird.<br>Er braucht nur etwas Zeit, um sich neu zu orientieren.<br>
+message_11:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 19
+  text: Oh, ich weiß! Ich werde dieses \c[4]SPECIAL MIXTAPE\c[0] auf seine Boombox schmettern.\!<br> Da muss er aufwachen!\kel
+message_12:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 40
+  text: In diesem Fall sollten wir dieses \c[4]SPECIAL MIXTAPE\c[0] vielleicht doch loswerden Das Anhören der Songs könnte viel zu emotional für ihn sein.\her
+message_13:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 36
+  text: Gib es her, OMORI. Ich werde es sicher aufbewahren.\her
+message_14:
+  text: HERO hat in deine TASCHE gegriffen.
+message_15:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 40
+  text: Hm? Wo ist es?
+message_16:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 46
+  text: \{KEL!! WAS TUST DU?!?}
+message_17:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 46
+  text: \Com[2]\quake[1]\{NOOOO\{OOOO\{OOOO\{OOOOOOOOO!!!\SINV[0]\her
+message_18:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 18
+  text: \SINV[1]\{WAKEY-WAKEY, SPACE BOYFRIEND!!!\kel\}\SINV[0]
+message_19:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 47
+  text: Oh-oh...\! Ich habe ein schlechtes Gefühl bei dieser Sache...\her
+message_20:
+  text: \Com[2]\quake[1]What...\| \Com[2]is...\| \Com[2]that...\sbf\quake[0]
+message_21:
+  text: \Com[2]\quake[1]\{\{INFERNAL...\sbf\quake[0]
+message_22:
+  text: \Com[2]\quake[1]\{\{\{RACKET!?!?\sbf\quake[0]
+message_23:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 10
+  text: Verflixt, KEL! Schau, was du angerichtet hast!\aub
+message_24:
+  text: \Com[2]\{\quake[1]FWAHAHA\{HAHA\{HAHA!!\sbf\sinv[0]
+message_25:
+  text: \Com[2]\quake[1]\{FEAR ME FOR I HAVE AWAKENED!!!\sbf\quake[0]
+message_26:
+  text: ...\! Hmpf...\! <br>Eine Sekunde.\sbf
+message_27:
+  text: Hmhmhmhm...\|<br>\Com[2]\{\quake[1]FWAHAHAH\{AHAHAHA!!!\sbf\sinv[0]
+message_28:
+  text: Viel besser!\! Also, wo war ich...?\! Ah, ja!\sbf
+message_29:
+  text: \Com[2]Törichte Kinder!\!<br>Ich muss dir danken, dass du mich aus diesem erbärmlichen Zustand herausgeholt hast.\!<br>Ich wurde müde, im Bett zu liegen und so zu tun, als wäre ich krank.\sbf
+message_30:
+  text: Wie ich immer sage...\! <br>\{\quake[1]FEELINGS ARE FOR LOSERS!!!\sbf\}
+message_31:
+  text: Dieses Frauenzimmer, SWEETHEART...<br>Sie wird dafür bezahlen, dass sie mich verlassen hat!<br>
+message_32:
+  text: Ich habe alles für sie getan! Ich habe alles für sie gegeben!<br>\{Alles! HÖRST DU MICH!?!?<br>}
+message_33:
+  text: Dieser undankbare, kleine...\! Aughhhhhh... \sbf
+message_34:
+  text: \quake[1]AAAAAU\Com[2]\{UUUGGGGG\Com[2]\{GGGGGHHHHH\Com[2]\{HHHHH!!!\sbf\quake[0]
+message_35:
+  text: \quake[1]\{JUST FORGET IT!!\! VERGESSEN SIE ALLES!!!\sbf\quake[0]
+message_37:
+  text: Ich werde SWEETHEART finden...\sbf
+message_38:
+  text: \UND ICH WERDE SIE ZAHLEN LASSEN!!!
+message_39:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 10
+  text: Sorry, aber das können wir nicht zulassen, SPACE BOYFRIEND...\!<br>Oder sollte ich sagen...\aub
+message_40:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 10
+  text: \{\{\Com[2]SPACE EX-BOYFRIEND!!\aub
+message_41:
+  text: Interessant.\! Du willst mich herausfordern?\!<br>{DO YOU EVEN KNOW WHO I AM!?\sxbf
+message_42:
+  text: \{I AM CAPTAIN OF THE SPACE PIRATES!\sxbf
+message_43:
+  text: Ich kontrolliere alle Planeten im Sonnensystem und habe die Fähigkeit, nach Belieben durch den Weltraum zu fliegen!\sxbf
+message_44:
+  text: \Com[2]Die Macht des gesamten Universums steht mir zur Verfügung!\sxbf
+message_45:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 30
+  text: Blah, blah, blah!!! Redet so viel ihr wollt... Wir haben keine Angst vor dir!\kel
+message_46:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 43
+  text: Wenn du vorhast, herumzugehen und Ärger zu machen,<br>musst du erst an uns vorbei!
+message_47:
+  text: ...\sxbf
+message_48:
+  text: Hmpf...\! Wenn du immer noch darauf bestehst, mich aufzuhalten...<br>Ich fürchte, wir müssen das auf die harte Tour regeln.\sxbf
+message_49:
+  text: \{\quake[1]I'LL TAKE ALL OF YOU ON!!!\quake[0]\sxbf
+message_50:
+  text: \FIGHT ME, EARTHLY SCUM!!!

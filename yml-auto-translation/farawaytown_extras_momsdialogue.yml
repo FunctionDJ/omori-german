@@ -1,0 +1,70 @@
+message_0:
+  text: \"Hey \n[8], hier ist MOMMY.\! Ich bin immer noch in der Stadt und richte alles für unser neues Zuhause ein Hast du schon fertig gepackt?\"\n<MOM'S VOICEMAIL>
+message_1:
+  text: \"Die Umzugsleute werden in ein paar Tagen bei uns sein, also habe ich dir eine Liste mit Dingen hinterlassen, die du erledigen musst, bevor sie ankommen.\"\n<MOM'S VOICEMAIL>
+message_2:
+  text: \"Also, sorry!\! MOMMY hat Mist gebaut!\"\n<MOM'S VOICEMAIL>
+message_3:
+  text: \"Ich habe vergessen, dem Elektrizitätswerk zu sagen, dass wir noch ein paar Tage brauchen, bevor wir umziehen können, also könnten die Lichter irgendwann heute Abend ausfallen."\n<MOM'S VOICEMAIL>
+message_4:
+  text: \"Wie auch immer...\! Ich weiß, dass der Umzug an einen neuen Ort im Moment etwas nervenaufreibend sein kann, aber ich denke, dass ein Tapetenwechsel für uns beide positiv sein wird!\"\n<MOM'S VOICEMAIL>
+message_5:
+  text: \"Ich weiß, dass du schon eine Weile mit niemandem mehr gesprochen hast, aber vielleicht möchtest du dich von deinen alten Freunden verabschieden, bevor wir gehen."\n<MOM'S VOICEMAIL>
+message_6:
+  text: \"KEL hat wirklich versucht, dich zu erreichen, seit wir unser Haus zum Verkauf angeboten haben.\! Er hat uns in den letzten Monaten jede Woche angerufen!\"\n<MOM'S VOICEMAIL>
+message_7:
+  text: \"Er scheint ein wenig einsam zu sein...\! Vielleicht solltest du ihm einen Besuch abstatten.\!<br>Ok, das war's erst mal!\! MOMMY hat dich lieb!\! Bye, Schatz!\"\ \quake[1]\}Bzzt...\quake[0]\n<MOM'S VOICEMAIL>
+message_8:
+  text: Du bist hungrig.
+message_9:
+  text: Du fühlst dich plötzlich sehr ANGST.
+message_10:
+  text: Du schaust in den Kühlschrank...\! und findest \c[4]KALTES STEAK\c[0].\! Nimmst du es?
+message_11:
+  text: Du hast \c[4]KALTES STEAK\c[0].\!<br>Du solltest es wahrscheinlich aufwärmen, bevor du es isst.
+message_12:
+  text: Du stellst das \c[4]COLD STEAK\c[0] in die Mikrowelle.
+message_13:
+  text: Du hebst das \c[13]STEAKMESSER\c[0] auf.
+message_14:
+  text: Das \c[4]MICROWAVED STEAK\c[0] ist fertig.
+message_15:
+  text: Ein sehr, sehr bequemes Bett.\!<br>Willst du schlafen gehen?
+message_20:
+  text: Auf dem Spiegel befindet sich ein Klebezettel.
+message_21:
+  text: An der Wand befindet sich ein Klebezettel.
+message_22:
+  text: \"Hallo, \n[8]! Dies ist eine Notiz von MOMMY.\"\n<MOM'S STICKY NOTE>
+message_23:
+  text: \"Denk daran, dir jeden Tag die Zähne zu putzen!"\n<MOM'S STICKY NOTE>
+message_24:
+  text: \"Wenn du das Haus verlässt, denke daran, in beide Richtungen zu schauen, bevor du die Straße überquerst!\"\n<MOM'S STICKY NOTE>
+message_25:
+  text: \"Ich habe unten etwas Essen für dich im Kühlschrank gelassen.<br> Es ist \c[4]STEAK\c[0]... dein Lieblingsessen!\"\n<MOM'S STICKY NOTE>
+message_29:
+  text: \"Ich liebe dich, XOXO.\"\n<MOM'S STICKY NOTE>
+message_50:
+  text: \"Hey \n[8], hier ist MOMMY.\!<br>Wie geht es dir?\ Isst du gut?\"\n<MOM'S VOICEMAIL>
+message_51:
+  text: \"Ich hatte gehofft, dass ich es heute noch einmal zu dir schaffe, aber es ist der letzte Tag eines großen Möbelverkaufs und ich kann einem guten Schnäppchen einfach nicht widerstehen!\"<br>"Du kannst doch ein paar Tage auf dich aufpassen, oder?<br>Du bist doch jetzt ein großer Junge!\"\n<MOM'S VOICEMAIL>
+message_52:
+  text: \"Vergiss nicht, deine Aufgaben zu erledigen, bevor ich zurückkomme.\! Ich habe eine Liste auf dem Tisch neben deiner Tür hinterlassen.\! Okay, das war's fürs Erste!\! MOMMY hat dich lieb!\! Tschüss, Schatz!\"\"\"Beben[1] \}Bzzt...\n<MOM'S VOICEMAIL>
+message_55:
+  text: \"Hey \n[8], hier ist MOMMY.\! Geht es dir gut? \! Du hast meine Anrufe nicht beantwortet oder auf meine Sprachnachrichten geantwortet!\! Wenn du mich weiterhin ignorierst, fange ich an, mir wieder Sorgen zu machen!\"\n<MOM'S VOICEMAIL>
+message_56:
+  text: \"Ich hoffe, du teilst dir deine Hausarbeiten ein...\! Ich glaube nicht, dass sogar ich alles an einem Tag schaffen könnte!\"\n<MOM'S VOICEMAIL>
+message_57:
+  text: \"Hast du am Ende KEL besucht?\! Wenn nicht, ist es in Ordnung... Ich verstehe das.\! Nimm die Dinge einfach in deinem eigenen Tempo...\"\n<MOM'S VOICEMAIL>
+message_58:
+  text: \"Übrigens, kannst du unten im Schrank nachsehen, ob es etwas gibt, das du behalten willst? Wir werden wahrscheinlich einfach wegwerfen, was du nicht mehr willst.\"\n<MOM'S VOICEMAIL>
+message_59:
+  text: \"Es sind nur noch zwei Tage, bis ich dich abholen komme.\!<br>Ok, das war's erst mal! MOMMY hat dich lieb!\! Bye, honey!\"\"\"\zzt...\zzt...\n<MOM'S VOICEMAIL>
+message_60:
+  text: \"Hey \n[8], hier ist MOMMY.\! Morgen ist der große Tag!\!<br>Die Umzugshelfer werden morgen früh als erstes hier sein.\! Ich habe ihnen die Schlüssel gegeben, also flipp nicht aus, wenn du sie siehst."\n<MOM'S VOICEMAIL>
+message_61:
+  text: \"Denk daran, deine Sachen heute fertig zu organisieren.\! Ich hole dich mit meinem Auto draußen ab Komm einfach raus, wenn du bereit bist.\"\n<MOM'S VOICEMAIL>
+message_62:
+  text: \"Okay, das war's erstmal!\ MOMMY liebt dich!\! Bye, honey!\"\!\"Beben[1] \}Bzzt...\beben[0]\n<MOM'S VOICEMAIL>
+message_66:
+  text: \"Hey \n[8], hier ist MOMMY.\! Ich warte draußen auf dich, also komm einfach raus, wenn du bereit bist.\! MOMMY hat dich lieb!\! Bye, honey!\"\"\"\zzt...\quake[0]\n<MOM'S VOICEMAIL>

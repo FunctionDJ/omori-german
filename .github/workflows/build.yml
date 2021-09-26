@@ -1,0 +1,40 @@
+name: build
+on: push
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: actions/setup-node@v2
+      - run: npm install
+
+      - name: Create tag
+        uses: anothrNick/github-tag-action@1.35.0
+        id: tag
+        env:
+          WITH_V: true
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          DEFAULT_BUMP: patch
+
+      - run: npm run build -- --git-tag ${{ steps.tag.outputs.tag }}
+
+      - name: Build changelog
+        id: changelog
+        uses: mikepenz/release-changelog-builder-action@v2.1.0
+        with:
+          failOnError: true
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      
+      - name: Rename artifact
+        run: mv "omori-german.zip" "omori-german-${{ steps.tag.outputs.tag }}.zip"
+
+      - name: Create release
+        uses: ncipollo/release-action@v1
+        with:
+          body: ${{ steps.changelog.outputs.changelog }}
+          tag: ${{ steps.tag.outputs.tag }}
+          artifacts: omori-german-${{ steps.tag.outputs.tag}}.zip
+          artifactErrorsFailBuild: true
+          name: OMORI German Translation ${{ steps.tag.outputs.tag }}
+          token: ${{ secrets.GITHUB_TOKEN }}

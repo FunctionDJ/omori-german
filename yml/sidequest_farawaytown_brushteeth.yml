@@ -1,0 +1,25 @@
+### Translation: Finished
+### Editing: Finished
+
+### Translated by: Lugitaro 🐉#0893
+### Checked by: ~ฅ^•ﻌ•^ฅ~#2706 (Mewo)
+
+# =========================================================================================
+# Sidequest: Brush Teeth 1, 2, 3
+# =========================================================================================
+
+message_1:
+      text: Willst du deine Zähne putzen?
+#[Yes / No]
+# [Yes]
+message_2:
+      text: Du hast deine Zähne geputzt.\!<br>Dein Atem ist jetzt minzig frisch.
+# [No]
+message_3:
+      text: Du hast deine Zähne nicht geputzt.
+
+message_4:
+      text: Du hast deine Zähne heute geputzt.
+
+message_5:
+      text: Du hast deine Zähne heute nicht geputzt.

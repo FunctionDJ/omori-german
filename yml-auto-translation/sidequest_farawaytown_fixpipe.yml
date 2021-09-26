@@ -1,0 +1,132 @@
+message_1:
+  text: \n<GRUFF GUY>Hey, Fremder! Wie war dein Tag?<br>Mein Tag ist einfach großartig gelaufen!
+message_2:
+  text: \n<GRUFF GUY>Willst du wissen warum?\! Weil heute der Tag ist, an dem ich endlich das Leck in meinem Haus reparieren werde!
+message_3:
+  text: \n<GRUFF GUY>Meine Probleme begannen vor ein paar Wochen...\! Ich habe ein wirklich hartnäckiges Leck in der Ecke meines Wohnzimmers gefunden...\!<br>Wie es dahin gekommen ist, weiß ich nicht...
+message_4:
+  text: \n<GRUFF GUY>Zuerst war es nicht sehr auffällig, aber das Leck wurde langsam jeden Tag schlimmer und schlimmer.
+message_5:
+  text: \n<GRUFF GUY>Um ehrlich zu sein, habe ich mich schon daran gewöhnt, das Geräusch von tropfendem Wasser zu hören und das Gefühl von einem feuchten Teppich!
+message_6:
+  text: \n<GRUFF GUY>Aber weißt du was?\! Heute ist der Tag, an dem sich alles ändert...\! Ja!\! Ich bin endlich hier bei \c[11]FIX-IT!\c[0]\! Meine Werkzeuge sind bereit...\!<br>und ich bin...\! Ich werde es reparieren!
+message_7:
+  text: \n<GRUFF GUY>Puh...\! Tut mir leid, dass ich so mit dir geschimpft habe.<br>Dieses Leck hat mich vielleicht in den Wahnsinn getrieben, ohne dass ich es wusste...
+message_8:
+  text: \n<GRUFF GUY>Mein Haus ist direkt neben der \c[11]KIRCHE\c[0] südwestlich von hier. \!<br>Wenn du vorbeikommen willst, um dieses bedeutsame Ereignis zu beobachten, sei bitte mein Gast!
+message_9:
+  text: \n<GRUFF GUY>Hey, Kinder!\! Ihr seid gerade rechtzeitig hier, um zu sehen, wie ich dieses Rohr ein für alle Mal repariere!\! Kommt rein, kommt rein!
+message_10:
+  text: \n<GRUFF GUY>Nur noch ein paar Anpassungen in letzter Minute und ich kann dieses Baby endlich zur Ruhe bringen...
+message_11:
+  text: \n<GRUFF GUY>\SINV[1]Ahhh...\! der süße Klang der Stille endlich...\SINV[0]
+message_12:
+  text: \n<GRUFF GUY>\sinv[1]Grummel, grummel...
+message_13:
+  text: \n<GRUFF GUY>Ratten...\! Ich denke, ich werde es morgen wieder versuchen...
+message_14:
+  text: \n<GRUFF GUY>\sinv[1]Grummel... Grummel...
+message_15:
+  text: \n<GRUFF GUY>Hey, Kinder... Wie war dein Tag?<br>Mein Tag war ganz okay...
+message_16:
+  text: \n<GRUFF GUY>Dieses hartnäckige Leck macht mir das Leben zur Hölle.\! Ich habe gestern Abend noch etwas daran herumgezupft, aber es ist nur noch schlimmer geworden!\! Vielleicht ist es an der Zeit, einen Profi zu rufen...
+message_17:
+  text: \n<GRUFF GUY>Urgh...\! Nein...\! Was sage ich da!?\! Mein Stolz lässt mich das nicht tun!\! Ich muss es selbst in Ordnung bringen!
+message_18:
+  text: \n<GRUFF GUY>\Com[2]Ich komme zurück und hole dich, du dummes Leck!
+message_19:
+  text: \n<GRUFF GUY>\Com[2]\quake[1]GYAAA\{AAAA\{AAAAAAA\{AAAAAAAAA!!!
+message_20:
+  text: \n<GRUFF GUY>Hey, ihr seid es wieder!<br>Ihr seid hier für moralische Unterstützung oder was?
+message_21:
+  text: \n<GRUFF GUY>Heh, heh...\! Ich weiß das wirklich zu schätzen.
+message_22:
+  text: \n<GRUFF GUY>Komm rein!\! Ich bin fast fertig mit der Reparatur dieses verdammten Lecks!
+message_23:
+  text: \n<GRUFF GUY>\Com[2]\SINV[2]GYAHA\{HAHA\{HAHA\{HAHA!!!\SINV[0]
+message_24:
+  text: \n<GRUFF GUY>Und gut, dass wir ihn los sind!
+message_26:
+  text: \n<GRUFF GUY>...
+message_25:
+  text: \n<GRUFF GUY>\quake[1]AAAAAA\{AAARR\{RRRGHH\{HHHHH}{HHHHH!!!\quake[0]
+message_30:
+  text: \n<GRUFF GUY>\sinv[1]Grummel... Grummel...
+message_31:
+  text: \n<GRUFF GUY>Seufz...
+message_32:
+  text: \n<GRUFF GUY>Hey, ihr Kinder seid es wieder...
+message_33:
+  text: \n<GRUFF GUY>Wie ist dein Tag gewesen?\! Mein Tag war furchtbar...
+message_34:
+  text: \n<GRUFF GUY>Raten Sie mal was?\! Das Rohr ist wieder gebrochen...
+message_35:
+  text: \n<GRUFF GUY>Und irgendwie...\! Ich habe einen irreversiblen Schaden an meinem Haus angerichtet...
+message_36:
+  text: \n<GRUFF GUY>Wie konnte ich wissen, dass das passieren würde?
+message_37:
+  text: \n<GRUFF GUY>Seufz...\! Ich bin so ein Versager...
+message_38:
+  text: \n<GRUFF GUY>\}Ich habe gerade...\! Sniff...\! Ich will sie einfach nur stolz machen...
+message_39:
+  text: \n<GRUFF GUY>...
+message_40:
+  text: \n<GRUFF GUY>\Com[2]Urf!\! Ich muss mich zusammenreißen!\!<br>Das ist nur eine mickrige Pfeife! Ich kann das durchstehen!
+message_41:
+  text: \n<GRUFF GUY>Ich habe meine neuen Werkzeuge bereit und ich werde es noch einmal versuchen!
+message_42:
+  text: \n<GRUFF GUY>Ich muss nur meinen Kopf hochhalten!<br>\Com[2]Ja! Ich kann das schaffen!
+message_43:
+  text: \n<GRUFF GUY>Ich komme dich holen, Leck...<br>Ich werde dich ein für alle Mal loswerden!
+message_44:
+  text: \n<GRUFF GUY>Huff...\! Huff...\! Huff...\! Huff...
+message_45:
+  text: \n<GRUFF GUY>H-Hey...\! Ihr seid es wieder...
+message_46:
+  text: \n<GRUFF GUY>Sind Sie alle gekommen, weil Sie sich Sorgen um mich gemacht haben?
+message_47:
+  text: \n<GRUFF GUY>Sniff...\! Das ist so rücksichtsvoll von dir...
+message_48:
+  text: \n<GRUFF GUY>Komm rein!\! Ich denke, dass ich es dieses Mal wirklich habe!\!<br>Ich kann es in meiner Seele spüren!
+message_50:
+  text: \n<GRUFF GUY>Es muss jetzt repariert werden!\! Es muss einfach!
+message_51:
+  faceset: MainCharacters_Faraway
+  faceindex: 0
+  text: \n<AUBREY>...\! Hier...\! Ich habe das...
+message_52:
+  text: \n<GRUFF GUY>Oh?
+message_53:
+  text: \n<GRUFF GUY>Ich kann es nicht glauben...\! Es ist repariert!\! Es ist wirklich repariert!\!<br>\Com[2]Ich bin so glücklich, ich könnte weinen!
+message_54:
+  text: \n<GRUFF GUY>Du bist erstaunlich!\! Mehr als erstaunlich!\\! Phänomenal sogar!\!<br>Wie kann ich mich jemals bei dir revanchieren!?
+message_55:
+  faceset: MainCharacters_Faraway
+  faceindex: 27
+  text: \n<AUBREY>Es ist...\! äh...\! Es ist nichts...\! Mach dir keine Gedanken darüber.
+message_56:
+  text: \n<GRUFF GUY>Sniff... <br>Danke, dass ihr in dieser schweren Zeit für mich da seid...
+message_64:
+  text: \n<GRUFF GUY>Im Gegenzug nimm bitte diesen \c[4]CD\c[0].\! Ich habe es in einem Loch in der Wand gefunden!
+message_57:
+  text: \n<GRUFF GUY>Du weißt, dass ich einen Sohn und eine Tochter habe, die genau in deinem Alter sind.<br>Sie heißen VANCE und KIM!
+message_58:
+  text: \n<GRUFF GUY>Ihre Mutter und ich haben uns getrennt, als KIM noch ein Baby war...
+message_59:
+  text: \n<GRUFF GUY>Ich sehe sie nicht so oft, wie ich es gerne hätte, also stelle ich sicher, dass ich sie mit \c[3]CANDY\c[0] verwöhne, wenn ich sie sehe! Heh heh...
+message_60:
+  faceset: MainCharacters_Faraway
+  faceindex: 0
+  text: \n<AUBREY>Oh, du bist der Vater von KIM und VANCE?
+message_61:
+  text: \n<GRUFF GUY>Ich bin sicher, und stolz darauf!\! Auch wenn sie immer in Schwierigkeiten geraten... wenigstens passen sie aufeinander auf!
+message_62:
+  faceset: MainCharacters_Faraway
+  faceindex: 1
+  text: \n<AUBREY>Haha...\! Ja...\! das ist gut...
+message_65:
+  text: \n<GRUFF GUY>Alles in allem, ich denke es ist an der Zeit, dass ich etwas tropffreie Ruhe und Entspannung genieße!
+message_66:
+  text: \n<GRUFF GUY>Danke noch mal, Leute.\! Du bist hier immer willkommen!
+message_67:
+  text: \n<GRUFF GUY>Ich und die Kinder gehen heute Abend auf die Einweihungsparty unserer Nachbarn!\! Man muss kostenloses Essen einfach lieben!

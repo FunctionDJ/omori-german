@@ -1,0 +1,87 @@
+### Translation: Finished
+### Editing: Finished
+
+### Translated by: Lugitaro 🐉#0893
+### Edited by: Haj#1217
+
+# =========================================================================================
+# Lost Son
+# ========================================================================================
+
+#Talk to Mr DUCKIE
+
+message_0:
+      text: \n<HERR ENTI>Entschuldigung für die Störung, aber habt ihr meinen Sohn irgendwo gesehen?\! Wir haben nicht weniger als eine Sekunde weg geschaut, und er ist schon wieder abgehauen!
+
+message_1:
+      text: \n<HERR ENTI>Könntet ihr für mich nach ihm Ausschau halten?\!<br>Ihr werdet ihn schon erkennen, wenn ihr ihn seht.\! Er sieht genau so aus wie ich! Haha!
+
+#Talk to ENTI JR
+
+message_2:
+      text: \n<ENTI JR>Die Sterne sind schon hübsch, oder?\!<br>Ich kann mich echt darin verlieren, so in den Himmel zu starren.
+
+message_3:
+      text: \n<ENTI JR>Auf meinem Planeten kann man dagegen fast keine Sterne sehen...
+
+message_4:
+      text: \n<ENTI JR>Wenn ich groß bin, will ich ein WELTRAUMKAPITÄN sein!\!<br>Dann kann ich diesen Ausblick die ganze Zeit haben!
+
+message_5:
+      text: \n<ENTI JR>Oh, Mist...\! Wie lange bin ich denn hier schon?
+
+message_6:
+      text: \n<ENTI JR>Mama und Papa machen sich wahrscheinlich richtig Sorgen um mich...\!<br>Ich gehe lieber schnell Heim!
+
+#ENTI JR walks off
+
+message_7:
+      text: \n<HERR ENTI>Hey, ihr seid es! Danke, dass ihr ENTI JR gefunden habt.
+
+message_8:
+      text: \n<HERR ENTI>Kannst du aufhören wegzulaufen, du kleiner Lump?<br>Wir sollen Urlaub machen!\!<br>Lass deinen alten Herrn mal etwas entspannen...
+
+message_9:
+      text: \n<ENTI JR>Okay...\! Tut mir leid, Papa...
+
+message_10:
+      text: \n<HERR ENTI>Danke, Reisende.\! Mein Sohn hat gesagt, dass er euch etwas als Zeichen unseres Dankes geben will.\! <br>Gib ihnen das Geschenk, ENTI!
+
+message_11:
+      text: \n<ENTI JR>Bitte schön!
+
+message_12:
+      text: Du erhältst einen \c[5]LÖWENZAHN\c[0].
+
+message_13:
+      text: \n<HERR ENTI>Das ist mein Junge!\! Wenn du nächstes Mal raus willst, dann sag uns ja zuerst Bescheid, okay?
+
+message_14:
+      text: \n<HERR ENTI>Du willst doch nicht, dass Mama sich wieder Sorgen macht, oder?
+
+message_15:
+      text: \n<ENTI JR>Nein...
+
+message_16:
+      text: \n<HERR ENTI>Toll! Dann können wir endlich etwas Zeit mit der ganzen Familie verbringen!\! Geh jetzt zu deiner Mama.
+
+message_21:
+      text: \n<HERR ENTI>Endlich mal Zeit für die ganze Familie!
+
+#ENTI JR walks to mom
+
+#QUEST complete
+
+#After-Quest Dialogue: Talk to FRAU ENTI or ENTI JR.
+
+message_17:
+      text: \n<ENTI JR>Mama, kann ich später wieder die Sterne anschauen?
+
+message_18:
+      text: \n<FRAU ENTI>Natürlich kannst du das, Schätzchen.\!<br>Dein Vater und ich möchten bestimmt auch mitkommen.
+
+message_19:
+      text: \n<ENTI JR>Juhu!
+
+message_20:
+      text: \n<FRAU ENTI>Junior kann einfach nicht stillsitzen.\! Immer will er nach draußen!

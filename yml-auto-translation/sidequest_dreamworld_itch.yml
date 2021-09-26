@@ -1,0 +1,18 @@
+message_1:
+  text: \n<SCOTT>\sinv[1]Howdy-ho, youngins'!\sinv[0]\!<br> Könntet ihr mir einen Gefallen tun?\!<br>Ich brauche dich, um ein Jucken für mich zu kratzen...
+message_2:
+  text: \n<SCOTT>Es ist auf meinem Hintern, also kann ich nicht wirklich dran kommen.\!<br>Ugh...\! Es bringt mich einfach absolut um!
+message_3:
+  text: Du hast SCOTTs Hintern gekratzt.
+message_4:
+  text: \n<SCOTT>\sinv[1]Ahhh...\! Viel besser...\sinv[0]
+message_5:
+  text: \n<SCOTT>Hey! Ihr müsst die Kinder sein, die meinen Juckreiz gekratzt haben.<br>Was für ein \sinv[1]riesiges Relief\sinv[0]...
+message_6:
+  text: \n<SCOTT>Hier, nimm das.\!<br>Wir haben eigentlich zu viele von diesen Dingern.\!<br>Ich bin mir sicher, dass es auf die eine oder andere Weise nützlich sein wird!
+message_7:
+  text: Du hast einen \c[13]HARD HAT\c[0].
+message_10:
+  text: \n<SCOTT>Bleibt sicher, Kinder!\! Ich kann euch wirklich nicht genug danken!
+message_8:
+  text: \n<SCOTT>Hey!\! Ihr seid die Kinder, die mein Jucken gekratzt haben!<br>Das war eine \sinv[1]riesige Erleichterung!\sinv[0]

@@ -1,0 +1,290 @@
+message_0:
+  faceset: MainCharacter_Basil_Dark
+  faceindex: 17
+  text: Ah...\! \n[8]...\! Du bist es nur...\bas
+message_1:
+  faceset: MainCharacter_Basil_Dark
+  faceindex: 17
+  text: Ich bin froh, dass du gekommen bist.\bas
+message_2:
+  faceset: MainCharacter_Basil_Dark
+  faceindex: 17
+  text: Es ist...\! Es ist so schön, dich zu sehen.\bas
+message_3:
+  faceset: MainCharacter_Basil_Dark
+  faceindex: 20
+  text: Schau dich um. \! Du kannst es jetzt sehen, nicht wahr?\bas
+message_4:
+  faceset: MainCharacter_Basil_Dark
+  faceindex: 20
+  text: Etwas...\! hinter dir.\bas
+message_5:
+  faceset: MainCharacter_Basil_Dark
+  faceindex: 20
+  text: Es kam an diesem Tag zu dir...\! Der Tag, an dem MARI starb.\bas
+message_6:
+  faceset: MainCharacter_Basil_Dark
+  faceindex: 19
+  text: Als MARI...\! Als MARI fiel...\bas
+message_7:
+  faceset: MainCharacter_Basil_Dark
+  faceindex: 17
+  text: Du...\! Du hättest es nicht geschafft.\bas
+message_8:
+  faceset: MainCharacter_Basil_Dark
+  faceindex: 17
+  text: Es war etwas hinter dir... nicht wahr?\bas
+message_9:
+  faceset: MainCharacter_Basil_Dark
+  faceindex: 17
+  text: Du bist ein guter Mensch, \n[8].\! Ich weiß, dass du ein guter Mensch bist!\bas
+message_10:
+  faceset: MainCharacter_Basil_Dark
+  faceindex: 20
+  text: Ein guter Mensch würde so etwas nicht tun...\bas
+message_11:
+  faceset: MainCharacter_Basil_Dark
+  faceindex: 17
+  text: Nach all dieser Zeit...\! bist du endlich zu mir zurückgekommen.\bas
+message_12:
+  faceset: MainCharacter_Basil_Dark
+  faceindex: 16
+  text: Aber...\! morgen...\! gehst du weg.\bas
+message_13:
+  faceset: MainCharacter_Basil_Dark
+  faceindex: 25
+  text: \Com[2]\fn<OMORI_GAME>\quake[1]H-WIE KANNST DU DAS TUN!?!?\bas
+message_14:
+  faceset: MainCharacter_Basil_Dark
+  faceindex: 24
+  text: \Com[2]\fn<OMORI_GAME>Das ist gemein, \n[8].\! \Com[2]Das ist so gemein!\bas
+message_15:
+  faceset: MainCharacter_Basil_Dark
+  faceindex: 21
+  text: Ah...\! Da ist jetzt überall etwas um uns herum.\bas
+message_16:
+  faceset: MainCharacter_Basil_Dark
+  faceindex: 20
+  text: Kannst du es sehen, \n[8]?\!<br>Es gibt keinen Ausweg aus der Sache, oder?
+message_17:
+  faceset: MainCharacter_Basil_Dark
+  faceindex: 21
+  text: Wo gehst du hin!? <br>\Com[2]Hör auf zu versuchen, mich zu verlassen!\bas
+message_18:
+  faceset: MainCharacter_Basil_Dark
+  faceindex: 25
+  text: \fn<OMORI_GAME>\Com[2]S-Stop it! \Com[2]Hör auf! \Com[2]Hör auf! \Com[2]Hör auf! \Com[2]Hör auf! \Com[2]Hör auf! \Com[2]Hör auf!\bas
+message_19:
+  faceset: MainCharacter_Basil_Dark
+  faceindex: 24
+  text: \fn<OMORI_GAME>Ich...will...nicht...allein...sein...nicht schon wieder.\! <br>Du...kannst...mich...nicht...wieder...verlassen...\bas
+message_20:
+  faceset: MainCharacter_Basil_Dark
+  faceindex: 17
+  text: \basNein...\! Du würdest mich nicht verlassen.\! Das sieht dir nicht ähnlich, \n[8]!
+message_21:
+  faceset: MainCharacter_Basil_Dark
+  faceindex: 19
+  text: \basEs ist wieder etwas hinter dir, nicht wahr?
+message_22:
+  faceset: MainCharacter_Basil_Dark
+  faceindex: 21
+  text: \basAh! Da ist es jetzt!\! Siehst du es?
+message_23:
+  faceset: MainCharacter_Basil_Dark
+  faceindex: 25
+  text: \bas\fn<OMORI_GAME>\Com[2]Bleib weg!\! \Com[2]Bleib weg von \n[8]!
+message_24:
+  faceset: MainCharacter_Basil_Dark
+  faceindex: 16
+  text: \bas...
+message_25:
+  faceset: MainCharacter_Basil_Dark
+  faceindex: 17
+  text: Ich werde dich beschützen, egal was passiert.<br>Du kannst dich auf mich verlassen!<br>
+message_26:
+  faceset: MainCharacter_Basil_Dark
+  faceindex: 19
+  text: Als etwas MARI getötet hat...<br>Als etwas alle meine Fotos ruiniert hat...<br>Bas
+message_27:
+  faceset: MainCharacter_Basil_Dark
+  faceindex: 20
+  text: Ich habe nichts gesagt...<br>Ich wollte nicht, dass die Leute denken, dass du es warst, <br>n[8].<br>
+message_28:
+  faceset: MainCharacter_Basil_Dark
+  faceindex: 25
+  text: \n[8]...\! \n[8] würde so etwas nicht...tun.\bas
+message_29:
+  faceset: MainCharacter_Basil_Dark
+  faceindex: 16
+  text: \bas...
+message_30:
+  faceset: MainCharacter_Basil_Dark
+  faceindex: 17
+  text: \basKeine Sorge, \n[8]...\! Ich werde dich wieder retten.
+message_31:
+  faceset: MainCharacter_Basil_Dark
+  faceindex: 25
+  text: \basIrgendetwas hinter dir...\! Ich werde es ein für alle Mal loswerden.
+message_32:
+  faceset: MainCharacter_Basil_Dark
+  faceindex: 17
+  text: \n[8]...\! Hab keine Angst.\bas
+message_33:
+  faceset: MainCharacter_Basil_Dark
+  faceindex: 19
+  text: Ich habe auch Angst, aber...\! das ist das Beste.\bas
+message_35:
+  faceset: MainCharacter_Basil_Dark
+  faceindex: 17
+  text: Alles wird gut werden...\bas
+message_36:
+  faceset: MainCharacter_Basil_Dark
+  faceindex: 24
+  text: \fn<OMORI_GAME>Alles...\bas
+message_37:
+  faceset: MainCharacter_Basil_Dark
+  faceindex: 25
+  text: \fn<OMORI_GAME>...wird...okay...\bas
+message_50:
+  faceset: MainCharacter_Basil
+  faceindex: 31
+  text: \basHi, \n[8].
+message_51:
+  faceset: MainCharacter_Basil
+  faceindex: 30
+  text: \basDu hast deinen Weg zurück nach Hause gefunden.
+message_52:
+  faceset: MainCharacter_Basil
+  faceindex: 28
+  text: \basIch weiß nicht, ob ich das jemals richtig gesagt habe, aber...\! Es tut mir leid, dass ich dir so viel Ärger bereitet habe.
+message_53:
+  faceset: MainCharacter_Basil
+  faceindex: 17
+  text: \bas Als ich dir mein \c[4]FOTOALBUM\c[0]...<br> gab, wollte ich wirklich, dass du es bekommst.
+message_54:
+  faceset: MainCharacter_Basil
+  faceindex: 16
+  text: \basAber irgendwie...\! wann immer ich versuche zu helfen...\!<br>Ich ende immer damit, dich stattdessen zu belasten.
+message_55:
+  faceset: MainCharacter_Basil
+  faceindex: 27
+  text: \basBereits damals...
+message_56:
+  faceset: MainCharacter_Basil
+  faceindex: 26
+  text: \bas...
+message_57:
+  faceset: MainCharacter_Basil
+  faceindex: 16
+  text: \basAll der Schmerz, den wir gefühlt haben...\! Die Schuld in unseren Herzen...
+message_58:
+  faceset: MainCharacter_Basil
+  faceindex: 17
+  text: \basAuch wenn du versuchst, alles in Flaschen abzufüllen...\! es kommt alles irgendwie raus.
+message_59:
+  faceset: MainCharacter_Basil
+  faceindex: 28
+  text: \basIch möchte sagen, dass alles gut werden wird.<br>Dass wir keine andere Wahl haben, als weiterzumachen.
+message_60:
+  faceset: MainCharacter_Basil
+  faceindex: 31
+  text: \basAber...\! das liegt an dir.
+message_61:
+  faceset: MainCharacter_Basil
+  faceindex: 30
+  text: \basAUBREY, KEL und HERO sind gute Freunde.\!<br> Du musst darauf vertrauen, dass sie uns verzeihen.
+message_62:
+  faceset: MainCharacter_Basil
+  faceindex: 16
+  text: \bas Es ist schwer, das wirklich zu glauben...\! aber...
+message_63:
+  faceset: MainCharacter_Basil
+  faceindex: 30
+  text: \basDie Fotos in unserem Album...\! Sie sind nicht nur Fotos.\!<br>Sie sind echte Erinnerungen.
+message_71:
+  faceset: MainCharacter_Basil
+  faceindex: 29
+  text: \basUnsere Erinnerungen!\! Das ist der Beweis für unsere Freundschaft!
+message_64:
+  faceset: MainCharacter_Basil
+  faceindex: 30
+  text: \basHalte diese Bilder nah bei dir...<br>und erinnere dich daran, was du schützen willst.
+message_65:
+  faceset: MainCharacter_Basil
+  faceindex: 31
+  text: \basHaha...\! Es tut mir leid...\! Es sieht so aus, als würde ich dich wieder belasten.
+message_67:
+  faceset: MainCharacter_Basil
+  faceindex: 28
+  text: \basDer Weg in deine Zukunft wird sich bald öffnen, aber nur du kannst entscheiden, was du am Ende tun willst.
+message_68:
+  faceset: MainCharacter_Basil
+  faceindex: 30
+  text: \bas Es ist nicht viel, aber...\! Ich werde dich anfeuern.
+message_69:
+  faceset: MainCharacter_Basil
+  faceindex: 31
+  text: \bas\n[8]...
+message_70:
+  faceset: MainCharacter_Basil
+  faceindex: 31
+  text: \basLass uns zusammen ein paar neue Erinnerungen schaffen, okay?
+message_80:
+  text: \n[8]...\! Es ist fast soweit.\mar
+message_81:
+  text: Du hast in den letzten Tagen eine Menge durchgemacht.<br>Du musst müde sein...<br>
+message_82:
+  text: Wir alle machen Fehler...\!<br>Du läufst schon lange vor diesem weg
+message_83:
+  text: Es ist manchmal schwer, zu ihnen zu stehen,<br>aber du wirst dir verzeihen, nicht wahr?
+message_90:
+  text: Du schaffst das, \n[8].\!<br> Du hast wirklich hart gearbeitet, um an diesen Punkt zu kommen...\!<br> Jetzt gibt es nur noch eine Sache zu tun. \mar
+message_91:
+  text: Wisse, dass ich immer über dich wachen werde, okay?<br>Solange du dich an mich erinnerst, werde ich hier sein...<br>
+message_140:
+  text: Hallo, mein Schatz! Wir haben alles gepackt und sind startklar!<br>Wir warten draußen im Auto.<br>Komm einfach raus, wenn du bereit bist!<br><MOM>
+message_150:
+  text: Willst du in BASILs Zimmer schauen?
+message_161:
+  faceset: MainCharacter_Basil_dark
+  faceindex: 46
+  text: Bitte... \n[8].\! Du solltest das nicht sehen.\her
+message_163:
+  faceset: MainCharacter_Basil_dark
+  faceindex: 46
+  text: Du sollst heute ausziehen...<br>Auf dem Weg zu einem frischen Neuanfang.<br>
+message_164:
+  faceset: MainCharacter_Basil_dark
+  faceindex: 46
+  text: Wir kümmern uns hier um alles.\her
+message_165:
+  faceset: MainCharacter_Basil_dark
+  faceindex: 46
+  text: Geh weiter...\!<br>\fn<OMORI_GAME>Wir schaffen das schon.\! Ich denke...\her
+message_151:
+  faceset: MainCharacter_Basil_dark
+  faceindex: 46
+  text: Mach weiter...\! Wir schaffen das schon.\! Ich denke...\her
+message_166:
+  faceset: MainCharacter_Basil_dark
+  faceindex: 44
+  text: Warum, BASIL...?\! Warum hast du es getan?\kel
+message_171:
+  faceset: MainCharacter_Basil_dark
+  faceindex: 45
+  text: \n[8]...\! Warum passiert das immer wieder mit uns?\kel
+message_167:
+  faceset: MainCharacter_Basil_dark
+  faceindex: 47
+  text: Es tut mir so leid, BASIL.\! Bitte verzeih mir...\aub
+message_168:
+  text: Du musst zu deinem neuen Zuhause gehen.
+message_169:
+  text: Das Auto von MOM wartet auf dich.
+message_190:
+  text: \n<POLLY>Warum...\! Warum bin ich so nutzlos?
+message_170:
+  text: Willst du BASILs Tür öffnen?
+message_180:
+  text: Es ist ein langer Weg nach unten... Willst du springen?

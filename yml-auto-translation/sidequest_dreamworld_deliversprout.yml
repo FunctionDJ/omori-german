@@ -1,0 +1,30 @@
+message_1:
+  text: \n<BROTHER MOLE>Hey, du da!\! Ihr Kreaturen scheint wie erfahrene Reisende zu sein...\! Könnt ihr mir helfen?\! Mein Bruder lebt in der \c[11]SPROUT MOLE COLONY\c[0] in \c[11]OTHERWORLD\c[0].
+message_2:
+  text: \n<BROTHER MOLE>Ich möchte ihm ein \c[4]CARE PACKAGE\c[0] schicken, aber...\! Ich habe Angst, mich zu verirren.\! Könntest du das für mich zustellen?
+message_3:
+  text: \n<BROTHER MOLE>Danke, ihr seltsamen Kreaturen!\!<br>Ich bin sicher, dass er es zu schätzen weiß.\ Bitte sehr.
+message_4:
+  text: Du hast ein \c[4]CARE PACKAGE\c[0].
+message_16:
+  text: \n<BROTHER MOLE>Sorge dafür, dass er sicher ankommt!
+message_5:
+  text: \n<BROTHER MOLE>Oh, ich verstehe...\! Okay dann...
+message_6:
+  text: \n<BROTHER MOLE>Huh?\! Was ist das?\! Du hast ein Paket für mich?
+message_7:
+  text: Du hast das \c[4]PFLEGEPAKET\c[0] an BROTHER MOLE gegeben.
+message_8:
+  text: \n<BROTHER MOLE>...\! Hey, das ist von meinem Bruder!\!<br>Wow, hier sind 99 \c[3]TOFU\c[0] drin! Das ist das beste Geschenk aller Zeiten!\!<br>Sniff... Er kennt mich so gut...
+message_9:
+  text: \n<BROTHER MOLE>Danke für die Lieferung!\!<br>Weißt du, ich habe das für einen regnerischen Tag aufgespart...<br>aber jetzt, wo ich mein \c[4]CARE PACKAGE\c[0] habe, werde ich es nicht mehr brauchen.
+message_10:
+  text: Du hast \c[3]LIFE JAM\c[0].
+message_11:
+  text: \n<BROTHER MOLE>Mmm...\! Schlürfen...\! \c[3]TOFU\c[0]...\! So...\! gut...
+message_12:
+  text: \Hast du das Paket ausgeliefert?<br>Da ist ein Jahresvorrat an \c[3]TOFU\c[0] drin!<br>Ich bin sicher, er wird es lieben.<br> Mann, ich vermisse den Kerl...
+message_13:
+  text: \n<BROTHER MOLE>Mmm...\! Schlürfen...\! \c[3]TOFU\c[0]...\! So gut...
+message_15:
+  text: \n<BROTHER MOLE>Ich habe keinen Platz mehr für \c[3]TOFU\c[0].

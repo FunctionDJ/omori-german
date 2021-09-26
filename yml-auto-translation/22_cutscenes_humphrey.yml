@@ -1,0 +1,142 @@
+message_0:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 11
+  text: Hey...\! Ist das nicht...\! SWEETHEART?\aub
+message_1:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 18
+  text: \{HEY, SWEETHEART!! ERINNERST DU DICH AN UNS!!!} <br>Wir sind die Kinder, die fast deine Hochzeit ruiniert haben!\kel
+message_2:
+  text: \Com[2]Was? Ihr vier schon wieder!? Warum taucht ihr immer wieder auf?\swh
+message_3:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 19
+  text: Also...\! wie geht es dir mit dem Eheleben?
+message_4:
+  text: Ha!\! Das Eheleben ist ein Witz!\! Ich habe die Beziehung mit dieser erbärmlichen Ausrede eines CAPTAINs schon vor langer Zeit beendet!\swh
+message_5:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 29
+  text: Aber...\! deine Hochzeit war buchstäblich gestern.\kel
+message_6:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 4
+  text: Oh, nein...\! Heißt das, dass du und SPACE HUSBAND...\aub
+message_7:
+  text: Hmpf!\! Von mir aus ist er jetzt SPACE EX-HUSBAND!\swh
+message_8:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 27
+  text: \}Auch... Der arme Kerl...\kel
+message_9:
+  text: Alas! Meine Reise hat sich geschlossen.<br>Es ist mir jetzt mehr denn je klar, dass mein perfekter Freier nicht existiert!
+message_10:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 39
+  text: Sag das nicht, SWEETHEART! <br>Ich bin mir sicher, dass dein Seelenverwandter irgendwo da draußen ist!
+message_11:
+  text: \sinv[1]Oh, mein süßer HERO! \!Wie ich mich nach deiner Stimme gesehnt habe!\swh
+message_12:
+  text: Aber nein... Ich muss mich zurückhalten.\! Ich habe mich bereits für meinen Weg entschieden.\! <br>Die Suche nach einem Freier ist mir viel zu altmodisch...\swh
+message_13:
+  text: \sinv[1]Also habe ich beschlossen, dass ich einfach nur einen machen werde!\swh
+message_14:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 46
+  text: W-Was?\! M-Machen Sie einen Freier?\! Ist das überhaupt möglich!?
+message_15:
+  text: Für Normalsterbliche gilt das nicht!!! Aber eine wohlhabende Person, wie ich, hält sich nicht an solche Regeln!\swh
+message_16:
+  text: Ich gehe an einen Ort, den sich nur stinkreiche Leute, wie ich, leisten können...\! Zu einer Familie von Seehexen, die sich auf Kunden mit...\! besonderen Ansprüchen spezialisiert haben.\swh
+message_17:
+  text: Toodle-loo, peasants!\! Ich bin spät dran für meine Verabredung!\swh
+message_18:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 28
+  text: Also...\! sollen wir ihr folgen...\! oder was? \kel
+message_19:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 11
+  text: Ich habe das Gefühl, dass jedes Mal, wenn SWEETHEART auftaucht, etwas Schlimmes passiert.\aub
+message_20:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 39
+  text: Ja...\! Wenn es um Katastrophen geht...\!<br>Sie spielt in einer ganz eigenen Liga
+message_42:
+  text: Whale Hallo Freunde!\! Mein Name ist HUMPHREY.\! Was führt euch hierher in meine bescheidene kleine Höhle?\who
+message_43:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 1
+  text: Oh, hallo HUMPHREY! Wir sind nur auf der Suche nach jemandem.\! Tut uns leid, wenn wir dich belästigen.\aub
+message_44:
+  text: Oh nein, ganz und gar nicht, Kinder! Ich liebe Besucher.\n<HUMPHREY>
+message_45:
+  text: In der Tat seid ihr die zweite Gruppe, die mich heute besucht!<br>Die erste war nur ein Mädchen... Ein sehr lautes Mädchen mit einer großen, roten Schleife.\n<HUMPHREY>
+message_46:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 26
+  text: Klingt das nicht nach jemandem, den wir kennen?\kel
+message_47:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 46
+  text: Hm? Ist SWEETHEART hier?\! Wo ist sie?\her
+message_48:
+  text: Hmm...\! Wo ist sie? Wo ist sie?\!<br>Es liegt mir auf der Zunge...\! ...\! \quake[1]Nyak, nyak!\quake[0]\!<br>Das ist ein Scherz, das ist es!\! Sie ist...\! in mir, siehst du?\n<HUMPHREY>
+message_49:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 4
+  text: S-Sie ist... in dir drin?\aub
+message_50:
+  text: Aber ja!\! Sie besucht meine Gäste, denn ich bin auch die Heimat einer Familie von Meerhexen!\n<HUMPHREY>
+message_51:
+  text: Wir verbringen unsere Zeit zusammen, plaudern und kichern.\!<br>Es ist so lustig, von ihren täglichen Possen zu hören.\! Manchmal <br>sind sie sogar so nett, mir mein Essen zu bringen!\n<HUMPHREY>
+message_52:
+  text: Es ist viel einfacher für sie, denn sie sind näher an meinem <br>Bauch als ich.\! Ich bin mir sogar sicher, dass sie sich über noch mehr Besucher freuen würden!\!\n<HUMPHREY>
+message_55:
+  text: Hier!\! Lass mich die Brücke für dich absenken.\n<HUMPHREY>
+message_53:
+  text: \beben[1]Mle\{hh}{hhhh...\beben[0]\n<HUMPHREY>
+message_54:
+  text: Ich bitte um Entschuldigung...\!<br>Der erste Gast scheint eine Verdauungsstörung zu verursachen
+message_70:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 18
+  text: Wow, HUMPHREY's Bauch ist riesig! \kel
+message_71:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 4
+  text: Hier kann man sich leicht verlaufen...\aub
+message_72:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 19
+  text: Ich wette, wenn ich schreien würde, würde es ein \sinv[1]ECHO\{OOOO!\kel machen
+message_73:
+  text: \sinv[1]ECH\{OOO\{OOOOOO...\}echo...\}echo...\}echo...!\n<HUMPHREY>
+message_74:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 31
+  text: \Com[2]Ahhh!\! Wo kommst du denn her?\kel
+message_75:
+  text: Komm in meinen Unterschlupf.\! Bist du überrascht, mich zu sehen?<br>\!Ich bin immer hier.\! Ich bin in mir und überall um dich herum!\n<HUMPHREY>
+message_76:
+  text: Ich bin überall!\n<HUMPHREY>
+message_77:
+  text: Oder ich bin einfach nur hier!\n<HUMPHREY>
+message_78:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 18
+  text: Wow, das ist so cool, HUMPHREY! <br>\!Ich wünschte, ich könnte das machen.<br>
+message_79:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 11
+  text: Das ist irgendwie eklig, wenn du mich fragst.\aub
+message_80:
+  text: Wow...\! So unhöflich...\n<HUMPHREY>
+message_81:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 39
+  text: Hmm...\! Es gibt viele Wege zu gehen...\!<br>Wo sollen wir überhaupt anfangen?\her
+message_82:
+  text: Links...\! Rechts...\! Hoch...\! Rundherum...\! <br>Spielt das eine Rolle?\! Es ist alles vorwärts, nicht wahr?\! <br>Wähle einfach eine aus! Es ist einfach!\n<HUMPHREY>
+message_83:
+  text: \n<HUMPHREY>\{\sinv[1]YOOOOO-HOOOOOOOOO~!!!

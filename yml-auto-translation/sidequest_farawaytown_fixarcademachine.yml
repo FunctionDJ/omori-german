@@ -1,0 +1,20 @@
+message_1:
+  text: \n<Brillenmann>Seufz...\! Verdammt...\! Ich versuche diese alte Arcade-Maschine zu reparieren, <br>aber mir fehlt ein seltenes und wichtiges Teil...
+message_2:
+  text: \n<GLASSES MAN>Es sieht aus, als wäre es genau hier abgebissen worden.\! Ich frage mich, wo es sein könnte...
+message_4:
+  text: \n<GLASSES MAN>\com[2]Hey!\! Das ist das fehlende \c[4]ARCADE PIECE\c[0], nach dem ich gesucht habe!\! Kann ich es dir vielleicht abnehmen?
+message_8:
+  text: Du hast das \c[4]ARCADE PIECE\c[0] an GLASSES MAN gegeben.
+message_5:
+  text: \n<Brillenmann>Alles klar, cool!\! Jetzt lass uns mal sehen...
+message_6:
+  text: \n<GLASSES MAN>Da hast du es...\! So gut wie neu!
+message_7:
+  text: \n<Brillenmann>\com[2]B-B-B-Aber warum!?
+message_9:
+  text: \n<GLASSES MAN>Hier! Nimm dies \c[4]CD\c[0] als Dank!
+message_10:
+  text: \n<GLASSES MAN>Ich habe es letzte Woche bei \c[11]HOBBEEZ\c[0] gekauft, aber vergessen, dass ich schon eine Kopie zu Hause hatte...
+message_11:
+  text: <br>Nun, wenn ihr mich entschuldigen würdet...<br>! <br>Ich muss...ähm...\! sicherstellen, dass dieses Spiel richtig funktioniert...

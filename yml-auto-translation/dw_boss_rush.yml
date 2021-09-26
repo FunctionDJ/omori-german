@@ -1,0 +1,116 @@
+message_0:
+  text: \n<HUMPHREY>Ich bereite den Eingang für unsere aufregende neue Attraktion vor, aber er ist noch nicht fertig.\! Du solltest später wiederkommen...\! wie morgen später!
+message_1:
+  text: \n<BOSS>Hey, kennst du mich noch?\! Ich bin BOSS und willkommen bei der BOSS RUSH Herausforderung!\! Seit meinen Tagen auf dem Spielplatz habe ich viel innere Einkehr gehalten.
+message_2:
+  text: \n<BOSS>Unter Verwendung der neuesten Innovationen in der Technologie habe ich mir eine ultimative Herausforderung für nur die coolsten Herausforderer ausgedacht.
+message_3:
+  text: \n<BOSS>Hier unten kannst du Simulationen für Kämpfe erleben, die du schon einmal gekämpft hast...\! aber stärker!
+message_4:
+  text: \n<BOSS>So bist du daran interessiert, die BOSS RUSH Herausforderung anzunehmen?
+message_5:
+  text: \n<BOSS>\sinv[1]Awesome-o!\sinv[0] Lass uns dich hier einrichten.
+message_12:
+  text: \n<BOSS>Awww...\! Na gut. Vielleicht beim nächsten Mal!
+message_13:
+  text: \n<BOSS>Hey, Leute! Wie läuft's?\! Du hast bereits die BOSS RUSH Herausforderung besiegt...\! Aber möchtest du es noch einmal versuchen?
+message_6:
+  text: \n<BOSS>\sinv[1]Und done-zo!\sinv[0]
+message_7:
+  text: \n<BOSS>Geh einfach den ganzen Weg nach rechts zum Teleporter.\! Dein erster Kampf wird sofort beginnen.
+message_8:
+  text: \n<BOSS>Oh, und vergiss nicht, dich zu heilen!\! MARI war so nett, einen ihrer Picknickkörbe mitzubringen...\! Und du solltest dich mit \c[3]SNACKS\c[0] und \c[5]TOYS\c[0] am Briefkasten eindecken, wenn du schon dabei bist.
+message_9:
+  text: \n<BOSS>Viel Glück da draußen!\! \com[2]Los, hol sie dir!
+message_14:
+  text: \n<BOSS>Ich bin mir sicher, dass es noch kreativere Wege gibt, dich herauszufordern.
+message_22:
+  text: \n<BOSS>Ich, für meinen Teil, empfehle nur \c[5]BIG RUBBER BANDS\c[0] zu benutzen!
+message_10:
+  faceset: MainCharacter_Mari
+  faceindex: 0
+  text: \marDenkt ihr darüber nach, die BOSS RUSH Herausforderung anzunehmen?\! Viel Glück! Wir werden dich anfeuern.
+message_11:
+  faceset: MainCharacter_Basil
+  faceindex: 1
+  text: \basIch bin froh, dass BOSS endlich seine Berufung gefunden hat. \! Du solltest die Herausforderung annehmen! Ich weiß, du kannst es schaffen!
+message_15:
+  text: \n<BOSS>Hey, du hast dich dieses Mal ziemlich gut geschlagen...\! aber du kannst nicht alle gewinnen.
+message_16:
+  text: \n<BOSS>Komm wieder zurück!
+message_17:
+  text: \n<BOSS>Wow! Du hast die BOSS RUSH Herausforderung wirklich geschafft!\! Gratuliere, coole Jungs!\! Ernsthaft, ihr seid die Coolsten!
+message_18:
+  text: \n<BOSS>\com[539]\sinv[1]Hey, herzlichen Glückwunsch!\com[539]\sinv[0] Du hast dir die \c[4]COOL TROPHY\c[0]!\ verdient! \com[539]Ich werde sie in der Lobby für dich ausstellen.
+message_19:
+  text: \n<BOSS>\com[539]\sinv[1]Hey, Glückwunsch! \com[539]\sinv[0] Du hast dir die \c[4]COOLER TROPHY\c[0]!\ verdient! \com[539]Ich werde sie in der Lobby für dich ausstellen.
+message_20:
+  text: \n<BOSS>\com[539]\sinv[1]Hey, Glückwunsch! \com[539]\sinv[0] Du hast dir die \c[4]COOLEST TROPHY\c[0]!\ verdient! \com[539]Ich werde sie in der Lobby für dich ausstellen.
+message_21:
+  text: \n<BOSS>Nett gemacht! Aber mal sehen, wie du dich gegen deine nächste Herausforderung schlägst!
+message_100:
+  text: DIE \c[4]COOL TROPHY\c[0].\! Diese Trophäe ist ziemlich cool.
+message_101:
+  text: Die \c[4]COOLER TROPHY\c[0].\!<br>Diese Trophäe ist cooler als die \c[4]COOL TROPHY\c[0].
+message_102:
+  text: Die \c[4]COOLEST TROPHY\c[0].\! Diese Trophäe ist die coolste.
+message_103:
+  text: A \c[4]TEILNAHME RIBBON\c[0].\! Das ist nicht sehr cool.
+message_150:
+  text: MARI und BASILs schicker Tisch für zwei.
+message_151:
+  text: \n<BOSS>Hast du es nicht bis ganz nach oben geschafft?\! Das ist nicht schlimm. Es gibt immer ein nächstes Mal!
+message_200:
+  text: \n<PLUTO>Ah, es ist eine Überraschung, euch hier zu sehen, Kinder.
+message_201:
+  text: \n<PLUTO>Mein Traum, eine Transportstation zu besitzen, hat mich durch das ganze Universum geführt...\! Aber es ist trotzdem schön, ab und zu nach Hause zu kommen.
+message_202:
+  text: \n<PLUTO>Manchmal vermisse ich meine Freunde...\! wie DIE ERDE hier.
+message_203:
+  text: \n<PLUTO>Die ERDE und ich kennen uns schon lange Bevor wir auf dieses Sonnensystem beschränkt waren...\! schwebten wir durch eine Galaxie nach der anderen und dezimierten alles auf unserem Weg.
+message_204:
+  text: \n<PLUTO> Ich denke immer noch sehr gerne an diese Zeit.
+message_205:
+  text: \n<THE EARTH>...
+message_206:
+  text: \n<PLUTO>Was ist das, EARTH?
+message_207:
+  text: \n<PLUTO>Hm...\! Ich verstehe.
+message_208:
+  text: \n<PLUTO>Die ERDE sagt mir, dass sie deine Reise beobachtet hat.\! Sie sagt, dass dein Wachstum sie inspiriert hat, und...\! dass sie dich zu einem Kampf herausfordern möchte.
+message_209:
+  text: \n<PLUTO>Unsere letzte Schlacht wurde abgekürzt...\! aber vielleicht können wir sie jetzt beenden.\! Was sagst du dazu?
+message_215:
+  text: \plu\Com[2]\sinv[2]\{GWAHA\{HAHA\{HAHAHAHA!!\}
+message_210:
+  text: \n<PLUTO>Dann werden DIE ERDE und ich uns noch einmal zusammentun!\! Bereitet euch vor, Kinder.\! Der Sieg wird nicht leicht werden!
+message_211:
+  text: \n<THE EARTH>...
+message_212:
+  text: \n<PLUTO>Es scheint, dass der Schüler den Lehrer übertroffen hat.\! Ich wusste immer, dass dieser Tag kommen würde...\! aber vielleicht nicht so bald.
+message_214:
+  text: \n<PLUTO>Danke, dass ihr uns demütigt, Kinder.
+message_213:
+  text: \n<PLUTO>Unsere Zeit im Universum dauert nicht ewig.\! Auch in meinem Alter ist es wichtig, weiter zu lernen und zu wachsen.\! Ja! Das ist es, was es bedeutet, lebendig zu sein!
+message_220:
+  text: \n<PLUTO> Geht hinaus, Kinder...\! und leuchtet so hell wie die Sterne in der Galaxie!\! Es gibt viele, die an euch glauben.\! Mehr als ihr wisst!
+message_216:
+  text: Hm.\! Ich verstehe.\! Dann vielleicht ein anderes Mal.\n<PLUTO>
+message_230:
+  faceset: MainCharacter_Mari
+  faceindex: 3
+  text: \marGlückwunsch zum Besiegen des BOSS RUSH, ihr alle!\! Hier ist ein kleines Geschenk von mir.\! Ich habe es mit all meiner Liebe gemacht! Hehe...
+message_231:
+  text: Du hast \c[3]MARI'S COOKIE\c[0].
+message_232:
+  faceset: MainCharacter_Mari
+  faceindex: 0
+  text: \mar Ihr habt wirklich eine tolle Show hingelegt!\! BASIL und ich haben euch auf der großen Leinwand dort drüben beobachtet.\! Wir waren beide am Rande unserer Sitze!
+message_233:
+  faceset: MainCharacter_Basil
+  faceindex: 1
+  text: \basIch kann nicht glauben, dass ihr den BOSS RUSH geschlagen habt!\! Ihr seid die Coolsten.\! Ich habe so ein Glück, dass ich so starke Freunde wie euch habe.
+message_234:
+  text: \c[3]MARI'S COOKIE\c[0] war außen perfekt knusprig und innen süß und klebrig.
+message_235:
+  text: \c[3]MARI'S COOKIE\c[0] gewährt 1 HERZ, 1 JUICE, 1 ATTACK, 1 DEFENSE, 1 SPEED und 1 LUCK!

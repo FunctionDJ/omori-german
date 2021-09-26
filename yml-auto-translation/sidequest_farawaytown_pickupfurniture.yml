@@ -1,0 +1,46 @@
+message_1:
+  text: \n<FASHIONABLE MOM>Ich habe meinen Sohn zum \c[11]FIX-IT\c[0] gehen lassen, um eine neue Lampe für mein Wohnzimmer zu kaufen, aber er lässt sich viel Zeit...
+message_2:
+  text: \n<FASHIONABLE MOM>\Com[2]Bah!\! Er ist immer so langsam mit diesen Dingen!<br>Ich wünschte, jemand würde ihm sagen, dass er sich beeilen soll...<br>\!Ich habe nicht den ganzen Tag Zeit!
+message_3:
+  text: \n<STRANGE MAN>Hmm...\! Welche \c[4]BODENLAMPE\c[0] soll ich nehmen?\!<br>Die pinke?\! Die blaue?\! Die schlichte?\!\ Die schicke?\!\!<br>...
+message_4:
+  text: \n<STRANGE MAN>Warum ist das überhaupt wichtig?<br>Für mich sieht das sowieso alles nach \c[4]TRASH\c[0] aus...
+message_5:
+  text: \n<STRANGE MAN>Ugh...\! Ich hasse Entscheidungen...\! Ich glaube, ich muss kotzen...
+message_6:
+  text: \n<STRANGE MAN>\Com[2]Eh!?\! Wer bist du?\! W-Was willst du!?\!<br>Oh...\! Fragt meine Mutter nach mir?
+message_7:
+  text: \n<STRANGE MAN>\Com[2]Sag ihr, dass sie warten soll!<br>Ich bin derjenige, der den ganzen Weg auf sich nimmt, um diese \c[4]Bodenlampe\c[0] abzuholen, die mich nicht einmal interessiert.
+message_8:
+  text: \n<STRANGE MAN>Außerdem...\! ist sie so pingelig!<br>Ich weiß nicht, warum sie es nicht einfach selbst macht...
+message_9:
+  text: \n<STRANGE MAN>Grr...\! Was für eine trashige Situation...\!<br>Diese \c[4]FLOOR LAMPS\c[0] sind \c[4]TRASH\c[0]!\! \Com[2]Sie sind \c[4]TRASH\c[0]!
+message_10:
+  text: \n<STRANGE MAN>Heh...\! Ja...\! Es macht jetzt alles einen Sinn für mich...\!<br>Diese Welt...\! \beben[1]Diese Welt ist nichts als \c[4]TRASH\c[0]!\beben[0]
+message_11:
+  text: \n<STRANGE MAN>Hey, du...\! Wenn meine Mutter ihre Lampe so sehr will, warum holst du sie nicht für sie!?
+message_12:
+  text: \n<STRANGE MAN>\Com[2]\{I'VE GOT BETTER THINGS TO DO!
+message_30:
+  text: Du hast $50.00 von dem STRANGE MAN bekommen.
+message_31:
+  text: Diese $50,00 sind für eine \c[4]FLOOR LAMP gedacht\c[0]...
+message_32:
+  text: \n<FIX-IT GUY>Hmm...\! Du willst also eine \c[4]FLOOR LAMP\c[0] kaufen?\! Sie kostet $50.00.\! Willst du sie immer noch?
+message_33:
+  text: \n<FIX-IT GUY>Danke für das Geschäft, Kumpel.
+message_13:
+  text: Gib FASHIONABLE MOM die \c[4]FLOOR LAMP\c[0]?
+message_14:
+  text: \n<FASHIONABLE MOM>Oh je, was für eine schöne \c[4]FLOOR LAMP\c[0]!\!<br>Danke! Du hast einen tadellosen Geschmack!
+message_15:
+  text: <br>Aber wo ist mein Sohn BILLY?<br>Hat er wieder einen seiner Wutanfälle bekommen und ist weggelaufen?
+message_16:
+  text: \n<FASHIONABLE MOM>Seufz...\! Er ist so temperamentvoll...\!<br> Ich wünschte, er würde nicht immer aus allem eine so große Sache machen.
+message_17:
+  text: \n<FASHIONABLE MOM>Alles in allem, du bist sehr aufmerksam, dass du diese Lampe für mich besorgt hast.\! Bitte komm jederzeit vorbei!\! Ich mache eine gute Tasse Kaffee!
+message_18:
+  text: Du hast eine \c[4]FLOOR LAMPE\c[0]!
+message_50:
+  text: Eine Kaffeemaschine.

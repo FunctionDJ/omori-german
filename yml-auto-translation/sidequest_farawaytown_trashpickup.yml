@@ -1,0 +1,22 @@
+message_0:
+  text: \n<OLD LADY>Hallo, junge Leute!\! Ich weiß nicht, ob ihr aufgepasst habt, wo ihr hintretet, aber in dieser Stadt gibt es ziemlich viel \c[4]TRASH\c[0].
+message_1:
+  text: \n<OLD LADY>Wenn du zufällig etwas findest, kannst du es zu mir bringen, damit ich es ordentlich entsorgen kann?
+message_2:
+  text: <br>Lasst uns der Welt helfen, ein Schritt nach dem anderen!
+message_5:
+  text: \n<OLD LADY>Hallo, junge Leute! Wie ich sehe, hast du etwas \c[4]TRASH\c[0] dabei!\!<br>Danke, ich werde das sicher ordentlich entsorgen!
+message_6:
+  text: <br>Die Stadt scheint in letzter Zeit etwas sauberer geworden zu sein...<br>Ich kann ein bisschen besser schlafen, wenn ich daran denke!
+message_7:
+  text: \n<OLD LADY>\SINV[1]Mmmm...\! Ahh...\! Riechst du die frische Luft?
+message_8:
+  text: <br>Die Stadt ist viel sauberer, seit ihr jungen Leute mir helft, den Müll hier aufzusammeln!<br>Ich kann euch wirklich nicht genug danken...
+message_9:
+  text: \n<OLD LADY>Oh! Da fällt mir ein...\c[4]TRASH\c[0] habe ich gestern aufgesammelt und bin zufällig über das hier gestolpert!<br>Bitte nimm das als Zeichen meiner Dankbarkeit!
+message_10:
+  text: Du hast einen \c[4]ETHEREAL CD\c[0]!
+message_11:
+  text: \n<OLD LADY>\SINV[1]Mmmm...\! Ahh...\! Würdest du diese saubere Luft riechen!
+message_12:
+  text: Hast du \c[4]TRASH\c[0]?

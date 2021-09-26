@@ -1,0 +1,46 @@
+message_1:
+  text: \n<APPLE GUY>Huff...\! Huff...\! Huff...\! Huff...\! \Com[2]Trink \c[3]APFEL JUICE\c[0]!
+message_2:
+  text: <br>Hast du jemals den Satz gehört...<br>"An apple a day keeps the doctor away?"
+message_3:
+  text: \n<APPLE GUY>Das gleiche Konzept gilt für \c[3]APPLE JUICE\c[0]!
+message_4:
+  text: \n<APPLE GUY>\c[3]APPLE JUICE\c[0] unterstützt die Flüssigkeitszufuhr!\! Er enthält nützliche Pflanzenstoffe und kann die Herzgesundheit unterstützen...\! Er kann auch dein Gehirn schützen, wenn du älter wirst!
+message_5:
+  text: \n<APPLE GUY>Es gibt keine Nachteile, soweit es mich betrifft!
+message_6:
+  text: \n<APPLE GUY>Ist das \c[3]ORANGE JUICE\c[0], den du da hast?\!<br>\Com[2]Das ist Müll!\! Trinken Sie das Zeug nicht!
+message_7:
+  text: APPLE GUY hat deinen \c[3]ORANGE JUICE\c[0] weggeworfen...
+message_8:
+  text: \n<APPLE GUY>Ha! Das wird es ihm zeigen!
+message_9:
+  text: \n<APPLE GUY>So... Würdest du gerne etwas \c[3]APPLE JUICE\c[0] für $2.00 kaufen?\$
+message_100:
+  text: Du hast \c[3]APFEL JUICE\c[0]!
+message_10:
+  text: \n<APPLE GUY>Ja! \Com[2]Trink \c[3]APFELSÄULE\c[0]!\! Es wird dir schmecken!
+message_11:
+  text: \n<APPLE GUY>Okay...\! Das ist gut...\!<br>Solange du keinen \c[3]ORANGE JUICE\c[0] kaufst...
+message_12:
+  text: \n<APPLE GUY>Huff...\! Huff...\! Ha!\! Wie ich vorausgesagt habe...\! \c[3]APPLE JUICE\c[0] ist eine viel bessere Alternative zu \c[3]ORANGE JUICE\c[0]!\! Mein Bruder wird die Dummheit seiner Wege noch früh genug erkennen!
+message_13:
+  text: \n<APPLE GUY>Mein Bruder will nicht aufhören, sich über das Geschäft an seinem \c[3]ORANGE JUICE\c[0] Stand zu freuen...
+message_14:
+  text: \n<APPLE GUY>Huff...\! Macht nichts...\! Huff...\! Ich werde immer ein fester Gläubiger von \c[3]APPLE JUICE\c[0] sein!\! Niemand wird mir das jemals wegnehmen!
+message_15:
+  text: \n<APPLE GUY>Hmm...\! Es sieht so aus, als hättest du nicht genug für eine köstliche Tasse \c[3]APFELSAFT\c[0]...
+message_16:
+  text: \n<APPLE GUY>Warte, ist das ein...\! \c[13]ORANGEES KOPFBAND\c[0]...\! das du da trägst? \c[2] Ich weigere mich, dir Apfelsaft zu servieren, bis du das abnimmst!
+message_101:
+  text: \n<APPLE GUY>\{\{\sinv[1]HOOO-HAHHHHHHHHH!
+message_17:
+  text: \n<APPLE GUY>Nimm dieses Geschenk, weil du so ein guter Kunde warst!\! <br>Es ist ein \c[13]ROTES KOPFBAND\c[0], die Farbe der Äpfel!
+message_18:
+  text: \n<APPLE GUY>Hmpf! Wie ich sehe, trägt einer deiner Freunde ein \c[13]ORANGEES KOPFBAND\c[0]...\! Ich werde dir das verzeihen, nur dieses eine Mal!
+message_19:
+  faceset: MainCharacters_Faraway
+  faceindex: 37
+  text: \herHeh heh...\! Entschuldige bitte...
+message_20:
+  text: Du hast ein \c[13]ROTES KOPFBAND\c[0]!

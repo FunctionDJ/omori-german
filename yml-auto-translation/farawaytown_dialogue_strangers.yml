@@ -1,0 +1,46 @@
+message_1:
+  text: \n<OLIVE BEANIE>Hmm...\! Sieht aus, als hätte der Bus heute Verspätung.
+message_2:
+  text: \n<OLIVE BEANIE>Oder vielleicht bin ich derjenige, der zu spät kommt...
+message_3:
+  text: \n<OLIVE BEANIE>Man...\! Ich hoffe wirklich, dass ich es nicht wieder verpasst habe.
+message_4:
+  text: \n<OLIVE BEANIE>Als ich jünger war, ist meine Familie oft in diesen Park gegangen.\! Ich erinnere mich, dass es dort einen See mit einer Statue in der Mitte gab...\! aber ich kann sie nirgends finden.
+message_10:
+  text: \n<ALTER MANN MIT BRILLE>Ich treffe mich mit jemandem, aber sie sind spät dran...\! Sag mir nicht, dass ich versetzt worden bin!
+message_20:
+  text: \n<BROWN HAIR LADY>Uhh...\! Kann ich dir helfen?
+message_30:
+  text: \n<REPORTER>Ich arbeite beim Nachrichtensender in der Stadt, aber manchmal fahre ich in meinen Pausen in den \c[11]FARAWAY PARK\c[0].\! Dieser Ort hat einfach etwas sehr Entspannendes an sich.
+message_40:
+  text: \n<PENCIL MAN>Ich brauche einen schönen Softdrink.\! Ich habe an meinem nächsten großen Projekt gearbeitet und brauche etwas, das mich wach hält!
+message_50:
+  text: \n<GLASSES BOY>Mein Lieblingsroman hat gerade eine Comic-Adaption bekommen!\! ...\! Aber der Hauptcharakter sieht überhaupt nicht so aus, wie ich ihn mir vorgestellt habe...
+message_60:
+  text: \n<STRANGER>Ich bin mir ziemlich sicher, dass ich verloren bin.\! Sowohl im Körper...\! als auch im Geist.
+message_70:
+  text: \n<MESSY HAIR MAN>Ich liebe Bananen so sehr.\! Ich könnte sie den ganzen Tag anstarren.
+message_71:
+  text: \n<MESSY HAIR MAN>Gestern, während ich eine Banane aß...\! Ich fand ein cooles bewachsenes Seegebiet gleich hinter dem Park.
+message_72:
+  text: \n<MESSY HAIR MAN>Aber kurz darauf rollte ein Haufen Hooligans auf Motorrollern herein und warf mich raus.
+message_73:
+  text: \n<MESSY HAIR MAN>\com[2]Und zu allem Übel haben sie auch noch meine Banane weggeworfen!
+message_74:
+  text: \n<MESSY HAIR MAN>Seufz...\! Ich kann mich nicht von einem Haufen Kinder herumkommandieren lassen!\!<br>Ich bin jetzt ein Erwachsener!\! ...\! Zumindest ein junger Erwachsener...
+message_80:
+  text: \n<PROFESSIONELL>Lass uns sehen...\! Welches Medikament würde bei einem 30-Stunden-Flug am meisten helfen?
+message_90:
+  text: \n<SKINNY BOY>Was guckst du so, Mister?
+message_100:
+  text: \n<ENERGETIC BOY>Ich spiele ein Spiel mit meinem besten Freund!
+message_101:
+  text: \n<STRANGER>\sinv[1]Goodbye...\| Goodbye...\| Goodbye...
+message_102:
+  text: \n<STRANGER>Was für eine Zukunft erwartet dich, frage ich mich?
+message_103:
+  text: \n<STRANGER>Deine Mutter wartet draußen auf dich.
+message_104:
+  text: \n<STRANGER>Es ist an der Zeit, diesen Ort zu verlassen und neu zu beginnen.
+message_105:
+  text: \n<STRANGER>Magst du ein langes und glückliches Leben leben.

@@ -1,0 +1,12 @@
+message_1:
+  text: \n<SHOPKEEP>Yo! Ich sehe, du hast ein Auge auf dieses Videospiel geworfen!\!<br>Es heißt CAPT. SPACEBOY'S SPACE ADVENTURE.
+message_2:
+  text: \n<SHOPKEEP>Es war vor ein paar Jahren populärer, aber es gibt auch heute noch einige kompetitive Spieler.
+message_3:
+  text: \n<SHOPKEEP>Leute aus der ganzen Stadt haben es probiert, aber ich lasse dich wissen, dass ich immer noch den Highscore halte! Heh heh... \!<br>Wenn du ihn schlagen kannst, gebe ich dir etwas Cooles.
+message_4:
+  text: \n<SHOPKEEP>Tja, kitzel mich beeindruckt...\! Du hast tatsächlich meinen Score geschlagen!\! Ich schätze, ich sollte Platz für die neue Generation machen, heh heh...
+message_5:
+  text: \n<SHOPKEEP>Hier ist dein Preis, wie versprochen!\! Ich verteile diesen nur an Leute, die ich wirklich cool finde.
+message_6:
+  text: Du hast \c[13]COOL GLASSES\c[0]!

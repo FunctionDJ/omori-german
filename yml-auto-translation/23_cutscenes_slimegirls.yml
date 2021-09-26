@@ -1,0 +1,128 @@
+message_0:
+  text: Meine Güte, es riecht absolut schrecklich hier drin!<br>Wie lange wird das noch dauern?<br>Meine Nase ist ziemlich empfindlich, weißt du!<br>
+message_1:
+  text: Du wirst dich an den Geruch gewöhnen.\! Jetzt sei still, Puppe. Ich bin am Arbeiten.\n<MEDUSA>
+message_2:
+  text: Und es ist vollbracht.\n<MEDUSA>
+message_3:
+  text: Ugh... endlich!
+message_4:
+  text: Hallo, mein perfekter Freier!\! Wach auf!\swh
+message_5:
+  text: Berühre das Glas nicht, du Dummkopf! Du wirst das Experiment ruinieren!\n<MEDUSA>
+message_6:
+  text: \quake[1]\{\Com[2]WELL...\! \Com[2]I...\! \Com[2]NIEMALS!!!
+message_7:
+  text: W-Was ist passiert?\swh
+message_8:
+  text: Mein...Wort...\! Dieses Experiment ist größer ausgefallen, als sogar ich erwartet hatte.\! Sieh es dir an, Puppe.\n<MEDUSA>
+message_9:
+  text: Das Ergebnis ist absolut perfekt.\! Seht her!\! Eine absolut perfekte Version von dir selbst!\n<MEDUSA>
+message_10:
+  text: Hmmm...\! Ich mag sie nicht.\swh
+message_11:
+  text: Was hast du gesagt? Habe ich dich richtig verstanden?\!<br>Aber sie ist alles, was du dir gewünscht hast und mehr!\n<MEDUSA>
+message_12:
+  text: Oh, du Einfaltspinsel.\! Es gibt nichts Perfekteres als mich...<br>aber ich sehe, dass du das nicht verstehst.\swh
+message_13:
+  text: Du bist nichts weiter als ein Schreiberling.<br>Das war eine gigantische Verschwendung meiner Zeit!<br>Ich stürme los
+message_14:
+  text: \Com[2]Oh, ich habe genug von deinem Blödsinn!<br>Kunde oder nicht, du hast wirklich meinen letzten Nerv getroffen!\!<br>Wer hat dir beigebracht, dein Maul so aufzureißen?\n<MEDUSA>
+message_15:
+  text: Nun... Wenn du mich entschuldigen würdest, das ist eine Verschwendung meiner kostbaren Energie...\! Ich habe viel wichtigere Angelegenheiten, um die ich mich kümmern muss.\n<MEDUSA>
+message_16:
+  text: Wage es nicht, als Erster loszulaufen!\! <br>Ich bin derjenige, der losstürmen soll!\swh
+message_30:
+  text: Ugh, dieser Ort ist ekelhaft...\! <br>Was genau machst du hier eigentlich?\swh
+message_31:
+  text: Das ist nicht deine Angelegenheit, Lady.<br>Lehn dich einfach zurück und entspann dich!<br><MARINA>
+message_32:
+  text: Urf...\! Mir ist übel...\swh
+message_33:
+  text: Äh...\! Äh...\! Ups...\n<MARINA>
+message_34:
+  text: ...\n<MARINA>
+message_35:
+  text: Nun...\! Das wird reichen, denke ich.\n<MARINA>
+message_36:
+  text: Alles klar, es ist vollbracht.\ Bitte sehr, Lady... <br>Ein perfekter Freier kommt sofort.\n<MARINA>
+message_37:
+  text: Sag Hallo zu deinem neuen Seelenverwandten!\n<MARINA>
+message_38:
+  text: \}H...\!Henno...\n<MUTANTHEART>
+message_39:
+  text: Soll das ein Witz sein?\! Für was hältst du mich?\! <br>Ich bin zehnmal, nein... hundertmal schöner <br>als dieses... Ding!\swh
+message_40:
+  text: Du hast mich sehr enttäuscht!\! \Com[2]Ich stürme los!\swh
+message_41:
+  text: \{HEY, WHAT THE HECK!?\!\}<br>Du kannst nicht einfach losstürmen, Lady!\n<MARINA>
+message_42:
+  text: \quake[1]\{WHERE'S MY MONEY!?!?\n<MARINA>
+message_53:
+  text: Wie lange wird das dauern? Ich habe nicht den ganzen Tag Zeit!
+message_54:
+  text: Meine Arbeit erfordert Geduld...\! Hör auf zu reden, Darling! Ich muss mich konzentrieren.\n<MOLLY>
+message_55:
+  text: Wie wäre es mit jetzt?\swh
+message_56:
+  text: Fast fertig, Liebling.\n<MOLLY>
+message_57:
+  text: Und fertig.\! Endlich...\n<MOLLY>
+message_58:
+  text: \{\sinv[1]MEINE GRÖSSTE ERFINDUNG IST VOLLSTÄNDIG!!!\n<MOLLY>
+message_59:
+  text: Nun sprich!\! Sprich, mein schöner Roboter!\n<MOLLY>
+message_60:
+  text: V2hhdCBpcyB0aGlzIGZlZWxpbmcgSSBoYXZlIG5ldmVyIGZlbHQg<br>YmVmb3JlPyBJIGZlZWwgYWxsIHdhcm0gYW5kIGZ1enp5IGluc2<br>lkZSEgSSB3YW50IGEgaHVnISBQbGVhc2UgaHVnIG1lISBJIGFtI<br>GluIG5lZWQgb2YgYWZmZWN0aW9uIGFuZCBsb3ZlISA=\n<ROBOHEART>
+message_61:
+  text: ... ... ... \n<MOLLY>
+message_62:
+  text: Oh...\! Nun, das klingt nicht richtig.\! <br>Etwas muss mit dem Code nicht stimmen.\n<MOLLY>
+message_63:
+  text: Das liegt daran, dass du mich dazu gebracht hast, meine Arbeit zu überstürzen! <br>Anstatt zu lieben, muss es nun programmiert werden... \!\Beben[1]zu töten!\n<MOLLY>
+message_64:
+  text: Tm8sIHBsZWFzZSEgVGhpcyBpcyBhIG1pc3VuZGVyc3RhbmRpbm<br>chIEkganVzdCB3YW50IHRvIGJlIHlvdXIgZnJpZW5kISBPciBtYX<br>liZSBtb3JlIQ==\n<ROBOHEART>
+message_65:
+  text: Hmpf!\! Schieb das nicht auf mich! Sie ist dein Roboter!\swh
+message_66:
+  text: Dank dir haben sich meine Hoffnungen, die wahre Liebe zu finden, zerschlagen!
+message_67:
+  text: Du hast mich sehr enttäuscht!\! <br>\{I'M STORMING OFF!!!\swh
+message_68:
+  text: Meine Güte, was für eine Handvoll.\n<MOLLY>
+message_69:
+  text: Nun, sie ist jetzt nicht mehr mein Problem.\n<MOLLY>
+message_70:
+  text: SSBhbSBzbyBsb25lbHkgaGVyZS4uLiBJIG11c3QgdmVudHVy<br>ZSBzb21ld2hlcmUgZWxzZSB0byBmaW5kIG15IHNvdWxtYXRlIGF<br>uZCBsaXZlIGhhcHBpbHkgZXZlciBhZnRlciEgV29vc2gh\n<ROBOHEART>
+message_71:
+  text: Ah, das hätte ich fast vergessen!\! Dieses Mädchen... Sie schuldet mir eine Bezahlung!\! <br>Ich muss sie wieder einfangen, bevor sie geht.\n<MOLLY>
+message_80:
+  text: V293LCB5b3UgYXJlIHJlYWxseSBoYW5kc29tZS4=\n<ROBOHEART>
+message_81:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 46
+  text: Passt auf, Leute! Es ist dieser Roboter! Sie ist eine Tötungsmaschine!\her
+message_82:
+  text: V2lsbCB5b3UgbG92ZSBtZT8=\n<ROBOHEART>
+message_83:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 10
+  text: \{STAY AWAY FROM US, ROBOT!!!\aub
+message_84:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 30
+  text: Wir müssen ihn aufhalten, bevor er jemanden tötet.\! <br>Du gehst unter, Killerroboter!\kel
+message_100:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 4
+  text: Puh... Das war knapp.\aub
+message_101:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 24
+  text: Gut, dass niemand verletzt wurde...<br>oder noch schlimmer...<br>umgebracht...<br>
+message_110:
+  text: \n<HUMPHREY>Hmm...\. Meine Güte, was ist denn das für eine Aufregung?\!<br>Da unten müssen ja lustige Aktivitäten im Gange sein!
+message_111:
+  text: \n<HUMPHREY>Hallo, ich bin HUMPHREY! Dein All-Access-Pass zu \c[11]HUMPHREY\c[0] A.K.A. \c[11]SLIME GIRLS LAIR\c[0].\! Streng genommen bin ich wohl das, was ihr Menschen einen \"Elevator\" nennt.<br>Unglücklicherweise können wir immer nur einen Termin annehmen, also musst du warten, bis du an der Reihe bist.<br><br>Aber...\c[4]SLIMY KEYCARD\c[0], wenn du eine \c[4]SLIMY KEYCARD\c[0] für mich finden kannst, könnte ich vielleicht ein paar Fäden für dich ziehen...\! \quake[1]Nyak, nyak!\quake[0]
+message_112:
+  text: Du hast eine \c[4]SLIMY KEYCARD\c[0]!

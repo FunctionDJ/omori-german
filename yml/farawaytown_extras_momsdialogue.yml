@@ -1,0 +1,155 @@
+### Translation: Demo-only
+### Editing: None
+
+### Translated by: Lugitaro 🐉#0893
+
+# =========================================================================================
+# Mom's Dialogue
+# =========================================================================================
+
+#Mom's MOM'S VOICEMAIL
+
+                  #Examine phone
+message_0:
+      text: \"Hey \n[8], hier ist MAMI.\! Ich bin immer noch in der Stadt, und bereite unser neues Zuhause vor.\! Bist du schon mit Packen fertig?\"\n<MAMAS SPRACHNACHRICHT>
+
+message_1:
+      text: \"Die Umzugshelfer kommen in ein paar Tagen zu unserem Haus, also hab ich dir eine Aufgabenliste hinterlassen.\"\n<MAMAS SPRACHNACHRICHT>
+
+message_2:
+      text: \"Übrigens, Tschuldigung!\! MAMI hat was verpatzt!\"\n<MAMAS SPRACHNACHRICHT>
+
+message_3:
+      text: \"Ich hab vergessen, der Stromfirma zu sagen, dass wir noch ein paar Tage bis zum Umzug brauchen, also könnte das Licht irgendwann heute Nacht ausgehen.\"\n<MAMAS SPRACHNACHRICHT>
+
+message_4:
+      text: \"Wie auch immer...\! Ich weiß, dass Umziehen jetzt etwas nervenaufreibend sein kann, aber ich finde, dass ein Tapetenwechsel uns beiden gut tun wird!\"\n<MAMAS SPRACHNACHRICHT>
+
+message_5:
+      text: \"Ich weiß, dass du schon länger mit keinem geredet hast, aber bevor wir gehen solltest du dich vielleicht von deinen alten Freunden verabschieden.\"\n<MAMAS SPRACHNACHRICHT>
+
+message_6:
+      text: \"KEL hat sich richtig bemüht, dich zu erreichen, seit wir unser Haus zum Verkauf angeboten haben.\! Die letzten paar Monate rief er jede Woche bei uns an!\"\n<MAMAS SPRACHNACHRICHT>
+
+message_7:
+      text: \"Er scheint ein wenig einsam...\! Vielleicht solltest du ihn besuchen gehen.\!<br>Okay, das war's erstmal!\! MAMI hat dich lieb!\! Tschüss, mein Schatz!\"\! \quake[1]\}Bzzt...\quake[0]\n<MAMAS SPRACHNACHRICHT>
+
+#SFX: Stomach Gurgle
+message_8:
+      text: Du hast Hunger.
+
+message_9:
+      text: You suddenly feel very AFRAID.
+
+#Examine Fridge
+
+message_10:
+      text: Du blickst in den Kühlschrank...\! und findest \c[4]KALTES STEAK\c[0].\! Nimmst du es?
+
+#[Yes/No]
+#[Yes]
+message_11:
+      text: Du erhältst \c[4]KALTES STEAK\c[0].\!<br>Du solltest es wahrscheinlich wärmen, bevor du es isst.
+#[No]
+#[Exit dialogue]
+
+
+                #Examine Microwave
+message_12:
+      text: Du legst das \c[4]KALTE STEAK\c[0] in die Mikrowelle.
+
+                #Examine Steak Knife
+message_13:
+      text: Du nimmst das \c[13]STEAKMESSER\c[0].
+
+# Auto-equip steak KNIFE
+
+message_14:
+      text: The \c[4]MICROWAVED STEAK\c[0] is ready.
+
+                # Examine BED
+
+message_15:
+      text: A very, very comfortable bed.\!<br>Would you like to go to sleep?
+
+
+# =========================================================================================
+# MOM'S STICKY NOTEs
+# =========================================================================================
+
+#EXAMINE note
+
+message_20:
+      text: There is a sticky note on the mirror.
+
+message_21:
+      text: There is a sticky note on the wall.
+
+#First line always
+
+message_22:
+      text: \"Hallo, \n[8]! Hier ist eine Notiz von MAMI.\"\n<MAMAS HAFTNOTIZ>
+
+#Bathroom mirror
+
+message_23:
+      text: \"Denk dran, jeden Tag deine Zähne zu putzen!\"\n<MAMAS HAFTNOTIZ>
+
+#Living Room
+
+message_24:
+      text: \"Wenn du das Haus verlässt, schau in beide Richtungen bevor du die Straße überquerst!\"\n<MAMAS HAFTNOTIZ>
+
+#Bedroom
+
+message_25:
+      text: \"Ich hab Essen für dich im Kühlschrank unten hinterlassen.<br>Es ist \c[4]STEAK\c[0]... dein Leibgericht!\"\n<MAMAS HAFTNOTIZ>
+
+#last Line always
+
+message_29:
+      text: \"Hab dich lieb. Küsschen, Küsschen!\"\n<MAMAS HAFTNOTIZ>
+
+
+#Day 1:
+
+message_50:
+      text: \"Hey \n[8], hier ist MAMI.\!<br>Wie geht es dir?\! Ernährst du dich gut?\"\n<MAMAS SPRACHNACHRICHT>
+
+message_51:
+      text: \"Ich wollte heute heimkommen, um dich zu sehen, aber heute endet ein großer Möbel-Schlussverkauf, und ich kann einem Schnäppchen einfach nicht widerstehen!\"<br>\"Du kommst ein paar Tage allein zurecht, oder?\!<br>Schließlich bist du jetzt ein großer Junge!\"\n<MAMAS SPRACHNACHRICHT>
+
+message_52:
+      text: \"Denk dran, deine Aufgaben zu erledigen bis ich heimkomme.\! Ich hab auf dem Tisch neben deiner Tür eine Notiz hinterlassen.\! Okay, das war's erstmal!\! MAMI hat dich lieb!\! Tschüss, mein Schatz!\"\!\quake[1] \}Bzzt...\quake[0]\n<MAMAS SPRACHNACHRICHT>
+
+#Day 2:
+
+message_55:
+      text: \"Hey \n[8], it's MOMMY.\! Are you doing okay?\! You haven't been answering my calls or responding to my voicemails!\! If you keep ignoring me, I'll start to get worried again!\"\n<MAMAS SPRACHNACHRICHT>
+
+message_56:
+      text: \"I hope you're pacing your chores...\! I don't think even I could finish everything in one day!\"\n<MAMAS SPRACHNACHRICHT>
+
+message_57:
+      text: \"Did you end up visiting KEL?\! If not, it's alright... I understand.\! Just take things at your own pace...\"\n<MAMAS SPRACHNACHRICHT>
+
+message_58:
+      text: \"By the way, can you check the closet downstairs and see if there's anything you want to keep?\! We'll probably just throw away whatever you don't want anymore.\"\n<MAMAS SPRACHNACHRICHT>
+
+message_59:
+      text: \"There's only two days left before I come pick you up.\!<br>Ok, that's it for now!\! MOMMY loves you!\! Bye, honey!\"\!\quake[1] \}Bzzt...\quake[0]\n<MAMAS SPRACHNACHRICHT>
+
+#Day 3:
+
+message_60:
+      text: \"Hey \n[8], it's MOMMY.\! Tomorrow is the big day!\!<br>The movers will be here first thing tomorrow morning.\! I gave them the keys so don't freak out if you see them."\n<MAMAS SPRACHNACHRICHT>
+
+message_61:
+      text: \"Remember to finish organizing your things today.\! I'll be picking you up in my car out front.\! Just come outside when you're ready.\"\n<MAMAS SPRACHNACHRICHT>
+
+message_62:
+      text: \"Okay, that's it for now!\! MOMMY loves you!\! Bye, honey!\"\!\quake[1] \}Bzzt...\quake[0]\n<MAMAS SPRACHNACHRICHT>
+
+#Day 4:
+message_66:
+      text: \"Hey \n[8], it's MOMMY.\! I'm waiting for you outside, so just come out when you're ready.\! MOMMY loves you!\! Bye, honey!\"\!\quake[1] \}Bzzt...\quake[0]\n<MAMAS SPRACHNACHRICHT>

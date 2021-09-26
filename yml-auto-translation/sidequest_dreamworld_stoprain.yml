@@ -1,0 +1,98 @@
+message_1:
+  text: \n<VEGGIE KID>\Com[2]Ahhhh!\! Es regnet zu stark!\!<br>Das macht uns etwas ungemütlich!
+message_2:
+  text: \n<VEGGIE KID>Es gibt ein mystisches Ventil in der Nähe, das unseren Regenfall kontrolliert, aber nur der AUSERWÄHLTE ist in der Lage, es zu drehen...
+message_3:
+  text: \n<VEGGIE KID>Wenn uns niemand hilft, sind wir dazu verdammt, für immer etwas ungemütlich zu sein!
+message_4:
+  text: \n<VEGGIE KID>Wir fühlen uns leicht unwohl!\! Bitte mach, dass es aufhört!
+message_5:
+  text: \n<VEGGIE KID>Ich bin etwas irritiert über die Menge an Regen.
+message_6:
+  text: \n<VEGGIE KID>Wenn nur der Regen etwas leichter wäre...
+message_7:
+  text: \n<VEGGIE KID>Es regnet einfach ein bisschen zu viel, findest du nicht?
+message_8:
+  text: \n<VEGGIE KID>Ich fühle mich unwohl.
+message_9:
+  text: \n<VEGGIE KID>Dieser Regen ist etwas unerträglich.
+message_10:
+  text: \n<VEGGIE KID>Ich fühle ein kleines Maß an körperlichem Unbehagen.
+message_11:
+  text: \n<VEGGIE KID>Auf der Skala von bequem bis unangenehm,\. wobei 1 sehr bequem und 10 sehr unangenehm ist,\. Ich bin bei einer 6.
+message_12:
+  text: \n<VEGGIE KID>Bleh!
+message_13:
+  text: \n<VEGGIE KID>Ick!
+message_14:
+  text: \n<VEGGIE KID>Eklig!
+message_15:
+  text: \n<VEGGIE KID>Ewwie!
+message_16:
+  text: \n<VEGGIE KID>Bleurgh!
+message_17:
+  text: \n<VEGGIE KID>Gross!
+message_18:
+  text: Möchtest du das Ventil etwas nach rechts oder links drehen?
+message_19:
+  text: RECHTS
+message_20:
+  text: Der Regen ist jetzt etwas leichter geworden.
+message_21:
+  text: LINKS
+message_45:
+  text: Die Regenfälle verstärken sich und überfluten \c[11]RAIN TOWN\c[0].<br>\c[11]RAIN TOWN\c[0] und seine Bewohner wurden nie wieder gehört.
+message_46:
+  text: Du bist der Held von \c[11]RAIN TOWN\c[0]!
+message_22:
+  text: Es rührt sich nicht.
+message_23:
+  text: \n<VEGGIE KID>Der Regen wurde eingestellt!\! Toll!\!<br>Danke, CHOSEN ONE!\!<br>Wir werden uns für immer an deinen Akt der Freundlichkeit erinnern.
+message_24:
+  text: \n<VEGGIE KID>Was ist das, Kind?\! Willst du mit ihnen gehen?\! Bist du sicher?
+message_25:
+  text: \n<VEGGIE KID>Wenn das dein Wunsch ist...
+message_26:
+  text: \n<VEGGIE KID>Ausgewählt...\! Dieses Kind möchte dich auf deiner Suche begleiten.\!<br>Sie gehört jetzt dir.\! Bitte kümmere dich gut um sie.
+message_27:
+  text: Du hast ein \c[13]VEGGIE KID\c[0].
+message_28:
+  text: \n<VEGGIE KID>Geht voran, ihr Helden! Deine Reise wartet auf dich!
+message_29:
+  text: \n<VEGGIE KID>Geht voran, ihr Helden! Deine Reise wartet auf dich!
+message_30:
+  text: \n<VEGGIE KID>Der Regen ist gerade in einer perfekten Intensität!
+message_31:
+  text: \n<VEGGIE KID>Ahh...\! so...\! bequem...
+message_32:
+  text: \n<VEGGIE KID>Ich bin zufrieden mit der Menge an Regen.
+message_33:
+  text: \n<VEGGIE KID>Der Regen ist jetzt angenehm, da er etwas heller ist...
+message_34:
+  text: \n<VEGGIE KID>Es regnet die perfekte Menge, findest du nicht?
+message_35:
+  text: \n<VEGGIE KID>Ich fühle mich wohl.
+message_36:
+  text: \n<VEGGIE KID>Dieser Regen fühlt sich toll an!
+message_37:
+  text: \n<VEGGIE KID>Ich fühle mich wohl.
+message_38:
+  text: \n<VEGGIE KID>Auf der Skala von komfortabel bis unkomfortabel,\. wobei 1 sehr komfortabel und 10 sehr unkomfortabel ist,\. Ich bin bei einer 1.
+message_39:
+  text: \n<VEGGIE KID>Hurra!
+message_40:
+  text: \n<VEGGIE KID>Fühlt sich gut an!
+message_41:
+  text: \n<VEGGIE KID>Yahoo!
+message_42:
+  text: \n<VEGGIE KID>Huzzah!
+message_43:
+  text: \n<VEGGIE KID>Whoopee!
+message_44:
+  text: \n<VEGGIE KID>Yay!
+message_50:
+  text: Die Oberfläche des Wassers schimmert.
+message_51:
+  text: Willst du es aufmerksam anstarren?
+message_52:
+  text: Die Oberfläche des Wassers strahlt eine dunkle Energie aus.

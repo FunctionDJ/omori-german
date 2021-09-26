@@ -1,0 +1,24 @@
+message_0:
+  text: Der Gestank dieses Mannes ist unbeschreiblich.
+message_1:
+  text: <br><br>Com[2]Warum machst du so ein Gesicht, Kumpel?<br>Com[2]Ist da was in meinem Gesicht?
+message_2:
+  text: \n<SMELLY HOBO>Hey, Bub... Kannst du ein paar Fünfer entbehren?<br>Ich bin dir wirklich dankbar.
+message_3:
+  text: \n<SMELLY HOBO>...\! Hey, Bub... Danke, dass du mir geholfen hast...<br>Du bist ein echter Freund gewesen.
+message_4:
+  text: \n<SMELLY HOBO>So...\! Ich habe etwas Besonderes für dich...
+message_5:
+  text: \n<SMELLY HOBO>\SINV[1]Streck deine Hände für mich aus und schließ deine Augen...\SINV[0]
+message_6:
+  text: Du spürst etwas Kaltes an deinen Handflächen.
+message_7:
+  text: Du hast eine \c[13]GOLD WATCH\c[0]!\!
+message_8:
+  text: \n<SMELLY HOBO>\Com[2]Gefällt es dir!?! Da du so gnädig warst, dachte ich, ich könnte dir etwas von meiner Ware abgeben...\! Heh, heh...\! Das ist echtes Gold! Ich schwöre es!
+message_9:
+  text: \n<SMELLY HOBO>Danke euch herzlich!
+message_20:
+  text: Du hast $\v[602].00 an SMELLY HOBO gespendet.
+message_21:
+  text: \n<SMELLY HOBO>Wie gefällt dir deine neue \c[13]GOLD WATCH\c[0]!? Die ist echtes Gold, sag ich dir!

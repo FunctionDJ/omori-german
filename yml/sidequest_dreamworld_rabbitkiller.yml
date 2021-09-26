@@ -1,0 +1,65 @@
+### Translation: Finished
+### Editing: None
+
+### Translated by: Lugitaro 🐉#0893
+
+# =========================================================================================
+# RABBIT KILLER
+# ========================================================================================
+
+message_1:
+      text: \n<BLATTI>Weißt du, was ich mehr als alles andere hasse?\!<br>\quake[1]Häschen.\quake[0]\! Ganz genau.\! \quake[1]Häschen.\quake[0]
+
+message_2:
+      text: \n<BLATTI>Ich hasse sie einfach so sehr.\!<br>Wenn ich mir eine einzige Sache wünschen könnte, <br>dann wäre das die Vernichtung aller \quake[1]Häschen\quake[0] auf der Welt.
+
+#If you killed at least 1 bunny
+
+message_3:
+      text: \n<BLATTI>Hey, du scheinst ein paar \quake[1]Häschen\quake[0] besiegt zu haben!\!<br>Ja, genau.\! Ich brauche dich nur anzuschauen, um zu wissen, wie viele \quake[1]Häschen\quake[0] du besiegt hast.
+
+message_4:
+      text: \n<BLATTI>So sehr hasse ich \quake[1]Häschen.\quake[0]
+
+message_5:
+      text: \n<BLATTI>Hör mal her.\! Machen wir einen Deal.\!<br>Falls du mindestens 5 \quake[1]Häschen\quake[0] besiegst, melde dich wieder bei mir...\! Ich gebe dir dann was Schönes.
+
+message_6:
+      text: \n<BLATTI>Nun geh und vernichte die \quake[1]Häschen!\quake[0]
+
+#MEETING GOALS
+
+#Set variable for number of bunnies defeated and the next count
+
+message_7:
+      text: \n<BLATTI>\Com[2]Prächtig!\! Wie ich sehe, hast du mehr \quake[1]Häschen\quake[0] vernichtet.\!<br>Somit wurden \v[615] \quake[0]Häschen ausgelöscht\quake[0]!\!<br>Vielen Dank, lieber Häschenhass-Genosse.
+
+message_8:
+      text: \n<BLATTI>So...\! wenn du doch nur \v[1001] \quake[1]Häschen\quake[0] töten könntest,<br>würde ich dich nochmal belohnen!
+
+#DEFAULT TEXT:
+
+message_9:
+      text: \n<BLATTI>Hallo, Häschenhass-Genosse!\!<br>Ein Blick in deine Augen verrät mir, dass du \v[615] \quake[1]Häschen\quake[0] getötet hast.
+
+message_10:
+      text: \n<BLATTI>Für deine nächste Belohnung musst du \v[1001] weitere \quake[1]Häschen\quake[0] töten.\!<br>Nun geh und vernichte die \quake[1]Häschen!\quake[0]
+
+#PRIZES: COTTON BALL, BUNNY EARS, RABBIT FOOT, CONSUMABLES
+
+message_11:
+      text: Du erhältst einen \c[13]WATTEBAUSCH\c[0].
+
+message_12:
+      text: Du erhältst \c[13]HASENOHREN\c[0].
+
+message_13:
+      text: Du erhältst eine \c[13]HASENPFOTE\c[0].
+
+#After defeating 50 bunnies
+
+message_15:
+      text: \n<BLATTI>\Com[2]Prächtig!\! Ich habe keine weiteren Bitten an dich, Häschenhass-Genosse!
+
+message_16:
+      text: \n<BLATTI>Nun geh und vernichte mehr \quake[1]Häschen!\quake[0]

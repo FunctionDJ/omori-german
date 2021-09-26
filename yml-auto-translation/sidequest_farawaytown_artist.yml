@@ -1,0 +1,34 @@
+message_0:
+  text: \artSieh dir diese Skizze für mich an.\!<br>Was denkst du?\! Die Zeichnung sieht zu steif aus, oder?
+message_1:
+  text: \artThanks, das dachte ich auch.
+message_2:
+  text: \artAh... das sieht so viel besser aus.
+message_3:
+  text: \artReally?\! Hmm...\! Ich weiß nicht...\! Es sieht ein bisschen steif aus.
+message_4:
+  text: <br>Ich habe das Gefühl, dass diesem Stück etwas fehlt.<br>Vielleicht braucht der Charakter ein wenig mehr Details?
+message_5:
+  text: \art...\! Oh, ich weiß!\!<br>Ich kann hier, hier, hier und hier ein paar Details hinzufügen!\!<br>Das würde funktionieren, oder?
+message_6:
+  text: \Natürlich... es ist so offensichtlich, denkst du nicht auch?
+message_7:
+  text: \artAh, schön.\!<br>Das zusätzliche Detail macht wirklich einen Unterschied!
+message_8:
+  text: \artHmm...\! Bist du dir sicher?\!<br> Ich habe das Gefühl, dass es wirklich ein bisschen mehr Details vertragen könnte...
+message_9:
+  text: \artHey, könnte ich mal kurz deine Meinung hören?\!<br>Was denkst du über die Farbe hier?\!<br>Soll ich den Hintergrund rot oder blau machen?
+message_10:
+  text: \art...\! Warte, antworte nicht.\!<br>Das würde mit einem roten Hintergrund definitiv besser aussehen, oder?
+message_11:
+  text: \artIch stimme dir vollkommen zu!\!<br>Rot ist hier zweifellos die richtige Wahl.\!<br>Rot bringt dieses Bild auf das nächste Level!
+message_12:
+  text: \artDas Stück ist endlich fertig!
+message_13:
+  text: \artThanks.\! Ohne dich hätte ich das nicht geschafft.
+message_14:
+  text: \artReally?\! Ich dachte, Rot würde richtig gut funktionieren...
+message_19:
+  text: \artYes...it's all coming to me now!\!<br>\sinv[1]\{INSPIRATION HAS STRIKETH!
+message_20:
+  text: \artAnd...\! \{\SINV[1]VO\{IL\{A!!\SINV[0]\}\}

@@ -1,0 +1,196 @@
+message_0:
+  text: \Zappel, zappel, zappel...\who\}! Pst, pst, pst...
+message_1:
+  text: \Sieh mich an...<br>Ich bin wirklich die schönste SPROUT MOLE, nicht wahr?
+message_221:
+  text: \n<BOX MOLE>Weihnachten ist meine Lieblingszeit im Jahr, warum also nicht einfach immer Weihnachten feiern?
+message_2:
+  text: \n<BOX MOLE>Weihnachten ist ruiniert...
+message_3:
+  text: \n<CHEF MOLE>Ah ja, willkommen!\! Du musst hier sein, um etwas über die beste kulinarische Errungenschaft seit geschnittenem Brot zu erfahren...\! \Com[2]\c[3]TOFU\c[0]!
+message_4:
+  text: \n<CHEF MOLE>C'est magnifique!\!<br>Hier ist dein \c[3]TOFU\c[0] Trivia für den Tag.
+message_5:
+  text: \n<CHEF MOLE>\Com[2]Wie kannst du es wagen, der Majestät von \c[3]TOFU\c[0] zu trotzen!?"<br>Raus mit dir! Du widerst mich an!
+message_6:
+  text: \n<CHEF MOLE>Man braucht zwölftausendsechshundertzweiundsiebzig Blöcke von \c[3]TOFU\c[0], die der Länge nach aneinandergereiht sind, um eine Meile zu ergeben!
+message_7:
+  text: \n<CHEF MOLE>Es gibt vier Arten von \c[3]TOFU\c[0]...\!<br>Fest, extra fest, weich und seidig!
+message_8:
+  text: \n<CHEF MOLE>Fest \c[3]TOFU\c[0] kann unter Rühren gebraten, gebacken, gewürfelt und so ziemlich alles andere werden.\! Das liegt daran, dass es seine Form beibehalten und trotzdem den Geschmack aufnehmen kann!
+message_9:
+  text: \n<CHEF MOLE>Soft \c[3]TOFU\c[0] wird am besten roh oder abgetropft zubereitet.\! Es ist am besten für Desserts, Smoothies, Dips und Saucen geeignet!
+message_10:
+  text: \n<CHEF MOLE>Silken \c[3]TOFU\c[0] ist cremig und kann zum Backen, für Dressings, Saucen, Smoothies und Desserts verwendet werden!
+message_11:
+  text: \n<CHEF MOLE>Geräuchertes \c[3]TOFU\c[0] ist eine tolle Alternative für Fleisch!
+message_12:
+  text: \n<CHEF MOLE>Da \c[3]TOFU\c[0] einen hohen Sojaanteil hat, ist es nicht gut für dich, wenn du Nierensteine hast!
+message_13:
+  text: \n<CHEF MOLE>Der beste Weg, um dem \c[3]TOFU\c[0] Geschmack zu verleihen, ist es, es zu glasieren, bis es golden ist, und dann eine Marinade hinzuzufügen.\! Es wird alle Aromen aufsaugen, bis die Sauce zu Sirup wird, der an der Pfanne kleben bleibt!
+message_14:
+  text: \n<CHEF MOLE>Wenn du mehr über das erstaunliche und majestätische \c[3]TOFU\c[0] wissen möchtest, kannst du dich gerne wieder mit mir unterhalten.\! Ho-ho!
+message_20:
+  text: \n<DOUBLE MOLE>Wir sind zwei!\! Wir sind eins!\! Wir sind zu zweit!
+message_21:
+  text: \n<DUNCE MOLE>Diese Wand ist schön kalt!
+message_22:
+  text: \n<MAYOR MOLE> Ich arbeite an einer revolutionären Technologie, die alles Leben in der Kolonie...\! nein...\! der Welt verändern wird!
+message_23:
+  text: \n<MAYOR MOLE JR>Es ist in letzter Zeit so schwer, einen guten Schlaf zu bekommen! Wenn ich nur etwas hätte, um die Erfahrung des Schlafens angenehmer zu machen...
+message_24:
+  text: \n<FAMILIENMOLE> Ich hasse Montags.
+message_25:
+  text: \n<FAMILIENMOLE>Wir SPROUT MOLES trauen uns seit dem großen Umzug nicht, die Kolonie zu verlassen.\! Es war eine harte Zeit...
+message_26:
+  text: \n<FAMILIENMOLE>Viele von uns haben es nicht geschafft...\! SPROUT MOLES sind links und rechts verloren gegangen...\! Kinder wurden von ihren Familien getrennt!\! Oh, der Horror!
+message_27:
+  text: \n<FAMILIENMOLE>Ich meine, wenigstens ist jetzt alles in Ordnung...\! zum größten Teil.
+message_30:
+  text: \n<FAMILIENMOLE>SPROUT MOLES sind zwar intelligent, aber auch sehr obsessive Kreaturen.\! Wie du sehen kannst, fehlt mir jeglicher Anschein von Selbstkontrolle.
+message_32:
+  text: \n<OFFIZIER MOLE>Es ist unsere Pflicht als Offiziere, diese Tunichtgute hier einzusperren, um den Frieden zu wahren!
+message_33:
+  text: \n<SPORT MOLE>Huff...\! huff huff...
+message_40:
+  text: \n<STUDENT MOLE>Hey, schau dir dieses coole Ding an, das ich gezeichnet habe!
+message_41:
+  text: \n<STUDENT MOLE>D-Denkst du, dass wir alle noch Freunde sein werden, nachdem wir den Abschluss gemacht haben?
+message_42:
+  text: \n<STUDENT MOLE>Trotz all meiner \QUAKE[1]rage\QUAKE[0], bin ich immer noch nur ein Maulwurf in einem Käfig.
+message_43:
+  text: \n<SOUS CHEF MOLE>Wie kannst du es wagen, so eine Blasphemie auszusprechen!\! Es ist nur allgemein bekannt, dass \c[3]TOFU\c[0] besser ist, wenn es heiß serviert wird!
+message_44:
+  text: \n<SOUS CHEF MOLE>Sind Sie verrückt?\! Jede SPROUT MOLE mit gesundem Menschenverstand weiß, dass \c[3]TOFU\c[0] besser ist, wenn es kalt serviert wird!
+message_45:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 39
+  text: \herHey, es gibt keinen Grund zu streiten. \ Warum kommt ihr zwei nicht zu einem Kompromiss?
+message_46:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 37
+  text: \herWer weiß? \! Vielleicht habt ihr beide recht!\! Oder vielleicht kannst du \c[3]TOFU\c[0] auf eine Art und Weise kochen, die noch nicht gemacht wurde...\! Irgendwo zwischen heiß und kalt, wie...
+message_47:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 47
+  text: \her Ich weiß nicht...\! L-Lauwarm?
+message_48:
+  text: \n<SOUS CHEF MOLE>...
+message_49:
+  text: \n<SOUS CHEF MOLE>\sinv[1]Eeeeewwwwwwwwwwww...
+message_50:
+  text: \n<SOUS CHEF MOLE>Lauwarmes \c[3]TOFU\c[0]?\! Das ist die schlechteste Idee, die ich je gehört habe.\!<br>Selbst kaltes \c[3]TOFU\c[0] ist besser als das...
+message_51:
+  text: \n<SOUS CHEF MOLE>Lauwarmes \c[3]TOFU\c[0]?\! Ich möchte kotzen.\!<br>Selbst heißes \c[3]TOFU\c[0] ist besser als das...
+message_60:
+  text: \n<SOUS CHEF MOLE>Ich habe keine Ahnung, was ich hier mache!
+message_61:
+  text: \n<TEACHER MOLE>Ich habe keine Ahnung, was ich hier mache!
+message_62:
+  text: Diese SPROUT MOLE wird mit Superkleber an die Wand geklebt.
+message_80:
+  text: \n<BUTLER MOLE>Seufz...\! Jetzt, wo SWEETHEART weg ist, hat mein Leben keinen Sinn mehr...
+message_81:
+  text: \n<GUARD MOLE>Wenn SWEETHEART weg ist, hat mein Leben keinen Sinn mehr.
+message_82:
+  text: \n<MAID MOLE>Wenn SWEETHEART weg ist, hat mein Leben keinen Sinn mehr.
+message_83:
+  text: \n<ROSA>Nach dem Hochzeitsfiasko ging SWEETHEART weg und kam nie wieder zurück!\! \Com[2]Das ist alles deine Schuld!
+message_84:
+  text: \n<SPROUT MOLE MIKE>Seufz...\! Ich weiß nicht, was ich mit mir anfangen soll, jetzt wo SWEETHEART weg ist... Sie war mein Ein und Alles...
+message_85:
+  text: \n<BUTLER MOLE>Ich bin hierher gekommen, weil sie gesagt haben, dass sie Jobs anbieten...
+message_86:
+  text: \n<GUARD MOLE>Ich bin hierher gekommen, weil sie gesagt haben, dass sie Jobs anbieten...
+message_87:
+  text: \n<MAID MOLE>Ich bin hierher gekommen, weil sie gesagt haben, dass sie Jobs anbieten...
+message_100:
+  text: \n<SPROUT MOLE>Als seriöser Filmkritiker glaube ich, dass alle Werke von SWEETHEART jenseits dessen sind, was unser schwacher Verstand begreifen kann!
+message_101:
+  text: \n<SPROUT MOLE>Boy...\! Ihr kommt mir furchtbar bekannt vor.\!<br>Habe ich euch im Fernsehen gesehen!?
+message_102:
+  text: \n<SPROUT MOLE> Sei still! Das ist mein Lieblingsfilm!
+message_103:
+  text: \n<SPROUT MOLE>Oh, SWEETHEART...\! Du bist zu gut für diese Welt.
+message_104:
+  text: \n<SPROUT MOLE>Ich habe jede Folge von \"SWEETHEART'S QUEST FOR HEARTS\" mindestens sechs Mal gesehen!
+message_105:
+  text: \n<SPROUT MOLE>Ich bringe SWEETHEART mit mir, wohin ich auch gehe!\!<br>Sage Hallo, SWEETHEART!
+message_106:
+  text: \n<SPROUT MOLE>SWEETHEART ist die Einzige, die mich versteht...
+message_107:
+  text: \n<SPROUT MOLE>SWEETHEART ist in jeder Hinsicht perfekt.\!<br>Ich würde alles für sie tun...
+message_108:
+  text: \n<SPROUT MOLE>Ich liebe SWEETHEART so sehr, dass ich mich nicht einmal an eine Zeit vor ihr erinnern kann.\! Ernsthaft... Ich kann es nicht!
+message_109:
+  text: \n<SPROUT MOLE>\}SWEETHEART...\! Du wirst mein sein...\
+message_110:
+  text: \n<SPROUT MOLE>Sniff...\! SWEETHEART hat es wieder getan.\! Ich bin total gerührt.
+message_111:
+  text: \n<SPROUT MOLE>Sind Sie HERO, wie in \sinv[1]the\sinv[0] HERO aus \"SWEETHEART'S QUEST FOR HEARTS\"!?\! Dein Schauspiel war großartig!\! Ich habe wirklich geglaubt, dass du SWEETHEART abgelehnt hast!
+message_114:
+  text: \n<SPROUT MOLE>Nun, da \"SWEETHEART'S QUEST FOR HEARTS\" vorbei ist...\! ist auch mein Leben vorbei.
+message_120:
+  text: Eine ungemütlich-realistische SWEETHEART Puppe.
+message_121:
+  text: Es ist nicht lebendig.
+message_122:
+  text: Eine Auswahl an tödlichen Waffen...<br>Eine davon fehlt.
+message_130:
+  text: Yo, JIMZ! Es ist eine Weile her, Kumpel!<br> Wie war dein Wochenende, Mann?<br>
+message_131:
+  text: Wie geht's, LINDA? Hab dich schon ewig nicht mehr gesehen!<br>Wie geht es deinem alten Herrn?\! Ich vermisse den Kerl.\n<SPROUT MOLE>
+message_132:
+  text: Hey, SAL! Du hast abgenommen! Gut für dich!\n<SPROUT MOLE>
+message_133:
+  text: JEFFREY! Mein Mann!\! Es ist zu lange her.\!<br>Wir müssen uns mal wieder treffen.\n<SPROUT MOLE>
+message_200:
+  text: \sprIch habe meinen gesamten Vorrat an \c[3]TOFU\c[0] für diesen Sitz aufgegeben!
+message_201:
+  text: \sprIch habe meine College-Ersparnisse für diesen Sitz aufgegeben!
+message_202:
+  text: \sprIch habe mein Haus für diesen Sitz aufgegeben!
+message_203:
+  text: \sprIch habe meine Seele für diesen Sitz aufgegeben!
+message_204:
+  text: \spr\sinv[1]SWEETHEART... SWEETHEART...<br>Sie ist die Einzige für mich!\sinv[0]
+message_205:
+  text: \sprSWEETHEART ist perfekt!\! Sie macht keine Fehler!
+message_206:
+  text: \sprMeine Liebe zu SWEETHEART kennt keine Grenzen!
+message_207:
+  text: \sprSWEETHEART...\! Sie ist eine Göttin, die unter uns wandelt...<br>\!Wir sind so gesegnet.
+message_208:
+  text: \sprDie Show hat noch nicht einmal angefangen und ich zittere schon! \quake[1]<br>Warum hört das Zittern nicht auf!? \quake[0]
+message_209:
+  text: \"S\" steht für \"STUNNING\".\! \"W\" steht für \"WONDERFUL\".\!<br>\"E\" steht für \"EXTRAORDINARY\".\! \"E\" steht für \"EXCEPTIONAL\".\!<br>\"T\" steht für...\! \"TOFU\"...\! Mmm...\! Lecker \c[3]TOFU\c[0]...
+message_210:
+  text: \spr\"H\" steht für \"HEADSTRONG\".\! \"E\" steht für \"EXEMPLARY\".\!<br>\"A\" steht für \"ATTRACTIVE\".\! R steht für \"RADICAL.\"\!<br>Und \"T\" steht für...\! \"THE BEST!\", natürlich!
+message_211:
+  text: \spr\}Ja! SWEETHEART!
+message_212:
+  text: \sprIch habe gehört, dass es hier mal eine Bibliothek gab...<br>aber dann hat SWEETHEART ihre Bühne darüber gebaut...<br>Wer muss schon lesen, wenn man SWEETHEART hat!?
+message_213:
+  text: \sprEine Tomate mit einem anderen Namen würde genauso saftig schmecken.
+message_214:
+  text: \sprIch bin nur hier, um eine gute Zeit zu haben!
+message_215:
+  text: \sprich ich mochte früher nur SWEETHEART ironisch...\!<br>und jetzt bin ich hier...\! Was ist mit mir passiert?
+message_216:
+  text: \sprAnfänglich war ich skeptisch bei dieser ganzen SWEETHEART Sache, aber ich glaube, ich fange an, es zu verstehen...
+message_217:
+  text: \sprIch kam mit meiner Familie hierher, aber wir wurden auf dem Weg hierher getrennt...\! Vielleicht sehe ich sie nie wieder.
+message_218:
+  text: \sprIch habe gehört, dass SWEETHEART eigentlich ein \c[3]DONUT\c[0] ist...<br>Ich frage mich, ob die Gerüchte wahr sind...
+message_220:
+  text: Nun, das ist peinlich.
+message_225:
+  text: \n<???>Dieser Raum ist besetzt!
+message_226:
+  text: \Ich darf jetzt nicht gestört werden!
+message_227:
+  text: \n<???>Keine Menschen erlaubt!
+message_228:
+  text: \n<???>Dieser Raum ist nur für SPROUT MOLES!
+message_250:
+  text: \Es schadet nie, \c[3]TOFU\c[0] immer bei sich zu haben.\! Ich weiß, dass ich mich schon aus vielen brenzligen Situationen mit \c[3]TOFU\c[0] befreit habe!

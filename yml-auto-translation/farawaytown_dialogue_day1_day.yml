@@ -1,0 +1,194 @@
+message_1:
+  faceset: MainCharacters_Faraway
+  faceindex: 17
+  text: Hmm...\! Keiner antwortet...\kel
+message_2:
+  faceset: MainCharacters_Faraway
+  faceindex: 20
+  text: Vielleicht ist BASIL auf der Toilette oder so.\kel
+message_3:
+  faceset: MainCharacters_Faraway
+  faceindex: 12
+  text: Nun, das ist in Ordnung. Wir können ihn später einholen.\
+message_4:
+  faceset: MainCharacters_Faraway
+  faceindex: 14
+  text: Komm schon, \n[8]! Wir haben ein \c[4]FOTO ALBUM\c[0] zu finden! \kel
+message_10:
+  text: \n<ANGEL>Der Lehrer ging zum Brunnen am \c[11]FARAWAY PLAZA\c[0].\!<br>Er sagte, er würde dort ein paar Mädchen treffen für...\!<br>ein Date oder so...
+message_20:
+  text: \n<CHARLIE>...
+message_21:
+  text: \n<CHARLIE>... ... ...
+message_30:
+  text: \n<MAVERICK>Ich werde dir nicht sagen, wo AUBREY ist, außer du rufst mich an<br>\Com[2]DER MAVERICK!
+message_40:
+  text: \n<ARTIST>Hmmm...\! Dieses Stück ist vielleicht meine beste Arbeit bisher!
+message_50:
+  text: \n<Kurzhaar-Mädchen>Ich habe mir gerade gewünscht, dass ich heute meine einzig wahre Liebe treffen würde!
+message_51:
+  text: \n<SHORT HAIR GIRL>Wow...\! Der Junge mit der blonden Perücke ist so cool...\!<br>Ich wünschte, ich hätte sein Selbstbewusstsein.
+message_60:
+  text: \n<FASHIONABLE MOM>Mein Sohn BILLY ist so ein Umweltschützer.\! Er und seine Freunde sammeln ständig \c[4]TRASH\c[0] in der Stadt ein.
+message_61:
+  text: \n<FASHIONABLE MOM>Es ist gut zu sehen, dass so viele junge Menschen heutzutage auf den Planeten aufpassen!
+message_70:
+  text: \n<STRANGE MAN>Alle Container in diesem Bereich können recycelt werden, um neue Container zu erschaffen, immer und immer wieder...\!<br>So ein schönes Konzept, nicht wahr?
+message_80:
+  text: \n<SCHULLEITUNG>Gut gemacht, Tutor...\! Du kannst gerne morgen wieder kommen!
+message_90:
+  text: \n<OLD BEARDY>Aye, Kiddos. Du hast mich in meiner Pause erwischt!
+message_91:
+  text: \n<OLD BEARDY>\SINV[2]GW\{AH\{AHA\{HAH\{AHA!!\SINV[0]
+message_92:
+  text: \n<OLD BEARDY>Ich versuche schon seit gut zehn Minuten zu entscheiden, was ich essen soll, aber ich weiß nicht, warum ich so viel Aufhebens mache...
+message_93:
+  text: \n<OLD BEARDY>Was auch immer ich bekomme, es wird sicher gut sein!
+message_100:
+  text: \n<GELBES BUNTE GRANNY>Meine jüngste Tochter ist normalerweise so aufmerksam von mir...\! Ich frage mich, wo sie ist.
+message_101:
+  text: \n<GELBE BUNTE GRANNY>Sie war schon immer ziemlich ruhig, aber sie hat in letzter Zeit viele neue Freunde gefunden.\! Ich hoffe, sie vergisst mich nicht...
+message_110:
+  text: Die Augen des ALL-AMERICAN GUYs sind auf den Fernseher fixiert.
+message_111:
+  text: \n<ALL-AMERICAN GUY>\Com[2]Nummer 85 war weit offen!\! \Com[2]Was war das denn für ein Pass!?
+message_120:
+  text: \n<ALL-AMERICAN MOM>Hat dir der Kuchen geschmeckt?\!<br>Ich arbeite daran, mein Rezept für das Bezirksfest am Ende des Sommers zu perfektionieren!
+message_121:
+  text: \n<ALL-AMERICAN MOM>Ich habe bisher jedes Jahr gewonnen, an dem ich teilgenommen habe, und ich hoffe, dass es dieses Jahr nicht anders sein wird!\! Ohoho!
+message_130:
+  text: \n<CUTE GIRL>Willkommen!\! Wir hoffen, dass unser \c[3]CANDY\c[0] dich zum Lächeln bringt!
+message_131:
+  text: \n<MISS CANDICE>\{\com[2]ICH HABE ES DIR GESAGT, CURTSEY!\! IT'S \sinv[1]\"SMILEY\"\sinv[0]!\!
+message_132:
+  text: \n<MISS CANDICE>\{\{\quake[1]\sinv[1]\"S\.M\.I\.L\.E\.Y\.!\"\sinv[0]
+message_133:
+  text: \n<CUTE GIRL>Y-Y-Y-Y-Y-Y, Ma'am!
+message_134:
+  text: \n<CUTE GIRL>Willkommen!\! Wir hoffen, dass unser \c[3]CANDY\c[0] dich zum Lächeln bringt!
+message_140:
+  text: \n<A TWIN>\SINV[1]Frisches Brot...\SINV[0]
+message_141:
+  text: \n<THE OTHER TWIN>\SINV[1]Frisches Brot...\SINV[0]
+message_142:
+  text: \n<THE TWINS>\SINV[1]Möchtest du ein frisches Brot?\SINV[0]
+message_150:
+  text: \n<brillenmann>Hallo, hallo!\! Mein Name ist GINO!
+message_151:
+  text: \n<GLASSES MAN>Ich weiß, was du denkst, und nein... Mir gehört der Laden nicht...\! Aber sie schenken mir jedes Jahr eine GANZE PIZZA zu meinem Geburtstag, das ist ziemlich cool.
+message_160:
+  text: \n<HECTOR>\quake[1]\Com[2]Bark! \{Bellen! \{Bellen!\}} Bark!\! \{Bark! \}Bark! \}Bellen!\quake[0]<br>\(Ich bin ein guter Junge!)
+message_170:
+  text: \n<JOCK>Huff...\! Huff...\! Oh, hey!\! Was ist los?\! Huff...\!<br>Was machst du hier, KEL?<br> Bist du aus diesem Teil der Stadt?
+message_171:
+  faceset: MainCharacters_Faraway
+  faceindex: 17
+  text: \kelOh, whoa! Ich habe nicht erwartet, dich hier zu sehen, JAY!
+message_172:
+  faceset: MainCharacters_Faraway
+  faceindex: 12
+  text: \kel\n[8], das ist JAY. Er ist der Kapitän des Footballteams an meiner Highschool! \! Ich wusste nicht, dass du auch Basketball spielst!
+message_173:
+  text: \n<JOCK>Ehh...\! Huff...\! Ich bin nur hier um die Zeit totzuschlagen.\! Es ist mehr ein Hobby als alles andere.
+message_174:
+  text: \n<JOCK>Du versuchst dich dieses Jahr für das Basketballteam, richtig KEL?\! Vielleicht kannst du mir ein paar deiner Tricks beibringen!
+message_175:
+  faceset: MainCharacters_Faraway
+  faceindex: 14
+  text: \kelJa, definitiv! Das klingt nach Spaß...
+message_176:
+  faceset: MainCharacters_Faraway
+  faceindex: 12
+  text: \kelAber...vielleicht ein anderes Mal.\! Mein Kindheitsfreund \n[8] hier verlässt die Stadt in den nächsten Tagen, also hängen wir heute den ganzen Tag ab.
+message_177:
+  faceset: MainCharacters_Faraway
+  faceindex: 14
+  text: \kel Ich werde dich aber auf jeden Fall später nachholen!
+message_178:
+  text: \n<JOCK>Sicher, wir können nächste Woche etwas arrangieren.\!<br>Gleiche Zeit, gleicher Ort?
+message_179:
+  faceset: MainCharacters_Faraway
+  faceindex: 14
+  text: \kelYup! Klingt gut! Wir sehen uns dann!
+message_180:
+  text: \n<JOCK>Huff...\! Huff...\! Huff...\! Huff...
+message_190:
+  text: \n<WRINKLY FOREHEAD>Hey, Kumpels! Es ist schön euch zu sehen.\! Ich gehe nur herum und fege, hebe \c[4]TRASH\c[0] auf und wische Oberflächen ab...\!<br>Du weißt schon...\! die übliche Arbeit.
+message_191:
+  text: \n<Gedankenverloren>Seufz...\! Es gibt so viel zu putzen...\! Es ist einfach nicht möglich für eine Person!
+message_200:
+  text: \n<KLEINES MÄDCHEN>Dad ist besonders hart zu mir, weil mein großer Bruder MICHAEL nicht mehr zur Schule geht, um Musiker zu werden...
+message_201:
+  text: \n<SMALL GIRL>Er spielt manchmal Gitarre im \c[11]FARAWAY PLAZA\c[0]!<br>Er ist wirklich gut!
+message_210:
+  text: \n<THICK EYEBROWS>Amazing work! Du solltest in Erwägung ziehen, hauptberuflich Nachhilfe zu geben!<br>Bitte komm morgen wieder!
+message_220:
+  text: \n<PIGTAILS LADY>Bitte komm uns besuchen, wenn du Zeit hast!
+message_221:
+  text: \n<PIGTAILS LADY>Wir denken daran, in zwei Tagen eine Einweihungsparty zu feiern.\! Es wäre toll, wenn du dich uns anschließen könntest!
+message_230:
+  text: \n<COLORFUL GIRL>Dieser Ort ist ziemlich klein, aber er hat eine Menge alter und seltener Sammlerstücke.\! Die Leute kommen sogar den ganzen Weg aus der Stadt, um hier einzukaufen!
+message_240:
+  text: \n<GRUFF GUY>Grummeln, grummeln...\! Das Rohr ist wieder gebrochen...
+message_241:
+  text: \n<GRUFF GUY>Ratten...\! Ich denke, ich werde es morgen wieder versuchen...
+message_250:
+  text: \SINV[2]Snip, snip...\! snip, snip, snip...\SINV[0]
+message_251:
+  text: \n<RED-GLASSES LADY>Ah, hallo, ihr zwei! Ich habe euch nicht so früh erwartet!
+message_252:
+  text: \n<RED-GLASSES LADY>Guck mal, hier!\! Die Pflege dieser Bonsai ist ein Hobby von mir.\!<br>Es hilft mir...\! den Stress abzubauen.
+message_253:
+  text: \n<RED-GLASSES LADY>Danach werde ich anfangen, das Abendessen für meine Kinder, KIM und VANCE, heute Abend vorzubereiten.\! Sie kommen besser nicht wieder zu spät...\! oder sonst...
+message_254:
+  text: \SINV[2]SNIP, \{SNIP, SNIP, \{SNIP, SNIP, \{SNIP!!
+message_260:
+  text: \n<GOOD DOG>\beben[1]\{BARK! \}BARK!\! \{BARK! \{BARK! \}BARK! \}BARK!
+message_261:
+  text: \n<ARTIST>\Com[2]\{LUCAS, hör auf zu quasseln!
+message_270:
+  text: Sie zieht fleißig weiter.
+message_280:
+  text: \n<PRETTY BOY>Das Leben war in letzter Zeit ziemlich stressig, aber das Beobachten der Leute hier draußen hilft mir, die Dinge ins rechte Licht zu rücken.
+message_281:
+  text: \n<PRETTY BOY>Ich könnte es mir zur Gewohnheit machen, öfter in diesen Park zu kommen...<br>Ich schätze, manchmal ist alles, was man zum Entspannen braucht, anzuhalten und die Rosen zu riechen!
+message_282:
+  text: \n<PRETTY BOY>Oh nein, du siehst aus, als ob du verletzt wärst!\! Hier ist ein \c[5]BANDAGE\c[0].\! Du kannst mehr in der \c[11]PHARMACY\c[0] in \c[11]OTHERMART\c[0] bekommen.
+message_283:
+  text: Du hast eine \c[5]BANDAGE\c[0].
+message_290:
+  text: \Seufz...! Gibt es nichts, was ich tun kann?
+message_300:
+  text: \n<PRECHER>Ich bin auf dem Weg zur \c[11]KIRCHE\c[0], aber es ist ein Ritual von mir, einen kurzen Spaziergang zu machen, bevor ich meine Predigten halte.
+message_301:
+  text: \n<PREACHER>Ich habe seit meiner Kindheit schreckliches Lampenfieber, aber ein landschaftlicher Spaziergang scheint meine Nerven immer zu beruhigen!
+message_310:
+  text: \n<RECYCULTIST>Wir sind RECYCULTISTS, Anhänger des HEILIGEN BIN!
+message_311:
+  text: \n<RECYCULTIST>Da alle weggeworfen haben, müssen alle akzeptieren, dass sie \c[4]TRASH\c[0] sind!
+message_312:
+  text: \n<RECYCULTIST>\Com[2]\{REDUCE, REUSE, AND RECYCLE!!!
+message_320:
+  text: \n<PONYTAIL GIRL>Meine Mama und ich sind hier und kaufen gesunde Sachen im \c[11]OTHERMART\c[0], weil sie gestern alle Snacks in unserem Haus weggeworfen hat...
+message_321:
+  text: \n<PONYTAIL GIRL>Ich glaube, sie ist auf einem Gesundheitswahn, seit mein Dad in letzter Zeit nur noch Junk Food isst...\! Warum können wir nicht beides machen?
+message_323:
+  text: \n<PONYTAIL LADY>Mein Mann isst ständig Junk Food! Ich muss dafür sorgen, dass er eine gesunde Mahlzeit zu sich nimmt.
+message_330:
+  text: \n<CLUMSY GUY>Meine Frau sagt mir ständig, dass ich immer pummeliger werde, aber ich kann einfach nicht anders, wenn wir so nah an leckerem Essen wie \c[11]GINO'S PIZZA\c[0] wohnen!
+message_331:
+  text: \n<CLUMSY GUY>Oh...\! mmm...\! pizza...
+message_340:
+  text: \n<CHECKERS GUY>Danke vielmals für deine Hilfe!\! Wir kommen beide aus der Gegend, sind aber erst vor kurzem zusammen in ein nagelneues Haus eingezogen...
+message_341:
+  text: \n<CHECKERS GUY>Es ist auf der Straße in der Nähe der \c[11]KIRCHE\c[0].
+message_350:
+  text: \n<CREEPY GUY>Grußworte, Mensch!\! Bitte nenn mich TUCKER...
+message_400:
+  text: Ein unscheinbarer Bienenstock.\! Willst du es stören?
+message_420:
+  text: \n<PHARMACIST>Geht es euch Kindern gut? Einige Passanten haben euch beide ohnmächtig auf dem Boden gefunden, bedeckt mit Wespenstichen, und haben euch hierher gebracht.
+message_421:
+  text: \n<PHARMACIST>Ich habe dich bereits behandelt...\! und...\! zum Glück sieht es so aus, als ob keiner von euch allergisch ist, also sollte es euch gut gehen!
+message_422:
+  text: \n<PHARMACIST>Aber das nächste Mal solltest du nicht so mit Wespennestern spielen Mit denen ist nicht zu spaßen!

@@ -1,0 +1,433 @@
+### Translation: Partial
+### Editing: None
+### Comment: 90%, FIX-IT wird wohl noch geändert
+
+### Translated by: ✨ Jasuanti 🌸#7924
+
+# =========================================================================================
+# FARAWAY TOWN Shops
+# =========================================================================================
+
+            #Supermarket
+
+#Intro
+message_1:
+      text: \n<OTHERMART DAME>HALLO!\! 你是要 LECKER \c[3]FISCH\c[0] 吗?\! 是!
+
+#Purchase
+message_2:
+      text: \n<OTHERMART DAME>OK!\! 谢谢, 孩子!
+
+message_3:
+      text: \n<OTHERMART DAME>HALLO!\! 你是要 \c[3]FISCH\c[0] 吗?\! 是!
+
+message_4:
+      text: Du erhältst \c[4]FLEISCH\c[0].
+
+message_5:
+      text: Du erhältst \c[3]FISCH\c[0].
+#Insufficient Funds
+message_6:
+      text: \n<OTHERMART DAME>ENTSCHULDIGUNG.\! KEIN GELD.
+#item buying prompt
+message_100:
+      text: \n<OTHERMART DAME>DIESER PREIS OK? $<SHOPTOTAL>.00.\^
+#max item message
+message_101:
+      text: \n<OTHERMART DAME>KEIN PLATZ, ENTSCHULDIGUNG!\.\^
+#on item list buy ok
+message_102:
+      text: \n<OTHERMART DAME>WIE VIEL?\.\^
+#item selling ok
+message_103:
+      text: \n<OTHERMART DAME>WIE VIEL?\.\^
+#item selling prompt
+message_104:
+      text: \n<OTHERMART DAME>DIESER PREIS OK? $<SHOPTOTAL>.00.
+#item selling cancel prompt
+message_105:
+      text: \n<OTHERMART DAME>GUT GEMACHT.
+#item buying cancel
+message_106:
+      text: \n<OTHERMART DAME>OK.
+
+
+            #Bakery
+
+#Intro
+message_7:
+      text: \n<MR. BAKER>Willkommen bei unserer Familienbäckerei! Was hättest du gerne?
+#Purchase
+message_8:
+      text: \n<MR. BAKER>Gute Wahl! Ich pack das für dich sofort ein!
+#Insufficient Funds
+message_9:
+      text: \n<MR. BAKER>Du hast nicht genug Geld für unsere köstlichen gebackenen Güter!
+#item buying prompt
+message_80:
+      text: \n<MR. BAKER>Okay! Das kostet insgesamt $<SHOPTOTAL>.00.\.\^
+#max item message
+message_81:
+      text: \n<MR. BAKER>Sieht so aus, als wäre das alles, das du mit dir tragen kannst.\.\^
+#on item list buy ok
+message_82:
+      text: \n<MR. BAKER>Wie viel hättest du gerne?\.\^
+#item selling ok
+message_83:
+      text: \n<MR. BAKER>Oh, du willst uns etwas verkaufen?
+#item selling prompt
+message_84:
+      text: \n<MR. BAKER>Das kostet insgesamt $<SHOPTOTAL>.00.\.\^
+#item selling cancel prompt
+message_85:
+      text: \n<MR. BAKER>Dankeschön. Beehrt uns bald wieder!
+#item buying cancel
+message_86:
+      text: \n<MR. BAKER>Oh? Du hast dich umentschieden?
+
+message_10:
+      text: \n<MRS. BAKER>Ich grüße euch, Kinder!\! Ich habe ein Kind in eurem Alter.\!<br>Er läuft immer mit seinen problematischen Freunden davon, während er diese grässliche Perücke trägt...
+
+message_11:
+      text: \n<MRS. BAKER>Er sollte mal lernen, so verantwortungsvoll wie seine Geschwister zu sein!
+
+message_12:
+      text: \n<MRS. BAKER>Wir führen die Bäckerei schon seit vier Generationen, seit meine Mutter über das Meer hierher gesegelt ist!
+
+message_13:
+      text: \n<MRS. BAKER>Ich hoffe, dass meine Kinder eines Tages diese Bäckerei-Tradition übernehmen...\! Es würde mich und meinen Mann sehr glücklich machen!
+
+            #Candy Shop
+
+#Intro
+message_14:
+      text: \n<MISS CANDICE>Hi-hi! Ich bin's!\! Die fröhliche und muntere MISS CANDICE!<br>Was darf's heute sein? Smiley, smiley!
+#Purchase
+message_15:
+      text: \n<MISS CANDICE>Ich danke euch! Smiley, smiley!
+#Insufficient Funds
+message_16:
+      text: \n<MISS CANDICE>Oh je...\! Du scheinst nicht genug Geld zu haben!\!<br>Smiley, smiley!
+#item buying prompt
+message_70:
+      text: \n<MISS CANDICE>Aber gerne! Das kostet insgesamt $<SHOPTOTAL>.00.<br>Smiley, smiley!\.\^
+#max item message
+message_71:
+      text: \n<MISS CANDICE>Tut mir leid, ihr könnt wohl nicht alles mit euch tragen!\!<br>Smiley, smiley!\.\^
+#on item list buy ok
+message_72:
+      text: \n<MISS CANDICE>Super! Wie viel willst du haben? Smiley, smiley!\.\^
+#item selling ok
+message_73:
+      text: \n<MISS CANDICE>Hm? Du willst mir was verkaufen? Smiley, smiley!\.\^
+#item selling prompt
+message_74:
+      text: \n<MISS CANDICE>Ich denke, ich würde so viel dafür zahlen! Smiley, smiley!\.\^
+#item buyin cancel prompt
+message_75:
+      text: \n<MISS CANDICE>Ich danke vielmals! Smiley, smiley!
+#item buying cancel
+message_76:
+      text: \n<MISS CANDICE>Oh, okay! Das ist in Ordnung!<br>Smiley, smiley!
+
+message_77:
+      text: \n<MISS CANDICE>Kommt doch bald wieder!\! (Oder sonst...)
+
+message_78:
+      text: \n<MISS CANDICE>Smiley, smiley!
+
+            #Pharmacy
+
+#Intro
+message_17:
+      text: \n<APOTHEKER>Braucht ihr Kinder etwas für Wunden oder Kratzer?
+
+#Default
+message_18:
+      text: \n<APOTHEKER>Ich frage mich, wie es meinem Sohn BRENT zuhause geht...\!<br>Ich hoffe, er ist ohne mich nicht allzu einsam.
+
+#item buying prompt
+message_90:
+      text: \n<APOTHEKER>Klar, Söhnchen. Das kostet insgesamt $<SHOPTOTAL>.00.\.\^
+#max item message
+message_91:
+      text: \n<APOTHEKER>Du kannst nicht mehr mit dir tragen, Söhnchen!\.\^
+#on item list buy ok
+message_92:
+      text: \n<APOTHEKER>Natürlich. Wie viele brauchst du, Söhnchen?\.\^
+#item selling ok
+message_93:
+      text: \n<APOTHEKER>Oh, ich soll etwas von dir abkaufen?\.\^
+#item selling prompt
+message_94:
+      text: \n<APOTHEKER>Klar, Söhnchen. Das kostet insgesamt $<SHOPTOTAL>.00.\.\^
+#item selling cancel prompt
+message_95:
+      text: \n<APOTHEKER>Dankeschön. Komm bald wieder, Söhnchen!
+#item buying cancel
+message_96:
+      text: \n<APOTHEKER>Du hast also deine Meinung geändert?
+#item buying confirmation prompt
+message_97:
+      text: \n<APOTHEKER>Bitteschön, Söhnchen... Pass auf dich auf!
+#not enough money
+message_98:
+      text: \n<APOTHEKER>Du hast nicht genug Geld dafür, Söhnchen.
+
+            #Hobbeez
+
+#  data.texts.itemBuyingPromptMessage = 'farawaytown_extras_shop.message_19'
+#  data.texts.itemBuyingConfirmationMessage = 'farawaytown_extras_shop.message_20'
+#   	data.texts.notEnoughMoneyMessage = 'farawaytown_extras_shop.message_21';
+#    data.texts.maxItemMessage = 'XX_GENERAL.message_50';
+#    data.texts.onItemListBuyOkMessage = 'XX_GENERAL.message_52';
+#    data.texts.onItemListSellOkMessage = 'XX_GENERAL.message_53';
+#    data.texts.itemSellingPromptMessage = 'XX_GENERAL.message_55'
+#    data.texts.itemSellingConfirmationMessage = 'XX_GENERAL.message_57'
+#    data.texts.itemBuyingCancelMessage = 'XX_GENERAL.message_58'
+#    data.texts.itemSellingCancelMessage = 'XX_GENERAL.message_59'
+
+
+#Intro
+message_19:
+      text: \n<LADENBESITZER>Yo, Champs! Wenn ihr etwas findet, das ihr wollt, gebt Bescheid!
+#Purchase
+message_20:
+      text: \n<LADENBESITZER>Vielen Dank.\! Viel Spaß mit euren behutsamen Gütern.
+#Insufficient Funds
+message_21:
+      text: \n<LADENBESITZER>Woah, ihr habt wohl nicht genug Geld.\! Sorry, Champs.
+#item buying prompt
+message_40:
+      text: \n<LADENBESITZER>Wie wäre es mit diesem Preis? Es kostet dich $<SHOPTOTAL>.00.\.\^
+#max item message
+message_41:
+      text: \n<LADENBESITZER>Du trägst zu viel mit dir herum. Ich will dich nicht überlasten!\.\^
+#on item list buy ok
+message_42:
+      text: \n<LADENBESITZER>Klar, Champ. Wie viel willst du haben?\.\^
+#item selling ok
+message_43:
+      text: \n<LADENBESITZER>HOBBEEZ ist nicht nur ein Hobby-Shop... Es ist auch ein Leihhaus!\!<br>Ich kaufe dir alles ab, das du nicht willst!\! Was willst du heute verkaufen?
+#item selling prompt
+message_44:
+      text: \n<LADENBESITZER>Wie wäre es mit $<SHOPTOTAL>.00?\.\^
+#item selling cancel prompt
+message_45:
+      text: \n<LADENBESITZER>Danke, Champ!
+#item buying cancel
+message_46:
+      text: \n<LADENBESITZER>Du hast also deine Meinung geändert?
+
+message_700:
+      text: \n<LADENBESITZER>Wie viele davon willst du verkaufen?\.\^
+
+
+            #GINO'S PIZZA
+
+#note: [Purchase Item] will be replaced with the item that the player bought, or make the statement more general
+#Intro
+message_22:
+      text: \n<PIZZAMANN>Herzlich Willkommen bei \c[11]GINO'S PIZZA\c[0]!\!<br>Was kann ich für euch tun?
+#Purchase
+message_23:
+      text: \n<PIZZAMANN>Leckere Wahl! Kommt sofort!
+#Exclamation mark on PIZZAMANN
+message_24:
+      text: \n<PIZZAMANN>Mmm... ?Purchase Item?...<br>\! Ich meine, ?Purchase Item? kommt sofort!
+#Insufficient Funds
+message_25:
+      text: \n<PIZZAMANN>Tut mir leid... Ich würde es dir einfach geben, wenn ich könnte!<br>Komm zurück, wenn du das Geld dafür hast!
+#item buying prompt
+message_50:
+      text: \n<PIZZAMANN>Okie dokie! Insgesamt ergibt das... $<SHOPTOTAL>.00.\.\^
+#max item message
+message_51:
+      text: \n<PIZZAMANN>Sicher, dass du das alles mit dir tragen kannst?\!<br>Es sieht nicht so aus...\.\^
+#on item list buy ok
+message_52:
+      text: \n<PIZZAMANN>Okie dokie! Wie viel willst du haben?\.\^
+#item selling ok
+message_53:
+      text: \n<PIZZAMANN>Klar... Wie viel willst du verkaufen?\.\^
+#item selling prompt
+message_54:
+      text: \n<PIZZAMANN>Hmm... Wie wäre es damit?
+#item selling cancel prompt
+message_55:
+      text: \n<PIZZAMANN>Vielen Dank!
+#item buying cancel
+message_56:
+      text: \n<PIZZAMANN>Ah... Du hast deine Meinung geändert?
+
+            #Hardware Store
+
+#Intro
+message_26:
+      text: \n<FIX-IT TYP>Willkommen bei \c[11]FIX-IT\c[0]...<br>wo du Zeug kaufen kannst und es selber \c[11]FIXEN\c[0] kannst!\!<br>Woran habt ihr Interesse?
+#Purchase
+message_27:
+      text: \n<FIX-IT TYP>Super! Ich packe das sofort für dich ein.
+#Insufficient Funds
+message_28:
+      text: \n<FIX-IT TYP>Tschuldigung, Mann. Du hast wohl nicht genug Geld dabei.
+#item buying prompt
+message_60:
+      text: \n<FIX-IT TYP>Wie wär's damit? Das kostet insgesamt $<SHOPTOTAL>.00.\.\^
+#max item message
+message_61:
+      text: \n<FIX-IT TYP>Du hast nicht genug Platz dafür!\.\^
+#on item list buy ok
+message_62:
+      text: \n<FIX-IT TYP>Wie viel willst du haben?\.\^
+#item selling ok
+message_63:
+      text: \n<FIX-IT TYP>Wie viel willst du davon loswerden?\.\^
+#item selling prompt
+message_64:
+      text: \n<FIX-IT TYP>Das würde... etwa so viel ergeben.\.\^
+#item selling cancel prompt
+message_65:
+      text: \n<FIX-IT TYP>Gute Arbeit.
+#item buying cancel
+message_66:
+      text: \n<FIX-IT TYP>Ah... Nun gut.
+
+          #apple guy / orange guy
+
+#item buying prompt
+message_120:
+      text: \n<ORANGEN-KERL>Großartig! Wie wäre es hiermit?
+#max item message
+message_121:
+      text: \n<ORANGEN-KERL>Du kannst nicht so viel Saft mit dir tragen!
+#on item list buy ok
+message_122:
+      text: \n<ORANGEN-KERL>Wie viel willst du haben?
+#item selling ok
+message_123:
+      text: \n<ORANGEN-KERL>Wie viel willst du verkaufen?
+#item selling prompt
+message_124:
+      text: \n<ORANGEN-KERL>Das ergibt... $<SHOPTOTAL>.00.
+#item selling cancel prompt
+message_125:
+      text: \n<ORANGEN-KERL>Danke!
+#item buying cancel
+message_126:
+      text: \n<ORANGEN-KERL>Nein? Aber er ist gesund...
+
+
+#item buying prompt
+message_130:
+      text: \n<APFEL-KERL>Großartig! Wie wäre es hiermit?
+#max item message
+message_131:
+      text: \n<APFEL-KERL>Du kannst nicht so viel Saft mit dir tragen!
+#on item list buy ok
+message_132:
+      text: \n<APFEL-KERL>Wie viel willst du haben?
+#item selling ok
+message_133:
+      text: \n<APFEL-KERL>Wie viel willst du verkaufen?
+#item selling prompt
+message_134:
+      text: \n<APFEL-KERL>Das ergibt... $<SHOPTOTAL>.00.
+#item selling cancel prompt
+message_135:
+      text: \n<APFEL-KERL>Danke!
+#item buying cancel
+message_136:
+      text: \n<APFEL-KERL>Nein? Aber er ist gesund...
+
+
+            #Supermarket
+
+#Ponytail Cashier 1
+message_30:
+      text: \n<OTHERMART-KASSIERER>Es gibt jetzt so viele Tamales-Sorten auf dem Markt.\! Ich brauche dieses ganze besondere Zeug nicht. Dosen-Tamales genügen mir!
+
+#Ribbon Cashier 2
+message_31:
+      text: \n<OTHERMART-KASSIERER>Meiner Meinung nach ist Essen nur ein Medium für Soße.
+
+#Glasses Cashier 3
+message_32:
+      text: \n<OTHERMART-KASSIERER>Wenn du gestresst bist, kann ich dir Tee empfehlen.\! Earl grey und Kamilile sind gut, aber Bubble-Tea ist meine Lieblingsart!
+
+#Tall Cashier 4
+message_33:
+      text: \n<OTHERMART-KASSIERER>Essen ist nicht so meine Sache, aber ein Job ist ein Job.\! Ich mag aber Chicken Nuggets.
+
+#Cashier 5
+message_34:
+      text: \n<OTHERMART-KASSIERER>Ich liebe Frühlingszwiebeln!\!<br>Sie sind lecker und nahrhaft!
+
+
+# =========================================================================================
+# Vending Machines
+# =========================================================================================
+
+#Intro     start at 140
+message_140:
+      text: Ein Verkaufsautomat.\!<br>Willst du \c[3]LECKERE LIMO\c[0] für $1.00 kaufen?\$
+
+message_142:
+      text: Du hast nicht genug Geld.
+
+message_144:
+      text: Du hast nicht genug Platz für \c[3]LECKERE LIMO\c[0].
+
+message_143:
+      text: Eine kühle \c[3]LECKERE LIMO\c[0] ist aus dem Automaten gefallen!
+
+#Examine when Sold out
+message_141:
+      text: Ein Verkaufsautomat.\! Ausverkauft.
+
+# =========================================================================================
+# FA Meat man
+# =========================================================================================
+
+
+#Butcher quotes for shop
+
+message_201:
+      text: \n<METZGER>Ich habe einen Job, undzwar \c[4]FLEISCH\c[0] verkaufen!
+
+#Full inventory
+message_202:
+      text: \n<METZGER>Nichtmal ich könnte so viel \c[4]FLEISCH\c[0] herumtragen.
+
+#Insufficient Funds
+message_203:
+      text: \n<METZGER>Ich kann mein Messer in das \c[4]FLEISCH\c[0] sinken lassen, aber nicht meine Preise.
+
+#Purchase
+message_204:
+      text: \n<METZGER>So, bittesehr.\! Genieße dein köstliches \c[4]FLEISCH\c[0]!
+
+#on item list buy ok
+message_205:
+      text: \n<METZGER>Wie viel soll ich euch bringen?\.\^
+
+#item buying prompt
+message_206:
+     text: \n<METZGER>Wie wäre es damit? Das kostet insgesamt $<SHOPTOTAL>.00.\.\^
+
+
+#itemBuyingConfirmationMessage
+message_207:
+      text: \n<METZGER>Klar doch, bada-bing.
+
+
+#item buyin cancel prompt
+message_208:
+      text: \n<METZGER>Doch nicht?
+
+message_209:
+      text: \n<METZGER>Man sieht sich \c[4]WIDDER\c[0].
+
+#BATINO
+message_300:
+      text: \n<FIX-IT MITARBEITER>MANDO lässt mich hier alles machen.\! Wie soll ich an das oberste Regal kommen, wenn die Leitern ausverkauft sind?

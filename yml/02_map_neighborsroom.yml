@@ -1,0 +1,135 @@
+### Translation: Finished
+### Editing: None
+
+### Translated by: Dagobert#5282
+
+message_1:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 18
+      text: \kel\c[13]HECTOR\c[0] ist das Steinhaustier!
+
+message_2:
+      text: Ohne deine Freunde kannst du nicht gehen.
+
+message_3:
+    text: Aus dem Inneren des Regales starrt dich ein Auge an.
+
+message_4:
+    text: Es läuft ein Film.\!<br>Vier Jungs laufen auf Schienen.
+
+message_5:
+    text: Ein Foto von jemanden, der dir vertraut ist.
+
+message_6:
+    text: Ein weiches Kissen. Es hat die Form eines Mädchenkopfes.
+
+message_7:
+    text: \n<SNAKE>\sinv[1]Sssssssssssss...?\sinv[0]\! (Worauf wartest du denn?)
+
+message_8:
+    text: Ein Loch. Es hat die Form einer Katze.
+
+message_9:
+    text: Du spürst die Präsenz von ETWAS.\!<br>Durchs Schlüsselloch schauen?
+
+message_10:
+    text: Ein niedlich verpacktes Geschenk.
+
+message_11:
+    text: Ein Mixer.
+
+message_12:
+    text: Eine einzelne Bohne auf einem Teller.
+
+message_13:
+    text: Möchtest du TOAST machen?
+
+message_14:
+    text: Du hast TOAST gemacht.
+
+message_15:
+    text: Ein Baseball und ein Baseballschläger.
+
+message_16:
+    text: Ein Tentakel schaut aus dem Boden.
+
+
+#- Omori's CUT Tag Skill
+
+message_17:
+      faceset: MainCharacter_Basil
+      faceindex: 2
+      text: \basHuch? Hier sind Wurzeln im  Weg...\!<br>Wie sind sie hier gelandet?
+
+message_18:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 1
+      text: \aubKeine Sorgen, BASIL!\!<br>Ich wette, das ist ein Kinderspiel für OMORI, es zu  \c[1]ZERSCHNEIDEN\c[0] !
+
+message_19:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 3
+      text: \aubKomm schon, OMORI!\! Das schaffst du!
+
+message_30:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 3
+      text: \aubKomm schon, OMORI!\! Das schaffst du!
+
+
+#- Snake money
+
+message_100:
+    text: \n<SNAKE>\sinv[1]Sssssssssssssss...?\!\sinv[0] (Du gehst raus, OMORI?)\!<br>\sinv[1]Sssssssssssss...\!\sinv[0] (Hier ist dein Geld für heute.)
+
+message_101:
+    text: Du erhältst \v[1001] MUSCHELN.
+
+message_102:
+    text: \n<SNAKE>\sinv[1]Sssssssssssss...\!\sinv[0] (Passt auf.)
+
+message_103:
+    text: \n<SNAKE>\sinv[1]Ssssssssssss...?\!\sinv[0] (Worauf wartest du?)
+
+#Trying to go back inside Neighbor's Room before Basil is kidnapped
+
+message_110:
+      faceset: MainCharacter_Basil
+      faceindex: 2
+      text: \basWarte, OMORI... wir sollen doch zu meinem Haus!\! Es liegt südlich des Spielplatzes.
+
+message_111:
+      faceset: MainCharacter_Basil
+      faceindex: 1
+      text: \basIch habe letztens paar Sprösslinge großgezogen, welche ich euch zeigen wollte.\! Kommt mit! Sie sind süß!
+
+message_112:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 37
+      text: \herWohin gehst du, OMORI?\! Lass uns MARI und BASIL sehen!\! Wir können das Picknick nicht verpassen!
+
+message_113:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 39
+      text: \herWohin gehst du, OMORI?\! Lasst zu MARI gehen.\! Sie macht sich große Sorgen deinetwegen.
+
+message_114:
+      faceset: MainCharacter_Mari
+      faceindex: 2
+      text: \marLet's go see the spooky house, OMORI!\! Hab keine Angst.\! Wir bleiben zusammen!
+
+message_115:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 4
+      text: \aubWohin gehst du, OMORI?\! Wir müssen nach BASIL schauen...
+
+#FRIEND TEXT
+message_120:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 3
+      text: \aubHi, OMORI!\! Ich freue mich sehr dich zu sehen!
+
+message_121:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 16
+      text: \kelWas geht, mein bester Freund?\! Haste mich vermisst? Hoh, hoh...

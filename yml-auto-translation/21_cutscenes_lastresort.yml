@@ -1,0 +1,632 @@
+message_201:
+  text: B1
+message_202:
+  text: 1F
+message_203:
+  text: 2F
+message_204:
+  text: 3F
+message_205:
+  text: 4F
+message_206:
+  text: 5F
+message_207:
+  text: MR. JAWSUM'S BÜRO
+message_208:
+  text: CONCIERGE
+message_209:
+  text: HERO'S BÜRO
+message_0:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 17
+  text: Hey, OMORI! Da bist du ja!\! Wo bist du gewesen, Kumpel?\kel
+message_1:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 20
+  text: Während du weg warst...\! alle...\kel
+message_2:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 19
+  text: Wir wurden ausgetrickst, um Verträge zu unterschreiben!<br>So...<br>Wir haben jetzt alle Jobs!<br>
+message_3:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 23
+  text: Sniff...\! Wir werden so schnell erwachsen...\kel
+message_4:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 17
+  text: Mein Job ist es, die Leute auf die \c[11]LAST RESORT\c[0].\!<br>Dort arbeite ich! \kel
+message_11:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 19
+  text: Es ist irgendwie ganz in der Nähe.\kel
+message_12:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 27
+  text: Okay... Oder vielleicht doch nicht...\kel
+message_13:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 17
+  text: Komm mit, ich zeige es dir!\! Es ist gleich auf der anderen Seite des Wassers.\kel
+message_19:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 26
+  text: \sinv[1]Sooooooooooo...\sinv[0]\! Ich schätze, es ist ein bisschen weiter, als ich dachte.\! Das tut mir leid, Kumpel.\kel
+message_14:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 19
+  text: \kel Wir sind fast da, ich schwöre es.\! Es ist nur noch ein Taxi entfernt!
+message_18:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 27
+  text: Außerdem, nur eine Vorwarnung...\! versuche GATOR GUYS so weit wie möglich zu vermeiden.\! Ich glaube, sie mögen mich nicht besonders.\kel
+message_15:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 17
+  text: Hab keine Angst, OMORI.\! Ich bin für dich da!\kel
+message_5:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 18
+  text: Da ist es! \kel
+message_17:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 19
+  text: Schau, OMORI. Es ist gleich da vorne! \kel
+message_16:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 28
+  text: Du weißt schon...\! Auf dem Weg hierher habe ich ein wenig nachgedacht.\! Die Arbeit im \c[11]LAST RESORT\c[0] war toll und so...\kel
+message_6:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 27
+  text: Aber ich muss sagen...\! dieses Job-Ding ist nicht alles, was es sein soll. \kel
+message_7:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 19
+  text: Also, warum machen wir nicht alle Schluss und verschwinden von hier?\kel
+message_8:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 27
+  text: HERO ist in letzter Zeit beruflich viel unterwegs...\! aber ich weiß sicher, dass AUBREY im 5. Stock des \c[11]LAST RESORT\c[0] arbeitet.<br> Wir sollten sie zuerst suchen.\kel
+message_9:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 23
+  text: OMORI...\! AUBREY zurückzulassen ist eine Sache...\! aber HERO?\! Wie konntest du nur?\kel
+message_10:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 10
+  text: Hey! \aub
+message_20:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 27
+  text: OMORI...\! Das ist wahrscheinlich kein guter Zeitpunkt...\!<br>aber ich muss wirklich, wirklich auf die Toilette...\kel
+message_21:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 26
+  text: Wie ich immer sage...\!<br>Wenn man gehen muss, muss man gehen!\kel
+message_22:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 26
+  text: Halte durch, OMORI. Das wird nur eine Minute dauern.\kel
+message_23:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 18
+  text: \sinv[1]Ahhhh... Viel besser...\kel
+message_24:
+  text: Du hast bemerkt, dass KEL sich nicht die Hände gewaschen hat.
+message_25:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 33
+  text: \sinv[1]ABER ICH MUSS INS BADEZIMMER!\kel
+message_26:
+  text: Du hast KEL dazu gebracht, seine Hände zu waschen.
+message_40:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 4
+  text: \aub\sinv[1]\com[540]Hello?\!\sinv[0] \com[540]Please hold.\! \sinv[1]\com[540]Hallo?\!\sinv[0] \com[540]Bitte warten.\! \sinv[1]\com[540]Hallo? \!\sinv[0] \com[540]Bitte warten.
+message_41:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 17
+  text: \{AUBREY!!!\!\}<br>Wir sind hier, um dich zu befreien!\kel
+message_42:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 10
+  text: Verdammt, KEL. Hau ab! Siehst du nicht, dass ich beschäftigt bin?\aub
+message_43:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 30
+  text: Reiß dich zusammen, AUBREY! Das ist nicht, wer du bist!\kel
+message_44:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 10
+  text: Weißt du, dass drei Leute heute ihre Treffen abgesagt haben?<br> <br>Drei Leute!
+message_70:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 4
+  text: Ich soll sie verschieben, aber ich weiß nicht einmal, wie das mit all den geplanten nutzlosen Veranstaltungen zusammenpassen soll...<br>Nicht zu vergessen, dass wir heute Abend eine Spendenaktion haben...<br>
+message_71:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 10
+  text: Und ausgerechnet... es ist eine \c[3]TOFU\c[0] Spendenaktion! \aub
+message_45:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 10
+  text: Wer bei klarem Verstand würde CLAMS für \c[3]TOFU\c[0] bezahlen?\! <br> Ich habe so oft versucht, es dem Chef zu sagen, aber er will einfach nicht zuhören!\! Das ist ein kompletter Albtraum!\aub
+message_46:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 19
+  text: Okay... AUBREY, du musst atmen. \kel
+message_47:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 9
+  text: Ich atme, KEL.\! Ich atme ganz gut!\aub
+message_48:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 26
+  text: Tief durchatmen, AUBREY, tief durchatmen...\kel
+message_49:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 26
+  text: \sinv[1]Hooo...\! Heee...\! Hooo...\! Heee...\!\sinv[0]Du bist keine Sekretärin...\! \sinv[1]Hooo...\! Heee...\!\sinv[0]BASIL ist verschwunden und wir müssen ihn finden...\! \sinv[1]Hooo...\! Heee...\! Hooo...\! Heee...\kel
+message_50:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 9
+  text: \sinv[1]Hooo...\! Heee...\! Hooo...\! Heee...\sinv[0]\aub
+message_51:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 2
+  text: Oh, OMORI! Bist du das?\aub
+message_52:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 1
+  text: Du musst hier sein, um mich zu retten!\! Hehe... Ich bin so glücklich!\aub
+message_53:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 30
+  text: W-Warte, was ist mit mir!?\kel
+message_54:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 10
+  text: OMORI, du musst mich hier rausholen! \aub
+message_55:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 19
+  text: Wir können einfach gehen, AUBREY.\kel
+message_56:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 30
+  text: Der Ausgang ist gleich da!
+message_57:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 4
+  text: So einfach ist das nicht, KEL...\! Wir haben Verträge unterschrieben, erinnerst du dich?\aub
+message_58:
+  text: \}Com[2]AUBREY...\! AUBREY!\! Wo warst du?\!<br>Ich habe die letzten 10 Sekunden versucht dich zu erreichen...\!<br>Wie läuft es mit der Umplanung?\
+message_59:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 6
+  text: \com[540]S-Sorry, MR. JAWSUM... es ist etwas dazwischen gekommen.\aub
+message_60:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 16
+  text: \sinv[1]\{\{HI, MR. JAWSUM!!!\kel
+message_61:
+  text: \}Verdammt! Du schon wieder, KEL?\! Ich dachte, wir hätten dich weit, weit weg von hier geschickt!\!<br>Hatte ich dir nicht gesagt, dass du deinen Posten nicht verlassen sollst?\Kiefer
+message_62:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 18
+  text: Nun, ich bin den ganzen Weg zurückgekommen, um dir persönlich zu sagen...<br>dass ich gekündigt habe!\! Und ich bringe AUBREY mit!\kel
+message_63:
+  text: \}Sehr lustig.\! Mein Büro, KEL.\! Jetzt.\Kiefer
+message_64:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 4
+  text: \com[540]Ich werde ihn sofort reinschicken.\aub
+message_65:
+  text: \}Du auch, AUBREY.\!<br><br>...\! \Beben[1]Bzzt.\Kiefer
+message_66:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 11
+  text: ...\aub
+message_67:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 10
+  text: Verdammt, KEL! Wegen dir werde ich noch gefeuert!\aub
+message_68:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 17
+  text: Ich weiß! Ist das nicht großartig!?
+message_69:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 8
+  text: Seufz...\! Komm schon, lass uns gehen.\!<br>MR. JAWSUMs Büro ist gleich diesen Aufzug hoch.\aub
+message_72:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 4
+  text: Ach du meine Güte... das stimmt!\! <br>Wie könnte ich das vergessen?\! Wir müssen BASIL finden!\aub
+message_80:
+  text: Ah... Endlich bist du da
+message_81:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 11
+  text: Hi, MR. JAWSUM...\aub
+message_82:
+  text: Ähem...\! In Ordnung, Kinder, lasst mich das für euch aufschreiben.\Kiefer
+message_83:
+  text: Wie es im Vertrag hier steht:\! Du hast zugestimmt, für mich zu arbeiten, in guten wie in schlechten Zeiten, ohne Bezahlung, für den Rest deines Lebens.\Kiefer
+message_84:
+  text: Nun, ein Vertrag ist ein Versprechen...<br>\!und du würdest ein Versprechen nicht brechen, oder?
+message_85:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 31
+  text: Verdammt, er hat recht! Wir können ein Versprechen nicht brechen!\! <br>Was sollen wir tun, AUBREY?\kel
+message_86:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 4
+  text: MR. JAWSUM...\! Es stimmt, dass wir dir ein Versprechen gegeben haben...\!<br>Aber wir haben uns auch gegenseitig versprochen, dass wir unseren Freund BASIL gemeinsam finden werden!\aub
+message_87:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 30
+  text: Äh... Ja, das ist richtig!\! <br>Das bedeutet, dass du uns gehen lassen musst!\kel
+message_88:
+  text: Hmm... Ich schätze, ich kann das respektieren.\! Ein Versprechen ist ein Versprechen.\! AUBREY, ich werde dich gehen lassen...\! aber du musst KEL mitnehmen.\Kiefer
+message_89:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 2
+  text: Wirklich?! Wow! Danke, MR. JAWSUM! <br>Du bist zu freundlich.\aub
+message_90:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 18
+  text: \{\{\sinv[1]AWESOME!! LET'S GO!!!\kel
+message_91:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 16
+  text: Warte...\! Ich habe das Gefühl, ich habe etwas vergessen...\kel
+message_92:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 18
+  text: Oh, ja! Können wir auch meinen Bruder HERO mitnehmen?
+message_93:
+  text: ...Kiefer
+message_94:
+  text: Heh...\! Du bist wirklich ein witziges Kind, KEL.\Augen
+message_95:
+  text: Du willst, dass ich dir HERO gebe!?
+message_137:
+  text: \Com[2]\{\quake[1]THAT'S RICH!!\! RICH, I TELL YA!!!\Kiefer
+message_96:
+  text: HERO ist mit Abstand der beste Arbeiter, den ich je in meinem Leben eingestellt habe
+message_97:
+  text: Allein seine Anwesenheit erhöht meine Arbeitsleistung um 700%!\! <br>Ich wäre ein Narr, einen Arbeiter wie ihn loszulassen.\Kiefer
+message_98:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 36
+  text: Hey, MR. JAWSUM! Ich bin gerade damit fertig geworden, die \c[3]TOFU\c[0]-Spendenaktion einzurichten, wie du darum gebeten hast!\her
+message_99:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 37
+  text: Die Tische sind gedeckt, der Raum ist dekoriert, die Toiletten sind sauber und das Essen schmeckt spektakulär, wenn ich das mal so sagen darf!\her
+message_134:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 38
+  text: Ich habe auch deine Fenster geputzt, deine Böden gewischt, deine Haustiere gefüttert, deine Sonnenbrillensammlung organisiert und deine Wäsche gefaltet...\her
+message_100:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 39
+  text: Oh! \! Und hier ist dein Kaffee.\! Ich dachte nur, das würde dir gefallen.\her
+message_101:
+  text: \SIEHT, KIDS!
+message_135:
+  text: Erstaunliche Arbeit, HERO!\! Einfach unglaublich!\! <br>Ich könnte sogar in Erwägung ziehen, dich eines Tages zu bezahlen...<br>Kiefer
+message_136:
+  text: \jaw\Com[2]\Sinv[2]\{\{JAWHAW\{HAWHAW\{HAWHAW!!\Sinv[0]
+message_102:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 37
+  text: R-Really?\! Das wäre eine Ehre, Sir!\her
+message_103:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 38
+  text: Oh, hey Jungs! Was machst du hier?<br>!Suchst du auch einen Job, OMORI?<br>Hier
+message_104:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 27
+  text: ... \kel
+message_105:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 11
+  text: ...\aub
+message_106:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 27
+  text: HERO...\! was ist mit dir passiert?\kel
+message_107:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 11
+  text: Sag mir nicht... dass sogar du BASIL vergessen hast.\aub
+message_108:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 46
+  text: Oh Mist, das ist richtig! Wir müssen BASIL finden!\! <br>Wie könnte ich etwas so Wichtiges vergessen?\her
+message_109:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 46
+  text: Was machen wir hier!? Wir müssen sofort gehen! \her
+message_110:
+  text: Whoa da, HERO. Nicht so schnell!<br>Du hast noch einiges an unerledigter Arbeit vor dir.<br>
+message_111:
+  text: Du sollst all unsere VIPs für die Spendengala heute Abend einführen!
+message_112:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 43
+  text: MR. JAWSUM...\! Es tut mir leid, aber...\!<br>Bei allem Respekt, die \c[3]TOFU\c[0] Spendenaktion kann warten!\her
+message_113:
+  text: Hmpf...\! Meine Gefühle sind verletzt, HERO.\!<br> Du hast unseren Vertrag doch nicht vergessen, oder?\Kiefer
+message_114:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 47
+  text: Na ja... Ich...\her
+message_115:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 9
+  text: Grrr... Vergiss die Verträge!!! BASIL braucht uns! <br>Wir müssen gehen, HERO!\aub
+message_116:
+  text: Hör nicht auf sie, HERO! Warum solltest du!? <br>Du hast nicht einmal einen Vertrag mit ihr unterschrieben!<br>
+message_117:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 43
+  text: Ich höre AUBREY nicht wegen eines Vertrages zu...\! <br>Ich höre auf sie, weil sie meine Freundin ist!\her
+message_118:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 44
+  text: Es tut mir leid, MR. JAWSUM...\!<br>Meine Freunde sind wichtiger als ein mickriges Stück Papier.\her
+message_119:
+  text: \beben[1]Mieses...\! Stück...\! Papier?\beben[0]\kiefer
+message_120:
+  text: Du respektierst mich nicht, Junge! Ich nehme dich auf... ein Junger ohne Erfahrung... und ich mache aus dir den ultimativen Angestellten!\Kiefer
+message_121:
+  text: Du wärst nichts, wenn es mich nicht gäbe!
+message_122:
+  text: Die Strafe für einen Vertragsbruch...<br><br><ist der Tod!!!<br>
+message_123:
+  text: Ich werde dir beibringen, deine Vorgesetzten zu respektieren!\Kiefer
+message_124:
+  text: Das ist genug!\!<br>Haltet euch zurück, Männer. So kommen wir nicht weiter.<br>Kiefer
+message_125:
+  text: Hmpf...\! Ich muss zugeben...\! Ihr Kinder seid ziemlich stark.\! <br>Aber das spielt jetzt keine Rolle.\Kiefer
+message_126:
+  text: HERO ist nicht der einzige ultimative Mitarbeiter in meiner Belegschaft.\! <br>Ich habe...\! aber noch einen anderen.<br>
+message_127:
+  text: Du kannst jetzt reinkommen...\! PLUTO.\Kiefer
+message_128:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 31
+  text: \{PLUTO! ICH BIN ES, KEL!!\!\}<br>Erkennst du uns nicht? Wir sind deine Freunde!\kel
+message_129:
+  text: ...\! Sorry, KEL.\plu
+message_130:
+  text: Das ist nichts Persönliches.\! <br>Es ist nur ein Geschäft.\plu
+message_131:
+  text: Mal sehen, wie du dich schlägst...<br>\!gegen die Kraft eines ehemaligen Planeten.<br>PLUTO!\! Zeig diesen Kindern deine wahre Macht!\Augen
+message_132:
+  text: Sofort, Sir
+message_133:
+  text: Es tut mir leid, ihr alle...<br>Das ist das Ende des Weges für dich.<br>
+message_150:
+  text: Huff... huff...\! Ihr seid wirklich alle stärker geworden.\! <br>Huff... \! Ich bin so...stolz auf euch.\plu
+message_151:
+  text: Aber...\! Even still... Ich habe eine Aufgabe zu erledigen.<br>Und ich habe vor, sie zu beenden.\plu
+message_152:
+  text: Haltet euch fest, Kinder...<br>Das ist die Definition von Macht!!!<br>
+message_173:
+  text: \Beben[1]Wenn...\!\Beben[1] ich...\!\Beben[1] flex...\!\plu
+message_153:
+  text: \Com[2]\beben[1]\{Ich FE\{EEL M\{Y BEEEEST!!!\plu
+message_154:
+  text: Schon gut, schon gut... Hört auf, hört auf!
+message_155:
+  text: Seufz...\! Cool it, PLUTO.<br>\!Ich verliere heute schon einen ultimativen Mitarbeiter.<br>Ich will nicht noch zwei verlieren!<br>Augen
+message_156:
+  text: Aber Sir, ich kann sie besiegen!<br>Gib mir nur etwas mehr Zeit.<br>
+message_157:
+  text: Mach dir nichts draus, PLUTO.<br>Ich riskiere heute kein weiteres Vermögen mehr.<br>
+message_158:
+  text: Verschwindet einfach!"<br>Du warst sowieso nichts als eine Nervensäge für mich!"<br>Kiefer
+message_159:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 39
+  text: D-Danke, Sir.\! Du wirst es nicht bereuen...\her
+message_160:
+  text: Hmpf...\! Ja, ja.\Kiefer
+message_161:
+  text: ...Kiefer
+message_162:
+  text: Es gibt wirklich nichts, was ich tun kann, um dich zum Bleiben zu bewegen, hm? <br>Es ist schade.\! Du hättest hier dein wahres Potential erreichen können.\Kiefer
+message_163:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 43
+  text: MR. JAWSUM...\! Bevor wir gehen...\!<br>Ich möchte nur sagen, dass... \her
+message_164:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 43
+  text: Selbst nachdem du alle meine Freunde entführt und uns dazu gebracht hast, einen zweideutigen Vertrag zu unterschreiben...\! Dachte ich manchmal immer noch, dass du ein ziemlich anständiger Kerl bist.\her
+message_165:
+  text: HERO...\! Das wird dich vielleicht überraschen, aber...<br>Ich habe dich immer als den Sohn gesehen, den ich nie hatte.<br>Ich weiß, dass du da draußen einige großartige Dinge tun wirst.<br>
+message_166:
+  text: \{\quake[1]NOW, GET LOST ALREADY!!!\!\}<br>Kannst du nicht sehen, dass ich beschäftigt bin!?
+message_167:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 36
+  text: Danke nochmal, MR. JAWSUM...\her
+message_168:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 37
+  text: Alles klar, Leute!!! Jetzt, wo wir wieder alle zusammen sind, können wir unsere Suche nach BASIL fortsetzen! \her
+message_169:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 36
+  text: Es war eine lange Reise, aber ich weiß einfach, dass wir ihn finden werden...\! solange wir nicht aufgeben! \her
+message_170:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 17
+  text: Du hast Recht, HERO! Wir sind fast an der Ziellinie...\!<br>Ich kann es fühlen!\kel
+message_171:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 1
+  text: Warte auf uns, BASIL! Wir werden dich im Handumdrehen finden.\aub
+message_172:
+  text: Das ist die Hingabe, die ich gerne sehe...<br>Geht und holt sie euch, ihr verrückten Kinder.<br>
+message_180:
+  faceset: MainCharacter_Mari
+  faceindex: 6
+  text: HERO, du bist zurück! \mar
+message_181:
+  faceset: MainCharacter_Mari
+  faceindex: 5
+  text: Du bist in letzter Zeit so beschäftigt mit der Arbeit, dass du nie mehr Zeit für mich hast!
+message_182:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 46
+  text: Wovon redest du, MARI?\! Ich sehe dich jeden Tag!\her
+message_183:
+  faceset: MainCharacter_Mari
+  faceindex: 3
+  text: Hehe...\! Ich weiß...\! Ich scherze nur herum.\mar
+message_184:
+  faceset: MainCharacter_Mari
+  faceindex: 5
+  text: Du solltest wirklich lernen, wie man einen Witz versteht, Mister!\mar
+message_185:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 48
+  text: Gah!\! Es tut mir so leid... MARI.\! Ich werde...\! Ich werde mein Bestes versuchen!\her
+message_186:
+  faceset: MainCharacter_Mari
+  faceindex: 0
+  text: ...\! Oh, HERO...\! Vergiss es... Es ist okay.\mar
+message_187:
+  faceset: MainCharacter_Mari
+  faceindex: 7
+  text: Hehehe...\mar
+message_200:
+  text: Ein dichter Nebel umhüllt den gesamten Wald.
+message_210:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 27
+  text: Oh, Mann.\! Die Brücke ist raus.\kel
+message_211:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 16
+  text: ... Aber, ich wette, ich schaffe es, wenn ich Anlauf nehme!
+message_212:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 11
+  text: Vielleicht kannst DU das, aber was ist mit uns?
+message_213:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 15
+  text: Du hast doch keine Angst vor einem kleinen Sprung, oder?\kel
+message_214:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 36
+  text: Nun, das ist nicht nötig.\! Das ist eine Baustelle, nicht wahr?\! Wir werden bestimmt etwas finden, das uns beim Überqueren helfen kann, wenn wir hier herumstochern.\her
+message_220:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 36
+  text: \herJa, das ist richtig, KEL!\! Wir haben nach BASIL gesucht.
+message_221:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 19
+  text: \kelHmm...\! Meinst du, BASIL könnte irgendwo im \c[11]LAST RESORT\c[0] sein?
+message_222:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 10
+  text: \aubNo way!<br>BASIL würde sich hier nicht erwischen lassen!<br><br>Scheint er der Typ Mensch zu sein, der solche Dinge genießen würde!?
+message_223:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 28
+  text: \kel Ich weiß es nicht... hat er?! Warum gehen wir nicht einfach herum und fragen jeden, ob er ihn gesehen hat?
+message_224:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 39
+  text: \herGute Idee, KEL!\! Obwohl... Ich denke, wir sind ziemlich weit weg von zu Hause.\! Ich glaube nicht, dass irgendjemand hier wissen würde, wie er aussieht.
+message_225:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 3
+  text: \aubOh, oh! Ich habe eine Idee! Warum malen wir nicht alle ein Bild von ihm?\! Vielleicht können die Leute ihn auf der Zeichnung erkennen!
+message_226:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 37
+  text: \ihr zwei steckt heute voller guter Ideen!\!<br>Das klingt nach einem Plan!
+message_227:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 17
+  text: \kelCool, ich fange an!
+message_228:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 10
+  text: \aubUmm...\! Was ist das!? Das sieht überhaupt nicht aus wie BASIL!\!<br>BASILs Haare sehen eher so aus.
+message_229:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 4
+  text: \aubHmm...\! Nein, warte...\! Das sieht auch nicht richtig aus.
+message_230:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 30
+  text: \kelHey! Was machst du mit meinem Meisterwerk!?<br>Und seit wann hat BASIL so eine große Nase!?
+message_231:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 36
+  text: \herAlrighty... Mal sehen, wie es uns geht.
+message_232:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 47
+  text: \her...\! Yeesh...\! Sieht BASIL wirklich so aus?
+message_233:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 48
+  text: \herUgh...\! Ich kann nicht hinsehen...
+message_234:
+  text: HERO stecke das \c[4]BAD DRAWING\c[0] in deine TASCHE.
+message_235:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 5
+  text: \aubSigh...\! Tja, das ist nicht so gut gelaufen.
+message_236:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 39
+  text: \herNicht so niedergeschlagen sein, AUBREY.<br>Wir können BASIL einfach selbst suchen!
+message_237:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 18
+  text: \kelJa, es wird schon gehen!\! Es gibt viele Orte, die wir uns noch nicht angesehen haben.
+message_238:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 39
+  text: \herHmm...\! Warum fangen wir nicht an, in der Umgebung des \c[11]DEEP WELL\c[0] zu suchen?\! Mit dem Taxi kommt man da ganz leicht hin.\! Vor dem \c[11]LAST RESORT\c[0] steht immer eins!
+message_300:
+  text: Du hast eine \c[4]COOL KEY CARD\c[0].
+message_301:
+  text: Telefonanrufe bis zum Abwinken!
+message_302:
+  text: Für die extra-schweren Nächte...
+message_303:
+  text: Unbezahlte Rechnungen und Anwaltskosten.
+message_305:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 18
+  text: \kelCool! Wir haben eine \c[4]COOL KEY CARD\c[0] gefunden!
+message_306:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 19
+  text: \kel Wir sollten jetzt in der Lage sein, mit dem Aufzug in die 5. Etage zu gelangen Lass uns AUBREY finden!
+message_310:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 37
+  text: \herOh, richtig! Bevor ich es vergesse...\! OMORI, nimm das! \! MR. JAWSUM hat es mir gegeben, damit ich schneller um \c[11]LAST RESORT\c[0] herumkomme.
+message_311:
+  text: HERO hat dir eine \c[4]V.I.P. KEY CARD\c[0]!\! Wow...
+message_312:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 39
+  text: \herDa...\! Jetzt sollten alle Aufzüge schneller fahren.\! Aber nur eine Warnung...\! Manchmal wird es holprig!

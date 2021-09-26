@@ -1,0 +1,48 @@
+message_1:
+  text: \n<ORANGE GUY>Huff...\! Huff...\! Huff...\! Huff...\! \Com[2]Trink \c[3]ORANGE JUICE\c[0]!
+message_2:
+  text: \n<ORANGE GUY>Hast du jemals den Satz gehört...<br>"Orange ist die glücklichste Farbe"?
+message_3:
+  text: \n<ORANGE GUY>...Nein?\! Nun, das ist in Ordnung!<br>Wissen Sie einfach, dass das gleiche Konzept für \c[3]ORANGE JUICE\c[0] gilt!
+message_4:
+  text: \n<ORANGE GUY>\c[3]ORANGE JUICE\c[0] unterstützt die Hydratation!\! \c[3]ORANGE JUICE\c[0] stärkt deinen Emotionalkörper und fördert ein allgemeines Gefühl von Freude, Wohlbefinden und Heiterkeit!
+message_5:
+  text: \n<ORANGE GUY>Es enthält Vitamin C, das für eine gesunde Funktion des Immunsystems wichtig ist!
+message_6:
+  text: \n<ORANGE GUY>Es ist auch ein Antioxidans, das gesundheitliche Vorteile haben kann, indem es deine Zellen vor Schäden durch freie Radikale schützt!
+message_7:
+  text: \n<ORANGE GUY>Ist das \c[3]APFEL JUICE\c[0], den du da hast?\!<br>\Com[2]Das ist Müll!\! Trinken Sie das Zeug nicht!
+message_8:
+  text: ORANGE GUY hat deinen APFELSAFT weggeworfen...
+message_9:
+  text: \n<ORANGE GUY>Ha! Das wird es ihm zeigen!
+message_10:
+  text: \n<ORANGE GUY>So... Würdest du gerne etwas \c[3]ORANGE JUICE\c[0] für $2.00 kaufen?\$
+message_100:
+  text: Du hast \c[3]ORANGE JUICE\c[0]!
+message_11:
+  text: \n<ORANGE GUY>Ja! \Com[2]Trink \c[3]ORANGE JUICE\c[0]!\! Es wird dir schmecken!
+message_12:
+  text: \n<ORANGE GUY>Okay...\! Das ist gut...\!<br>Solange du keinen \c[3]APFELSAFT\c[0] kaufst...
+message_13:
+  text: \n<ORANGE GUY>Huff...\! Huff...\! Ha!\! Wie ich vorausgesagt habe...\! \c[3]ORANGE JUICE\c[0] ist eine viel bessere Alternative zu \c[3]APPLE JUICE\c[0]!\! Mein Bruder wird die Dummheit seiner Wege noch früh genug erkennen!
+message_14:
+  text: \n<ORANGE GUY>Mein Bruder hört nicht auf, sich über das Geschäft an seinem \c[3]APPLE JUICE\c[0] Stand zu freuen...
+message_15:
+  text: \n<ORANGE GUY>Huff...\! Macht nichts...\! Huff...\! Ich werde immer ein fester Gläubiger von \c[3]ORANGE JUICE\c[0] sein!\! Niemand wird mir das jemals wegnehmen!
+message_16:
+  text: \n<ORANGE GUY>Hmm...\! Es sieht so aus, als hättest du nicht genug für eine nahrhafte Tasse Orangensaft...
+message_21:
+  text: \n<ORANGE GUY>Warte...ist das ein...\! \c[13]ROTES KOPFBAND\c[0]...\! das du da trägst? Ich weigere mich, dir \c[3]ORANGE JUICE\c[0] zu servieren, bis du das abnimmst!
+message_101:
+  text: \n<ORANGE GUY>\{\{\sinv[1]HOOO-HAHHHHHHHH!!!
+message_17:
+  text: \n<ORANGE GUY>Nimm dieses Geschenk, weil du so ein guter Kunde warst!\! Es ist ein \c[13]ORANGEES KOPFBAND\c[0], die Farbe der Orangen!
+message_18:
+  text: \n<ORANGE GUY>Hmpf! Ich sehe, dass einer deiner Freunde ein rotes Stirnband trägt...\c[13]\c[0]! Ich werde dir das verzeihen, nur dieses eine Mal!
+message_19:
+  faceset: MainCharacters_Faraway
+  faceindex: 37
+  text: \herHeh heh...\! Entschuldige bitte...
+message_20:
+  text: Du hast ein \c[13]ORANGEES KOPFBAND\c[0]!

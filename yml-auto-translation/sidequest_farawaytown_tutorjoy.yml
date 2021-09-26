@@ -1,0 +1,80 @@
+message_0:
+  text: Da ist eine Stellenausschreibung an der Wand.\! Lies es?
+message_1:
+  text: \"NACHHILFELEHRER HILFE GESUCHT! Suche einen lokalen Sprach<br>Nachhilfelehrer für meine Tochter, JOY! $20.00 a day!\! Bitte bringe diesen Flyer zu mir nach Hause für ein kurzes Gespräch!"
+message_2:
+  text: Den \c[4]BLUE FLYER\c[0] von der Wand nehmen?
+message_3:
+  text: Auf der Rückseite befindet sich eine Karte zum Haus.
+message_4:
+  text: \n<THICK EYEBROWS>Hallo! Was kann ich für dich tun?
+message_100:
+  text: Du hast THICK EYEBROWS den \c[4]BLUE FLYER\c[0] gegeben.
+message_101:
+  text: \n<THICK EYEBROWS>Ah, ihr müsst JOYs neue Sprachtutoren sein!
+message_5:
+  text: \n<THICK EYEBROWS>Hmm...\! Ein Interview ist zu viel Aufwand!\! <br>Du solltest die Sprache der 2. Klasse beherrschen, richtig?
+message_7:
+  text: \n<THICK EYEBROWS>Beeil dich und komm rein! Meine Tochter JOY wartet in ihrem Zimmer auf dich!
+message_8:
+  text: \n<KLEINES MÄDCHEN>H-Hallo... Ich bin JOY. Freut mich, euch kennenzulernen!\!<br>Ihr müsst meine neuen Nachhilfelehrer sein.\! Sollen wir jetzt anfangen?
+message_9:
+  text: \n<KLEINES MÄDCHEN>Das ist das Arbeitsblatt, bei dem ich feststecke...
+message_10:
+  text: \n<KLEINES MÄDCHEN>Diese Frage bereitet mir ein wenig Schwierigkeiten...
+message_11:
+  text: Mein Bleistift ist __ dem Tisch.
+message_12:
+  text: A) in
+message_13:
+  text: B) bei
+message_14:
+  text: C) am
+message_15:
+  text: \n<KLEINES MÄDCHEN>Wie wäre es mit dem hier?
+message_16:
+  text: In dem Satz "Lies dein Buch leise", welche Art von Wort ist "leise"?
+message_17:
+  text: A) Adjektiv
+message_18:
+  text: B) Adverb
+message_19:
+  text: C) Präposition
+message_20:
+  text: \n<KLEINES MÄDCHEN>Das hier ist das Schwerste...
+message_21:
+  text: Welcher dieser Sätze ist richtig geschrieben?
+message_22:
+  text: A) "Auberginen schmecken besser, wenn sie gekocht werden."
+message_23:
+  text: B) "Es ist definitiv leckerer als Tofu."
+message_24:
+  text: C) "Ich glaube, Auberginen sind das besser schmeckende Weichgemüse."
+message_25:
+  text: \n<KLEINES MÄDCHEN>Oh, okay!\! Jetzt verstehe ich...
+message_26:
+  text: \n<SMALL GIRL>Warte...\! Ich dachte die richtige Antwort wäre "A"?
+message_27:
+  text: \n<KLEINES MÄDCHEN>Hmm...\! Aber...\! Ist die richtige Antwort nicht "B"?
+message_28:
+  text: \n<KLEINES MÄDCHEN>Hmm...\! Warte...\! Ist die richtige Antwort nicht "C"?
+message_29:
+  text: \n<KLEINES MÄDCHEN>Oh, ich hab's verstanden!\! Du willst mich wohl testen...
+message_30:
+  text: \n<KLEINES MÄDCHEN>Sorry, ich hatte noch nie einen Nachhilfelehrer, also weiß ich nicht, wie das funktioniert!
+message_31:
+  text: \n<SMALL GIRL>Danke!\! Ich glaube, ich verstehe ein bisschen besser...\! Hehe...
+message_32:
+  text: \n<THICK EYEBROWS>Hallo!\! FREUDE! Wie geht es dir?\! <br>Sind diese Tutoren überhaupt eine Hilfe für dich?
+message_33:
+  text: \n<THICK EYEBROWS>Ah!\! Wie ich sehe, hast du dein Arbeitsblatt bereits ausgefüllt...
+message_34:
+  text: \n<THICK EYEBROWS>Amazing work!\! Du solltest in Erwägung ziehen, Vollzeit Nachhilfe zu geben!\! <br>Hier ist deine Bezahlung!
+message_35:
+  text: \n<THICK EYEBROWS>Bitte komm morgen wieder!
+message_36:
+  text: \n<THICK EYEBROWS>Hallo! Bist du wegen des Nachhilfe-Posters hier?\! Nein? Oh...
+message_37:
+  text: \n<THICK EYEBROWS>JOY sollte in diesem Moment in ihrem Zimmer sein.\! Danke für deine Hilfe!
+message_1000:
+  text: Ugh...\! Sprache...

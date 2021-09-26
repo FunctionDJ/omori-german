@@ -1,0 +1,252 @@
+message_0:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 3
+  text: OMORI! Willkommen zurück!\aub
+message_1:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 19
+  text: Siehst du, HERO? Ich habe dir gesagt, dass du dir keine Sorgen machen musst!<br>OMORI taucht immer auf, wenn wir ihn brauchen!
+message_2:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 4
+  text: Ist alles in Ordnung, OMORI?<br>Wir haben uns Sorgen um dich gemacht...<br>
+message_3:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 19
+  text: Jetzt, wo du hier bist, lass uns rausgehen und nach BASIL suchen!<br> Er zählt auf uns!
+message_4:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 10
+  text: Hab Geduld, KEL! <br>Wir müssen erst sicherstellen, dass es OMORI gut geht!
+message_5:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 1
+  text: Oder vielleicht... Du und HERO könnt selbst gehen.\aub
+message_6:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 2
+  text: Komm schon, OMORI! Lass uns zusammen auf Erkundungstour gehen...\aub
+message_7:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 3
+  text: Nur wir beide !\aub
+message_8:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 30
+  text: Hey, du kannst uns nicht außen vor lassen! \kel
+message_9:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 39
+  text: Er hat Recht, AUBREY. Wir müssen das gemeinsam als Team machen
+message_10:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 38
+  text: Du weißt nie, wann du die Hilfe von jemandem brauchst.\! <br>Wir sind stärker, wenn wir zusammenarbeiten!\her
+message_11:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 9
+  text: Hmpf! OMORI und ich kommen schon alleine zurecht.\aub
+message_12:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 1
+  text: Du wirst mich beschützen, nicht wahr, OMORI?\aub
+message_13:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 31
+  text: Ihh... Ekelhaft... Nehmt euch ein Zimmer.\kel
+message_14:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 39
+  text: Komm schon, AUBREY. Jetzt wird es ernst.<br>Lass uns MARI sagen, dass es OMORI gut geht.<br>Du weißt doch, wie sie sich immer Sorgen um ihn macht...<br>
+message_15:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 8
+  text: Okay, okay... Gut...\!<br>Ich habe nur versucht, ein bisschen Spaß zu haben...\aub
+message_30:
+  text: Oh Junge, oh Junge!\! Ich habe so lange auf dieses Ereignis gewartet!\!<br>Es ist wirklich ein herrlicher Tag!\n<SPROUT MOLE>
+message_31:
+  text: Oh ja, oh ja!\! Endlich wird unsere glorreiche Prinzessin SWEETHEART ihren Auftritt haben!\n<SPROUT MOLE>
+message_32:
+  text: Oh je, oh je!\! Ich kann meine Aufregung kaum zurückhalten.\!<br>Diese Show wird sicher die elektrisierendste von allen sein!\n<SPROUT MOLE>
+message_33:
+  text: Oh je, oh je!\! Wir müssen uns beeilen!\! <br>Unsere vier Tickets für die erste Reihe sind genau hier!<br>Wir haben die Zeit unseres Lebens vor uns und dürfen nicht zu spät kommen!\n<SPROUT MOLE>
+message_34:
+  text: Nun... in welche Richtung gehen wir noch mal?\n<SPROUT MOLE>
+message_43:
+  text: \n<SPROUT MOLE>Oh Junge, oh Junge!
+message_44:
+  text: \n<SPROUT MOLE>Oh ja, oh ja!
+message_45:
+  text: \n<SPROUT MOLE>Oh je, oh je!
+message_46:
+  text: \n<SPROUT MOLE>Oh je, oh je!
+message_35:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 31
+  text: Ahh! Es ist eine Horde von LOST SPROUT MOLES!\! \Com[2]Holen wir sie uns!\kel
+message_36:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 17
+  text: Hey, cool! Diese SPROUT MOLES haben ein paar Tickets fallen lassen!
+message_37:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 1
+  text: Lass mal sehen!<br>Oh, das sind Karten für die erste Reihe für irgendeine Show... \aub
+message_38:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 0
+  text: Featuring...\! SWEETHEART?\aub
+message_39:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 39
+  text: War das nicht CAPT. SPACEBOYs Ex-Freundin?\her
+message_40:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 2
+  text: Yeah! Sieht aus wie eine Art Wettbewerb oder so was!\aub
+message_41:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 1
+  text: Wenn wir zufällig vorbeikommen, sollten wir anhalten und zusehen!\! <br>Wir haben ja schließlich Karten für die erste Reihe!\c[4]SHOW TICKETS\c[0]
+message_42:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 36
+  text: Na ja...\!<br>Vielleicht können wir ja mal vorbeischauen, wenn wir zufällig darauf stoßen.<br>
+message_60:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 27
+  text: Ugh...\! Bei näherem Nachdenken... Lass uns woanders nach BASIL suchen.\! Dieser Ort ist mir unheimlich.\kel
+message_61:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 10
+  text: Sei nicht so ein Baby, KEL!<br>Es sind nur ein paar Spinnweben hier und da!
+message_62:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 31
+  text: \AAAAAAAHH!!!<br>THERE'S A SPIDER IN YOUR HAIR!!!<br>Das Beben[0]
+message_63:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 6
+  text: \Com[2]W-WHAT? \Com[2]WO? \Com[2]GET IT OFF!!!\aub\quake[0]
+message_64:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 17
+  text: Haha! Nur ein Scherz!<br>Sieh mal, wer jetzt der Ängstliche ist!<br>
+message_65:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 8
+  text: Hmpf! Das ist nicht sehr lustig, KEL...\aub
+message_80:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 2
+  text: Wow, sieh dir diese riesige Bühne an!<br>Sie ist genauso toll, wie ich sie mir vorgestellt habe!
+message_81:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 3
+  text: Lasst uns unsere Plätze einnehmen.<br>Es sieht so aus, als würde die Show gleich beginnen!<br>
+message_100:
+  text: Meine Damen und Herren...<br>Willkommen zu einer besonderen Folge von...<br>"SWEETHEART'S QUEST FOR HEARTS!<br>"
+message_101:
+  text: Vor unserer Show wollten wir uns einen Moment Zeit nehmen, um das Leben von jemandem zu ehren, der für uns alle eine Inspiration war. \!<br>Unser geliebter Anführer, YE OLD SPROUT.\smm
+message_102:
+  text: Er war wirklich der Vater, den keiner von uns verdient hat.\! <br>Lasst uns einen Moment der Stille in Erinnerung an ihn halten.\smm
+message_103:
+  text: ...\| ...\| ...\| ...\| ...  \smm
+message_104:
+  text: Möge er in Frieden ruhen.\smm
+message_105:
+  text: \sinv[1]\{AND NOW...\. ON TO THE SHOW!!\smm
+message_106:
+  text: Das letzte Mal bei \"SWEETHEART'S QUEST FOR HEARTS\"...<br>Unsere Lieblingsprinzessin...\! hat es wieder einmal nicht geschafft, sich in einen der begehrten Junggesellen zu verlieben!\smm
+message_107:
+  text: Dieses Mal...\! haben wir drei neue, sehr attraktive Kandidatinnen aufgetrieben!\! Wird eine von ihnen in der Lage sein, SWEETHEART'S Herz zu erobern?\! Lasst sie uns jetzt enthüllen!\smm
+message_108:
+  text: TEILNEHMER \#1 ist ein Einheimischer von SPROUT MOLE VILLAGE! \smm
+message_109:
+  text: Er kommt auf eine Größe von 1,80 m! Sein Lieblingsessen ist \c[3]TOFU\c[0]. Er hat eine riesige Sammlung von Plastikflamingos... und genießt lange Spaziergänge durch enge Tunnel!\smm
+message_110:
+  text: \Com[2]\{GIVE IT UP FOR CONTESTANT \#1!\smm
+message_111:
+  text: TEILNEHMER \#2 ist... Yup, du hast es erraten!\! <br>Auch ein Einheimischer von SPROUT MOLE VILLAGE!\smm
+message_112:
+  text: Vorsichtig! Er kommt mit einer Größe von 1,80m und einem ganzen Zentimeter rein!<br>Seine Hobbys sind gehen, rennen und krabbeln!<br>
+message_113:
+  text: Seine Lieblingsfarbkombination ist braun und grün und er verbringt seine Wochenenden damit, sich in schmutziger Wäsche zu wälzen!<br>\!Mmm... würzig.\smm
+message_114:
+  text: \Com[2]\{GIVE IT UP FOR CONTESTANT \#2!\smm
+message_115:
+  text: Und nun zu etwas ganz anderem!\smm
+message_116:
+  text: KONTESTANT \#3 kommt den ganzen Weg von \c[11]OTHERWORLD\c[0]!\smm
+message_117:
+  text: Es ist, als wäre er einfach vom Himmel gefallen... wortwörtlich!<br>Ihm und uns zufolge macht ihn das zu einem Fang.\! <br>Ein Hoch auf SNALEY!\smm
+message_118:
+  text: Und jetzt...\! ist der Moment, auf den ihr alle gewartet habt...\smm
+message_119:
+  text: \DIMMEN SIE DIE LICHTER, BITTE!!!
+message_120:
+  text: \sinv[1]Sie strahlt...\|Schönheit... \|Sie strahlt...Anmut aus...<br>Sie hat wirklich...<br>das schönste Gesicht...<br>
+message_121:
+  text: Ja!\! Du weißt, von wem wir sprechen!<br>\!Sie ist all das, was erstaunlich und wunderbar ist, und sie ist gerade dabei, einen Fuß auf genau diese Bühne zu setzen!<br>
+message_122:
+  text: Bitte...\! Heißen Sie herzlich willkommen zu...<br>\!der einen... \!die einzige... \!die großartige...\smm
+message_123:
+  text: \{\{\{\Com[2]SWEETHEA-\smm
+message_124:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 4
+  text: Oh, nein! Es gibt einen Stromausfall!\!<br>Was machen wir jetzt? Ich muss wissen, was als nächstes passiert!\aub
+message_125:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 36
+  text: Warten wir es ab... Ich bin mir sicher, dass die SPROUT MOLES den Strom in kürzester Zeit wieder anstellen werden!
+message_126:
+  text: Hilfe! Wir wissen nicht, was wir tun sollen!\n<SPROUT MOLE>
+message_127:
+  text: Hilfe! Wir wissen auch nicht, was wir tun sollen!\n<SPROUT MOLE>
+message_128:
+  text: Hilfe!\n<SPROUT MOLE>
+message_129:
+  text: \{Hilfe!!!\n<SPROUT MOLE>
+message_130:
+  text: \Com[2]\{\{HELP!!!\n<SPROUT MOLE>
+message_131:
+  text: \Com[2]\{\{\{HELP!!!!\n<SPROUT MOLE>
+message_132:
+  text: \quake[1]\{HHEE\{\Com[2]LLLLPPPPP\Com[2]\{PPPPPP!!!!!\quake[0]\n<SPROUT MOLE>
+message_133:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 42
+  text: ...\! Nun ...\! Vielleicht sollten wir uns vorsichtshalber mal umsehen.\her
+message_150:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 39
+  text: Wow... Ich schätze, der Blackout hat auch das ganze SPROUT MOLE VILLAGE betroffen!
+message_151:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 4
+  text: HERO, was machen wir jetzt?
+message_152:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 37
+  text: Mach dir keine Sorgen, AUBREY. Hier kommt mein handwerkliches Geschick ins Spiel!\! In Fällen wie diesem sollten wir wahrscheinlich nach...\! einer Art Backup-Generator suchen!
+message_153:
+  text: \n<WARDEN MOLE>Beschleunigt das Tempo, Jungs! Wir müssen uns beeilen!
+message_154:
+  text: \n<SPROUT MOLE>Wir versuchen unser Bestes, Aufseher!
+message_155:
+  text: \n<SPROUT MOLE>Das ist so schnell wie wir fahren können!
+message_156:
+  text: \n<SPROUT MOLE>Warum funktioniert das nicht!? Ich fühle mich krank.
+message_157:
+  text: \n<SPROUT MOLE>Lauft einfach weiter, Maulwürfe!\! Nichts wird ohne ein bisschen Schweiß erledigt!
+message_158:
+  text: Dieses Kabel ist nicht in der Steckdose eingesteckt.\! Steckst du es ein?
+message_159:
+  text: \n<WARDEN MOLE>\Com[2]Was habe ich gesagt, Maulwürfe? Harte Arbeit zahlt sich aus!<br>\!Jetzt lauf weiter!
+message_160:
+  text: \n<SPROUT MOLE>Huff... huff... huff... huff...
+message_161:
+  text: \n<WARDEN MOLE>Schneller, Männer!\! Wir müssen an unsere Grenzen gehen und nach einem helleren Morgen streben!
+message_162:
+  text: Ein sehr großes, glückliches Outlet.

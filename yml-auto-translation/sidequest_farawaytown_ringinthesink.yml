@@ -1,0 +1,38 @@
+message_1:
+  text: \n<CLUMSY GUY>\quake[1]\{GAAAA\{AAHHHHH}{HHHHHHHH!!!\}\quake[0]
+message_2:
+  text: \n<CLUMSY GUY>Oh...\! H-Heya!\! Ähm...\! Wer bist du?\! ...
+message_3:
+  text: \n<CLUMSY GUY>\Com[2]Warte! N-Nicht beachten! <br>\Com[2]Ich habe hier einen Notfall!
+message_4:
+  text: \n<CLUMSY GUY>Sooooo... uhhh...\! Denkst du, du kannst mir helfen?
+message_5:
+  text: \n<CLUMSY GUY>Danke, Mann!<br>Com[2]Na, worauf wartest du denn noch!? Komm rein!
+message_6:
+  text: \n<CLUMSY GUY>Die Küche ist hier entlang!\! \Com[2]Beeil dich!
+message_7:
+  text: \n<CLUMSY GUY>Hier ist der Ort des Geschehens...\! Ich war gerade dabei, das Geschirr abzuwaschen, als plötzlich...\! \Com[2]mein \c[4]HOCHZEITSRING\c[0] von meinem Finger fiel und in den Abfluss rutschte!
+message_8:
+  text: \n<CLUMSY GUY>Verrückt, oder? Man könnte meinen, dass so etwas nur in Filmen passiert...
+message_9:
+  text: \n<CLUMSY GUY>Glücklicherweise ist meine Frau heute noch unterwegs und hat noch nichts davon mitbekommen.\! Ich versuche seit fast einer Stunde, es herauszubekommen und meine Finger fangen an, blaue Flecken zu bekommen...
+message_10:
+  text: \n<CLUMSY GUY>Sigh...\! Ich will wirklich nicht meiner Frau oder meiner Tochter SARAH davon erzählen...\! Ich werde nie das Ende davon hören!
+message_11:
+  text: \n<CLUMSY GUY>Könnt ihr mir bitte helfen?
+message_12:
+  text: Du entdeckst etwas Glänzendes im Waschbecken und hakst es ein.
+message_13:
+  text: Es ist der \c[4]WEDDING RING\c[0]!
+message_14:
+  text: Du hast den \c[4]HOCHZEITSRING\c[0] an SARAHs VATER gegeben.
+message_15:
+  text: \n<CLUMSY GUY>\Com[2]Hey, das ist es!\! \Com[2]Danke!\! \Com[2]Danke, danke, danke!\!<br>Das werde ich nie vergessen... Ich verspreche es!\! Du und alle deine Freunde sind hier jederzeit willkommen!
+message_16:
+  text: \n<CLUMSY GUY>Ich glaube, ich habe das vielleicht schon mal erwähnt, aber ich habe eine Tochter in deinem Alter.\! Ihr Name ist SARAH...\!<br>Sie ist wahrscheinlich gerade in ihrem Zimmer!
+message_17:
+  text: Du entdeckst etwas Glänzendes im Waschbecken.
+message_18:
+  text: \n<CLUMSY GUY>W-Wait!\! Bitte hilf mir, meinen \c[4]HOCHZEITSRING\c[0] zu bekommen!
+message_19:
+  text: \n<CLUMSY GUY>Hier drüben!

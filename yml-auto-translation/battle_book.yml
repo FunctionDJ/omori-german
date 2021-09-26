@@ -1,0 +1,238 @@
+message_0:
+  text: Ein SELBSTHILFE-Buch rund um das Thema Battles, geschrieben von mir (HERO)!\! Womit möchtest du Hilfe haben?
+message_1:
+  text: STATISTIKEN
+message_2:
+  text: EMOTIONEN
+message_3:
+  text: FOLLOW-UP
+message_100:
+  text: SKILLS
+message_101:
+  text: EQUIPS
+message_102:
+  text: TOYS
+message_103:
+  text: LEVELING UP
+message_4:
+  text: Worüber möchtest du mehr über STATS wissen?
+message_5:
+  text: HERZ
+message_6:
+  text: HEART zeigt an, wie viel Schaden du einstecken kannst, bevor du TOAST.\ wirst! Freunde, die TOAST sind, können nicht mehr in der Schlacht kämpfen!
+message_7:
+  text: JUICE
+message_8:
+  text: JUICE wird benötigt, um \c[1]SKILLS\c[0] zu verwenden, die verschiedene Effekte haben.\! Verschiedene \c[1]SKILLS\c[0] können unterschiedliche Mengen an JUICE benötigen.
+message_9:
+  text: ATTACK
+message_10:
+  text: Ein höherer ATTACK erhöht den Schaden, der einem Feind zugefügt wird, mehr oder weniger.
+message_11:
+  text: VERTEIDIGUNG
+message_12:
+  text: Eine höhere VERTEIDIGUNG reduziert die Menge an Schaden, die ein Gegner erleidet... normalerweise...
+message_13:
+  text: SPEED
+message_14:
+  text: SPEED bestimmt die Reihenfolge, in der Freunde und Feinde ihre Aktionen ausführen.
+message_15:
+  text: LUCK
+message_16:
+  text: LUCK beeinflusst die KRITISCHE HIT-Rate, das ist deine Chance, einem Gegner einen stärkeren Schlag zu versetzen!
+message_17:
+  text: HIT RATE
+message_18:
+  text: HIT RATE beeinflusst deine Chance, einen Gegner zu treffen Je niedriger deine Trefferquote ist, desto wahrscheinlicher ist es, dass du Angriffe whiffst.
+message_19:
+  text: ENERGIE
+message_20:
+  text: ENERGY ist ein kollektiver Status, der von allen Freunden geteilt wird und wird benötigt, um einen FOLLOW-UP Zug auszuführen.\! Mehr über ENERGIE erfährst du im Abschnitt FOLLOW-UP.
+message_200:
+  text: Was über EMOTIONS würdest du gerne mehr wissen?
+message_21:
+  text: ÜBERSICHT
+message_22:
+  text: EMOTIONEN können bestimmen, wie effektiv ein Angriff ist.\! HAPPY schlägt ANGRY...\! ANGRY schlägt SAD...\! und SAD schlägt HAPPY!<br><br>EMOTIONEN beeinflussen auch unterschiedliche STATS für Freunde und Feinde.\! Bitte sieh dir die EMOTIONENKARTE in deiner WICHTIGEN TASCHE an, um eine einfache Visualisierung zu erhalten.
+message_300:
+  text: Außerdem können die EMOTIONEN der besiegten Feinde Bonuseffekte gewähren HAPPY-Feinde haben eine höhere Item- und CLAM-Drop-Rate, während ANGRY-Feinde mehr EXP ausgeben.<br>Dummerweise haben SAD-Feinde keine zusätzlichen Boni, sind aber typischerweise leichter zu besiegen.
+message_23:
+  text: HAPPY
+message_24:
+  text: Ein GLÜCKLICHER Freund/Fußballer wird mehr GLÜCK und GESCHWINDIGKEIT haben, aber eine geringere SCHLAGERQUOTE.
+message_25:
+  text: Wenn ein Freund/Freundin noch mehr GLÜCKLICH ist, werden sie ECSTATIC.
+message_26:
+  text: Bei einem ECSTATIC Freund/Feind werden LUCK und SPEED noch weiter erhöht, aber auch die HIT RATE sinkt entsprechend.
+message_27:
+  text: SAD
+message_28:
+  text: Ein SAD Freund/Feind hat erhöhte VERTEIDIGUNG, aber verringerte GESCHWINDIGKEIT.\! Ein Teil des Schadens, der dem HERZ zugefügt werden würde, wird stattdessen dem SAFT zugefügt.
+message_29:
+  text: Wenn ein Freund/Freundin noch mehr SAD ist, werden sie DEPRESSIERT.
+message_30:
+  text: Ein DEPRESSED Freund/Feind hat eine noch höhere DEFENSE und eine noch niedrigere SPEED.\! Ein Teil des Schadens, der HEART zugefügt werden würde, wird stattdessen JUICE zugefügt.
+message_31:
+  text: ANGRY
+message_32:
+  text: Ein wütender Freund/Feind hat eine erhöhte ANGRIFFSFREUDE, aber eine verringerte VERTEIDIGUNG.
+message_33:
+  text: Wenn ein Freund/Freundin noch mehr ANGST hat, wird er/sie Wütend.
+message_34:
+  text: Ein ENRAGED Freund/Feind hat eine viel höhere ATTACK, aber seine DEFENSE sinkt noch weiter.
+message_201:
+  text: Was über FOLLOW-UPS würdest du gerne mehr wissen?
+message_35:
+  text: ÜBERSICHT
+message_36:
+  text: Ein FOLLOW-UP Zug ist eine Bonusaktion, die ein Freund nach seinem normalen Angriff ausführen kann.
+message_37:
+  text: Um einen FOLLOW-UP zu machen, greife an und drücke dann die Taste, die dem FOLLOW-UP Zug entspricht, den du benutzen willst.
+message_38:
+  text: ENERGIE
+message_39:
+  text: ENERGIE ist ein kollektiver Zustand, der zwischen Freunden geteilt wird.
+message_40:
+  text: Ein FOLLOW-UP zu machen kostet 3 ENERGIE, mit Ausnahme von RELEASE ENERGY, die 10 kostet.
+message_41:
+  text: Kämpfe beginnen mit 3 ENERGIE, und jedes Mal, wenn ein Feind einem Freund Schaden zufügt, wird 1 ENERGIE gewonnen.
+message_42:
+  text: OMORI
+message_43:
+  text: Über welche der FOLLOW-UPS von OMORI würdest du gerne mehr erfahren?
+message_44:
+  text: ANGRIFF ANGRIFF
+message_45:
+  text: OMORI greift noch einmal an!
+message_145:
+  text: OMORI greift noch einmal an, mit Gefühl!
+message_245:
+  text: OMORI greift noch zweimal an, mit Gefühl!
+message_46:
+  text: TRIP
+message_47:
+  text: OMORI zielt auf einen niedrigen Angriff und reduziert die GESCHWINDIGKEIT des anvisierten Gegners.
+message_147:
+  text: OMORI zielt auf einen niedrigen Angriff ab, der die GESCHWINDIGKEIT des anvisierten Gegners reduziert und ihn SCHWACH macht.
+message_247:
+  text: OMORI zielt auf einen niedrigen Angriff ab, der die GESCHWINDIGKEIT des anvisierten Gegners stark reduziert und ihn SCHWACH macht.
+message_48:
+  text: ENERGIE FREISETZEN
+message_49:
+  text: Alle kommen für den ultimativen Angriff zusammen und fügen allen Gegnern riesigen Schaden zu!
+message_250:
+  text: AUBREY
+message_50:
+  text: Über welche von AUBREYs FOLLOW-UPS würdest du gerne mehr erfahren?
+message_51:
+  text: SCHAU AUF OMORI
+message_52:
+  text: AUBREY versucht OMORI dazu zu bringen, sie zu bemerken, so dass sie einen starken Angriff auf denselben Feind macht!
+message_152:
+  text: AUBREY versucht OMORI dazu zu bringen, sie zu bemerken, also macht sie einen extrastarken Angriff auf denselben Feind!
+message_252:
+  text: AUBREY versucht, OMORI dazu zu bringen, sie zu bemerken, also macht sie einen extrastarken Angriff auf denselben Gegner, der dessen VERTEIDIGUNG ignoriert!
+message_53:
+  text: SCHAU AUF KEL
+message_54:
+  text: KEL belästigt AUBREY und macht sie wütend.
+message_154:
+  text: KEL piesackt AUBREY, was beide wütend macht und ihre ATTACK erhöht.
+message_254:
+  text: KEL piesackt AUBREY, wodurch beide ENRAGED werden und ihre ATTACK erhöhen.
+message_55:
+  text: HERO ANSCHAUEN
+message_56:
+  text: HERO ermutigt AUBREY, macht sie GLÜCKLICH und erhöht ihre VERTEIDIGUNG.
+message_156:
+  text: HERO ermutigt AUBREY, macht sie GLÜCKLICH, erhöht ihre VERTEIDIGUNG und stellt 25% ihres HERZENS wieder her.
+message_256:
+  text: HERO ermutigt AUBREY, indem er sie ECSTATIC macht, ihre DEFENSE erhöht, 75% ihres HERZENS wiederherstellt und 50% ihres JUICE zurückgewinnt.
+message_57:
+  text: KEL
+message_202:
+  text: Über welche von KELs FOLLOW-UPS würdest du gerne mehr erfahren?
+message_58:
+  text: PASS AUF OMORI
+message_59:
+  text: KEL passt den Ball zu OMORI, wodurch OMORI 1 Schaden erleidet und SAD wird.
+message_159:
+  text: KEL passt den Ball zu OMORI, der einem Gegner Schaden zufügt und OMORI HAPPY macht.
+message_259:
+  text: KEL passt den Ball zu OMORI, der einem Gegner großen Schaden zufügt und OMORI ECSTATIC macht.
+message_60:
+  text: PASS AUF AUBREY
+message_61:
+  text: KEL wirft den Ball zu AUBREY, der ihn aus dem Park wirft und einem zufälligen Gegner Schaden zufügt!
+message_161:
+  text: KEL wirft den Ball zu AUBREY, der ihn aus dem Park wirft und einem zufälligen Gegner großen Schaden zufügt!
+message_261:
+  text: KEL wirft den Ball zu AUBREY, der ihn aus dem Park wirft und einem zufälligen Gegner sehr großen Schaden zufügt!
+message_62:
+  text: PASS TO HERO
+message_63:
+  text: KEL gibt den Ball an HERO weiter, der KEL dabei hilft, auf alle Gegner zu dunken und dabei Schaden zu verursachen!
+message_163:
+  text: KEL gibt den Ball an HERO ab, der KEL dabei hilft, auf alle Gegner zu dunken, was großen Schaden verursacht!
+message_263:
+  text: KEL gibt den Ball an HERO ab, der KEL dabei hilft, auf alle Gegner zu dunken, was sehr großen Schaden verursacht und die ANTRIEBSFÄHIGKEIT aller Gegner reduziert!
+message_64:
+  text: HERO
+message_203:
+  text: Über welche von HEROs FOLLOW-UPS würdest du gerne mehr erfahren?
+message_65:
+  text: OMORI ANRUFEN
+message_66:
+  text: HERO ruft OMORI.\! OMORI greift an, dann heilt HERO 15% von OMORI's HERZ mit Worten der Ermutigung.
+message_166:
+  text: HERO ruft OMORI.\! OMORI greift an, dann heilt HERO 25% von OMORIs HERZ und 10% von OMORIs JUICE mit Worten der Ermutigung.
+message_266:
+  text: HERO ruft OMORI.\! OMORI greift an, dann heilt HERO 40% von OMORIs HERZ und 20% von OMORIs SAFT mit aufmunternden Worten.
+message_67:
+  text: AUBREY ANRUFEN
+message_68:
+  text: HERO ruft AUBREY.\! AUBREY greift an, dann heilt HERO 15% von AUBREYs HERZ mit Worten der Ermutigung.
+message_168:
+  text: HERO ruft AUBREY.\! AUBREY greift an, dann heilt HERO 25% von AUBREYs HERZ und 10% von AUBREYs JUICE mit Worten der Ermutigung.
+message_268:
+  text: HERO ruft AUBREY.\! AUBREY greift an, dann heilt HERO 40% von AUBREYs HERZ und 20% von AUBREYs JUICE mit Worten der Ermutigung.
+message_69:
+  text: KEL ANRUFEN
+message_70:
+  text: HERO ruft KEL.\! KEL greift an, dann heilt HERO 15% von KELs HERZ mit Worten der Ermutigung.
+message_170:
+  text: HERO ruft KEL.\! KEL greift an, dann heilt HERO 25% von KEL's HEART und 10% von KEL's JUICE mit Worten der Ermutigung.
+message_270:
+  text: HERO ruft KEL.\! KEL greift an, dann heilt HERO 40% von KELs HERZ und 20% von KELs JUICE mit Worten der Ermutigung.
+message_204:
+  text: Was über \c[1]SKILLS\c[0] würdest du gerne mehr wissen?
+message_71:
+  text: LERNFÄHIGKEITEN
+message_72:
+  text: \c[1]FÄHIGKEITEN\c[0] können erlernt werden, indem du AUFSTIEGST, Nebenquests erledigst und bestimmte Gegenstände findest.\! Einige \c[1]SKILLS\c[0] wie HEROs \c[1]COOK\c[0] können außerhalb des Kampfes eingesetzt werden.
+message_73:
+  text: SKILL SWAP
+message_74:
+  text: Jeder Freund kann bis zu 4 \c[1]SKILLS\c[0] auf einmal ausgerüstet haben.
+message_75:
+  text: Du kannst im PLAYER MENU auswählen, welche \c[1]SKILLS\c[0] jeder Freund haben soll.
+message_205:
+  text: Worüber möchtest du mehr über EQUIPS erfahren?
+message_76:
+  text: WAFFEN
+message_77:
+  text: WEAPONS erhöhen die ATTACK des Trägers.\!<br>Freunde können nur ihre eigene WEAPON ausrüsten.
+message_78:
+  text: CHARMS
+message_79:
+  text: CHARMS können von jedem ausgerüstet werden.<br>Die meisten CHARMS gewähren Stat-Boni, aber einige haben einzigartige Effekte.
+message_80:
+  text: TOYS werden während des Kampfes eingesetzt, um Freunde zu unterstützen oder Gegnern Schaden zuzufügen.\! Sie können nicht außerhalb des Kampfes benutzt werden.
+message_81:
+  text: OMORI und Nicht-TOAST-Freunde verdienen nach jedem Kampf EXP.\! Sobald eine bestimmte Menge an EXP erreicht ist, wird dieser Freund LEVEL UP.
+message_82:
+  text: Wenn ein Freund AUFSTIEGT, gewinnt er an Werten und erlernt gelegentlich einen neuen Skill
+message_83:
+  text: Du kannst die benötigten EXP sehen, die du brauchst, um das nächste LEVEL zu erreichen, indem du den violett-rosa Farbverlauf unter dem Namen jedes Freundes im SPIELERMENÜ betrachtest.
+message_1000:
+  text: NEVERMIND

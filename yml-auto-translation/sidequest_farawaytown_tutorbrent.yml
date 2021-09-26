@@ -1,0 +1,84 @@
+message_0:
+  text: Da ist eine Stellenausschreibung an der Wand.\! Lies es?
+message_1:
+  text: '"NACHHILFELEHRER GESUCHT!\! Ich suche einen lokalen Mathenachhilfelehrer für meinen Sohn BRENT!\! $20.00 a day!\! Bitte bringe diesen Flyer zu mir nach Hause für ein kurzes Gespräch!"'
+message_3:
+  text: Nimmst du den \c[4]GREEN FLYER\c[0] von der Wand?
+message_4:
+  text: Auf der Rückseite befindet sich eine Karte zum Haus.
+message_5:
+  text: \n<SCHULLEITUNG>Nun, hallo! Wie kann ich dir helfen?
+message_100:
+  text: Du hast dem SCHULLEITER den \c[4]GRÜNEN FLYER\c[0] gegeben.
+message_101:
+  text: \n<SCHULLEITER>Ah, ich verstehe! Du bist hier, um meinen Sohn zu unterrichten, BRENT!
+message_6:
+  text: \n<SCHULLEITER>Hmm...\! Es gibt mehr als einen von euch, aber ihr seht ziemlich vertrauenswürdig aus.
+message_7:
+  text: \n<SCHULLEITER>Ich denke, dass es möglich ist, dass zwei Tutoren besser sind als einer...\! solange ihr alle die Bezahlung teilt! Haha!
+message_8:
+  text: \n<SCHULLEITUNG>Bitte komm rein BRENT wartet oben in seinem Zimmer auf dich.
+message_200:
+  text: \n<SCHULLEITER>Fühlt euch wie zu Hause!\! BRENT wartet oben in seinem Zimmer auf dich.
+message_9:
+  text: \n<SMART-LOOKING BOY>Hey, ihr müsst meine neuen Tutoren sein!\!<br>Schön dich kennenzulernen. Mein Name ist BRENT.\!<br>Sollen wir gleich loslegen?
+message_10:
+  text: \n<SMART-LOOKING BOY>Also, das ist das Arbeitsblatt, mit dem ich zu kämpfen habe.
+message_11:
+  text: \n<SMART-LOOKING BOY>Könntest du mir aushelfen?
+message_12:
+  text: \n<SMART-LOOKING BOY>Diese Gleichung macht mir Schwierigkeiten...
+message_13:
+  text: 4 x 51 =
+message_14:
+  text: A) 244
+message_15:
+  text: B) 204
+message_16:
+  text: C) 404
+message_17:
+  text: \n<SMART-LOOKING BOY>Wie wäre es mit diesem hier?
+message_18:
+  text: 5 x 3 + 15 - 1 + 6 / 2 =
+message_19:
+  text: A) 32
+message_20:
+  text: B) 33
+message_21:
+  text: C) 34
+message_22:
+  text: \n<SMART-LOOKING BOY>Wie wäre es mit diesem hier?
+message_23:
+  text: '-3x + 4 = 7x + 24. Was bedeutet ''x''?'
+message_24:
+  text: A) 2
+message_25:
+  text: B) 2.8
+message_26:
+  text: C) -2
+message_1000:
+  text: WÄHLEN WILLKÜRLICH
+message_27:
+  text: \n<SMART-LOOKING BOY>Oh...\! \sinv[1]Ich habe es...\sinv[0]\! Ich verstehe es jetzt!
+message_28:
+  text: \n<SMART-LOOKING BOY>Hmm...\! Aber ist die richtige Antwort nicht 32?
+message_29:
+  text: \n<SMART-LOOKING BOY>Hmm...\! Ich war mir sicher, dass es 204 war?
+message_30:
+  text: \n<SMART-LOOKING BOY>Ohh...\! Ich dachte es wäre -2?
+message_31:
+  text: \n<SMART-LOOKING BOY>Heh heh...\! Du wolltest mich nur testen, richtig?! <br>Auf diese Weise fordert es auch mein kritisches Denken heraus!<br>Wow...\! Tutoren sind wirklich schlau...
+message_32:
+  text: \n<SMART-LOOKING BOY>Puh...\! Ich glaube, ich habe das jetzt viel besser im Griff als vorher...\! Dankeschön!
+message_33:
+  text: \n<SCHULLEITUNG>Hey, BRENT! Wie geht es dir?
+message_34:
+  text: \n<SCHULLEITER>Oh! Ich sehe, du hast dein Arbeitsblatt ausgefüllt!
+message_35:
+  text: \n<SCHULLEITER>Gut gemacht, Nachhilfelehrer...\! Hier ist die Bezahlung für deine Hilfe!
+message_36:
+  text: \n<SCHULLEITER>Fühl dich frei, morgen wiederzukommen!
+message_37:
+  text: \n<SCHULLEITUNG>Hallo.\! Bist du wegen des Nachhilfeposters hier?\! Nein? Ich verstehe...
+message_50:
+  text: Ugh...\! Mathe...

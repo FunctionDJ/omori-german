@@ -1,0 +1,432 @@
+message_0:
+  faceset: MainCharacter_Mari
+  faceindex: 3
+  text: \marHallo, OMORI! Cliffface wie immer, wie ich sehe.<br>Du solltest unbedingt mehr lächeln! Ich habe dein Lächeln schon immer gemocht.
+message_1:
+  faceset: MainCharacter_Mari
+  faceindex: 3
+  text: \marGut, hallo, AUBREY! Du siehst heute süß aus.<br>Du pflegst deine Haare immer so gut.
+message_2:
+  faceset: MainCharacter_Mari
+  faceindex: 6
+  text: \marYo KEL, was ist los! Du siehst aus, als wärst du noch ein bisschen größer geworden Vielleicht wirst du eines Tages sogar größer sein als HERO, hehe...
+message_3:
+  faceset: MainCharacter_Mari
+  faceindex: 7
+  text: \marHey there, handsome!\. Oder vielleicht magst du es lieber...\!<br>Was gibt's, du Hübscher?
+message_10:
+  faceset: MainCharacter_Mari
+  faceindex: 1
+  text: \marSo... soll ich dir bei irgendetwas helfen?<br>Alles was es kostet ist deine Liebe!
+message_15:
+  faceset: MainCharacter_Mari
+  faceindex: 0
+  text: \marHoffe, ein wenig geholfen zu haben.<br>Ich werde hier sein, wenn du mich brauchst.
+message_20:
+  faceset: MainCharacter_Mari
+  faceindex: 2
+  text: \marGoodbye, MR. SCARECROW... Fröhliche Abenteuer!\^^
+message_26:
+  faceset: MainCharacter_Mari
+  faceindex: 6
+  text: \marHey, du hast AUBREYs \c[13]STUFFED TOY\c[0] gefunden!\. Ich wette, KEL war darüber nicht sehr glücklich
+message_30:
+  faceset: MainCharacter_Mari
+  faceindex: 2
+  text: \marWolltet ihr nicht alle zu BASILs Haus gehen? Ich denke, dass ich dieses Mal aussetze, aber geht und amüsiert euch!\.\^
+message_31:
+  faceset: MainCharacter_Mari
+  faceindex: 3
+  text: \marLaufe mit und habe jetzt Spaß!\. Du weißt, wo du mich findest.\^^
+message_40:
+  faceset: MainCharacter_Mari
+  faceindex: 4
+  text: \marUh-oh! Es sieht so aus, als ob das MIXTAPE von SPACE BOYFRIEND versehentlich weggeworfen wurde.\. Könnte es vielleicht irgendwo auf dem \c[11]JUNKYARD\c[0] sein?\^
+message_41:
+  faceset: MainCharacter_Mari
+  faceindex: 6
+  text: \marAlright! Du hast endlich das \c[4]SPECIAL MIXTAPE\c[0].\. Jetzt musst du es nur noch zu SPACE BOYFRIEND zurückbringen!\^
+message_42:
+  faceset: MainCharacter_Mari
+  faceindex: 1
+  text: \marPuh... Das wurde ein bisschen chaotisch... aber wenigstens ist alles gut ausgegangen. Hoffentlich kann jetzt CAPT. SPACEBOY etwas Ruhe finden können.\.\^
+message_43:
+  faceset: MainCharacter_Mari
+  faceindex: 5
+  text: \marHurry, OMORI! ROSA hat das \c[4]SPECIAL MIXTAPE\c[0]!\. Du darfst sie nicht entkommen lassen!\^
+message_45:
+  faceset: MainCharacter_Mari
+  faceindex: 2
+  text: \marEs scheint, dass ihr alle auf \c[4]SHOW TICKETS\c[0] zu einem vielversprechenden neuen Theater gestoßen seid. Wenn ihr Zeit habt, solltet ihr alle vorbeikommen und zusehen!\^
+message_50:
+  faceset: MainCharacter_Mari
+  faceindex: 5
+  text: \marEs mag scheinen, als gäbe es kein Entkommen aus \c[11]SWEETHEART'S CASTLE\c[0], aber gib die Hoffnung nicht auf.\. Es muss einen Weg hier raus geben!\.\^
+message_55:
+  faceset: MainCharacter_Mari
+  faceindex: 4
+  text: \marDie SPROUT MOLES scheinen sich auf eine Art großes Ereignis vorzubereiten...\. Was könnte SWEETHEART jetzt planen?\.\^
+message_60:
+  faceset: MainCharacter_Mari
+  faceindex: 4
+  text: \marEs sieht so aus, als hättest du es geschafft, dich aus den Fängen von SWEETHEART zu befreien...\. aber nur knapp. Hoffen wir, dass du ihr nie wieder über den Weg läufst.\\
+message_75:
+  faceset: MainCharacter_Mari
+  faceindex: 6
+  text: \marEs ist so schön, dich und KEL wieder vereint zu sehen!<br>AUBREY und HERO müssen auch irgendwo in der Nähe sein.<br><br>KEL, du hast gesagt, dass wir AUBREY im 5. Stock finden können, richtig? Dort solltest du zuerst anfangen!\.\^^
+message_80:
+  faceset: MainCharacter_Mari
+  faceindex: 3
+  text: \marYay! Es ist so schön, alle wieder zusammen zu sehen!
+message_85:
+  faceset: MainCharacter_Mari
+  faceindex: 4
+  text: \marDang... KELs Lieblingsstein, \c[13]HECTOR\c[0], ist ihm aus der Tasche gefallen.\. Tut mir leid, KEL. Ich bin mir nicht sicher, wo er ist, aber gib nicht auf!\.\^
+message_86:
+  faceset: MainCharacter_Mari
+  faceindex: 2
+  text: \marHECTOR mag jetzt eine Familie haben, aber \c[13]HECTOR JR\c[0] scheint wirklich glücklich zu sein, hier zu sein.\. Verliere ihn dieses Mal nicht, KEL.\.\^
+message_90:
+  faceset: MainCharacter_Mari
+  faceindex: 6
+  text: \marAwww... DAISY versucht, ihren Schwarm mit einem \c[4]FLOWER PUZZLE\c[0].\ auf sich aufmerksam zu machen. Wie süß!\. Ich glaube, ich habe gesehen, wie MIKAL vor einiger Zeit eins weggeworfen hat.\. Vielleicht kannst du es irgendwo finden!\^^
+message_95:
+  faceset: MainCharacter_Mari
+  faceindex: 3
+  text: \marHey, du hast ein \c[4]FLOWER PUZZLE\c[0]!\. Hat DAISY nicht nach einem gesucht, um ihrem Schwarm eins zu geben?\. Es ist ziemlich offensichtlich, wer es ist.\. \}<br>Hust, hust... Es ist NEB... Hehe...\.\^^
+message_96:
+  faceset: MainCharacter_Mari
+  faceindex: 0
+  text: \marYay! DAISY hat ein \c[4]FLOWER PUZZLE\c[0], das sie NEB schenken kann, aber wird sie es ihm auch wirklich geben?\. Schalte das nächste Mal ein, um es herauszufinden!\.\^
+message_100:
+  faceset: MainCharacter_Mari
+  faceindex: 4
+  text: \marMR. SCARECROWs Freunde haben sich auf dem \c[11]CATTAIL FIELD\c[0].\ verstreut. Du solltest sie wieder vereinen. Er scheint ein wenig einsam zu sein...\c[0].\^
+message_105:
+  faceset: MainCharacter_Mari
+  faceindex: 2
+  text: \marTVGIRL hat dich gebeten, ein paar Sachen von einer \c[4]STRANGE LIST\c[0] zu besorgen, auf der ein paar seltsame Sachen stehen.\ Wie seltsam!\.\^
+message_110:
+  faceset: MainCharacter_Mari
+  faceindex: 2
+  text: \marHey! Es sieht so aus, als hättest du alles, was TVGIRL von ihrer \c[4]STRANGE LIST\c[0].\ verlangt hat. Du solltest sie zu ihr bringen.\. Ich bin mir sicher, dass sie etwas Erstaunliches und Seltsames machen wird.\^^
+message_111:
+  faceset: MainCharacter_Mari
+  faceindex: 0
+  text: \marTVGIRL hat die ganze Zeit nur versucht, ihre COFFEE MACHINE zu reparieren.\. Hast du deinen kostenlosen \c[3]COFFEE\c[0] bekommen?\^
+message_115:
+  faceset: MainCharacter_Mari
+  faceindex: 2
+  text: \marSo SHADY MOLE ist auf der Suche nach einem \c[4]B.E.D.\c[0], huh?\. MAYOR MOLE würde alles darüber wissen!\. Er führt mit seinem Sohn Experimente im Keller unter der Schule durch.\.\^
+message_120:
+  faceset: MainCharacter_Mari
+  faceindex: 4
+  text: \marMAYOR MOLE scheint ziemlich damit beschäftigt zu sein, sich Sorgen um seinen Sohn zu machen...\^^. Vielleicht hilft er uns, wenn wir seinen Sohn zuerst finden.\^^
+message_125:
+  faceset: MainCharacter_Mari
+  faceindex: 2
+  text: \marIn einer merkwürdigen Verkettung von Ereignissen hast du ein \c[4]B.E.D.\c[0]!<br>\.Ist es aber wirklich okay, es SHADY MOLE zu geben?\^^
+message_126:
+  faceset: MainCharacter_Mari
+  faceindex: 2
+  text: \marTja, SHADY MOLE hat jetzt das \c[4]B.E.D.\c[0]...\. Ich frage mich, was für einen bösen Zweck er damit geplant hat.\.\
+message_130:
+  faceset: MainCharacter_Mari
+  faceindex: 2
+  text: \marEine sehr verschwitzte SPORT MOLE ist auf der Suche nach etwas \c[3]TOFU\c[0]...\. Du solltest doch schon \c[3]TOFU\c[0] haben, oder?\. Es ist überall!\.\^
+message_131:
+  faceset: MainCharacter_Mari
+  faceindex: 4
+  text: \marIch weiß nicht, ob \c[3]TOFU\c[0] genug Nährstoffe für all die Übungen, die SPORT MOLE macht, bereitstellen wird.\. Kein Wunder, dass er so müde ist.\^^
+message_140:
+  faceset: MainCharacter_Mari
+  faceindex: 2
+  text: \marDEMI ist gelangweilt von seinen Büchern und sucht nach etwas Spannenderem zum Lesen...\. Vielleicht findest du ja irgendwo in einer Bibliothek eins.\.\^
+message_146:
+  faceset: MainCharacter_Mari
+  faceindex: 0
+  text: \marHey! Das \c[4]INTERESSANTE BUCH\c[0], das du da hast, sieht ziemlich interessant aus.\. Ich wette DEMI würde so etwas lesen wollen!\.\^
+message_145:
+  faceset: MainCharacter_Mari
+  faceindex: 0
+  text: \marDEMI wird sich mit dem Buch, das du ihm gegeben hast, sehr beschäftigen.\ Es war einfach so sehr interessant.\^^
+message_150:
+  faceset: MainCharacter_Mari
+  faceindex: 2
+  text: \marNach dem ganzen SWEETHEART-Fiasko scheint der Kapitän der SPACE PIRATES wieder verschwunden zu sein...\. Vielleicht werden dich diese \c[4]BATTERIEN\c[0] irgendwie zu ihm führen.\^
+message_155:
+  faceset: MainCharacter_Mari
+  faceindex: 2
+  text: \marWow! Du hast gegen SPACE EX-HUSBAND auf dem Gipfel eines Berges gekämpft?\. Das klingt...\. wirklich dramatisch...\. Er sollte jetzt auf dem Heimweg sein.\. Du solltest ihn besuchen gehen, um sicherzugehen!\.\^
+message_156:
+  faceset: MainCharacter_Mari
+  faceindex: 0
+  text: \marCAPT. SPACEBOY hat neben SWEETHEART.\ eine Menge zu leben. Er wird bald wieder durch das Universum schweben, da bin ich mir sicher!\^
+message_160:
+  faceset: MainCharacter_Mari
+  faceindex: 5
+  text: \mar Du hast die edle Aufgabe übernommen, ein wertvolles Paket sicher zu BROTHER MOLE in \c[11]SPROUT MOLE COLONY\c[0].\ zu bringen. Wage es nicht, ihn zu enttäuschen!\.\^
+message_161:
+  faceset: MainCharacter_Mari
+  faceindex: 0
+  text: \marEs waren 99 \c[3]TOFU\c[0] in dem \c[4]PFLEGEPAKET\c[0]?\. BROTHER MOLE kennt BROTHER MOLE so gut.\.\^
+message_165:
+  faceset: MainCharacter_Mari
+  faceindex: 0
+  text: \marTOPHAT GHOST wird seine Party erst beginnen, wenn alle seine Gäste eingetroffen sind, also liegt es an dir, sie zu versammeln.\. Du willst auch eine \c[11]GHOST PARTY\c[0] sehen, nicht wahr?\^
+message_166:
+  faceset: MainCharacter_Mari
+  faceindex: 0
+  text: \marDank dir sind alle Gäste nicht ganz so pünktlich zur GHOST PARTY eingetroffen...\. aber wenigstens sind sie da!\. Warum gehst du nicht zu ihren Feierlichkeiten?\.\^
+message_167:
+  faceset: MainCharacter_Mari
+  faceindex: 0
+  text: \marIch wette, ihr hattet so viel Spaß auf der \c[11]GHOST PARTY\c[0].\. Wann habt ihr alle gelernt, wie man tanzt?\.\^
+message_170:
+  faceset: MainCharacter_Mari
+  faceindex: 2
+  text: \marDer Brachiosaurus SCOTT kann einen Juckreiz nicht an einer bestimmten Stelle kratzen...\. Ich schätze...\. das überlässt...\. es dir...\^
+message_171:
+  faceset: MainCharacter_Mari
+  faceindex: 0
+  text: \marDer Juckreiz wurde gekratzt!\. SCOTT sollte dankbar sein.\. Nicht jeder würde das für ihn tun.\^^
+message_175:
+  faceset: MainCharacter_Mari
+  faceindex: 2
+  text: \marVAN warf BERLY's \c[4]LOST BALL\c[0] irgendwo tief in den \c[11]VAST FOREST\c[0].\ Er kann nicht allzu weit gefallen sein.\^^
+message_180:
+  faceset: MainCharacter_Mari
+  faceindex: 6
+  text: \marNett! Du hast BERLY's \c[4]LOST BALL\c[0] zurückbekommen.\. Ich habe gehört, sie will dir sogar etwas als Dankeschön schenken.\. <br>Wie selten für sie!\.\^
+message_181:
+  faceset: MainCharacter_Mari
+  faceindex: 0
+  text: \marWow! BERLY hat dir ein \c[4]BUTT CERTIFICATE\c[0] gegeben?\. Ich wette, sie war die ganze Nacht wach und hat sich das ausgedacht.\.\^
+message_185:
+  faceset: MainCharacter_Mari
+  faceindex: 1
+  text: \marIn all dieser Zeit hat ORANGE JOE nie aufgehört, nach seinem lange verlorenen Bruder zu suchen.\. Seine Entschlossenheit ist so inspirierend...\. Wer weiß?\. Sein Bruder könnte näher sein, als wir alle denken...\^
+message_186:
+  faceset: MainCharacter_Mari
+  faceindex: 0
+  text: \mar\sinv[1]Hoffnung und Lebenskraft! Hoffnung und Kraft!\sinv[0]\. Sag es mit mir, OMORI!\. \sinv[1]Hoffnung und Kraft! Hoffnung und Kraft! \sinv[0]\.\^
+message_190:
+  faceset: MainCharacter_Mari
+  faceindex: 4
+  text: \marCANDLIE hat ihren \c[4]TEDDY BEAR\c[0] verloren und kann ihn nirgends finden.\. Seufz...\. Wer wird sich jetzt ihre Sorgen anhören?\.\^
+message_195:
+  faceset: MainCharacter_Mari
+  faceindex: 0
+  text: \marHey! Der \c[4]TEDDY BEAR\c[0], den du da hast, sieht aus, als könnte er CANDLIE gehören.\. Du solltest ihn ihr zurückgeben...<br>Ich bin mir sicher, dass sie ihn sehr vermisst.\\^
+message_196:
+  faceset: MainCharacter_Mari
+  faceindex: 0
+  text: \marCANDLIE muss so froh sein, ihren \c[4]TEDDY BEAR\c[0] zurück zu haben.\. Jetzt wird sie nicht mehr einsam sein.\.\^
+message_200:
+  faceset: MainCharacter_Mari
+  faceindex: 4
+  text: \marOh nein! DUCKIE JR. wird vermisst!<br> Ich bin mir sicher, dass sich seine Eltern schreckliche Sorgen um ihn machen...<br>
+message_205:
+  faceset: MainCharacter_Mari
+  faceindex: 3
+  text: \marPhew... Sieht so aus, als ob DUCKIE JR. seinen Kopf in den Wolken hatte.\. Du bist manchmal auch so, OMORI.\. Du solltest nachsehen und sicherstellen, dass DUCKIE JR. sicher nach Hause gekommen ist!\.\^
+message_206:
+  faceset: MainCharacter_Mari
+  faceindex: 1
+  text: \marAnscheinend hatte DUCKIE JR. seinen Kopf in den Wolken.\. Du bist manchmal auch so, OMORI!\.\^
+message_210:
+  faceset: MainCharacter_Mari
+  faceindex: 3
+  text: \marMARINA bittet dich, ihr etwas \c[4]RATTENFLEISCH\c[0] für ihren neuen Körper zu besorgen...\. Klingt fragwürdig, aber sie weiß, was sie tut...\. Denke ich...\^^
+message_215:
+  faceset: MainCharacter_Mari
+  faceindex: 4
+  text: \marDu hast das \c[4]RATTENFLEISCH\c[0] gefunden, nach dem MARINA gefragt hat!\. Du solltest MARINA das \c[4]RATTENFLEISCH\c[0] geben, bevor es anfängt zu verrotten...\^
+message_216:
+  faceset: MainCharacter_Mari
+  faceindex: 4
+  text: \marIch hoffe, MARINA mag ihren brandneuen Körper.\. Obwohl...\. Ihre Experimente werden wahrscheinlich nicht...\^^
+message_220:
+  faceset: MainCharacter_Mari
+  faceindex: 3
+  text: \marMEDUSA bittet dich, ihr etwas \c[4]SNOT\c[0] für ihren neuen Körper zu besorgen...\. Klingt fragwürdig, aber sie weiß, was sie tut...\...wahrscheinlich.\^^
+message_225:
+  faceset: MainCharacter_Mari
+  faceindex: 0
+  text: \marDu hast das \c[4]SNOT\c[0] gefunden, nach dem MEDUSA gefragt hat!\. Du solltest wahrscheinlich das \c[4]SNOT\c[0] an MEDUSA geben, bevor es überall herumliegt...\^
+message_226:
+  faceset: MainCharacter_Mari
+  faceindex: 4
+  text: \marMEDUSA macht ihren eigenen Körper, hm...\. Kein Wunder, dass sie den perfekten Körpertyp hat.\.\^
+message_230:
+  faceset: MainCharacter_Mari
+  faceindex: 3
+  text: \marMOLLY bittet dich, ihr etwas \c[4]SCRAP METAL\c[0] für ihren neuen Körper zu besorgen...\. Klingt fragwürdig, aber sie weiß, was sie tut...\. Nehme ich an.\.\^^
+message_235:
+  faceset: MainCharacter_Mari
+  faceindex: 0
+  text: \marDu hast das \c[4]SCRAP METAL\c[0] gefunden, nach dem MOLLY gefragt hat!\. Ich frage mich, ob sie wirklich so einen Metallkörper will...<br>Scheint ein bisschen klobig zu sein.\^^
+message_236:
+  faceset: MainCharacter_Mari
+  faceindex: 3
+  text: \marEs scheint, als ob MOLLY vollkommen glücklich damit ist, nur ein Kopf zu sein.\. Ich kann sehen, woher sie kommt.\. Sie muss sich jetzt um so viel weniger Sorgen machen.\^^
+message_240:
+  faceset: MainCharacter_Mari
+  faceindex: 0
+  text: \marIch hoffe PALMIE mag sie \c[4]DANKE FOSSIL\c[0].\. Es ist auf jeden Fall...einzigartig.\^^
+message_241:
+  faceset: MainCharacter_Mari
+  faceindex: 1
+  text: \marPEANUT und JELLY wollen PALMIE ein Dankeschön dafür geben, dass sie sich um sie gekümmert hat.\. Gibt es nicht einen Ort, an dem man alle möglichen besonderen Dinge in \c[11]ORANGE OASIS\c[0] finden kann?\^
+message_245:
+  faceset: MainCharacter_Mari
+  faceindex: 2
+  text: \marKITE KID denkt, dass eines der Pinwheels im \c[11]FLOATING FOREST\c[0] kaputt ist.\ Ich frage mich, ob es eine Möglichkeit gibt, es zu reparieren.\^
+message_246:
+  faceset: MainCharacter_Mari
+  faceindex: 2
+  text: \marDie Pinwheels scheinen sich jetzt alle zu drehen.\. Du weißt, was KEL immer sagt.\. Wenn es nicht funktioniert...\. wirf etwas dagegen!\^^
+message_250:
+  faceset: MainCharacter_Mari
+  faceindex: 0
+  text: \marBERLY sagt, dass sie auf der Suche nach dem perfekten Material ist, um ihr nächstes unglaubliches Kunststück zu inspirieren...\.um die ultimative Waffe zu erschaffen!
+message_251:
+  faceset: MainCharacter_Mari
+  faceindex: 6
+  text: \marWow, diese \c[13]COOL NOODLE\c[0] ist viel cooler als eine normale \c[13]POOL NOODLE\c[0]!\. Es muss jetzt so viel leistungsfähiger sein.\^^
+message_255:
+  faceset: MainCharacter_Mari
+  faceindex: 2
+  text: \marPESSI scheint etwas Wertvolles verloren zu haben.\.<br>Vielleicht kannst du ihm helfen, indem du seine Schritte im \c[11]SPROUT MOLE VILLAGE\c[0] zurückverfolgst.\^^
+message_261:
+  faceset: MainCharacter_Mari
+  faceindex: 0
+  text: \marYay! Du hast \c[4]PESSI'S THING\c[0] von ROSA zurückbekommen.\.<br>Ah...ich verstehe...\. Das ist so eine Sache.\. Nun, wer bin ich, um zu urteilen?\. Geh und gib es ihm zurück.\.\^^
+message_260:
+  faceset: MainCharacter_Mari
+  faceindex: 4
+  text: \marPESSI wird ewig in der Schlange warten...\^^. Sollte ihm jemand sagen, dass die Veranstaltung schon vorbei ist?\.\^
+message_265:
+  faceset: MainCharacter_Mari
+  faceindex: 2
+  text: \marDie Göttin des Sees sieht in diesen Tagen nicht sehr glücklich aus.\. Vielleicht könnten ein paar Witze sie aufheitern!\. Stelle sicher, dass du ein \c[4]Witzebuch\c[0] hast, um sie alle aufzuschreiben.\^
+message_266:
+  faceset: MainCharacter_Mari
+  faceindex: 3
+  text: \marDie meisten Witze, die ich hier gesehen habe, sind ziemlich schlecht...\ aber es muss doch einen Witz geben, der weniger schlecht ist als die anderen.\
+message_267:
+  faceset: MainCharacter_Mari
+  faceindex: 2
+  text: \marVon allen Witzen war das derjenige, der sie zum Lachen brachte?\. Nun, ich denke, Humor ist für jeden anders.\^^
+message_270:
+  faceset: MainCharacter_Mari
+  faceindex: 4
+  text: \marWo könnte BASIL sein?\. Ich dachte, er wäre bei dir, OMORI...\. Du hast ihn zuletzt in seinem Haus gesehen, richtig?\. Vielleicht solltest du seine Schritte zurückverfolgen?\
+message_271:
+  faceset: MainCharacter_Mari
+  faceindex: 4
+  text: \marBASILs Haus ist nur diesen Weg entlang.\. Ich hoffe, BASIL geht es gut...\. Er kommt nicht gut alleine klar...\^^
+message_272:
+  faceset: MainCharacter_Mari
+  faceindex: 4
+  text: \marWo könnte BASIL sein?\. Könnte er irgendwo in \c[11]VAST FOREST\c[0] sein?\. BASIL würde doch nicht einfach so alleine losziehen...\. Vielleicht ist ihm etwas zugestoßen...\^^
+message_273:
+  faceset: MainCharacter_Mari
+  faceindex: 4
+  text: \marEs sieht nicht so aus, als ob BASIL doch irgendwo im \c[11]VAST FOREST\c[0] ist...\. Ich frage mich, wohin er sich wohl verirrt haben könnte.\^
+message_274:
+  faceset: MainCharacter_Mari
+  faceindex: 4
+  text: \marWürde BASIL den ganzen Weg bis hierher wandern? Soweit ich sehen kann, ist hier nichts Ungewöhnliches passiert.\. Nur Bäume, Windrädchen und der Wind.\.\
+message_275:
+  faceset: MainCharacter_Mari
+  faceindex: 2
+  text: \marDenkst du, BASIL ist irgendwie hier reingestolpert?\. Ich bin mir sicher, er hätte mich gegrüßt, wenn er mich gesehen hätte.\. Ich hätte ihn mit so vielen CARAMEL APPLES gefüttert, auch wenn er keine Süßigkeiten mag!\.\^
+message_276:
+  faceset: MainCharacter_Mari
+  faceindex: 0
+  text: \marEs ist unwahrscheinlich, dass BASIL hier ist, obwohl ich denke, dass BASIL diesen Ort gemocht hätte.\. Alle VEGGIE KIDS hätten ihn auch gemocht.<br>Stellt euch nur mal vor...\. BASIL liest den VEGGIE KIDS ein Buch zur Märchenstunde vor...\. Hinreißend!\.\^
+message_277:
+  faceset: MainCharacter_Mari
+  faceindex: 2
+  text: \marKonnte BASIL die Leiter bis nach \c[11]OTHERWORLD\c[0] hinaufgeklettert sein?\. Du kannst versuchen, dich umzuhören, um zu sehen, ob die Leute ihn gesehen haben.\.<br>Die SPACE PIRATES gleich nördlich von hier könnten ein guter Ort sein, um anzufangen.\.\^
+message_278:
+  faceset: MainCharacter_Mari
+  faceindex: 4
+  text: \mar Ich habe BASIL hier nicht gesehen, aber ich glaube nicht, dass BASIL von alleine hierher gekommen wäre.\. Er mag das kalte Wetter wirklich nicht...\^^
+message_279:
+  faceset: MainCharacter_Mari
+  faceindex: 4
+  text: \marDu kannst von hier oben einen wirklich guten Blick auf den gesamten \c[11]JUNKYARD\c[0] werfen...\. aber ich sehe BASIL nirgends.<br><br>Es ist allerdings seltsam...\. Ich hätte schwören können, dass ich BASIL vorhin in der Nähe des Campingplatzes gesehen habe...\. aber vielleicht habe ich mich geirrt.\^
+message_280:
+  faceset: MainCharacter_Mari
+  faceindex: 4
+  text: \marDu kannst von hier oben einen wirklich guten Blick auf den gesamten \c[11]JUNKYARD\c[0] werfen...\. aber ich sehe BASIL nirgends.<br><br>Es ist allerdings seltsam...\. Ich hätte schwören können, dass ich BASIL vorhin in der Nähe des Campingplatzes gesehen habe...\. aber vielleicht habe ich mich geirrt.\^
+message_281:
+  faceset: MainCharacter_Mari
+  faceindex: 4
+  text: \mar Ich habe nachgedacht...\. Vielleicht musste BASIL in aller Eile irgendwohin, wo es wichtig war...\. Aber wo sollte er hingegangen sein? Und warum hat er uns nichts davon erzählt?\.<br> Ich hoffe nur, dass er nicht in Schwierigkeiten geraten ist... und dass er irgendwo in Sicherheit ist.\.\^
+message_282:
+  faceset: MainCharacter_Mari
+  faceindex: 4
+  text: \mar\sinv[1]Sigh...\sinv[0]\. Ich habe überall nachgeschaut, aber es sieht auch nicht so aus, als ob BASIL in dieser Gegend ist...\. Wir dürfen nicht aufgeben...\. BASIL braucht uns!\.\^
+message_283:
+  faceset: MainCharacter_Mari
+  faceindex: 0
+  text: \marHey! Es sieht so aus, als ob die \c[4]SHOW TICKETS\c[0], die du gefunden hast, hier verwendet werden können.\. Aber es könnte helfen, sich erst einmal nach BASIL umzusehen.<br><br>Denkst du, dass die SPROUT MOLES etwas wissen?\. Es schadet nie zu fragen!\.\^^
+message_284:
+  faceset: MainCharacter_Mari
+  faceindex: 4
+  text: \marWas wäre, wenn BASIL Ärger mit SWEETHEART bekäme und sie ihn einsperren würde?\. Dieser Ort ist so groß...\. Es muss irgendwo Antworten geben!\.\^
+message_285:
+  faceset: MainCharacter_Mari
+  faceindex: 4
+  text: \marWas wäre, wenn BASIL Ärger mit SWEETHEART bekäme und sie ihn einsperren würde?\. Dieser Ort ist so groß...\. Es muss irgendwo Antworten geben!\.\^
+message_286:
+  faceset: MainCharacter_Mari
+  faceindex: 2
+  text: \marHmm... BASIL ist verschwunden, hm?\. Könnte er hier irgendwo sein?\. Du kennst ihn besser als wir, OMORI!\.\^
+message_287:
+  faceset: MainCharacter_Mari
+  faceindex: 4
+  text: \marDarn...\. Es sieht auch nicht so aus, als wäre BASIL in SWEETHEARTs Schloss gewesen.\. Wo hätte er sonst hingehen können?\.\^
+message_400:
+  faceset: MainCharacter_Mari
+  faceindex: 4
+  text: \marOMORI...\. Du... hast zugestimmt, Hasen für LEAFIE zu töten?\. AUBREY wird verärgert sein, weißt du.\.\^
+message_401:
+  faceset: MainCharacter_Mari
+  faceindex: 4
+  text: \mar Ich kann nicht sagen, dass ich begeistert bin...\. aber herzlichen Glückwunsch...\. du bist jetzt ein BUNNY-Killer.\
+message_402:
+  faceset: MainCharacter_Mari
+  faceindex: 4
+  text: \marEs scheint gerade ein bisschen zu viel zu regnen.\. Es muss doch etwas geben, das diesen VEGGIE KIDS helfen kann.\.\^
+message_403:
+  faceset: MainCharacter_Mari
+  faceindex: 4
+  text: \marDu kannst dir nicht die Schuld dafür geben, was mit \c[11]RAIN TOWN\c[0].\ passiert ist. Du hast nur versucht zu helfen...\..richtig?
+message_408:
+  faceset: MainCharacter_Mari
+  faceindex: 6
+  text: \marDie VEGGIE KIDS fühlen sich wieder wohl.\. Ich hoffe, sie wachsen heran und werden wunderbare VEGGIE ADULTS!\.\^
+message_404:
+  faceset: MainCharacter_Mari
+  faceindex: 2
+  text: \marFARMER JIM muss eine wirklich harte Zeit mit diesen lästigen SQUIZZARDS haben.\. Hilf ihm, diese ekligen Kreaturen loszuwerden!\.\^
+message_405:
+  faceset: MainCharacter_Mari
+  faceindex: 3
+  text: \marSEACOWS sind so süß!\. Jetzt, wo es weniger SQUIZZARDS auf der Farm gibt, haben sie mehr Platz, um herumzumuhen, hehe.\.\^
+message_406:
+  faceset: MainCharacter_Mari
+  faceindex: 2
+  text: \marWhoa! Das ist ein \c[4]RIESEN CHECK\c[0] für 1000000 CLAMS!\. Ich kenne hier in der Gegend keine Bank, aber ich kenne jemanden, der vielleicht Hunger auf CLAMS hat.\^
+message_407:
+  faceset: MainCharacter_Mari
+  faceindex: 2
+  text: \marHUMPHREY ist jetzt satt und glücklich.\. Alles ist wieder gut!\. Die Menschen sind einfach nicht sie selbst, wenn sie hungrig sind.\.\
+message_420:
+  faceset: MainCharacter_Mari
+  faceindex: 7
+  text: \marIch habe ein Gerücht über ein altes leeres Haus südlich des Spielplatzes gehört.\. Ich frage mich...\. ob es wirklich leer steht, hehe...\^^

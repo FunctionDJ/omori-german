@@ -1,0 +1,47 @@
+message_0:
+  faceset: 05_MARI_OW
+  faceindex: 0
+  positionType: 0
+  text: |
+    \mar ^_^)b
+message_1:
+  faceset: 05_MARI_OW
+  faceindex: 1
+  extraFaces:
+    - faceset: MainCharacters_DreamWorld
+      faceindex: 6
+    - faceset: MainCharacters_DreamWorld
+      faceindex: 18
+    - faceset: MainCharacters_DreamWorld
+      faceindex: 36
+  text: |
+    Eine weiße Tür wirft einen schwachen Schatten.\!<br>Was möchtest du gerne tun?
+message_2:
+  text: Denke über das Leben nach.
+message_3:
+  text: 2+2 = 4...denke ich?
+message_4:
+  text: |
+    Wähle eine Sache.\fs[19] AAAAAAA\frAAAAAAA\fs[30]AAAAAAA\frAAAAAAA
+message_5:
+  text: |
+    \fs[30]ABCDEFGHIJKLMNOPQRSTUVWXYZ abcdefghijklmnopqrstuvwxyz 0123456789
+message_6:
+  text: |
+    \fs[30]+!@#$%^&*()-=
+message_7:
+  text: |
+    \fs[40]ABCDEFGHIJKLMNOPQRSTUVWXYZ abcdefghijklmnopqrstuvwxyz 0123456789
+message_8:
+  text: |
+    Wähle eine Option!
+message_9:
+  text: |
+    Dynamic Choices?!.
+message_10:
+  faceset: MainCharacters_Faraway
+  faceindex: 41
+  text: |
+    \bas\BC[-255,-255,-255]Ich weiß nicht mehr was ich fühlen soll
+message_11:
+  text: \n<4/29>Es regnet heute super stark!<br>Der Regen scheint im Frühling immer aus dem Nichts zu kommen.<br>AUBREY hat mich gebeten, ein Foto von ihr mit ihrem neuen Regenmantel zu machen.<br>! Es ist ihre Lieblingsfarbe, rosa!

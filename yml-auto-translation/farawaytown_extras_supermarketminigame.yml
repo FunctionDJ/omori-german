@@ -1,0 +1,24 @@
+message_1:
+  text: \n<OTHERMART LADY>HEY!\! 你要不要 JOB?
+message_2:
+  text: \n<OTHERMART LADY>OK!
+message_3:
+  text: \n<OTHERMART LADY>...\! OK.
+message_10:
+  text: \n<OTHERMART LADY>ICH GEBEN DIR WAFFE.\! DU TÖTEST FLIEGEN...\! OK?\! OK?
+message_11:
+  text: Du hast einen \c[13]FLYSWATTER\c[0].
+message_12:
+  text: OTHERMART LADY nahm ihr \c[13]FLYSWATTER\c[0] zurück.
+message_13:
+  text: \n<OTHERMART LADY>[2]JETZT, GEHT!!!
+message_4:
+  text: \n<OTHERMART LADY>GUT JOB!
+message_5:
+  faceset: MainCharacters_Faraway
+  faceindex: 14
+  text: \KelHey, \n[8]!\! Wie ist es dir ergangen?\! Während du gearbeitet hast, habe ich beschlossen, auf einer Bank zu sitzen und mit Fremden zu reden!\!<br>Mann, das hat Spaß gemacht...\! Nun... Ich bin bereit zu gehen, wenn du es bist!
+message_6:
+  text: \n<OTHERMART LADY>NICHT BEENDEN!
+message_15:
+  text: Du kannst nicht gehen, während du einen Job hast.

@@ -1,0 +1,105 @@
+message_1:
+  text: \n<DINO>Hallo, kleine Abenteurer!\!<br>Willkommen bei DINO'S DIG! Ich bin DINO, der Gründer von DINO'S DIG!
+message_2:
+  text: \n<DINO>Ahem...\! Bist du hungrig nach Schätzen?\! Bist du bereit, einen Löffel voll Abenteuer zu haben?\! Wenn ja, dann bist du hier genau an der richtigen Stelle!
+message_3:
+  text: \$\n<DINO>Hier bei DINO'S DIG haben wir das ultimative Schatzsucher-Abenteuer geschaffen... das du für den niedrigen Preis von 100 CLAMS erleben kannst!
+message_4:
+  text: \$\n<DINO>Sind Sie bereit, den Spaß und die Aufregung beim Graben nach Schätzen zu genießen?
+message_5:
+  text: \n<DINO>\SINV[1]\{\{DINO-TASTIC!!\}\}\SINV[0]
+message_6:
+  text: \n<DINO>Aww... Was ist los?\!<br>Ich dachte, du wärst der abenteuerliche Typ...
+message_7:
+  text: \n<DINO>In Ordnung Kinder, das Wichtigste zuerst.\! Hier bei DINO'S DIG graben wir mit \c[4]LÖFFELn\c[0]!
+message_106:
+  text: \n<DINO>Da du keinen \c[4]LÖFFEL\c[0] hast, gebe ich dir einen \c[4]KARTOFFELLÖFFEL\c[0] umsonst!
+message_8:
+  text: \n<DINO>Wähle aus, welchen \c[4]SPOON\c[0] du verwenden möchtest.
+message_100:
+  text: Möchtest du den \c[4][VARIABLE] SPOON\c[0] ausstatten?
+message_9:
+  text: \n<DINO>Da hast du es! Genau richtig, Bruder! <br>Du lernst schnell, nicht wahr?
+message_10:
+  text: \n<DINO>In unserer speziellen Ausgrabungsstätte, dem \c[11]FOOD PYRAMID\c[0], kannst du supergeile Schätze aus dem ganzen Universum freilegen...\! Und das Beste daran ist... du darfst alles behalten, was du findest!
+message_11:
+  text: \n<DINO>\sinv[1]\com[2]\{THAT'S A DINO-GUARANTEE!
+message_12:
+  text: \n<DINO>Lass mich dir von unserer Ausgrabungsstätte erzählen.\! Das \c[11]FOOD PYRAMID\c[0] hat vier Ebenen.\! Du fängst immer auf der ersten Ebene an, aber wenn du Glück hast...
+message_13:
+  text: \n<DINO>Du findest vielleicht einen \c[4]PYRAMID KEY\c[0], der das PYRAMID GATE zum nächsten Level aufschließt!\! Je höher du gehst, desto besser wird der Schatz sein!
+message_14:
+  text: \n<DINO>Nun hier ist der Haken!\! Jeder \c[4]SPOON\c[0] hat eine begrenzte Anzahl an Verwendungen, bevor er bricht.\! Zum Beispiel geht \c[4]POTATO SPOONS\c[0] kaputt, nachdem du 5 Mal gegraben hast!
+message_15:
+  text: \n<DINO>Wenn dein \c[4]SPOON\c[0] zerbricht, endet die Schatzsuche, die PYRAMID GATES schließen sich, und wir rufen dich zurück zum Eingang.
+message_16:
+  text: \n<DINO>Du hast alles verstanden, was ich bisher gesagt habe?
+message_17:
+  text: \n<DINO>Und nun ist es Zeit für unseren DINO-Disclaimer...\! Schätze sind nicht das Einzige, was du im \c[11]FOOD PYRAMID\c[0] finden wirst.
+message_18:
+  text: \n<DINO>Während deiner Runde könntest du einige lästige Viecher finden, die auf einen Kampf aus sind...\! Wir haften nicht für Schäden, die du oder dein Eigentum während deines Abenteuers erleiden, verstehst du?
+message_19:
+  text: \n<DINO>Wenn dich ein Critter während des Kampfes ausknockt, dann ist das Spiel wirklich vorbei!
+message_20:
+  text: \n<DINO>Nun, das war's auch schon! Alles, was du noch tun musst, ist diese Treppe hochzugehen, die süße \c[11]FOOD PYRAMID\c[0] Luft zu riechen und mit dem Graben anzufangen!
+message_21:
+  text: \n<DINO>\sinv[1]Erlebe ein DINO-TASTISCHES Abenteuer!
+message_23:
+  text: \n<DINO>\{Com[2]\sinv[1]BIG SPOON DOWN!\! THAT'S GAME OVER!!!\sinv[0]
+message_24:
+  text: \n<DINO>Hast du viele coole Schätze gefunden?\.<br>Ich hoffe, dir hat dein DINO-TASTIC Abenteuer gefallen!
+message_25:
+  text: \n<DINO>Hallo, kleine Abenteurer! Willkommen bei DINO'S DIG!
+message_26:
+  text: \$\n<DINO>Bist du bereit für ein weiteres DINO-TASTISCHES Abenteuer!?<br>Es kostet dich nur 100 CLAMS!
+message_27:
+  text: \n<DINO>Ich hoffe ihr seid alle bereit für ein weiteres DINO-TASTISCHES Abenteuer!
+message_28:
+  text: \n<DINO>Aww... Was ist los?\!<br>Ich dachte, du wärst der abenteuerliche Typ...
+message_111:
+  text: \n<DINO>Welchen SPOON wirst du dieses Mal ausrüsten?
+message_110:
+  text: <br>Erinnert ihr euch noch an die Regeln für DINO'S DIG?
+message_112:
+  text: \n<DINO>Ja, ich dachte mir, dass du das schon drauf hast!
+message_113:
+  text: \n<DINO>Hey, Mann...\! Ich möchte dir dieses DINO-TASTISCHE Abenteuer umsonst anbieten, aber wir brauchen auch die CLAMS...\! Komm wieder, wenn du 100 CLAMS hast, in Ordnung?
+message_29:
+  text: \n<BRETT>Willkommen im DINO SHOP!\!<br>Nach meinem Logbuch hast du insgesamt \v[1020] DINO DOLLARS!
+message_32:
+  text: \n<BRETT>Wenn du einen \c[4]SPOON\c[0] kaufen willst, zeig ihn mir einfach und ich helfe dir!
+message_101:
+  text: \n<BRETT>Du willst einen \c[4]PLASTIC SPOON\c[0] (10 DIGS) für 3 DINO DOLLARS kaufen?
+message_102:
+  text: \n<BRETT>Willst du einen \c[4]HOLZSCHAUFEL\c[0] (15 DIGS) für 6 DINO DOLLARS kaufen?
+message_103:
+  text: \n<BRETT>Du willst einen \c[4]SILBERLÖFFEL\c[0] (20 DIGS) für 10 DINO DOLLARS kaufen?
+message_30:
+  text: \n<BRETT>Gute Wahl! Ich hoffe du findest viele Schätze!
+message_31:
+  text: \n<BRETT>Tut mir leid, Kumpel. Du hast nicht genug DINO DOLLARS für so etwas...
+message_33:
+  text: \n<CHAD>Der \c[11]FOOD PYRAMID\c[0] hat ein Händchen dafür, verlorene Dinge zu finden.\!<br>Antike Artefakte...\! Alte Relikte, die in der Zeit verloren gegangen sind...\!<br>Die Möglichkeiten sind endlos!
+message_50:
+  text: Du brauchst einen \c[4]SPOON\c[0] zum Graben.
+message_51:
+  text: Du hast \c[13]HECTOR\c[0] gefunden!
+message_52:
+  text: Und ein weiterer \c[4]SPOON\c[0] beißt ins Gras...
+message_53:
+  text: Dein \c[4]SPOON\c[0] ist kaputt!
+message_54:
+  text: Du hast den \c[4]PYRAMID KEY\c[0] benutzt.
+message_55:
+  text: \"DINO'S DIG... JETZT MIT MEHR EXP!\.<br>Hole dir JETZT DEINE EXP!\"
+message_120:
+  text: \n<DINO>\sinv[1]\{WHAT'S UP, ADVENTURERS?
+message_121:
+  text: \n<DINO>Hast du schon gehört?\! Wir haben unsere Viecher größer und böser gemacht als je zuvor! Und du weißt, was das bedeutet...
+message_122:
+  text: \n<DINO>\sinv[1]\{}MORE EXP!!!
+message_123:
+  text: \n<DINO>Kommt schon, Abenteurer! Worauf wartet ihr noch?
+message_124:
+  text: \n<DINO>Beginne noch heute dein dino-tastisches Abenteuer!
+message_125: {}

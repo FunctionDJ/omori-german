@@ -1,0 +1,46 @@
+### Translation: Finished
+### Editing: None
+
+### Translated by: Lugitaro 🐉#0893
+### Read by: ~ฅ^•ﻌ•^ฅ~#2706 (Mewo)
+
+# =========================================================================================
+# Lost Rare Bear
+# ========================================================================================
+
+#Talk to Candlie
+
+message_0:
+      text: \n<KERZI>Schnief...\! Schnief...\! Ich kann meinen \c[4]TEDDYBÄR\c[0] nirgendwo finden...
+
+message_1:
+      text: \n<KERZI>Als ich ihn das letzte Mal hatte...\!<br>Da lief ich in einem großen rosaroten Schloss umher, ganz sicher...
+
+message_2:
+      text: \n<KERZI>Wenn du ihn je mal findest, könntest du ihn mir zurückgeben?\!<br>Er ist bestimmt richtig einsam...
+
+#Talk to Candlie after getting Rare Bear:
+message_3:
+      text: \n<KERZI>Schnief...\! Schnief...
+
+message_4:
+      text: \n<KERZI>Oh, das ist mein \c[4]TEDDYBÄR\c[0]!
+
+message_5:
+      text: Du gibst KERZI den \c[4]TEDDYBÄR\c[0].
+
+message_6:
+      text: \n<KERZI>Ich bin so froh, dich wieder zu haben, TEDDY!
+
+message_7:
+      text: \n<KERZI>Danke, dass du ihn mir zurückgebracht hast!\! Hier ist ein kleines Geschenk für dich...\! Es ist nicht viel, aber ich hoffe, es gefällt dir.
+
+message_8:
+      text: Du erhältst eine \c[13]GUMMIENTE\c[0].
+
+message_9:
+      text: \n<KERZI>Komm, TEDDY! Was sollten wir zuerst spielen?\!<br>Oh, ich weiß! Möchtest du ein Tässchen Tee?
+
+message_10:
+      text: KERZI und TEDDY halten eine Teeparty.
+#KERZI and TEDDY have a tea party.

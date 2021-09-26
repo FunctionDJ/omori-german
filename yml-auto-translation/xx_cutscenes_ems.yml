@@ -1,0 +1,82 @@
+message_30:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 4
+  text: Das taugt nichts. Ich kann das Ding nicht mal eindellen!
+message_31:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 40
+  text: Hmmm...\! Warte eine Sekunde...\her
+message_32:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 39
+  text: Das ist Käse, nicht wahr?
+message_33:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 19
+  text: Whoa, du hast Recht!\! Es ist Käse!\kel
+message_34:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 16
+  text: Okay, Leute. \! Hört mir zu.\! Das hört sich vielleicht verrückt an, aber...<br>Was wäre, wenn...\! wir den Käse essen.\kel
+message_35:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 18
+  text: Wenn wir alle jetzt anfangen...<br>Wir können das wahrscheinlich in ein paar Stunden oder so fertigstellen!
+message_36:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 27
+  text: Aber nur eine Warnung. Von Käse bekomme ich immer Blähungen...\kel
+message_37:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 10
+  text: \{Com[2]EWWWWW, KEL!\aub\}
+message_38:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 47
+  text: H-Halte ein, KEL. Dafür gibt es keinen Grund.\her
+message_39:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 37
+  text: Ich glaube, ich habe die perfekte Lösung!
+message_40:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 38
+  text: TAG me, OMORI.\!<br>Ich weiß genau, wie ich das handhaben kann
+message_50:
+  text: \}Hallo, Freunde!\! Ich bin's... EMS, der bescheidene hungrige Hamster!\ems
+message_51:
+  text: \}Oh wow, ist das alles für mich? Was für ein Leckerbissen!<br>Woher wusstest du, dass Käse mein Favorit ist?<br>
+message_52:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 37
+  text: Ich muss nicht raten, EMS!!!<br>Alles ist dein Favorit
+message_53:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 36
+  text: An alle, das ist EMS!\! Sie ist eine gute Freundin von mir.\her
+message_54:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 38
+  text: Du weißt, was du zu tun hast, EMS!\her
+message_55:
+  text: \}Ich weiß es genau! \Com[2]Im Handumdrehen erledigt!\ems
+message_56:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 26
+  text: Whoa...\kel
+message_57:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 4
+  text: Wie passt das alles überhaupt in ihren Körper?\aub
+message_58:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 36
+  text: Ich versuche, nicht daran zu denken.\her
+message_59:
+  text: Der Käse ist gegessen und der Weg ist frei.
+message_60:
+  text: \}Nun, das war unglaublich befriedigend! \ems
+message_61:
+  text: \}Wenn du jemals wieder die Dienste eines riesigen Käsefressers benötigst, weißt du, wen du anrufen musst! \ems
+message_62:
+  text: \}Goodbye, Freunde! \ems

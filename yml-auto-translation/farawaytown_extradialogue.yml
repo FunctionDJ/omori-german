@@ -1,0 +1,98 @@
+message_1:
+  faceset: MainCharacters_Faraway
+  faceindex: 17
+  text: \kelSo, das ist also dein Treffpunkt mit deinen neuen Freunden, hm?
+message_2:
+  faceset: MainCharacters_Faraway
+  faceindex: 0
+  text: \aubYeah...so what?
+message_3:
+  faceset: MainCharacters_Faraway
+  faceindex: 16
+  text: \kelEh...\! Eigentlich nichts. Ich kann dir nicht wirklich einen Vorwurf machen.
+message_4:
+  faceset: MainCharacters_Faraway
+  faceindex: 14
+  text: \kelIt ist ein ziemlich cooler Ort...
+message_5:
+  faceset: MainCharacters_Faraway
+  faceindex: 17
+  text: \kelDer See ist jetzt etwas trüber, aber ich erinnere mich, dass wir hier früher immer schwimmen waren!
+message_6:
+  faceset: MainCharacters_Faraway
+  faceindex: 11
+  text: \aubEs sieht genauso aus wie immer...\! Du hattest nur niedrigere Ansprüche.
+message_7:
+  faceset: MainCharacters_Faraway
+  faceindex: 15
+  text: \kelHeh heh... Vielleicht so, vielleicht so.<br>So... warum haben wir hier wieder aufgehört zu schwimmen?
+message_8:
+  faceset: MainCharacters_Faraway
+  faceindex: 27
+  text: \aubDu erinnerst dich nicht mehr?\ MARI wollte nicht mehr herkommen, nachdem \n[8] fast ertrunken war...
+message_9:
+  faceset: MainCharacters_Faraway
+  faceindex: 20
+  text: \kelOh Mann, das habe ich völlig vergessen!
+message_10:
+  faceset: MainCharacters_Faraway
+  faceindex: 31
+  text: \herKEL und ich haben immer Tricks gemacht, indem wir von dieser Statue gesprungen sind, aber als wir \n[8] gebeten haben, es zu versuchen...\! ist er eingefroren und in den See gefallen.
+message_11:
+  faceset: MainCharacters_Faraway
+  faceindex: 34
+  text: \herErinnerst du dich, \n[8]?\! Es ging alles so schnell...
+message_12:
+  faceset: MainCharacters_Faraway
+  faceindex: 34
+  text: \Und obwohl wir schon im Wasser waren, waren es nicht wir, die dich gerettet haben.
+message_13:
+  faceset: MainCharacters_Faraway
+  faceindex: 17
+  text: \kelNein, es war MARI...\! Sie ist eingetaucht, bevor wir überhaupt reagieren konnten.
+message_14:
+  faceset: MainCharacters_Faraway
+  faceindex: 27
+  text: \aubIch werde nie den Moment vergessen, in dem sie dich aus dem See getragen hat.\! Und als du endlich deine Augen geöffnet hast, fiel sie auf dich und brach in Tränen aus.
+message_15:
+  faceset: MainCharacters_Faraway
+  faceindex: 2
+  text: \aub...\! So hatte ich sie noch nie gesehen...
+message_16:
+  faceset: MainCharacters_Faraway
+  faceindex: 31
+  text: \herMARI hat dich wirklich geliebt, \n[8].\! Das weißt du doch, oder?
+message_21:
+  text: KEL ist immer für dich da gewesen.\! Und auch wenn er manchmal ein bisschen unvorsichtig ist, weißt du, dass er ein gutes Herz hat.
+message_22:
+  text: Mehr als alles andere will er nur, dass alle um ihn herum glücklich sind Er war schon immer jemand, auf den du zählen konntest, um deine Stimmung zu heben.
+message_23:
+  text: Du wirst ihn wirklich vermissen.
+message_25:
+  text: AUBREY hat immer treu zu ihren Gefühlen gestanden.<br>Auch wenn es ihr schwerfällt zuzugeben, wie sehr sie sich sorgt,<br>haben ihre Taten das Gegenteil gezeigt.
+message_26:
+  text: Sie ist ein bisschen schwer zu verstehen...\! Aber du kannst darauf vertrauen, dass sie immer ihr Bestes versuchen wird, das Richtige zu tun.
+message_27:
+  text: Du wirst sie wirklich vermissen.
+message_29:
+  text: HERO war schon immer jemand, auf den man sich verlassen konnte Er ist weise, fähig, liebevoll und stellt andere immer über sich selbst.
+message_30:
+  text: Er ist die Art von Mensch, die sich immer zur Verfügung stellt, um dir zu helfen, selbst wenn es um einen Fehler geht.
+message_31:
+  text: Du wirst ihn wirklich vermissen.
+message_35:
+  faceset: MainCharacters_Faraway
+  faceindex: 22
+  text: \kel\n[8]...\! \...\! \n[8]...?
+message_36:
+  faceset: MainCharacters_Faraway
+  faceindex: 0
+  text: \aubHey, alles in Ordnung? \! Du starrst jetzt schon seit fünf Minuten ins Leere...
+message_37:
+  faceset: MainCharacters_Faraway
+  faceindex: 38
+  text: \herHaha...\! Wovon hast du geträumt, \n[8]?
+message_38:
+  faceset: MainCharacters_Faraway
+  faceindex: 30
+  text: \ihr Ausdruck...\! Es war so friedlich.

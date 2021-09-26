@@ -1,0 +1,78 @@
+message_0:
+  text: \n<MR. PARROT>Squak!\! (\i[6]\c[11]PINWHEEL FOREST\c[0])\!<br>Squak, squak!\! (\i[3]\c[11]FOGGY BRIDGE\c[0])
+message_1:
+  text: \n<MR. PARROT>Squak!\! (\i[5]\c[11]TRAIN STATION\c[0])\!<br>Squak, squak!\! (\i[4]\c[11]NEBELBRÜCKE\c[0])
+message_2:
+  text: \n<MR. PARROT>Squak!\! (Zeile beginnt hier.)
+message_3:
+  text: \n<MRS. PARROT>Cheep!\! (\i[1]\c[11]OTHERWORLD CAMPSITE\c[0])\!<br>Cheep, cheep!\! (\i[4]\c[11]CATTAIL FIELD\c[0])
+message_4:
+  text: \n<MRS. PARROT>Cheep!\! (\i[3]\c[11]OTHERWORLD LAKE\c[0])\!<br>Cheep, cheep!\! (\i[4]\c[11]OTHERWORLD CAMPSITE\c[0])\!<br>Cheep, cheep, cheep!\! (\i[1]\c[11]JUNKYARD\c[0])
+message_5:
+  text: \n<MRS. PARROT>Cheep!\! (\i[6]\c[11]CATTAIL FIELD\c[0])\!<br>Cheep, cheep!\! (\i[4]\c[11]OTHERWORLD CAMPSITE\c[0])\!<br>Cheep, cheep, cheep!\! (\i[2]\c[11]FROZEN LAKE\c[0])
+message_6:
+  text: \n<MR. PENGUIN>Brrrrrrr!\! (Verlass diesen Ort!)\!<br>Brr... Brrrrr!\! (Gezeichnet, SXH)
+message_7:
+  text: \n<MR. PENGUIN>Brrrrrrr!\! (Kehr um, solange du noch kannst...)\!<br>Brr... Brrrrr!\! (Gezeichnet, SXH)
+message_8:
+  text: \n<MR. PENGUIN>Brrrrrrr!\! (Hier gibt es nichts für dich... Geh weg!)\!<br>Brr... Brrrrr!\! (Gezeichnet, SXH)
+message_9:
+  text: \n<MR. PENGUIN>Brrrrrrr!\! (Geh weg! Überlass mich meinem erbärmlichen Dasein!)\!<br>Brr... Brrrrr!\! (Gezeichnet, SXH)
+message_10:
+  text: \n<MR. PENGUIN>Brrrrrrr!\! (Es wäre dumm, weiterzumachen.\!<br>Wie gerne hätte mir jemand das Gleiche gesagt...)\!<br>Brr... Brrrrr!\! (Gezeichnet, SXH)
+message_11:
+  text: \n<MR. PENGUIN>Brrrrrrr!\! (Alles ist fair in der Liebe und im Krieg...\! aber es tut trotzdem weh, wenn man verliert...)\!<br>Brr... Brrrrr!\! (Gezeichnet, SXH)
+message_12:
+  text: \n<MR. PENGUIN>Brrrrrrr!\! (Du wirst nichts davon haben, hierher zu kommen, genau wie ich.\! All das wird umsonst sein.)\!<br>Brr... Brrrrr!\! (Gezeichnet, SXH)
+message_36:
+  text: \n<MR. PENGUIN>Brrrrrrr!\! (Komm mich nicht suchen...\! Nur die Kälte kann mir jetzt Gesellschaft leisten.)\!<br>Brr... Brrrrr!\! (Gezeichnet, SXH)
+message_13:
+  text: \n<MRS. FLAMINGO>Graa!\! (\i[1]\c[11]DIE KÖNIGLICHE KÜCHE\c[0])\!<br>Graa, graa!\! (\i[1]\c[11]DIENERQUARTIERE\c[0])\!<br>Graa, graa, graa!\! (\i[8]\c[11]DER KÖNIGLICHE BALLROOM\c[0])
+message_14:
+  text: \n<MRS. FLAMINGO>Graa!\! (\i[1]\c[11]THE ROYAL CHAMBERS\c[0])\!<br>Graa, graa!\! (\i[7]\c[11]DIE KÖNIGLICHE GALERIE\c[0])\!<br>Graa, graa, graa!\! (\i[7]\c[11]THE ROYAL LIBRARY\c[0])
+message_15:
+  text: \n<MRS. FLAMINGO>Graa!\! (\i[1]\c[11]THE ROYAL GALLERY\c[0])\!<br>Graa, graa!\! (Das Feature in diesem Monat ist...)\!<br>Graa, graa, graa!\! (\"OEUVRES OF SWEETHEART\")
+message_16:
+  text: \n<MRS. FLAMINGO>Graa!\! (\i[1]\c[11]THE ROYAL LIBRARY\c[0])\!<br>Graa, graa!\! (Zur Erinnerung... Kein Lesen ohne Erlaubnis.)
+message_17:
+  text: \n<MRS. FLAMINGO>Graa!\! (\i[1]\c[11]THE ROYAL BALLROOM\c[0])\!<br>Graa, graa!\! (Zur Erinnerung... Karaoke ist NUR freitags.)
+message_18:
+  text: \n<MRS. FLAMINGO>Graa!\! (\i[1]\c[11]HEBEN SIE IN DIE KÖNIGLICHEN KAMMERN\c[0])\!<br>Graa, graa!\! (Zur Erinnerung... Du darfst hier nicht rein, es sei denn, du bist ein schöner Freier, der von SWEETHEART handverlesen wurde.)<br>Graa, graa, graa!\! (Oder es sei denn, du bist CASTELLA.)
+message_19:
+  text: \n<MRS. FLAMINGO>Graa!\! (\i[1]\c[11]DAS KÖNIGLICHE BAD\c[0])\!<br>Graa, graa!\! (Zur Erinnerung... Der Pool muss regelmäßig nachgefüllt werden.)
+message_20:
+  text: \n<MRS. FLAMINGO>Graa!\! (\i[1]Eine besondere Hölle für dich, mein Lieber...)\!<br>Graa, graa!\! (Gezeichnet, SWH)
+message_21:
+  text: \n<MR. SEAGULL>Cawww!\! (\i[1]\c[11]ABANDONED SITE\c[0])\!<br>Cawww, cawwwww!\! (\i[4]\c[11]TOLL ROAD\c[0])
+message_22:
+  text: \n<MR. SEAGULL>Cawww!\! (\i[1]\c[11]ABANDONED SITE\c[0])\!<br>Cawww, cawwwww!\! (\i[4]\i[3]\c[11]TOLL ROAD\c[0])
+message_23:
+  text: \n<MR. SEAGULL>Cawww!\! (\i[1]\c[11]LAST RESORT\c[0])\!<br>Cawww, cawwwww!\! (\i[4]\i[3]\c[11]ENDLESS HIGHWAY\c[0])
+message_24:
+  text: \n<MR. SEAGULL>Cawww!\! (\i[4]\i[3]\c[11]ENDLESS HIGHWAY\c[0])
+message_25:
+  text: \n<MR. SEAGULL>Cawww!\! (Cawww...tion!)\!<br>Cawww, cawwwww!\! (Im Pool spukt es!)
+message_26:
+  text: \n<MR. SEAGULL>Cawww!\! (Cawww...tion!)\!<br>Cawww, cawwwww!\! (Pool ist im Bau.)
+message_27:
+  text: \n<MR. SEAGULL>Cawww!\! (Dies ist das Ende des Highways.)
+message_28:
+  text: \n<MR. BIRD?>Ker-craa...\! (Seltsames Wachstum.)\!<br>Ker-craa...aaa...\! (Wird sich regenerieren, nachdem er zerschlagen wurde.)
+message_29:
+  text: \n<MR. BIRD?>Ker-craa...\! (Intelligentes Wachstum.)\!<br>Ker-craa...aaa...\! (Wird sich praktischerweise in eine Brücke verwandeln, nachdem er zerschlagen wurde.)
+message_30:
+  text: \n<MR. BIRD?>Ker-craa...\! (MARINAs 667. Experiment.)\!<br>Ker-craa...aaa...\! (Cawww...tion... Nicht im Glas stochern.)
+message_31:
+  text: \n<MR. BIRD?>Ker-craa...\! (Feldarbeit im Gange. Bitte nicht stören.)
+message_32:
+  text: \n<MR. BIRD?>Ker-craa...\! (Laborarbeit in Arbeit. Sparsam stören.)
+message_33:
+  text: \n<MR. SEAGULL>Cawww!\! (MUSICAL CLAMS im Training.)\!<br>Cawww, cawwwww!\! (Bitte zeige ihnen deine Unterstützung.)
+message_34:
+  text: \"IT'S GAME!\"<br>\"MATCH THREE GUYS FOR A PRIZE!\"
+message_35:
+  text: \n<BIRD MOLE>Squak?
+message_37:
+  text: \n<MRS. FLAMINGO>Graa!\! (Die bescheidene Behausung von ROSA!)\!<br>Graa, graa!\! (Der \#1 SWEETHEART-Fan der Welt!)
+message_100:
+  text: \i[4]\c[11]TRAIN STATION\c[0]<br>\i[3]\c[11]PINWHEEL FOREST<br>\i[2]\c[11]BASIL'S HOUSE\c[0]

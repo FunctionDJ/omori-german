@@ -1,0 +1,244 @@
+### Translation: Finished
+### Editing: None
+
+### Translated by: Lugitaro 🐉#0893
+### Read by: FirstTroph#9096 (panaxyn)
+
+# =========================================================================================
+# Ghost Gathering
+# ========================================================================================
+
+#Talk to Tophat Ghost
+
+message_0:
+      text: \n<ZYLINDER-GEIST>Meine Güte, welch perfektes Timing!\!<br>Es scheint, als befände ich mich in einer ziemlichen Zwangslage.
+
+message_1:
+      text: \n<ZYLINDER-GEIST>Ich habe Briefe an eine Anzahl Bekannter zugesandt, um sie zu diesem eleganten Festmahl von mir einzuladen ...\! doch bis zu diesem Zeitpunkt ist noch kein einziger Gast erschienen!\! Kein Einziger!
+
+message_2:
+      text: \n<ZYLINDER-GEIST>Das ist absurd.\! Ein niederer Geist wäre erzürnt, doch mein feiner Verstand sagt mir, dass sie sich lediglich auf dem Weg hierhier verirrt haben mögen.
+
+message_3:
+      text: \n<ZYLINDER-GEIST>Wissen Sie...\! Als ich meine Einladungen verschickte...\! hatte ich eine Wegbeschreibung zum Veranstaltungsort vergessen!
+
+message_4:
+      text: \n<ZYLINDER-GEIST>Als wahrer Gentleman und Gastgeber weigere ich mich, diese Feier einzuleiten, ehe all meine Gäste angekommen sind.
+
+message_5:
+      text: \n<ZYLINDER-GEIST>Wären Sie so nett, meiner Gästeschaft dabei zu helfen, ihren Weg hierher zu finden?
+
+#[Nod/Shake]
+#[Nod]
+message_6:
+      text: \n<ZYLINDER-GEIST>Danke, werter Herr!\!<br>Hier sind einige Karten mit Richtungen zu meiner Feier, und mit meinem eigenen persönlichen ZYLINDER-Gütesiegel gekennzeichnet.
+
+message_7:
+      text: \n<ZYLINDER-GEIST>Bitte liefern Sie diese Karten an jeden meiner Gäste.<br>\!Sicherlich werden sie dann den Weg hierher allein finden.
+
+message_8:
+      text: Du erhältst 6 \c[4]SPUKHAFTE KARTEN\c[0].
+#[Shake]
+message_9:
+      text: \n<ZYLINDER-GEIST>Hmpf... Das ist sehr schade.\! Würden Sie wirklich einen alten Geist wie mich dieses Festmahl ganz allein genießen lassen?
+#Talk to Beard GHOST
+
+message_10:
+      text: \n<VOLLBART-GEIST>Hmm...\! Moment, wo wollte ich nochmal hin?\!<br>Verflixt, mein Gedächtnis ist nicht mehr, was es früher war...
+
+message_11:
+      text: Du gibst VOLLBART-GEIST eine \c[4]SPUKHAFTE KARTE\c[0].
+
+message_12:
+      text: \n<VOLLBART-GEIST>Hä? Was hast du da?\!<br>Eine Karte zum Fest vom ollen ZYLINDER?\! Hui, tatsächlich!
+
+message_13:
+      text: \n<VOLLBART-GEIST>Ich mach' mich lieber auf den Weg, bevor das ganze Essen kalt wird.\!<br>All-you-can-eat-Buffet, hier komme ich!
+
+#Talk to Glasses GHOST
+
+message_14:
+      text: \n<BRILLE-GEIST>Ich bin so allein, allein wie ein Stein...\! Seufz...\! Da bin ich ein Mal zu einer Party eingeladen, und weiß nicht, wo sie stattfindet...
+
+message_15:
+      text: Du gibst BRILLE-GEIST eine \c[4]SPUKHAFTE KARTE\c[0].
+
+message_16:
+      text: \n<BRILLE-GEIST>O-Oh! Ich glaub's ja nicht! Ist das eine Karte zu ZYLINDERs Party?\!<br>Du bist ein echter Lebensretter, weißt du das?\!<br>Ich beeile mich lieber...\! Das wird wohl ein Knaller!
+
+
+#Talk to Mustache GHOST
+
+message_17:
+      text: \n<SCHNURRBART-GEIST>Beachte mich nicht!\!<br>Ich bin nur ein verirrter, schwebender Schnurrbart, der seinen Tag verbringt.
+
+message_18:
+      text: Du gibst SCHNURRBART-GEIST eine \c[4]SPUKHAFTE KARTE\c[0].
+
+message_19:
+      text: \n<SCHNURRBART-GEIST>Oha, Sekunde mal! Was haben wir denn hier?\!<br>Eine Wegbeschreibung zu ZYLINDERs Fete?\!<br>Tja, na sowas... Ich hau lieber ab!
+
+message_20:
+      text: \n<SCHNURRBART-GEIST>\Com[2]Die Feier fängt nicht an, bis ich ankomme!\!<br>\quake[1]Hyok, hyok, hyok... grunz... hyok, hyok, hyok! \quake[0]
+
+#Talk to Princess GHOST
+
+message_21:
+      text: \n<PRINZESSIN-GEIST>Ach herrje, es scheint, als hätte ich mich einmal mehr verirrt...\!<br>Oh... wie ungeschickt von mir.
+
+message_22:
+      text: Du gibst PRINZESSIN-GEIST eine \c[4]SPUKHAFTE KARTE\c[0].
+
+message_23:
+      text: \n<PRINZESSIN-GEIST>Oh je! Was ist das?\!<br>Eine Karte zu Herrn ZYLINDERs Feier? Aber ja, in der Tat ist es das!
+
+message_24:
+      text: \n<PRINZESSIN-GEIST>Ich muss nun zur Feier eilen.<br>Verspätungen sind ungebührlich für eine Prinzessin!
+
+
+#Talk to Propeller GHOST
+
+message_25:
+      text: \n<PROPELLER-GEIST>Schnief... Schnief... Komm schon...\!<br>Warum muss ich mich schon wieder verirren?
+
+message_26:
+      text: Du gibst PROPELLER-GEIST eine \c[4]SPUKHAFTE KARTE\c[0].
+
+message_27:
+      text: \n<PROPELLER-GEIST>Oh... Hi...\! Häh? Ist das eine Karte?\! Warte, ich kann ZYLINDERs Siegel darauf sehen!\! Menschenskind! Das müssen die Richtungen zur Party sein!<br>Vielen Dank, lieber Fremder!
+
+message_28:
+      text: \n<PROPELLER-GEIST>Wir sehen uns auf der Party!
+
+#Talk to Sunhat GHOST
+
+message_29:
+      text: \n<SONNENHUT-GEIST>Hm, hier stimmt was nicht.\!<br>Ich bin wohl irgendwo falsch abgebogen...
+
+message_30:
+      text: Du gibst SONNENHUT-GEIST eine \c[4]SPUKHAFTE KARTE\c[0].
+
+message_31:
+      text: \n<SONNENHUT-GEIST>Was ist das? Eine Karte?\!<br>Oh je... da ist sogar ZYLINDERs Siegel drauf!\!<br>Jetzt kann ich die Feier erreichen.
+
+message_32:
+      text: \n<SONNENHUT-GEIST>Danke, Kinder!\!<br>Ich muss nun los, ich bin so schon hinter dem Zeitplan.
+
+#Talking to other Ghosts before talking to Tophat GHOST
+
+message_33:
+      text: BART-GEIST schaut sich mit verirrtem Blick um.
+
+message_34:
+      text: BRILLEN-GEIST schaut sich mit verirrtem Blick um.
+
+message_35:
+      text: SCHNURRBART-GEIST schaut sich mit verirrtem Blick um.
+
+message_36:
+      text: PRINZESSIN-GEIST schaut sich mit verirrtem Blick um.
+
+message_37:
+      text: PROPELLER-GEIST schaut sich mit verirrtem Blick um.
+
+message_38:
+      text: SONNENHUT-GEIST schaut sich mit verirrtem Blick um.
+
+#Talking to ZYLINDER-GEIST before collecting all the Ghosts
+
+message_39:
+      text: \n<ZYLINDER-GEIST>Es gibt 6 \c[4]SPUKHAFTE KARTEN\c[0], die zu meiner Feier führen.\!<br>Jede ist mit meinem eigenen persönlichen ZYLINDER-Gütesiegel gekennzeichnet.
+
+message_40:
+      text: \n<ZYLINDER-GEIST>Bitte liefern Sie diese Karten an jeden meiner Gäste.<br>\!Sicherlich werden sie dann den Weg hierher allein finden.
+
+#Talking to ZYLINDER-GEIST after collecting all ghosts
+
+message_41:
+      text: \n<ZYLINDER-GEIST>\Com[2]\{HURRA! DAS FESTMAHL IST GERETTET!!
+
+message_42:
+      text: \n<ZYLINDER-GEIST>Nun...\!<br>\{\Sinv[1]MÖGEN DIE FESTLICHKEITEN BEGINNEN!!\}\Sinv[0]
+
+#GHOSTS DO A DANCE
+
+message_50:
+      text: \n<VOLLBART-GEIST>Dieses Fest ist sensationell!\! Hier ist 'ne Kleinigkeit, die ich auf dem Weg hierher mitgenommen hab.\! Is' nich' viel, aber mehr hab ich nich'!
+
+message_51:
+      text: \n<BRILLE-GEIST>Ah...\! Diese Party ist genau, wie ich sie mir vorstellte.\! Danke fürs Wegweisen und so.\! Hier ist ein Geschenk für dich!
+
+message_52:
+      text: \n<SCHNURRBART-GEIST>Welch eine unglaubliche Fete!\! ZYLINDER-GEIST legt die Messlatte jedes Mal höher!\! Ich schulde euch etwas, Freunde. Hier, nehmt das!
+
+message_53:
+      text: \n<PRINZESSIN-GEIST>Welch ein prachtvolles Fest!\! Es ist euch allen zu verdanken, dass dies möglich wurde.\! Bitte nehmt diese Gabe von mir an!
+
+message_54:
+      text: \n<PROPELLER-GEIST>Oh, Junge! Ich kann nicht glauben, dass ich hier bin!\! Und ich seh' bestimmt supercool aus, so wie ihr alle mit mir redet...\! Ist doch klar, dass ich mich revanchieren muss!
+
+message_55:
+      text: \n<SONNENHUT-GEIST>Danke, Kinder!\! Da ich nun auf dieser Feier bin, ist mein Nachleben um einiges leichter zu genießen!\! Ihr müsst dies dafür annehmen, dass ihr meinen Tag versüßt habt!
+
+message_56:
+      text: \n<ZYLINDER-GEIST>Meine Herren! Sie haben meine ewige Dankbarkeit.\! Erfreuen Sie sich an diesem Präsent von mir!
+
+message_57:
+      text: \n<ZYLINDER-GEIST>Bitte nehmen Sie sich etwas Zeit, und genießen Sie die gute Gesellschaft!
+
+#==
+
+#beard
+message_60:
+      text: Du erhältst eine \c[3]WAFFEL\c[0].
+
+#glasses
+message_61:
+      text: Du erhältst \c[4]LEERE BATTERIEN\c[0].
+
+#mustache
+message_62:
+      text: Du erhältst \c[3]FRUCHTSAFT?\c[0]
+
+#princess
+message_63:
+      text: Du erhältst ein \c[5]GESCHENK\c[0].
+
+#propeller
+message_64:
+      text: Du erhältst ein \c[5]GROSSES GUMMIBAND\c[0].
+
+#sunhat
+message_65:
+      text: Du erhältst \c[3]LEBENSGELEE\c[0].
+
+#tophat
+message_66:
+      text: Du erhältst einen \c[13]ZYLINDER\c[0].
+
+
+#==
+
+#beard
+message_70:
+      text: \n<BART-GEIST>Schaut euch all das Essen an!
+
+#glasses
+message_71:
+      text: \n<BRILLEN-GEIST>Ah...\! Diese Party ist genau, wie ich sie mir vorstellte.
+
+#mustache
+message_72:
+      text: \n<SCHNURRBART-GEIST>\quake[1]Hyok, hyok, hyok... grunz... hyok, hyok, hyok!\quake[0]
+
+#princess
+message_73:
+      text: \n<PRINZESSIN-GEIST>Die Dekorationen sind dieses Jahr erstklassig!
+
+#propeller
+message_74:
+      text: \n<PROPELLER-GEIST>Ich seh' jetzt bestimmt supercool aus...
+
+#sunhat
+message_75:
+      text: \n<SONNENHUT-GEIST>Da ich nun auf dieser Feier bin, ist mein Nachleben um einiges leichter zu genießen!

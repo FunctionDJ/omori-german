@@ -1,0 +1,588 @@
+### Translation: Finished
+
+### Translated by: jasu
+
+# =========================================================================================
+# Dreamworld NPC dialogue
+# =========================================================================================
+
+# ==============LAST RESORT / UNDERWATER HIGHWAY / ABYSS========================
+
+
+                        #====NIGHT 3====
+
+#ABBI
+#Location:Abyss
+#Abyss (Boss) - Tentacle Quest
+#Check sidequest_dreamworld_tentacle
+
+#DEALER JASH
+#Location: LAST RESORT
+#SHOP QUEST yaml
+
+#PINKBEARD
+#Location: Last Resort
+
+#ADD ARG!!!!!!!
+message_0:
+      text: \n<PINKBEARD>Dieser Laden ist nicht, wie diese Leute ihn präsentieren.\! \Com[2]Ich will meine MUSCHELN zurück, hört ihr!?
+
+#FISHBOY
+#Location: Last Resort
+message_1:
+      text: \n<FISCHJUNGE>Fische zu fangen und aufzuziehen ist eines meiner Hobbies.\!<br>Es vertreibt Zeit und ist etwas belohnend.
+
+
+#GOYLE THE CRAB
+#Location: Last Resort
+#Faces up, faces down when talked to
+message_3:
+      text: \n<SPEIER DIE KRABBE>Seht mich nicht an! Ich bin abscheulich!
+
+#HITCHHIKER
+#Location: Underwater Highway
+#Check DREAM WORLD EXTRAS BLACKSPACE yaml
+
+#HOT DOG TYP
+#Location: Last Resort
+message_4:
+      text: \n<HOT DOG TYP>\SINV[1]\c[3]HOT DOGS\c[0]...\! Holt euch \c[3]HOT DOGS\c[0]...\SINV[0]
+
+message_5:
+      text: \$\n<HOT DOG TYP>Du willst einen \c[3]HOT DOG\c[0]? Es kostet dich nur 100 MUSCHELN...\!<br>Komm schon... sie sind lecker.\$
+
+message_6:
+      text: Du erhältst einen \c[3]HOT DOG\c[0].
+
+message_7:
+      text: \n<HOT DOG TYP>Na schön...\! aber sie sind lecker.
+
+message_36:
+      text: \n<HOT DOG TYP>Du hast dafür nicht genug MUSCHELN...
+
+#LAMM
+#Location: Last Resort
+message_8:
+      text: \n<LAMM>Wir wollten unsere Flitterwochen hier verbringen, weil sie einen kostenlosen Raum und einen luxuriösen Ferienort versprochen haben!
+
+message_9:
+      text: \n<LAMM>\Com[2]Von wegen Luxus!\! Diese Baracke ist so schäbig, wie es nur geht.\!<br>Ich kann sehen, wie die Farbe von den Wänden löst!
+
+#WOLF
+#Location: Last Resort
+message_10:
+      text: \n<WOLF>Um ehrlich zu sein finde ich diesen Ort okay.\!<br>Dafür, dass der Aufenthalt kostenlos ist...\! Sogar im Planschbecken draußen spukt es.
+
+#ELEANOR
+#Location: MUSTARD SUBMERSIBLE
+message_11:
+      text: \n<SADIE>Hi, ich bin SADIE...\! Meine Schwestern und ich haben gemeinsam dieses Café eröffnet...\! Aber seit es etwas eng mit MUSCHELN wurde, arbeiten viele meiner Schwestern im \c[11]LETZTEN HALT\c[0].
+
+message_12:
+      text: \n<SADIE>Jetzt sind nur noch ich und meine Schwester ELEANOR hier...
+
+message_13:
+      text: \n<SADIE>\sinv[1]Seufz...\sinv[0]\! Ich wünschte, sie würden zurückkommen.\!<br>Ich würde alles tun, um sie wieder singen zu hören!
+
+#JULIA
+#Location: Last Resort
+message_14:
+      text: \n<JULIA>Ich habe angefangen, hier zu arbeiten, weil sie mir gutes Gehalt angeboten haben, aber ich habe noch nichtmal meinen ersten Lohnscheck bekommen!
+
+#LUCY
+#Location: Last Resort
+message_15:
+      text: \n<LUCY>\}Ich vermisse meine Schwestern in der \c[11]SENFGELBEN MARINE\c[0]...
+
+#PAM
+#Location: Last Resort
+message_16:
+      text: \n<PAM>Tut mir leid, ich darf Minderjährigen keinen \c[3]FRUCHTSAFT\c[0] servieren.
+
+#RITA
+#Location: Last Resort
+message_17:
+      text: \n<RITA>Meine Schwestern und ich besitzen ein kleines Café an der Autobahn östlich von hier.\! Ihr solltet bei Gelegenheit hingehen.\! Das Essen ist super!
+
+#SADIE
+#Location: MUSTARD SUBMERSIBLE
+#Check SHOP DIALOGUE GUIDE. (Mustard Submersible)
+
+#HAIGURKE
+#Location: Last Resort
+message_18:
+      text: \n<HAIGURKE>Wollt ihr etwas über Haie und/oder Essiggurken erfahren?\!<br>Wenn ihr mir ein \c[3]KOMBI-MENÜ\c[0] gebt, erzähle ich euch, was ich weiß!
+#yes/no (only if combo meal is in inventory)
+
+#yes
+message_19:
+      text: \n<HAIGURKE>Hey, danke vielmals! \!<br>Wollt ihr etwas über HAIE oder ESSIGGURKEN erfahren?
+
+message_20:
+      text: HAIE
+
+message_21:
+      text: ESSIGGURKEN
+
+message_22:
+      text: \n<HAIGURKE>Ausgezeichnet!\! Hier ist etwas von meinem Wissen...
+
+
+#Shark
+
+message_23:
+      text: \n<HAIGURKE>Haie können nur vorwärts schwimmen.<br>\!Ist das nicht inspirierend?\! Ich find' schon...
+
+message_100:
+      text: \n<HAIGURKE>Haie haben mehrere Zahnreihen...\! die wahrscheinlich praktisch sind, wenn sie Essiggurken essen!
+
+message_101:
+      text: \n<HAIGURKE>Haie haben keine Knochen!\! Wir sind eigentlich aus Menschenohren und Nasen.
+
+message_102:
+      text: \n<HAIGURKE>Was viele nicht wissen ist, dass Haie Menschen eigentlich nicht gerne essen...\! Außer Tigerhaie...\! Diese Typen essen alles...
+
+
+#PICKLES
+message_24:
+      text: \n<HAIGURKE>Am 14. November ist nationaler Essiggurkentag.<br>\!Denkt daran, eure jährliche Essiggurke zu essen!
+
+message_104:
+      text: \n<HAIGURKE>Habt ihr zu viele Essiggurken?\! Man kann sie im Boden vergraben und später wieder ausbuddeln!\! Denkt nur daran, wo ihr sie vergraben habt...
+
+message_105:
+      text: \n<HAIGURKE>Essiggurken werden in manchen Kulturen für Liebesrituale verwendet.\! Das ist alles, was ich darüber sagen werde!
+
+message_106:
+      text: \n<HAIGURKE>Du denkst, du hast Skorbut?\! Vielleicht hättest du eine Essiggurke essen sollen!
+
+
+
+
+
+#SEACOW
+#Location:Underwater Highway
+message_25:
+      text: \n<SEEKUH>Ähh... \!muh?
+
+#SEACOW FARMER
+#Location:Underwater Highway- Hunt Squizzards Quest
+#Check Seacow farmer (Hunt Squizzards) yaml
+
+#KROKO-KERL
+#Location: Last Resort - Break Room
+message_26:
+      text: \n<KROKO-KERL>Ich habe allen Pizza gebracht!
+
+#KROKO-KERL
+#Location: Last Resort - Construction
+message_27:
+      text: \n<KROKO-KERL>Schnauf... \!Schnauf... \!Mein Rücken tut weh... \!Ich bin zu alt für sowas.
+
+#KROKO-KERL
+#Location: Last Resort - Break Room
+message_28:
+      text: \n<KROKO-KERL>Unsere Aktien gehen zurück... \!Ich meine, steigen drastisch!
+
+#KROKO-KERL
+#Location: Last Resort - Casino
+#KROKO-KERL is on his tiny phone.
+message_29:
+      text: \n<KROKO-KERL>\}Nee... \!Ernsthaft?... \!Nicht schon wieder... \!<br>Keine Sorge... \! Das ist kein Problem...
+
+#KROKO-KERL
+#Location: Last Resort- Bathroom (Looking at Mirror)
+message_30:
+      text: \n<KROKO-KERL>Hey, du Hübscher...
+
+#KROKO-KERL
+#Location: Last Resort Entrance
+#KROKO-KERL is on his tiny phone.
+message_31:
+      text: \n<KROKO-KERL>\}Uh huh... \!Ja... \!Richtig... \!Wer?... \!Verstanden.
+
+#KROKO-KERL
+#Location: Last Resort Entrance
+#KROKO-KERL is on his tiny phone.
+message_32:
+      text: \n<KROKO-KERL>\}Jawohl... \!Jawohl... \!Jawohl... \!Jawohl... \!Positiv... \!Roger...
+
+#SLIME 1
+#Location:
+#[INCOMPLETE]
+
+#SLIME 2
+#Location:
+#[INCOMPLETE]
+
+#SLIME 3
+#Location:
+#[INCOMPLETE]
+
+#SLIME 4
+#Location:
+#[INCOMPLETE]
+
+#SLIME 5
+#Location:
+#[INCOMPLETE]
+
+                        #====NIGHT 4====
+
+#ABBI
+#Location: Abyss
+#Abyss (Boss) - Tentacle Quest
+#Same as NIGHT 3.
+
+#DEALER ASH
+#Location: Last Resort
+#Same as NIGHT 3.
+
+#PINKBEARD
+#Location: Space Captains House- Bring Boy Home Quest
+#Check DREAM WORLD SIDEQUEST PINKBEARD
+
+#FISHBOY
+#Location: Underwater Highway
+#Same as NIGHT 3.
+
+#GOYLE THE CRAB
+#Location: Underwater Highway
+#Same as NIGHT 3.
+
+#HITCHHIKER
+#Location: Underwater Highway
+#Same as NIGHT 3.
+
+#HOT DOG TYP
+#Location: Underwater Highway
+#Same as NIGHT 3.
+
+#LAMM
+#Location: ORANGE OASIS
+message_33:
+      text: \n<LAMM>Wir wollten für unsere Flitterwochen eigentlich zum \c[11]LETZTEN HALT\c[0] gehen...<br>aber das hat nicht wirklich geklappt, also haben wir den Zug zur \c[11]ORANGENOASE\c[0] genommen!
+
+message_34:
+      text: \n<LAMM>Ich weiß nicht, was ich erwartet habe...\! Sie ist, ähh...\!<br>Sie ist ziemlich orange.
+
+#WOLF
+#Location: ORANGE OASIS
+message_35:
+      text: \n<WOLF>Schnauf... schnauf... \! Es ist so heiß hier.\! Gibt es hier überhaupt ein Hotel?
+
+#ELEANOR
+#Location: MUSTARD SUBMERSIBLE
+message_80:
+      text: \n<SADIE>Hi, ich bin SADIE!\! Meine Schwestern und ich haben gemeinsam dieses Café eröffnet!
+
+message_81:
+      text: \n<SADIE>ELEANOR ist für die Kasse zuständig, also sprecht bitte mit ihr, wenn ihr ein köstliches \c[3]KOMBI-MENÜ\c[0] bestellen wollt!
+
+message_82:
+      text: \n<SADIE>Das sind übrigens meine Schwestern, die dort singen!\!<br>Sind ihre Stimmen nicht bezaubernd?
+
+
+#JULIA
+#Location: Mustard Submersible
+message_85:
+      text: \n<JULIA>Ich habe den \c[11]LETZTEN HALT\c[0] verlassen, und bin jetzt wieder hier!\! Sagt meinen Schwestern bloß nicht, dass ich sie vermisst habe!\! \SINV[1]Ufufu!\SINV[0]
+
+#LUCY
+#Location: Mustard Submersible
+message_90:
+      text: \n<LUCY>\}Hi... Es ist schön, wieder hier zu sein...\! Ich hoffe, euch gefällt es hier!
+
+#PAM
+#Location: Mustard Submersible
+message_95:
+      text: \n<PAM>Ich habe den \c[11]LETZTEN HALT\c[0] verlassen, weil ich SADIE und ELEANOR vermisst habe...\! aber es sieht so aus, als wären mir allen anderen zuvorgekommen.
+
+message_96:
+      text: \n<PAM>Ich sollte mir wohl über MUSCHELN Gedanken machen, aber...\!<br>Ich bin einfach nur froh, dass wir wieder beisammen sind.\! Wir kriegen das schon irgendwie hin!
+
+#SADIE
+#Location: Mustard Submersible
+#[Incomplete]
+
+#HAIGURKE
+#Location:Underwater Highway
+#Same as NIGHT 3.
+
+#POKER FACE
+#Location: Last Resort
+#POKER FACE: I got a mean poker face...
+
+#SEACOW
+#Location: Underwater Highway
+#Same as NIGHT 3.
+
+#SEACOW FARMER
+#Location: Underwater Highway - Hunt Squizzards Quest
+#Same as NIGHT 3.
+
+#MR. JAWSUM
+#Location: Last Resort
+#Check DREAM WORLD QUEST DIALOGUE.
+#After Cutscene: Feed Humphrey 1
+#Location: N/A
+
+#KROKO-KERL
+#Location: Forest Playground
+message_60:
+      text: \n<KROKO-KERL>\SINV[1]Hop! \!\}Und-\{Hop! \!\}Und-\{Hop! \!\}Und-\{Hop!\SINV[0]
+
+#KROKO-KERL
+#Location: Mustard Submersible
+#KROKO-KERL is on his tiny phone.
+message_61:
+      text: \n<KROKO-KERL>\}Uh huh...\! Drei Bestellungen...\! Uh huh...\! Uh huh...\! Ich weiß nicht...\! Ich kann frage...\!<br>Okay, also willst du doch vier...
+
+#KROKO-KERL
+#Location: Last Resort
+message_62:
+      text: \n<KROKO-KERL>Der Boss ist in letzter Zeit nicht wie sonst...\!<br>Ich frage mich, was los ist...
+#After Cutscene: Feed Humphrey 1
+message_63:
+      text: \n<KROKO-KERL>\Com[2]Hallo, HERO, Sir!\! \Com[2]Schönen Tag noch, Sir!
+
+#KROKO-KERL
+#Location: Last Resort - Break Room Stock Guy
+#Same as DAY 3.
+#After Cutscene: Feed Humphrey 1
+message_64:
+      text: \n<KROKO-KERL>In der kurzen Zeit, die HERO als neuer Boss übernommen hat, ist sich unser Bruttoeinkommen exponentiell gestiegen!
+
+message_65:
+      text: \n<KROKO-KERL>Bei der Rate...\! kommen wir eines Tages vielleicht sogar aus dem Minus!
+
+#KROKO-KERL
+#After Cutscene: Feed Humphrey 1
+#Location: Last Resort
+message_66:
+      text: \n<KROKO-KERL>Dank HEROs ausgezeichneten Leitung ist unser Geschäftsmodell viel effizienter als jemals zuvor!\! Bald sind wir an der Spitze, Mann!
+
+#KROKO-KERL
+#After Cutscene: Feed Humphrey 1
+#Location: Last Resort
+message_67:
+      text: \n<KROKO-KERL>Sind Sie müde vom Laufen, Boss?\!<br>Wollen Sie, dass ich Sie trage?
+
+#KROKO-KERL
+#After Cutscene: Feed Humphrey 1
+#Location: Last Resort
+message_68:
+      text: \n<KROKO-KERL>\}Also was du damit sagen willst...\! Mhmm...\! Nein, das ist nicht der Sinn...\! Aber das ist fiskalisch unmöglich...\! Ich sagte fiskalisch, nicht physikalisch!
+
+#KROKO-KERL
+#Location: Last Resort
+message_69:
+      text: \n<KROKO-KERL>Wie geht's, Boss?\! Wollen Sie ein \c[5]GUMMIBAND\c[0] haben?\!<br>Keine Sorge.\! Es geht aufs Haus!
+
+message_70:
+      text: \n<KROKO-KERL>Hey, Sie wollen noch ein \c[5]GUMMIBAND\c[0], nicht wahr?\!<br>Na los, nehmen Sie's doch!\! Alles für Sie, Boss.
+
+message_71:
+      text: \n<KROKO-KERL>Sie und Ihre Freunde mögen \c[5]GUMMIBÄNDER\c[0] wohl sehr...\!<br>nicht dass das ein Problen wäre.\! Ich habe unzählige \c[5]GUMMIBÄNDER\c[0]!
+
+message_72:
+      text: \n<KROKO-KERL>Dieser Gesichtsausdruck!\! Sieht so aus, als will jemand noch ein \c[5]GUMMIBAND\c[0]!\! Bittesehr, Boss!\! Bei allem, was Sie für uns getan haben, ist es das Mindeste!
+
+message_73:
+      text: \n<KROKO-KERL>Hey, Boss!\! Mögen Sie die \c[5]GUMMIBÄNDER\c[0], die ich Ihnen gegeben habe?\!<br>Echt toll, was?\! Ich kann Ihnen mehr bringen, wenn Sie wollen...
+
+#Repeats infinitely:
+message_74:
+      text: \n<KROKO-KERL>Hier, Boss!\! Nehmt noch ein \c[5]GUMMIBAND\c[0]!\!<br>Viel Spaß damit!
+
+message_75:
+      text: Du erhältst ein \c[5]GUMMIBAND\c[0]!
+
+#SLIME 1
+#Location:
+#extras_shop
+
+message_120:
+      text: Willst du dieser MUSIKALISCHEN MUSCHEL lauschen?
+
+message_121:
+      text: Diese MUSIKALISCHE MUSCHEL schließen?
+
+#BIKER gang
+
+message_125:
+      text: \n<GROßSTÄDTER>Respektier deine Gesellschaft!
+
+message_126:
+      text: \n<JETSETTER>Lieb dich selbst!
+
+message_127:
+      text: \n<SCHÄDELBRECHER>Sei nett zu anderen!
+
+message_128:
+      text: \n<BROCKEN>Ich spende an Hilfsorganisationen!
+
+message_130:
+      text: \n<FROG>\}\quake[1]Quak...\quake[0]\! (Wartest du darauf, dass etwas passiert?)
+
+#MUSCLE Sign
+
+#OMORI
+message_150:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 18
+      text: \kelGut siehst du aus, OMORI!
+
+message_151:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 3
+      text: \aubWas ein Muskelpaket!
+
+message_152:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 39
+      text: \herOMORI, hast du trainiert?
+
+#AUBREY
+message_153:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 19
+      text: \kel\sinv[1]Oooh, AUBREY... So träumerisch...
+
+message_154:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 37
+      text: \herWollen Sie etwas, Sir?\! Einen \c[3]FRUCHTSAFT\c[0]?\! Eine Rücken\c[1]MASSAGE\c[0]?\! Ein paar Croutons?
+
+message_155:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 3
+      text: \aubWow!\! Daran könnte ich mich gewöhnen!
+
+#KEL
+message_156:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 17
+      text: \kelIch bin es, KEL aus der Zukunft!\! Ich werde so viele Muskeln haben, dass ich kaum noch laufen kann!
+
+message_158:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 18
+      text: \kelEin mal posieren! Hoo-hah!\! Ich werde all die Mädels haben. Wartet's bloß ab.
+
+message_159:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 11
+      text: \aubNicht mit der Einstellung.
+
+#HERO
+message_160:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 49
+      text: Kommt zur Ruhe, Ladies...\! Es ist genug für alle da.\her
+
+message_161:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 10
+      text: \aub\sinv[1]Ewwwwwwwwww!\sinv[0] Lass das, HERO.\! Oder ich sag das MARI!
+
+message_162:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 47
+      text: \her'T-Tschuldigung.
+
+#phone
+
+message_170:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 18
+      text: \kel\{\com[2]\{HALLO? HIER IST KEL!
+
+message_171:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 25
+      text: \kel\{\com[2]\{WO IST MEIN ZIMMERSERVICE?
+
+message_172:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 33
+      text: \kel\{\com[2]\{ICH WARTE SCHON SEIT 45 MINUTEN!
+
+message_174:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 28
+      text: \kel\}...\! Ja...\! Uh huh...\! Uh huh...\! Oh, das ist...\! M-Mein Fehler.\! T-Tut mir wirklich leid.\! Auf Wiederhören.
+
+message_175:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 26
+      text: \kel...
+
+message_176:
+      text: \n<SPROSSWURF>Hallo, wer ist da?
+
+message_177:
+      text: \n<SPROSSWURF>Tut mir leid, du hast dich wohl verwählt.
+
+message_178:
+      text: \n<SPROSSWURF>\com[2]Denkst du etwa, das ist lustig, Kindchen!?
+
+message_179:
+      text: \n<SPROSSWURF>Meine Mutti hat mich vor solchen Leuten gewarnt!
+
+message_180:
+      text: \n<NAS>\}Immer der Nas nach!\! \quake[1]Bzzt...
+
+#HERO BOSS
+message_200:
+      text: Guten Tag, Boss. Schicker Haarstil!\n<KROKO-KERL>
+
+message_201:
+      text: Hey, Boss. Schicker Anzug!\n<KROKO-KERL>
+
+#POTHOLE TYPS
+message_220:
+      text: \n<KROKO-KERL>Geht weiter, geht weiter... Hier gibt es nichts zu sehen.
+
+message_221:
+      text: \n<KROKO-KERL>Jeden Tag neue Schlaglöcher...\! Ich hoffe, die zahlen mir dafür Überstunden.
+
+message_233:
+      text: \n<KROKO-KERL>Ich fülle ständig diese Löcher...\! aber sie kommen immer zurück!
+
+#HERO BOSS
+message_222:
+      text: \n<KROKO-KERL>Wie läuft's, Boss?\! Ich hoffe, Sie überarbeiten sich nicht.
+
+message_223:
+      text: \n<KROKO-KERL>Sie sind den weiten Weg gegangen, um hier nach uns zu schauen, Boss?\! Das nenne ich wahre Führung.
+
+message_234:
+      text: \n<KROKO-KERL>Was geht, Boss?\! Danke, dass Sie den Laden übernommen haben und so.\! Ich habe gehört, es läuft fantastisch!
+
+message_224:
+      text: \n<KROKO-KERL>Also... Auf dem Weg hierher bin ich auf Mutti gestoßen und sie hört nicht auf, zu nörgeln...\! Drinnen eine Sonnenbrille zu tragen ist schlecht für die Augen, sagt sie.
+
+message_225:
+      text: \n<KROKO-KERL>Ich kann die Sonnenbrille nicht einfach abnehmen.\! Sie sind ein Teil von mir!
+
+message_226:
+      text: \n<KROKO-KERL>Mann... Mutti ist wieder zu Besuch da?\! Sie muss wohl sehr unter Empty-Nesting leiden.
+
+message_227:
+      text: \n<KROKO-KERL>Was? Mutti ist da?\! Ich muss ihr später noch Hallo sagen!
+
+message_228:
+      text: \n<KROKO-KERL>Juhu! Mutti ist da!
+
+message_229:
+      text: \n<KROKO-KERL>Ugh...\! Mutter.
+
+message_230:
+      text: \n<KROKO-KERL>Drinnen eine Sonnenbrille zu tragen ist cool.
+
+message_231:
+      text: \n<KROKO-KERL>Touristen kreuzen schon auf, auch wenn wir noch nicht mit dem Bauen fertig sind.\! Weiß nicht, ob das gut oder schlecht ist...
+
+message_232:
+      text: \n<KROKO-KERL>Es macht Spaß, Sachen zu reparieren!

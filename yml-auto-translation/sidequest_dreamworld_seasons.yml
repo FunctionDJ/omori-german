@@ -1,0 +1,84 @@
+message_0:
+  text: \n<SUMMER MOLE>Ahh, Sommer...\! der Sand...\! die Sonne...\! der Strand...\! die Wellen...\!<br>nicht zu vergessen...Sommerurlaub!
+message_1:
+  text: \n<SUMMER MOLE>Endlich etwas Zeit für Ruhe und Entspannung...<br>Das ist es, worum es im Leben geht!
+message_2:
+  text: \n<SUMMER MOLE>Der Sommer ist die beste Jahreszeit! Findest du nicht auch?
+message_3:
+  text: \n<SUMMER MOLE>Richtig so, Bruder! Der Sommer ist das Beste! Ich bin so froh, dass du zustimmst!\! Hier ist ein Geschenk von mir... Nutze es gut!
+message_4:
+  text: Du hast \c[13]SUNSCREEN\c[0].
+message_5:
+  text: \n<SUMMER MOLE>Oh, boo!
+message_6:
+  text: \n<SPRING MOLE>Ahh, Frühling...\! Der Frühling bringt uns Schönheit!\! Der Frühling bringt uns Freude!\! Der Frühling bringt uns Leben!\! Der Frühling bringt uns einen verjüngenden Geist, um Dinge neu zu beginnen!
+message_7:
+  text: \n<SPRING MOLE>Der Frühling ist die beste Jahreszeit! Findest du nicht auch?
+message_8:
+  text: \n<SPRING MOLE>Ja, ja! Der Frühling ist das Beste! Ich bin froh, dass du mir zustimmst!\!<br>Hier ist ein Geschenk von mir... Bitte genieße es!
+message_9:
+  text: Du hast ein \c[13]WATERING PAIL\c[0].
+message_10:
+  text: \n<SPRING MOLE>Oh, Kacke auf dich!
+message_11:
+  text: \n<FALL MOLE>Herbst...\! Herbstblätter...\! gemütliche Kleidung...\! der Geruch von Zimt...\! die perfekte Zeit, um sich mit einem Buch einzukuscheln...\! und mit den Feiertagen gleich um die Ecke...\! Man muss den Herbst einfach lieben!
+message_12:
+  text: \n<FALL MOLE>Der Herbst ist die beste Jahreszeit! Findest du nicht auch?
+message_13:
+  text: \n<FALL MOLE>Ich stimme zu! Der Herbst ist die beste Jahreszeit! Ich freue mich, dass du mir zustimmst!\! Hier ist ein Geschenk von mir... Ich hoffe, du findest eine gute Verwendung dafür!
+message_14:
+  text: Du hast einen \c[13]RAKE\c[0].
+message_15:
+  text: \n<FALL MOLE>Nun, dann können wir uns darauf einigen, dass wir uns nicht einig sind.
+message_16:
+  text: \n<WINTER MOLE>Ahh, Winter.\! Es mag draußen schneien, aber der Winter ist Zeit für Freunde und Familie!
+message_17:
+  text: \n<WINTER MOLE>Kuscheln neben einem warmen Feuer...\! Geschichten erzählen...\! An heißem Kakao nippen...\! und vor allem...nach einem langen Jahr eine Verschnaufpause einlegen!
+message_18:
+  text: \n<WINTER MOLE>Der Winter ist die beste Jahreszeit! Meinst du nicht auch?
+message_19:
+  text: \n<WINTER MOLE>In der Tat! Der Winter ist die beste Jahreszeit! Deine Zustimmung bringt mir große Freude!\! Bitte nimm dieses Geschenk.\! Der Winter ist schließlich die Jahreszeit des Gebens!
+message_20:
+  text: Du hast einen \c[13]SCARF\c[0].
+message_21:
+  text: \n<WINTER MOLE>Oh...\! Das bringt mir keine Freude...
+message_22:
+  text: \n<SUMMER MOLE>...\! Hmpf!\! Ich sehe, dass du deine Gunst in den Weg des Frühlings geworfen hast! Du wirst keine Geschenke von mir erhalten!
+message_23:
+  text: \n<SUMMER MOLE>...\! Hmpf!\! Ich sehe, dass du deine Gunst in den Weg des Falls geworfen hast! Du wirst keine Geschenke von mir erhalten!
+message_24:
+  text: \n<SUMMER MOLE>...\! Hmpf!\! Ich sehe, dass du deine Gunst in den Weg des Winters geworfen hast! Du wirst keine Geschenke von mir erhalten!
+message_25:
+  text: \n<SPRING MOLE>...\! Hmpf!\! Ich sehe, dass du deine Gunst in den Weg des Sommers geworfen hast! Du wirst keine Geschenke von mir erhalten!
+message_26:
+  text: \n<SPRING MOLE>...\! Hmpf!\! Ich sehe, dass du deine Gunst in den Weg des Falls geworfen hast! Du wirst keine Geschenke von mir erhalten!
+message_27:
+  text: \n<SPRING MOLE>...\! Hmpf!\! Ich sehe, dass du deine Gunst in den Weg des Winters geworfen hast! Du wirst keine Geschenke von mir erhalten!
+message_28:
+  text: \n<FALL MOLE>...\! Hmpf!\! Ich sehe, dass du deine Gunst in den Weg des Frühlings geworfen hast! Du wirst keine Geschenke von mir erhalten!
+message_29:
+  text: \n<FALL MOLE>...\! Hmpf!\! Ich sehe, dass du deine Gunst in den Weg von Summer geworfen hast! Du wirst keine Geschenke von mir erhalten!
+message_30:
+  text: \n<FALL MOLE>...\! Hmpf!\! Ich sehe, dass du deine Gunst in den Weg des Winters geworfen hast! Du wirst keine Geschenke von mir erhalten!
+message_31:
+  text: \n<WINTER MOLE>...\! Hmpf!\! Ich sehe, dass du deine Gunst in den Weg des Frühlings geworfen hast! Du wirst keine Geschenke von mir erhalten!
+message_32:
+  text: \n<WINTER MOLE>...\! Hmpf!\! Ich sehe, dass du deine Gunst in den Weg des Sommers geworfen hast! Du wirst keine Geschenke von mir erhalten!
+message_33:
+  text: \n<WINTER MOLE>...\! Hmpf!\! Ich sehe, dass du deine Gunst in den Weg des Falls geworfen hast! Du wirst keine Geschenke von mir erhalten!
+message_34:
+  text: <br>Ahh, Sommer...<br>Der Sand...<br>Die Sonne...<br>Der Strand...<br>Die Wellen...<br>Nicht zu vergessen...<br>Sommerferien!
+message_35:
+  text: \n<SUMMER MOLE>Endlich etwas Zeit für Ruhe und Entspannung...<br>Das ist es, worum es im Leben geht!
+message_36:
+  text: \n<SPRING MOLE>Ahh, Frühling...\! Der Frühling bringt uns Schönheit!\! Der Frühling bringt uns Freude!\! Der Frühling bringt uns das Leben!
+message_37:
+  text: \n<SPRING MOLE>Der Frühling bringt uns einen verjüngenden Geist, um Dinge neu zu beginnen!\! Der Frühling ist die beste Jahreszeit!
+message_38:
+  text: \n<FALL MOLE>Herbst...\! Herbstblätter...\! gemütliche Kleidung...\! der Geruch von Zimt...\! die perfekte Zeit, um sich mit einem Buch einzukuscheln...\! und mit den Ferien vor der Tür...
+message_39:
+  text: \n<FALL MOLE>Den Herbst muss man einfach lieben!\! Der Herbst ist die beste Jahreszeit!
+message_40:
+  text: \n<WINTER MOLE>Ahh, Winter.\! Es mag draußen schneien, aber der Winter ist Zeit für Freunde und Familie!
+message_41:
+  text: \n<WINTER MOLE>Kuscheln neben einem warmen Feuer...\! Geschichten erzählen...\! An heißem Kakao nippen...\! und vor allem...nach einem langen Jahr eine Verschnaufpause einlegen!\! Der Winter ist die beste Jahreszeit!

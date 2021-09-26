@@ -1,0 +1,168 @@
+message_0:
+  faceset: MainCharacters_Faraway
+  faceindex: 2
+  text: \aub...
+message_1:
+  text: AUBREY sieht nicht von ihrem Teller auf.
+message_10:
+  faceset: MainCharacter_Basil
+  faceindex: 32
+  text: \basH-Hey... KEL...\! Hey... \!\n[8]...
+message_11:
+  faceset: MainCharacters_Faraway
+  faceindex: 12
+  text: \kel'Sup, BASIL? Schön, dich unterwegs zu sehen!<br>Fühlst du dich besser nach gestern?
+message_12:
+  faceset: MainCharacter_Basil
+  faceindex: 35
+  text: \basHuh?\! Y-gestern?\! <br>W-Was meinst du?
+message_13:
+  faceset: MainCharacters_Faraway
+  faceindex: 20
+  text: <br>Du hattest große Bauchschmerzen, nicht wahr? <br>Deshalb musstest du auf die Toilette gehen...
+message_14:
+  faceset: MainCharacter_Basil
+  faceindex: 35
+  text: \basA-Ah...\! Oh, richtig...\!<br>Ja, jetzt fühle ich mich viel besser.
+message_15:
+  faceset: MainCharacters_Faraway
+  faceindex: 13
+  text: \kelWolltest du heute mit uns abhängen?\! \n[8] wird nicht mehr lange da sein, weißt du...
+message_16:
+  faceset: MainCharacter_Basil
+  faceindex: 34
+  text: \bas...\! Ich weiß es nicht...
+message_17:
+  faceset: MainCharacter_Basil
+  faceindex: 33
+  text: \basM-Maybe tomorrow...
+message_18:
+  faceset: MainCharacter_Basil
+  faceindex: 43
+  text: \basSorry...
+message_19:
+  faceset: MainCharacters_Faraway
+  faceindex: 17
+  text: \kelAwww... Mach dir keine Sorgen.\! Du musst dich nicht zwingen.<br>\!Wir können später immer noch aufholen!
+message_20:
+  faceset: MainCharacter_Basil
+  faceindex: 34
+  text: \bas...\! Ja, du hast Recht...\! O-Okay dann...
+message_21:
+  faceset: MainCharacter_Basil
+  faceindex: 33
+  text: \basSee you later then, I guess...
+message_30:
+  text: \n<ANGEL>\Com[2]\SINV[1]FWAA\{AAAA\{AAA\{AAAAAAA!!
+message_31:
+  text: \n<ANGEL>\n[8] und KEL! Was macht ihr hier!?<br>Wisst ihr nicht, dass es unhöflich ist, Leute zu stören, während sie essen!?
+message_40:
+  text: \n<CHARLIE>\}Hallo...
+message_50:
+  text: \n<KIM>\sinv[1]Ewwwwwww...\sinv[0] Es ist ein Nerd!\!<br>Grummeln, grummeln... Lass uns in Ruhe!<br>Wir haben heute nichts mit dir zu tun!
+message_60:
+  text: \n<THE MAVERICK>Ah...\! ma' Zunge...
+message_70:
+  text: \n<VANCE>Munch...\! munch...\! munch...\! munch...\! munch...\! munch...\! munch...\! munch...\! pizza...\! munch...\! munch...\! munch...\! munch...\! munch...\! munch... \!
+message_80:
+  text: \n<ARTIST>Sigh...\! LUCAS...\! Mach mir nicht so einen Kummer...
+message_90:
+  text: \n<Kurzhaar-Mädchen>Oh mein Gott...\! Mein Schwarm sitzt genau da...\!<br>Was soll ich tun? Was soll ich tun?\!<br>Atmen, BEBE... Du musst cool bleiben!
+message_100:
+  text: \n<FASHIONABLE MOM>Meine ältere Tochter kommt heute Abend vom College nach Hause!<br>Ich bin mir sicher, dass sie viele Tipps haben wird, was heutzutage hip und cool ist...
+message_101:
+  text: \n<FASHIONABLE MOM>Ho-ho! Ich kann es kaum erwarten, sie einzuholen!
+message_110:
+  text: \n<RECYCULTIST>Brüder und Schwestern...<br>\!Wir müssen alle akzeptieren, dass wir \c[4]TRASH\c[0] sind.
+message_111:
+  text: \n<RECYCULTIST>Doch... auch wenn wir \c[4]TRASH\c[0] sind...<br>Solange wir biologisch abbaubar bleiben, können wir noch gerettet werden.
+message_120:
+  text: \n<SMART-LOOKING BOY>\{\SINV[1]THIS IS SO MUCH FUN!!!\SINV[0]
+message_130:
+  text: \n<SCHULLEITER>\}Wie ich schon sagte...\! kannst du es glauben...\! und sie...\! aber dann...\! mhmm...
+message_140:
+  text: \n<OLD BEARDY>Etwas scheint in letzter Zeit in der Luft zu liegen...<br>Die Geister... Sie heulen.
+message_141:
+  text: <br>Es klingt so, als würden sie eine Willkommensparty vorbereiten...<br>Ein Nahestehender könnte sich ihnen bald anschließen.
+message_142:
+  text: \n<OLD BEARDY>Eh? Was soll dieser Blick?<br>Du denkst ich bin verrückt oder so?
+message_143:
+  text: <br>Sei nicht so schnell mit deinem Urteil! <br>Du würdest es auch glauben, wenn du gesehen hättest, was ich gesehen habe!
+message_150:
+  text: \n<YELLOW BUN GRANNY>Tja, hallo nochmal!\! Ich muss dir noch einmal danken, dass du mir gestern geholfen hast, meine Medizin zu bekommen...\! Wisst ihr, ihr Kinder erinnert mich an zwei meiner Söhne, als sie noch klein waren!
+message_151:
+  text: \n<YELLOW BUN GRANNY>Die beiden waren ziemlich unterschiedlich, kamen aber sehr gut miteinander aus.\! Die Leute würden immer sagen, dass sie sich gegenseitig ausglichen... Hek... hek...
+message_152:
+  text: \n<YELLOW BUN GRANNY>Ich sehe vielleicht nicht so aus, aber ich werde dieses Jahr 64! Ich habe in meinem Leben sieben Kinder bekommen, aber alle sind ausgezogen, außer mein ältester Sohn und meine jüngste Tochter.
+message_153:
+  text: \n<YELLOW BUN GRANNY>Mein ältester Sohn verlässt allerdings nie sein Zimmer, also wird er wahrscheinlich nie gehen...
+message_160:
+  text: \n<ALL-AMERICAN GUY>Puh...\! Patties zu machen ist harte Arbeit...\! Aber wenn ich erst einmal meine Zähne in diesen zarten, saftigen Burger versenkt habe, wird es das alles wert sein.
+message_161:
+  text: \n<ALL-AMERICAN GUY>Mmm...\! Ich kann es jetzt fast schmecken...
+message_162:
+  text: \n<ALL-AMERICAN MOM>\Com[2]Liebes, pass auf! Die Patties brennen!
+message_163:
+  text: \n<ALL-AMERICAN GUY>Oh verdammt!\! Danke, hun. Das war knapp!
+message_170:
+  text: \n<ALL-AMERICAN MOM>Was für ein schöner Tag für ein Picknick!<br> Ich habe meine Spezialitäten mitgebracht... Chicken Pot Pie, Lemon Pie und natürlich meinen weltberühmten Apfelkuchen!
+message_180:
+  text: \n<CUTE GIRL>Ich arbeite im \c[11]CANDY STORE\c[0], aber ich komme gerne in den Pausen hierher!\! Es gibt immer etwas Neues zu sehen, so dass mir nie langweilig wird.
+message_190:
+  text: \n<Brillenmann>...
+message_200:
+  text: \n<HECTOR>\Com[2]Bark! \{Bellen! \{Bark!\}} Bark!\! \Com[2]\{Bark! \}Bark! \}Bellen?<br>!(Bin ich ein guter Junge?)
+message_210:
+  text: \n<WRINKLY FOREHEAD>Hey, Kumpels! Schön, euch zu sehen.\! Diese neuen RECYCULTIST-Leute, die hier aufgetaucht sind, bewirken eine wirklich große Veränderung hier!
+message_211:
+  text: \Das ist das erste Mal, dass ich so viele Leute sehe, die die Initiative ergreifen, um den Müll aufzusammeln! Das macht meinen Job um einiges einfacher... Har har...
+message_212:
+  text: \n<VORAUSGEHEN>Etwas an ihnen fühlt sich allerdings ein wenig fischig an...
+message_220:
+  text: \n<SMALL GIRL>\SINV[1]Hop! \!\}And-a-\{Hop! \!\}And-a-\{Hop! \!\}And-a-\{Hop!\SINV[0]
+message_230:
+  text: \n<THICK EYEBROWS>嗨妈，你今天好吗？
+message_231:
+  text: \n<OTHERMART LADY>有点忙，但还可以! JOY 好吗?
+message_232:
+  text: \n<THICK EYEBROWS>她正在读书... 很努力!
+message_233:
+  text: Du verstehst nichts von dem, was sie sagen.
+message_240:
+  text: \n<PIGTAILS LADY>Wir sind gerade dabei, unsere neue Tapete anzubringen...\!<br>Und danach werden wir beim \c[11]OTHERMART\c[0] vorbeischauen, um ein paar Lebensmittel für morgen zu besorgen...\! Viel zu tun, viel zu tun!
+message_250:
+  faceset: MainCharacters_Faraway
+  faceindex: 16
+  text: \kelUh-oh...\! Hey...\! uh...\! \n[8]...\! Lass uns woanders hingehen!
+message_251:
+  text: \n<KEL'S DAD>\Com[2]KEL! Sohn, bist du das?\! Was machst du hier?\!<br>Solltest du nicht Besorgungen für deine Mutter machen?
+message_252:
+  faceset: MainCharacters_Faraway
+  faceindex: 16
+  text: \kelOh, hi Dad! Ich habe dich gar nicht gesehen! Heh heh...
+message_253:
+  faceset: MainCharacters_Faraway
+  faceindex: 16
+  text: \kelKomm schon, \n[8]... Haben wir nicht diese wirklich wichtige Sache, zu der wir gehen müssen?\! Ja... Wir sollten gehen!\! Wir wollen nicht zu spät kommen!
+message_254:
+  text: \n<KEL'S DAD>Oh, na gut dann. Wir sehen uns später, Champ!
+message_260:
+  text: \n<RED-GLASSES LADY>\}Das war wie die Zeit, als wir...\! ja...\! und dann...\! ehrlich gesagt, ich denke, dass...\! ja, definitiv...
+message_270:
+  text: \n<GOOD DOG>\Com[2]\{BARK! \}BARK!\! \{BARK! \{BARK! \}BARK! \}BARK!
+message_280:
+  text: \n<POLLY>Sonnenblumen sind mein Favorit.
+message_281:
+  text: \n<POLLY>Seufz...\! BASIL hat sich in letzter Zeit nicht um seine Blumen gekümmert.\! Ich hoffe, es geht ihm bald besser.\! Seine Blumen brauchen ihn...
+message_290:
+  text: \n<PRECHER>Ich habe heute den ganzen Tag ein seltsames Gefühl auf dem Friedhof hier bekommen.
+message_300:
+  text: \n<PONYTAIL GIRL>Mom und Dad streiten sich in letzter Zeit oft...<br>Ich hoffe, dass sie wieder in Ordnung kommen.
+message_310:
+  text: \n<CLUMSY GUY>Meine Frau sagt mir ständig, dass ich immer pummeliger werde, aber ich kann einfach nicht anders, wenn wir so nah an \c[11]GINO'S PIZZA\c[0] wohnen!
+message_311:
+  text: \n<CLUMSY GUY>Sigh...\! Ich sollte wirklich nichts bekommen, obwohl...\! Letzte Nacht hat meine Frau Peperoni in meinem Atem gerochen und wurde richtig sauer...
+message_320:
+  text: \n<PONYTAIL LADY>Mein Mann ist so ein Trottel!\! Wir sollen eine Familiendiät machen und ich habe gestern Abend Peperoni in seinem Atem gerochen!
+message_330:
+  text: \n<CHECKERS GUY>Huff...\! huff...\! Das ist harte Arbeit, aber es wird sich alles lohnen!

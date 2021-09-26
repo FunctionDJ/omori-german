@@ -1,0 +1,216 @@
+message_0:
+  faceset: MainCharacter_Basil
+  faceindex: 1
+  text: \Com[2]\SINV[1]Say cheese!\SINV[0]\bas
+message_1:
+  faceset: MainCharacter_Basil
+  faceindex: 0
+  text: Aww, es ist etwas unscharf geworden...\!<br>Nun, das ist okay. Das gibt ihm Charakter.\bas
+message_2:
+  faceset: MainCharacter_Basil
+  faceindex: 0
+  text: Ich hoffe, das Foto stört dich nicht
+message_3:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 2
+  text: Natürlich haben wir nichts dagegen! Ich will es sehen! \aub
+message_4:
+  faceset: MainCharacter_Basil
+  faceindex: 0
+  text: O-Oh, klar doch.\bas
+message_5:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 3
+  text: \SINV[1]Wir sehen alle so süß aus!\SINV[0]\aub
+message_6:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 39
+  text: Wie ist meine Frisur?
+message_7:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 18
+  text: \Com[2]\{I WANNA SEE!! ICH WILL SEHEN!!!\kel
+message_8:
+  faceset: MainCharacter_Basil
+  faceindex: 2
+  text: Oh hey, OMORI! Wolltest du dir das Foto auch ansehen?\bas
+message_9:
+  faceset: MainCharacter_Basil
+  faceindex: 1
+  text: Schade, dass es irgendwie unscharf geworden ist, aber ihr seht trotzdem alle so süß aus...! Ich sollte es zu meiner Sammlung hinzufügen!\bas
+message_10:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 18
+  text: \sinv[1]Woo-hoo!\sinv[0] Eine weitere Aufnahme für das \c[4]FOTO ALBUM\c[0]!\kel
+message_34:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 26
+  text: \Com[2]Rutsch rüber, AUBREY! Ich kann nichts sehen!\kel
+message_35:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 9
+  text: \HEY, HÖRT AUF ZU SCHUBSEN!
+message_36:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 30
+  text: \DU HATTEST DEINE ZEIT!!!
+message_37:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 10
+  text: \GEH AUS MEINEM WEG, KEL!!!\aub\}
+message_38:
+  faceset: MainCharacter_Basil
+  faceindex: 3
+  text: W-Warte, warte mal! Es gibt keinen Grund zum Kämpfen! \bas
+message_39:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 30
+  text: \Com[2]\{ME FIRST!\kel
+message_40:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 10
+  text: \Com[2]\{NO, ME!!!\aub
+message_41:
+  faceset: MainCharacter_Basil
+  faceindex: 3
+  text: Ahh, hört auf!\! Ihr schmeißt mich um!\bas
+message_42:
+  faceset: MainCharacter_Basil
+  faceindex: 4
+  text: ... ... ... \bas
+message_43:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 31
+  text: Uhh...\! Ups...\kel
+message_44:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 4
+  text: Oh mein Gott...\! BASIL...\! Es tut mir so leid...\aub
+message_45:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 46
+  text: Geht es dir gut, BASIL?\her
+message_46:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 44
+  text: Ihr zwei seid jetzt in großen Schwierigkeiten!\! Deshalb müsst ihr beide lernen, wie ihr miteinander auskommt!
+message_47:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 29
+  text: Es tut mir leid... Wir haben es nicht so gemeint, HERO!<br>\!Bitte sag es nicht MARI...<br>\kel
+message_48:
+  faceset: MainCharacter_Basil
+  faceindex: 1
+  text: I-es ist okay, mach dir keine Sorgen Unfälle passieren...\bas
+message_49:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 36
+  text: Hier sind deine Fotos.<br>Es sieht nicht so aus, als wäre eines davon beschädigt worden.<br>Lassen Sie uns die Fotos zusammen in Ihr \c[4]FOTO ALBUM\c[0] zurücklegen.<br>
+message_50:
+  faceset: MainCharacter_Basil
+  faceindex: 2
+  text: Danke, HERO!\bas
+message_51:
+  faceset: MainCharacter_Basil
+  faceindex: 1
+  text: Lass uns zuerst in mein Haus gehen.\!<br>Vergiss nicht, dir die Füße abzuwischen, bevor du reinkommst!\bas
+message_70:
+  faceset: MainCharacter_Basil
+  faceindex: 1
+  text: Da, so gut wie neu.\bas
+message_71:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 4
+  text: Es tut mir wirklich leid, dass ich dich über BASIL gestoßen habe.<br>}Auch wenn mindestens die Hälfte davon KELs Schuld war...<br>
+message_72:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 26
+  text: Ja, ich verspreche, mich nie wieder mit AUBREY zu streiten!<br>}Es sei denn, sie fängt zuerst an...<br>
+message_73:
+  faceset: MainCharacter_Basil
+  faceindex: 2
+  text: Mach dir keine Sorgen.\!<br>Ich weiß, du wolltest nur mein \c[4]FOTOALBUM sehen.\!<br>Danke, dass du mir geholfen hast, es wieder zusammenzusetzen!\bas
+message_74:
+  faceset: MainCharacter_Basil
+  faceindex: 6
+  text: Hm?\! Das ist seltsam.\!<br>Ein Foto muss lose gewesen sein.\bas
+message_75:
+  faceset: MainCharacter_Basil
+  faceindex: 3
+  text: Häh? Was ist das?\! Habe ich dieses Foto gemacht?\bas
+message_76:
+  faceset: MainCharacter_Basil
+  faceindex: 4
+  text: Irgendetwas daran kommt mir...\! so vertraut vor. \bas
+message_79:
+  faceset: MainCharacter_Basil
+  faceindex: 5
+  text: N-Nein...\! Das kann nicht sein...\bas
+message_80:
+  faceset: MainCharacter_Basil
+  faceindex: 7
+  text: \fn<OMORI_GAME>MARI...\! Sie ist...\bas\^
+message_81:
+  faceset: MainCharacter_Basil
+  faceindex: 1
+  text: Bist du bereit, die Fotos zurückzustellen, OMORI?\bas
+message_82:
+  faceset: MainCharacter_Basil
+  faceindex: 1
+  text: Juhu! Lass uns loslegen!\bas
+message_101:
+  faceset: MainCharacter_Basil
+  faceindex: 0
+  text: Aww... Kein Problem.\!<br>Fühl dich wie zu Hause!\bas
+message_102:
+  faceset: MainCharacter_Basil
+  faceindex: 1
+  text: Kein Problem.\! Ich warte hier, bis du bereit bist.\bas
+message_83:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 31
+  text: \n<KEL>Hey, schau mich nicht an!\! Ich weiß nicht, wo die Fotos hingehen!
+message_90:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 19
+  text: \kel\Com[2]Wow, diese Leiter ist so hoch!
+message_91:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 17
+  text: \kel Ich wette, es geht bis zum \{space!\}
+message_92:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 9
+  text: \aber sei nicht dumm, \n[3]. Leitern können nicht so hoch sein.
+message_93:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 16
+  text: \kelVielleicht erreichen wir, wenn wir weiter klettern, sogar einen neuen Planeten.\
+message_94:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 17
+  text: \kel ich werde es als mein eigenes beanspruchen...
+message_95:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 18
+  text: \kel\{AND NAME IT \c[13]HECTOR\c[0]!
+message_96:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 8
+  text: \aubWow, schon über deinen Lieblingsstein hinweg?
+message_97:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 18
+  text: \kelNiemals! Ich benenne es ihm zu Ehren.
+message_98:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 23
+  text: \kelSo weiß er, dass ich noch auf der Suche bin...
+message_99:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 47
+  text: \herY-yeah...\! Vielleicht später, KEL.
+message_100:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 36
+  text: \her haben wir im Moment wichtigere Dinge zu tun.

@@ -1,0 +1,88 @@
+message_1:
+  text: Du findest einen Zettel.
+message_2:
+  text: \"Es scheint, dass wir verschwunden sind...\!<br>Wir können nicht weit gekommen sein...\!<br>Finde uns, lieber kleiner Bruder.\"
+message_3:
+  text: Gezeichnet, <br>DAPHNE und BOWEN (Deine liebenden älteren Geschwister)
+message_4:
+  text: Du drehst den Teppich um...\! und findest zwei flauschige Kissen.
+message_5:
+  text: \"Das ist der älteste Trick im Buch...\! <br>Ich kann nicht glauben, dass du tatsächlich darauf reinfällst...\"
+message_6:
+  text: Du öffnest den Kühlschrank... \! und findest einen Zettel darin.
+message_7:
+  text: \"Ho hum...\! Es sieht so aus, als ob deine Spur kalt geworden ist...\"\ <br>\"Wie bedauerlich...\"
+message_8:
+  text: Du öffnest die Vorhänge...\! und findest noch ein paar Pappausschnitte.
+message_9:
+  text: \"Hast du gedacht, wir hätten nur einen Pappausschnitt von uns gekauft? Das wäre viel weniger kostengünstig.\"
+message_10:
+  text: Du öffnest den Ofen...<br>Der Duft von frischem Brot erfüllt die Luft.
+message_11:
+  text: Du hast die Schranktüren geöffnet...
+message_12:
+  text: Aber du hast nichts von Interesse gefunden.
+message_13:
+  text: Du hast unter dem Tisch nachgesehen...
+message_14:
+  text: Du hast unter das Bett geschaut...
+message_15:
+  text: Du hast dich in der Badewanne umgesehen...
+message_16:
+  text: Du hast hinter die Uhr geschaut...
+message_17:
+  text: Du hast hinter dem Bild nachgesehen...
+message_18:
+  text: Du hast einen versteckten Safe gefunden.\! <br>Wahrscheinlich ist es besser, so zu tun, als hättest du nichts gesehen.
+message_19:
+  text: Du hast hinter dem Bücherregal nachgesehen...
+message_20:
+  text: Du hast hinter der Statue nachgesehen...
+message_21:
+  text: Du hast im Inneren des Kamins nachgesehen...
+message_22:
+  text: Du hast einen versteckten Schalter gefunden.\! <br>Wahrscheinlich ist es besser, es in Ruhe zu lassen.
+message_23:
+  text: Du hast einen geheimen Knopf gefunden...\! <br>Wahrscheinlich ist es besser, ihn zu ignorieren.
+message_24:
+  text: \n<THE TWINS>\quake[1]\{\Com[2]BOO!!\}
+message_25:
+  text: \n<A TWIN>Haha!\! Wir haben dich gut erwischt, nicht wahr!?
+message_26:
+  text: \n<THE OTHER TWIN>...
+message_27:
+  text: \n<A TWIN>Hey, warte eine Sekunde...\! Du bist nicht unser geliebter kleiner Bruder...
+message_28:
+  text: \n<A TWIN>Hmm...\! Hmm...\! Unser kleiner Bruder ist jetzt zu cool für uns, nicht wahr, BOWEN?\! Er hat nicht einmal mehr Zeit, um mit seinen lieben älteren Geschwistern zu spielen!
+message_29:
+  text: \n<THE OTHER TWIN>Ja, DAPHNE...\! Es ist sehr...\! bedauerlich...
+message_30:
+  text: \n<A TWIN>Seufz...\! Wir bekommen kaum Zeit für die Arbeit...\! Und wenn wir sie haben...\! Der kleine MIKHAEL ist nie mehr da, um mit uns zu spielen!\!<br>Es ist unfair, nicht wahr BOWEN?
+message_31:
+  text: \n<THE OTHER TWIN>Das Leben ist so grausam...
+message_32:
+  text: \n<A TWIN>Nun, das ist gut.\! Jetzt haben wir ein paar neue Freunde...\! obwohl...<br>Ich bin mir nicht genau sicher, was sie tun.\! Unterhaltet uns, liebe Freunde!
+message_33:
+  text: \n<THE OTHER TWIN>Ja, unterhalte uns!
+message_34:
+  text: \n<A TWIN>Ho hum...\! Du hast nichts?
+message_35:
+  text: \n<THE OTHER TWIN>Das ist zu schade...
+message_36:
+  text: \n<A TWIN>Nun, das war alles sehr lustig, aber wir langweilen uns ziemlich schnell.
+message_37:
+  text: \n<A TWIN>Komm, Bruder.\! Lass uns noch mehr lustige Spiele ausdenken, die wir spielen können.
+message_38:
+  text: \n<THE OTHER TWIN>Goodbye, neue Freunde.\! Das war...\! angenehm.
+message_39:
+  text: \n<Ein Zwilling>Unsere Familie besitzt seit vier Generationen eine Bäckerei...\! aber unser lieber kleiner Bruder hat dem Brot abgeschworen, seit er erst sechs Jahre alt ist...
+message_40:
+  text: \n<A TWIN>Doch...\! Ich bin mir sicher, dass er irgendwann wieder zu sich kommen wird.
+message_41:
+  text: \n<THE OTHER TWIN>Mom und Dad wollen, dass wir die Bäckerei übernehmen, wenn wir aus der Schule kommen...\! Also was ist der Sinn, zur Schule zu gehen?
+message_42:
+  text: Pappausschnitte von einem Zwillingspaar. \! Auf der Rückseite ist etwas aufgeklebt.
+message_43:
+  text: Ein komisch großes Vorhängeschloss ist auf mysteriöse Weise an der Tür erschienen.
+message_44:
+  text: Auf der Rückseite befindet sich eine Notiz.

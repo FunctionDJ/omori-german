@@ -1,0 +1,156 @@
+message_0:
+  text: Du kannst laute Musik hören, die durch die Kopfhörer von <br>HEADPHONE KID dröhnt.
+message_1:
+  faceset: MainCharacters_Faraway
+  faceindex: 17
+  text: \kelPoke...
+message_2:
+  text: \n<HEADPHONES KID>\Com[2]Gah!\! Wer bist du!? Was wollt ihr?
+message_3:
+  text: \n<HEADPHONES KID>...
+message_4:
+  faceset: MainCharacters_Faraway
+  faceindex: 16
+  text: \kelOh...\! Hey!\! JESSE, war es das?! <br>Wir sind...\! äh...\! Wir sind Freunde von deinem Vater...
+message_5:
+  faceset: MainCharacters_Faraway
+  faceindex: 24
+  text: \kelHe hat uns gebeten, dich zum Kuchenessen ins Wohnzimmer zu rufen!
+message_6:
+  text: \n<HEADPHONES KID>Dad ist mit einem Haufen Teenager befreundet?\! So seltsam...
+message_7:
+  faceset: MainCharacters_Faraway
+  faceindex: 22
+  text: \kelWas ist das für ein saures Gesicht? Hast du heute nicht Geburtstag?<br>Warum kommst du nicht zum Feiern runter?<br>Dein Dad hat dir sogar ein cooles Geschenk besorgt!
+message_8:
+  text: \n<HEADPHONES KID>\quake[1]Grrrrrrrr...\quake[0]\!<br>\Com[2]Ich habe Papa gesagt, er soll nichts für mich tun!
+message_9:
+  text: \n<HEADPHONES KID>\Com[2]Sag ihm einfach, er soll alles zurückgeben und aus meinem Zimmer verschwinden!
+message_10:
+  faceset: MainCharacters_Faraway
+  faceindex: 21
+  text: \kelHey! Ich glaube, deine Einstellung gefällt mir nicht...\!<br>Com[2]Was hast du gegen deinen Dad!?
+message_11:
+  text: \n<HEADPHONES KID>...
+message_12:
+  text: \n<HEADPHONES KID>Sigh...\! Siehst du all diese coolen Sachen, die ich hier habe?
+message_13:
+  text: \n<HEADPHONES KID>I...\! Ich habe das ganze Zeug von Mama bekommen.
+message_14:
+  text: \n<HEADPHONES KID>Mom wohnt zwar nicht mehr hier, aber sie schickt mir ständig solche Sachen...
+message_15:
+  text: \n<HEADPHONES KID>Aber Papa...\! Papa ist nicht auf dem neuesten Stand, was die Trends angeht...\! <br>Was auch immer er bekommt, wird nicht so gut sein wie das, was ich schon habe.\! Also...\! was auch immer er bekommt, ist nur eine Verschwendung seines Geldes...
+message_16:
+  text: \n<HEADPHONES KID>Auch wenn ich Geburtstag habe...\!<br>Com[2]Er muss mir nichts schenken!
+message_17:
+  faceset: MainCharacters_Faraway
+  faceindex: 17
+  text: \kelAber... er tut das alles für dich, weil er es will!<br>Du solltest runtergehen und feiern.<br>Es wird ihm mehr bedeuten, als du denkst!
+message_18:
+  text: \n<HEADPHONES KID>Aber...\! I...
+message_19:
+  faceset: MainCharacters_Faraway
+  faceindex: 23
+  text: \kel\Com[2]Geh einfach!
+message_20:
+  text: \n<HEADPHONES KID>\Com[2]Hey! Was machst du da!?
+message_21:
+  faceset: MainCharacters_Faraway
+  faceindex: 21
+  text: <br>Du bist so, weil du dich um ihn sorgst, richtig? <br>Er macht das alles, weil er sich auch um dich sorgt!
+message_22:
+  faceset: MainCharacters_Faraway
+  faceindex: 22
+  text: \kelWenn du ihn schon hängen lässt, dann hat er wenigstens eine Erklärung verdient!
+message_23:
+  faceset: MainCharacters_Faraway
+  faceindex: 14
+  text: \kelNun gehst du ins Wohnzimmer und redest mit ihm!<br>Ich werde dich nicht auf diesen Stuhl setzen lassen, bis du es tust!
+message_24:
+  text: \n<HEADPHONES KID>...
+message_25:
+  text: \n<HEADPHONES KID>Hmph...\! Du bist so aufdringlich...
+message_26:
+  text: \n<HEADPHONES KID>...\! Aber...\! Ich werde wohl zu Papa gehen...
+message_60:
+  faceset: MainCharacters_Faraway
+  faceindex: 38
+  text: \herWow, KEL...\! Das war wirklich reif von dir...
+message_61:
+  faceset: MainCharacters_Faraway
+  faceindex: 15
+  text: \Glaubst du das?
+message_62:
+  faceset: MainCharacters_Faraway
+  faceindex: 28
+  text: \herYeah...\! Ich kann sagen, dass du wirklich erwachsen geworden bist.\! Ich schätze, das bedeutet, dass du kein Kind mehr bist.
+message_63:
+  faceset: MainCharacters_Faraway
+  faceindex: 22
+  text: \kelAwww... Warum nicht?\! Erwachsene sind nicht lustig...\! Kinder haben es viel besser!
+message_64:
+  faceset: MainCharacters_Faraway
+  faceindex: 41
+  text: \Sie... Vergiss es...! Vergiss, dass ich etwas gesagt habe...
+message_28:
+  text: \n<VORWÄRTS<<SINV[2]\SINV[1]HAPPY BIRTHDAY, SON!!!
+message_29:
+  text: <br>Ich weiß, dass wir nicht viel haben, aber...<br>Ich bin losgegangen und habe dir etwas besorgt, von dem ich dachte, dass es dir gefallen würde...
+message_30:
+  text: \n<HEADPHONES KID>Dad...\! Das hättest du nicht tun müssen...
+message_31:
+  text: \n<WRINKLY FOREHEAD>Hier hast du es!\! Es ist ein neues Spiel namens \c[4]SUPER ULTRA SPROUT MOLE EATER - \c[4]REVENGE OF THE MOLES III\c[0]!
+message_32:
+  text: \n<WRINKLY FOREHEAD>Ich verstehe all diese neuen Gizmos nicht wirklich, aber ich dachte, es könnte dir gefallen!
+message_33:
+  text: \n<HEADPHONES KID>Dad...\! I...\! Ich habe nicht die richtige Spielkonsole für so etwas...
+message_34:
+  text: \n<VORWÄRTS>Spiel...\! Konsole?\!<br>Ahh...\! Sorry, ich verstehe nicht...
+message_35:
+  text: \n<HEADPHONES KID>Dad...\! I...
+message_36:
+  text: <br>Sohn!<br>! Ich weiß, dass die Dinge ohne deine Mutter schwer waren...<br>aber ich möchte, dass du weißt, dass ich auch für dich da bin!
+message_37:
+  text: \n<HEADPHONES KID>\com[2]Dad! Hör auf, dir Sorgen um mich zu machen!\!<br> Mir geht es gut! Kümmere dich einfach um dich selbst!
+message_38:
+  text: \n<Vorwitzig>Oh, JESSE... Das kannst du nicht von mir verlangen.\!<br>Du bist schließlich mein Sohn!\! Ich kann nicht anders, als mir Sorgen um dich zu machen!
+message_39:
+  text: <br>Auch wenn ich dir nicht so schöne Sachen besorgen kann wie deine Mutter...<br>Du kannst es mir nicht verübeln, dass ich es versuche, oder?
+message_40:
+  text: \Jedes Mal, wenn ich dich sehe, denke ich daran, wie schnell du erwachsen wirst...
+message_41:
+  text: \n<VORAUSBLICK> Eines Tages, wenn du älter bist...\! wirst du mich wahrscheinlich überhaupt nicht mehr brauchen...\! also lass mich einfach ein Teil deines Lebens sein für jetzt, okay?
+message_42:
+  text: \n<Vorwitzig>Nun...\! Ich weiß, dass du Geburtstag hast...\! aber ich weiß auch, dass du in diesen Tagen gerne für dich bleibst...\! also warum nimmst du nicht dieses \c[3]KUCHENSCHEIBE\c[0] und isst es in deinem Zimmer?
+message_43:
+  text: \n<VORAUSGEHEN>Es ist Erdbeere...\! dein Favorit...
+message_44:
+  text: \n<HEADPHONES KID>...
+message_45:
+  text: \n<HEADPHONES KID>Es ist...\! Es ist okay, Dad...\! Es macht mir nichts aus, es hier zu essen.
+message_46:
+  text: <br>Du nimmst dein Essen normalerweise mit auf dein Zimmer...
+message_47:
+  text: \n<HEADPHONES KID>...
+message_48:
+  text: \n<HEADPHONES KID>\}Sniff...\! Sniff...\! Dad...\! I...\! Es tut mir leid...
+message_49:
+  text: \n<Vorwitzig>\Com[2]W-Was ist los, mein Sohn!?\ \Com[2]A-Alles in Ordnung?\!<br>Habe ich etwas falsch gemacht!?
+message_50:
+  text: \n<HEADPHONES KID>\}N-Nein...\! Mir geht es gut...\!<br>Danke für das Geschenk, Dad...\! Ich...\! schnüffle...\! Ich mag es wirklich...
+message_51:
+  text: \n<Danke, dass du meinen Sohn überzeugt hast, nach unten zu kommen.\! Ihr seid alle echte Kumpels!
+message_52:
+  text: \n<WRINKLY FOREHEAD>Bitte, iss etwas Kuchen mit uns!\! Ich habe ihn aus der Schnäppchenkiste, da er morgen abläuft...\! aber er ist trotzdem ziemlich lecker!
+message_53:
+  text: \n<HEADPHONES KID>\}Sniff...\! Sniff...\! Papa...
+message_55:
+  text: \n<WRINKLY FOREHEAD>Heute ist der 10. Geburtstag meines Sohnes! ...\! Aber er will nicht einmal sein Zimmer verlassen, damit wir feiern können!
+message_56:
+  text: \n<WRINKLY FOREHEAD>Sigh...\! Ich habe ihm sogar einen Kuchen gekauft...
+message_57:
+  text: Du hast ein \c[3]SLICE OF CAKE\c[0]!
+message_58:
+  text: Ein trauriges \c[3]SLICE OF CAKE\c[0].
+message_59:
+  text: Ein bittersüßes \c[3]SLICE OF CAKE\c[0].

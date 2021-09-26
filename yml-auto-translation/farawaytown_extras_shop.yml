@@ -1,0 +1,232 @@
+message_1:
+  text: \n<OTHERMART LADY>HELLO!\! 你是要 YUMMY \c[3]FISH\c[0] 吗?\! 是!
+message_2:
+  text: \n<OTHERMART LADY>OK!\! 谢谢, 孩子!
+message_3:
+  text: \n<OTHERMART LADY>HELLO!\! 你是要 \c[3]FISH\c[0] 吗?\! 是!
+message_4:
+  text: Du hast \c[4]MEAT\c[0].
+message_5:
+  text: Du hast \c[3]FISH\c[0].
+message_6:
+  text: \n<OTHERMART LADY>SORRY.\! KEIN GELD.
+message_100:
+  text: \n<OTHERMART LADY>IST DIESER PREIS OK? $<SHOPTOTAL>.00.\^
+message_101:
+  text: \n<OTHERMART LADY>NO SPACE, SORRY!\^^
+message_102:
+  text: \n<OTHERMART LADY>HOW MUCH?\.\^^
+message_103:
+  text: \n<OTHERMART LADY>HOW MUCH?\.\^^
+message_104:
+  text: \n<OTHERMART LADY>IST DIESER PREIS OK? $<SHOPTOTAL>.00.
+message_105:
+  text: \n<OTHERMART LADY>GUT GEMACHT.
+message_106:
+  text: \n<OTHERMART LADY>OK.
+message_7:
+  text: \n<MR. BAKER>Willkommen in unserer Familienbäckerei! Was möchtest du?
+message_8:
+  text: \n<MR. BAKER>Exzellente Wahl! Ich werde das sofort für dich einpacken!
+message_9:
+  text: \n<MR. BAKER>Du hast nicht genug Geld für unsere leckeren Backwaren!
+message_80:
+  text: \n<MR. BAKER>Okay! Der Gesamtbetrag wird $<SHOPTOTAL>.00.\^^ sein
+message_81:
+  text: \n<MR. BAKER>Sieht so aus, als ob das alles ist, was du halten kannst.\.\^
+message_82:
+  text: \n<MR. BAKER>Wie viele hättest du gerne?\.\^
+message_83:
+  text: \n<MR. BAKER>Oh, du willst uns etwas verkaufen?
+message_84:
+  text: \n<MR. BAKER>Der Gesamtbetrag wird $<SHOPTOTAL>.00.\.\^^ sein
+message_85:
+  text: \n<MR. BAKER>Dankeschön. Komm wieder zurück!
+message_86:
+  text: \n<MR. BAKER>Oh? Du hast deine Meinung geändert?
+message_10:
+  text: \n<MRS. BAKER>Hallo, Kinder!\! Ich habe ein Kind in deinem Alter.<br>Er rennt immer mit seinen lästigen Freunden weg und trägt seine schreckliche Perücke...
+message_11:
+  text: \n<MRS. BAKER> Er sollte versuchen, verantwortungsvoller zu sein wie seine älteren Geschwister!
+message_12:
+  text: \n<MRS. BAKER>Wir betreiben diese Bäckerei schon seit vier Generationen, seit meine Mutter von der anderen Seite des Meeres hierher gesegelt ist!
+message_13:
+  text: \n<MRS. BAKER>Ich hoffe, dass meine Kinder eines Tages in der Lage sein werden, die Tradition der Leitung dieser Bäckerei weiterzuführen...\! Es würde für mich und meinen Mann die Welt bedeuten!
+message_14:
+  text: \n<MISS CANDICE>Hi-hi! Ich bin es!\! Die glückliche und fröhliche MISS CANDICE!<br>Was möchtest du heute? Smiley, Smiley!
+message_15:
+  text: \n<MISS CANDICE>Dankeschön! Smiley, Smiley!
+message_16:
+  text: \n<MISS CANDICE>Oh, Liebes...\! Du scheinst nicht genug Geld zu haben!\!<br>Smiley, smiley!
+message_70:
+  text: \n<MISS CANDICE>Sichere Sache! Der Gesamtbetrag wird $<SHOPTOTAL>.00.<br>Smiley, Smiley!\^^
+message_71:
+  text: \n<MISS CANDICE>Tut mir leid, das kannst du wohl nicht alles tragen!<br>Smiley, Smiley!<br>
+message_72:
+  text: \n<MISS CANDICE>Süß! Wie viele hättest du gerne? Smiley, Smiley!\.\
+message_73:
+  text: \n<MISS CANDICE>Was ist das? Du verkaufst an mich? Smiley, Smiley!\^^
+message_74:
+  text: \n<MISS CANDICE>Ich denke, ich werde so viel bezahlen! Smiley, Smiley!\.\
+message_75:
+  text: \n<MISS CANDICE>Dankeschön! Smiley, Smiley!
+message_76:
+  text: \n<MISS CANDICE>Oh, das ist ok! Das ist einfach gut!<br>Smiley, Smiley!
+message_77:
+  text: \n<MISS CANDICE>Bitte komm wieder!\! (Oder sonst...)
+message_78:
+  text: \n<MISS CANDICE>Smiley, smiley!
+message_17:
+  text: \n<PHARMACIST>Braucht ihr Kinder etwas gegen Schnitte oder Kratzer?
+message_18:
+  text: \n<PHARMACIST>Ich frage mich, wie es meinem Sohn BRENT zu Hause geht...<br>Ich hoffe, er ist nicht zu einsam ohne mich.
+message_90:
+  text: \n<PHARMACIST>Sicher, mein Sohn. Der Gesamtbetrag wird $<SHOPTOTAL>.00.\.\^
+message_91:
+  text: \n<PHARMACIST>Das kannst du nicht mehr halten, mein Sohn!\
+message_92:
+  text: \n<PHARMACIST>Absolut. Wie viele möchtest du, mein Sohn?\.\^
+message_93:
+  text: \n<PHARMACIST>Oh, du bittest mich, etwas zu kaufen?\
+message_94:
+  text: \n<PHARMACIST>Sicher, mein Sohn. Der Gesamtbetrag wird $<SHOPTOTAL>.00.\.\^
+message_95:
+  text: \n<PHARMACIST>Dankeschön. Komm wieder zurück, mein Sohn!
+message_96:
+  text: \n<PHARMACIST>So hast du deine Meinung geändert?
+message_97:
+  text: \n<PHARMACIST>Hier hast du es, mein Sohn... Pass auf dich auf!
+message_98:
+  text: \n<PHARMACIST>Du hast nicht genug Geld dafür, Sohn.
+message_19:
+  text: \n<SHOPKEEP>Yo, Champs! Wenn du etwas findest, was du willst, lass es mich einfach wissen!
+message_20:
+  text: \n<SHOPKEEP>Vielen Dank.\! Ich hoffe, du hast Freude an deiner sanft gebrauchten Ware.
+message_21:
+  text: \n<SHOPKEEP>Whoa, du hast nicht genug Geld da.\! Tut mir leid, Champs.
+message_40:
+  text: \n<SHOPKEEP>Ist das okay für dich? Es wird $<SHOPTOTAL>.00.\^^ sein
+message_41:
+  text: \n<SHOPKEEP>Du trägst zu viel davon. Ich will dich nicht überlasten!\.\^
+message_42:
+  text: \n<SHOPKEEP>Sicher, Champ. Wie viele möchtest du?\.\^
+message_43:
+  text: \n<SHOPKEEP>HOBBEEZ ist nicht nur ein Hobbyladen... Es ist auch ein Pfandhaus!\!<br>Ich kaufe alles, was du nicht willst!\! Was wolltest du heute verkaufen?
+message_44:
+  text: \n<SHOPKEEP>Hört sich $<SHOPTOTAL>.00 für dich gut an?\.\^
+message_45:
+  text: \n<SHOPKEEP>Danke, Champ!
+message_46:
+  text: \n<SHOPKEEP>Sie haben also Ihre Meinung geändert?
+message_700:
+  text: \n<SHOPKEEP>Wie viele davon wolltest du verkaufen?\.\^
+message_22:
+  text: \n<PIZZA MAN>Hallo und willkommen bei \c[11]GINO'S PIZZA\c[0]!\!<br>Was kann ich dir bringen?
+message_23:
+  text: \n<PIZZA MAN>Eine leckere Wahl! Kommt sofort!
+message_24:
+  text: \n<PIZZA MAN>Mmm... ?Purchase Item?...<br>\! Ich meine, ein ?Purchase Item? kommt sofort!
+message_25:
+  text: \n<PIZZA MAN>Entschuldige... Ich würde es dir geben, wenn ich könnte!<br>Komm wieder, wenn du das Geld hast!
+message_50:
+  text: \n<PIZZA MAN>Okie dokie! Das macht dann... $<SHOPTOTAL>.00.\\.\^
+message_51:
+  text: \n<PIZZA MAN>Sind Sie sicher, dass Sie das alles tragen können?\!<br>Sieht nicht so aus...\^
+message_52:
+  text: \n<PIZZA MAN>Okie dokie! Wie viele möchtest du?\.\^
+message_53:
+  text: \n<PIZZA MAN>Sicher... Wie viele wirst du verkaufen?\.\^
+message_54:
+  text: \n<PIZZA MAN>Hmm... Meinst du, das reicht?
+message_55:
+  text: \n<PIZZA MAN>Danke vielmals!
+message_56:
+  text: \n<PIZZA MAN>Ah... Du hast deine Meinung geändert?
+message_26:
+  text: \n<FIX-IT GUY>Willkommen bei \c[11]FIX-IT\c[0]...<br>wo du Sachen kaufen und \c[11]FIX-IT\c[0] selbst machen kannst!\!<br>Woran kann ich dich interessieren?
+message_27:
+  text: \n<FIX-IT GUY>Genial! Ich werde das sofort für dich einpacken lassen.
+message_28:
+  text: \n<FIX-IT GUY>Sorry, man. Dafür hast du nicht genug dabei.
+message_60:
+  text: \n<FIX-IT GUY>Wie ist das? Der Gesamtbetrag wird $<SHOPTOTAL>.00.\^^ sein
+message_61:
+  text: \n<FIX-IT GUY>Dafür hast du nicht den Platz!\
+message_62:
+  text: \n<FIX-IT GUY>Wie viele möchtest du haben?\.\
+message_63:
+  text: \n<FIX-IT GUY>Wie viele willst du loswerden?\.\^
+message_64:
+  text: \n<FIX-IT GUY>Es würde auf... ungefähr so viel hinauslaufen.\n
+message_65:
+  text: \n<FIX-IT GUY>Gute Arbeit.
+message_66:
+  text: \n<FIX-IT GUY>Nun... Okay, dann.
+message_120:
+  text: \n<ORANGE GUY>Exzellent! Wie wär's damit?
+message_121:
+  text: \n<ORANGE GUY>Du kannst nicht so viel Saft tragen!
+message_122:
+  text: \n<ORANGE GUY>Wie viele hättest du gerne?
+message_123:
+  text: \n<ORANGE GUY>Wie viele wirst du verkaufen?
+message_124:
+  text: \n<ORANGE GUY>Es würde sich auf... $<SHOPTOTAL>.00.
+message_125:
+  text: \n<ORANGE GUY>Danke!
+message_126:
+  text: \n<ORANGE GUY>Nicht? Aber es ist gesund...
+message_130:
+  text: \n<APPLE GUY>Exzellent! Wie wär's damit?
+message_131:
+  text: \n<APPLE GUY>Du kannst nicht so viel Saft tragen!
+message_132:
+  text: \n<APPLE GUY>Wie viele hättest du gerne?
+message_133:
+  text: \n<APPLE GUY>Wie viele wirst du verkaufen?
+message_134:
+  text: \n<APPLE GUY>Es würde sich auf... $<SHOPTOTAL>.00.
+message_135:
+  text: \n<APPLE GUY>Danke!
+message_136:
+  text: \n<APPLE GUY>Nein? Aber es ist gesund...
+message_30:
+  text: \n<OTHERMART KASSIERER>Es gibt mittlerweile so viele Arten von Tamales auf dem Markt.\! Ich brauche nichts von diesem ausgefallenen Zeug. Tamales aus der Dose sind gut genug für mich!
+message_31:
+  text: \n<OTHERMART CASHIER>Meiner Meinung nach ist das Essen nur ein Vehikel für die Sauce.
+message_32:
+  text: \n<OTHERMART CASHIER>Wenn du dich gestresst fühlst, darf ich dir einen Tee empfehlen?\! Earl Grey und Kamille sind gut, aber Boba ist mein Favorit!
+message_33:
+  text: \n<OTHERMART CASHIER>Essen ist nicht wirklich mein Ding, aber ein Job ist ein Job.\! Ich mag aber Chicken Nuggets.
+message_34:
+  text: <br>Ich liebe grüne Zwiebeln!<br>Sie sind lecker und nahrhaft!
+message_140:
+  text: Ein Verkaufsautomat.\!<br>Kaufe eine \c[3]TASTY SODA\c[0] für $1.00?\$
+message_142:
+  text: Du hast nicht genug Geld.
+message_144:
+  text: Du hast nicht genug Platz für \c[3]TASTY SODA\c[0].
+message_143:
+  text: Ein kaltes \c[3]TASTY SODA\c[0] tauchte aus dem Automaten auf!
+message_141:
+  text: Ein Verkaufsautomat.\! Alles ist ausverkauft.
+message_201:
+  text: \n<MEAT MAN>Ich habe einen Job und der ist es, \c[4]MEAT\c[0] zu verkaufen!
+message_202:
+  text: \n<MEAT MAN>Auch ich könnte nicht so viel \c[4]MEAT\c[0] tragen.
+message_203:
+  text: \n<MEAT MAN>Ich kann dieses \c[4]MEAT\c[0] schneiden, aber ich kann meine Preise nicht schneiden.
+message_204:
+  text: \n<MEAT MAN>Alles klar, hier ist es.\! Genieße dein leckeres \c[4]MEAT\c[0]!
+message_205:
+  text: \n<MEAT MAN>Wie viele kann ich für dich besorgen?\^
+message_206:
+  text: \n<MEAT MAN>Wie hört sich das an? Der Gesamtbetrag wird $<SHOPTOTAL>.00.\^^ sein
+message_207:
+  text: \n<MEAT MAN>Sicheres Ding, bada-bing.
+message_208:
+  text: \n<MEAT MAN>Hast du deine Meinung geändert?
+message_209:
+  text: \n<MEAT MAN>Ich hoffe wir \c[4]MEAT\c[0] wieder.
+message_300:
+  text: \n<FIX-IT EMPLOYEE>MANDO lässt mich hier alles machen.\ Wie soll ich das oberste Regal erreichen, wenn wir alle Leitern ausverkauft haben?

@@ -1,0 +1,316 @@
+message_0:
+  faceset: MainCharacter_Basil
+  faceindex: 32
+  text: Hmmm...\! Danke, dass du mich nach Hause begleitet hast.\bas
+message_1:
+  faceset: MainCharacters_Faraway
+  faceindex: 14
+  text: Kein Problem!"<br>Wenn du jemals etwas von mir brauchst, frag einfach, okay?<br>Wir sehen uns später, BASIL!<br>
+message_2:
+  faceset: MainCharacter_Basil
+  faceindex: 32
+  text: O-Okay...\! ...\bas
+message_3:
+  faceset: MainCharacter_Basil
+  faceindex: 41
+  text: \Com[2]\{WARTEN!!! BITTE GEHT NICHT!!!\bas
+message_4:
+  faceset: MainCharacter_Basil
+  faceindex: 35
+  text: Ah...\! Ich meine...\! I... Es tut mir so leid.\! Ich muss dich eigentlich um einen Gefallen bitten.\bas
+message_5:
+  faceset: MainCharacters_Faraway
+  faceindex: 17
+  text: Egal was, BASIL. Was brauchst du?\kel
+message_6:
+  faceset: MainCharacter_Basil
+  faceindex: 32
+  text: Nun...\! Du siehst...\!<br>Etwas Wichtiges wurde mir weggenommen.\bas
+message_7:
+  faceset: MainCharacter_Basil
+  faceindex: 34
+  text: ... ... ... \bas
+message_8:
+  faceset: MainCharacter_Basil
+  faceindex: 32
+  text: Als...\! wir...\! noch Freunde waren...\!<br>Erinnerst du dich daran, wie ich immer Fotos von allen gemacht habe?\bas
+message_9:
+  faceset: MainCharacters_Faraway
+  faceindex: 17
+  text: Natürlich erinnere ich mich.<br>Diese Fotos bedeuteten alles für dich!
+message_10:
+  faceset: MainCharacter_Basil
+  faceindex: 34
+  text: Ah...\! Richtig...\! Nun...\! AUBREY...\! <br>Sie nahm mein \c[4]FOTO ALBUM\c[0] und...\bas
+message_11:
+  faceset: MainCharacters_Faraway
+  faceindex: 23
+  text: \Com[2]\{AUBREY STOLE YOUR \c[4]PHOTO ALBUM\c[0]!
+message_12:
+  faceset: MainCharacter_Basil
+  faceindex: 34
+  text: Nun...\! Sie...\! Sie will es nicht zurückgeben...\bas
+message_13:
+  faceset: MainCharacters_Faraway
+  faceindex: 23
+  text: \Com[2]\{WHAT A SCUMBAG!!\}\kel
+message_14:
+  faceset: MainCharacters_Faraway
+  faceindex: 14
+  text: Mach dir keine Sorgen, BASIL.<br>\!Ich und \n[8] haben dich im Griff.\kel
+message_15:
+  faceset: MainCharacter_Basil
+  faceindex: 32
+  text: Ah...\! Okay...\! Danke schön...\bas
+message_16:
+  faceset: MainCharacters_Faraway
+  faceindex: 18
+  text: Übrigens...\! Über das, was du vorher gesagt hast...\kel
+message_17:
+  faceset: MainCharacters_Faraway
+  faceindex: 12
+  text: Wir sind immer noch Freunde.\! Ich möchte, dass du das weißt, okay?\kel
+message_18:
+  faceset: MainCharacter_Basil
+  faceindex: 32
+  text: ...\! Okay.\bas
+message_19:
+  faceset: MainCharacters_Faraway
+  faceindex: 23
+  text: \Com[2]Komm schon, \n[8]! Wir haben keine Zeit zu verlieren!\! Wir haben ein \c[4]FOTOALBUM\c[0] zu finden.\! Lass uns im \c[11]FARAWAY PARK\c[0] nach Hinweisen suchen! \kel
+message_20:
+  faceset: MainCharacter_Basil
+  faceindex: 33
+  text: Nun...\! Wir sehen uns später.\bas
+message_40:
+  faceset: MainCharacters_Faraway
+  faceindex: 20
+  text: Hmm, sieht so aus, als ob AUBREY nicht hier ist...\kel
+message_41:
+  faceset: MainCharacters_Faraway
+  faceindex: 17
+  text: Oh, warte! Ich kenne dich. Dein Name ist CHARLIE, stimmt'\! <br>Ich sehe dich manchmal bei AUBREY rumhängen.\kel
+message_42:
+  faceset: MainCharacters_Faraway
+  faceindex: 17
+  text: Weißt du, wo sie ist?\kel
+message_43:
+  text: ...\cha
+message_44:
+  faceset: MainCharacters_Faraway
+  faceindex: 19
+  text: Weißt du, CHARLIE...<br>Ich kann sagen, dass du nicht wirklich der gemeine Typ Mensch bist.<br>
+message_45:
+  faceset: MainCharacters_Faraway
+  faceindex: 18
+  text: AUBREY hat etwas Wichtiges von BASIL genommen und wir müssen es zurückbekommen.\! Gibt es eine Möglichkeit, wie du uns helfen kannst?\kel
+message_46:
+  text: ...\cha
+message_47:
+  text: \{Com[2]WER, WAS UND WO JETZT!!!\}<br>Warum hast du das gemacht!?!
+message_48:
+  text: Ah!\! Wenn das nicht KEL und dieser komische Messertyp ist.\!<br>Würdige Gegner für den großen und mächtigen ANGEL.\Wer
+message_49:
+  text: Endlich ist es an der Zeit, dass du deinem Verhängnis begegnest!\ang
+message_50:
+  faceset: MainCharacters_Faraway
+  faceindex: 22
+  text: ANGEL, wir haben keine Zeit für so etwas...\! <br>Wir wollen nur AUBREY finden.\! <br>Wisst ihr, wo sie ist?\kel
+message_51:
+  text: Du suchst AUBREY, oder? \! \Com[2]Interessant!\! <br>Ich werde dir sagen, was ich weiß...\!<br>Aber zuerst musst du mich im Kampf besiegen!\ang
+message_52:
+  faceset: MainCharacters_Faraway
+  faceindex: 22
+  text: B-Battle!?! Aber...\! Ich will nicht...\! ein Kind schlagen...\kel
+message_53:
+  text: Du wirst keinen Finger an mich legen können!<br>Com[2]\{C'MON!!\} \Com[2]LET'S SICK 'EM, CHARLIE!!!\ang
+message_70:
+  text: Wie kann das sein!? Mein Training war völlig umsonst!
+message_71:
+  text: ...\cha
+message_72:
+  text: Owww, mein Kopf tut weh...\ang
+message_73:
+  faceset: MainCharacters_Faraway
+  faceindex: 22
+  text: Du bist derjenige, der damit angefangen hat.\kel
+message_74:
+  text: \Com[2]\{YOU BULLY!!!\ang
+message_75:
+  faceset: MainCharacters_Faraway
+  faceindex: 18
+  text: Seufz...\! Okay, ANGEL, es wird Zeit, dass wir jetzt ernst machen.\! <br>Wir haben dich und CHARLIE geschlagen, also sag uns, wo AUBREY ist.\kel
+message_76:
+  text: Hmpf!\! Ein Versprechen ist ein Versprechen, nehme ich an.\! <br>Ich werde mein Wort halten und dir sagen, was ich weiß.\ang
+message_95:
+  text: \ang\com[2]\HA! KEL, DU GROSSER DOOFMANN!!
+message_96:
+  text: \angMe und CHARLIE sind siegreich, wie vorhergesagt!
+message_97:
+  text: \angMaster wäre so stolz auf mich.
+message_98:
+  faceset: MainCharacters_Faraway
+  faceindex: 25
+  text: \kel\}Ugh...\! Das habe ich davon, wenn ich ein Kind schonen will.
+message_99:
+  text: \ang\com[2]Huh? Was war das!? Sei kein schlechter Verlierer, KEL! Wir haben fair und anständig gewonnen!\! Stimmt's, CHARLIE?
+message_100:
+  text: \n<CHARLIE>...
+message_101:
+  faceset: MainCharacters_Faraway
+  faceindex: 18
+  text: Okay, ANGEL, jetzt wird's ernst.\! Du musst uns sagen, wo AUBREY ist.\! Wir sind fertig mit den Spielchen!\kel
+message_102:
+  text: \angYeesh...\! So ein Spielverderber...\! Kein Wunder, dass AUBREY uns sagt, wir sollen uns von dir fernhalten.
+message_103:
+  faceset: MainCharacters_Faraway
+  faceindex: 21
+  text: \kelHey, das ist eine ernste Angelegenheit, ANGEL!\! Eine ernste Angelegenheit für Erwachsene!\! Du willst doch nicht, dass ich Erwachsene da mit reinziehe, oder?
+message_104:
+  text: \angSigh...\! Nein...\! Okay, gut. Ich werde dir sagen, was ich weiß, aber es wird dir nicht gefallen.
+message_77:
+  text: Die Wahrheit ist...\ang
+message_78:
+  text: AUBREY ist...\! irgendwo...\! in \c[11]FARAWAY TOWN\c[0]...\! wahrscheinlich.\ang
+message_79:
+  faceset: MainCharacters_Faraway
+  faceindex: 23
+  text: Verdammt noch mal, ANGEL!\! Du solltest besser nicht herumalbern, sonst..
+message_80:
+  text: Ich habe dir gesagt, dass ich dir sage, was ich weiß!\! <br>Und die Wahrheit ist... Ich weiß gar nichts!\ang
+message_81:
+  faceset: MainCharacters_Faraway
+  faceindex: 21
+  text: ANGEL...\! Du sagst uns besser, wo sie jetzt ist...\!<br>Andernfalls erzähle ich allen von der Zeit, als du im Sommercamp ins Bett gemacht hast.\kel
+message_82:
+  text: \Com[2]H-huh!? W-W-W-Was!?<br>Das kannst du nicht machen! Das ist Betrug!\ang
+message_83:
+  text: Wie auch immer, ich weiß es wirklich nicht!
+message_84:
+  text: Vielleicht kannst du meinen Meister fragen, DEN MAVERICK.\! Er ist der Hüter allen Wissens!\! Das hat er mir selbst gesagt!\ang
+message_85:
+  faceset: MainCharacters_Faraway
+  faceindex: 22
+  text: D-DER MAVERICK?\!<br>Oh, nein...\! Du meinst diesen komischen Jungen, MIKHAEL?\kel
+message_86:
+  text: \Com[2]Wage es nicht, ihn bei diesem Namen zu nennen!\ <br>Er würde das sehr übel nehmen.\ang
+message_87:
+  faceset: MainCharacters_Faraway
+  faceindex: 25
+  text: Ich verstehe...\! Also...er ist es...\!<br>Wo kann ich MIKHAE-, ich meine, äh, DEN MAVERICK finden?
+message_88:
+  text: Ich werde dir sagen, was ich weiß...\! aber...\! du musst erst gegen mich kämpfen!\ang
+message_89:
+  faceset: MainCharacters_Faraway
+  faceindex: 21
+  text: Oder... ich kann jedem von der Zeit erzählen, als du..
+message_90:
+  text: \Beben[1]GAH!!! \ang
+message_91:
+  text: Okay gut, ich werde reden.\! Der Meister ging zu dem Brunnen im \c[11]FARAWAY PLAZA\c[0].\! Er sagte, dass er dort ein paar Mädchen treffen wollte, für...\! ein Date oder so etwas.\ang
+message_92:
+  faceset: MainCharacters_Faraway
+  faceindex: 25
+  text: Ugh...\! ekelhaft.\kel
+message_93:
+  faceset: MainCharacters_Faraway
+  faceindex: 25
+  text: Komm schon, \n[8]. Lass uns zum \c[11]FARAWAY PLAZA\c[0] gehen...<br>Ich denke, wir sind hier fertig.\kel
+message_94:
+  text: \ang\sinv[1]\{FWWWW}{AAAAAAAA\{AAAAAAAA!!!
+message_110:
+  text: Und dann habe ich ihm gesagt... Es ist nicht MAVERICK.\! <br>Es ist \Com[2]THE MAVERICK!\mav
+message_111:
+  text: Oh, \Com[2]THE MAVERICK, du bist so lustig!\n<GIRL>
+message_112:
+  text: Ho-ho! Wow, was für eine tolle Geschichte, \Com[2]THE MAVERICK!\n<GIRL 2>
+message_113:
+  text: \sinv[1]Mädchen, Mädchen...bitte! Es ist genug von mir für alle da...\sinv[2]\mav
+message_114:
+  faceset: MainCharacters_Faraway
+  faceindex: 22
+  text: MIKHAEL...\! Was machst du da?\kel
+message_115:
+  text: \Com[2]Ah!\mav
+message_116:
+  text: Wenn das nicht KEL!\ ist! Meine...\! \Com[2]archnemesis!\mav
+message_117:
+  text: Endlich hier, um die Niederlage einzugestehen, oder?
+message_118:
+  faceset: MainCharacters_Faraway
+  faceindex: 21
+  text: Ich habe keine Zeit für so etwas, MIKHAEL.\!<br> Wir suchen AUBREY. Hast du sie irgendwo gesehen?\kel
+message_119:
+  text: S-Hör auf mich so zu nennen!\! <br>Ich habe diesen Namen schon vor langer Zeit abgelegt!<br>
+message_120:
+  faceset: MainCharacters_Faraway
+  faceindex: 22
+  text: MIKHAEL, weißt du, wo sie ist oder nicht?
+message_121:
+  text: Schon wieder dieser gottverlassene Name!\! <br>Wie kannst du es wagen, mich zum Narren zu halten!!!
+message_122:
+  text: Ich, \Com[2]THE MAVERICK, werde das nicht dulden!\! <br>\Com[2]\{VORBEREITEN SIE SICH AUF IHREN VERDAMMNIS!\mav
+message_123:
+  text: \{Com[2]WATCH THIS, LADIES!\!\}<br>Ich wische den Boden mit diesem Verlierer auf!\mav
+message_124:
+  faceset: MainCharacters_Faraway
+  faceindex: 18
+  text: Bitte, MIKHAEL...\! Tu dir das nicht an.\! <br>Ich werde noch einmal nachfragen-\kel
+message_125:
+  text: <br>Kämpf mit mir, du Wichser!!!<br>Sei kein Feigling!!!<br>
+message_126:
+  faceset: MainCharacters_Faraway
+  faceindex: 25
+  text: Seufz...\! Werden wir das wirklich tun?\kel
+message_127:
+  faceset: MainCharacters_Faraway
+  faceindex: 25
+  text: Okay, dann...\! Komm schon, \n[8]... Bringen wir ihn zu Fall.\kel
+message_149:
+  text: \mavDu warst ein formidabler Gegner, KEL...\! Aber es ist an der Zeit, dich ein für alle Mal fertig zu machen.
+message_150:
+  text: Nein...\! es kann nicht vorbei sein für mich.\mav
+message_151:
+  text: Menschen der Erde...\mav
+message_152:
+  text: \LEND ME YOUR STRENGTH!!!
+message_153:
+  text: \Com[2]\sinv[1]HII\Com[2]\{IIYYYYY\Com[2]\{AAAAHHHH\Com[2]\{HHHHHHHH!!!\mav
+message_154:
+  text: Igitt, was ist mit diesem Kerl los? Er ist so lahm.\n<GIRL>
+message_155:
+  text: Das ist keine 10,00 $ wert. Lass uns von hier verschwinden...\n<MÄDCHEN 2>
+message_156:
+  text: L-Ladies!\! Bitte, kommt zurück!\mav
+message_157:
+  text: Ich habe mehr Geld!\mav
+message_158:
+  text: ... \!Seufz...\mav
+message_159:
+  faceset: MainCharacters_Faraway
+  faceindex: 18
+  text: MIKHAEL...\kel
+message_160:
+  text: \Com[2]\{Es gibt hier niemanden mit diesem Namen!!!\mav
+message_161:
+  faceset: MainCharacters_Faraway
+  faceindex: 22
+  text: Bitte... Ich werde dich nie wieder in meinem Leben um etwas bitten.\! <br>Sag uns einfach, wo AUBREY ist und wir gehen!\kel
+message_162:
+  text: ...\mav
+message_163:
+  text: Okay, gut.<br>Ich weiß zufällig, wo sie ist, und ich werde es dir sagen...<br>! <br>Unter einer Bedingung...<br>
+message_164:
+  text: Du musst mich bei meinem wahren Namen nennen, \Com[2]THE MAVERI-\mav
+message_165:
+  faceset: MainCharacters_Faraway
+  faceindex: 25
+  text: Ach, vergiss es
+message_166:
+  faceset: MainCharacters_Faraway
+  faceindex: 25
+  text: Lass uns einfach KIM suchen.<br>Sie weiß wahrscheinlich, wo AUBREY ist.<br>
+message_167:
+  faceset: MainCharacters_Faraway
+  faceindex: 25
+  text: Sie und VANCE sind große Zuckersüchtige, also...\! Ich habe die Vermutung, dass sie wahrscheinlich irgendwo in der Nähe von \c[3]CANDY\c[0] sind.\kel

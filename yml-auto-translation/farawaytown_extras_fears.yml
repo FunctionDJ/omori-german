@@ -1,0 +1,30 @@
+message_1:
+  text: \n<SOMETHING>\fn<OMORI_GAME>Oh... Kleiner Bruder...\! Du... Du hast Angst.\!<br>Bitte... Lass mich auf dich aufpassen...
+message_2:
+  text: \n<SOMETHING>\fn<OMORI_GAME>Ich kann es erkennen...\! Der Blick in deinen Augen zeigt mir...\!<br>Du bist müde.\! Bitte... Lass mich auf dich aufpassen...
+message_3:
+  text: \n<SOMETHING>\fn<OMORI_GAME>Bruderchen...\! Bitte, sieh mich an...\! Ich mache mir Sorgen um dich...\! Deine Augen sind geschwollen und deine Finger sind geprellt...\!<br>Lass mich auf dich aufpassen...
+message_4:
+  text: \n<SOMETHING>\fn<OMORI_GAME>Oh, kleiner Bruder...\! Bitte widerstehe nicht...\! Nach allem, was ich für dich getan habe...\! Wirst du mir nicht vertrauen?\! Bitte... Lass mich auf dich aufpassen...
+message_5:
+  text: \n<SOMETHING>\fn<OMORI_GAME>Süß, kleiner Bruder...\! Du... Du bist verwirrt...\! Warum lehnst du meine Hilfe ab?\! Ich werde immer das Beste für dich wollen...\! Das weißt du doch, nicht wahr?\! Bitte...\! Lass mich auf dich aufpassen...
+message_6:
+  text: \n<SOMETHING>\fn<OMORI_GAME>Es tut mir leid... Süßer kleiner Bruder...\! Ich muss darauf bestehen...\! Deine Augen... Sie sind tränenüberströmt und deine Finger...\ Sie zittern vor Schmerz.\! Mach dir keine Sorgen, kleiner Bruder.\! Ich werde mich um dich kümmern...
+message_7:
+  text: \n<fn<OMORI_GAME>Süßer kleiner Bruder.\! Es ist Zeit, sich auszuruhen...\!<br>Schließe deine Augen...und bleibe ganz, ganz still...
+message_8:
+  text: 'NO'
+message_9:
+  text: 'YES'
+message_10:
+  text: Du spürst, wie etwas dein Bein hochkrabbelt.
+message_11:
+  text: Du spürst, wie etwas an deinem Hals krabbelt.
+message_30:
+  text: Bist du sicher, dass du nach unten gehen willst?
+message_31:
+  text: Du willst nicht die Treppe hinunter gehen.
+message_32:
+  text: Du willst nicht nach unten schauen.
+message_33:
+  text: Du fühlst dich schwindelig...\! Vielleicht kannst du es ausschlafen...

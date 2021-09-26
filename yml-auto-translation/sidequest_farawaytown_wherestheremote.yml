@@ -1,0 +1,58 @@
+message_1:
+  text: \n<ALL-AMERICAN GUY>Heya, Leute!\! Wie läuft's? \! Ich muss sagen...\! <br>Es gibt nichts besseres, als ein langes Wochenende mit<br>meiner Lieblingscouch und meiner Lieblingsserie im Fernsehen zu genießen.
+message_2:
+  text: \n<ALL-AMERICAN GUY>Es gibt nur eine Sache, die mich gerade an diesem ansonsten perfekten Tag stört...
+message_3:
+  text: \n<ALL-AMERICAN GUY>Ich kann meine \c[4]TV REMOTE\c[0] nirgends finden und ich bin viel zu bequem, um diese Couch zu verlassen!
+message_4:
+  text: \n<ALL-AMERICAN GUY>Wenn du es siehst, könntest du es mir geben?\! Danke, Kiddos.
+message_5:
+  text: Du siehst eine \c[4]TV REMOTE\c[0] unter der Couch.\! Hebst du sie auf?
+message_6:
+  text: \n<ALL-AMERICAN GUY>Hey, da ist mein \c[4]TV REMOTE\c[0]!
+message_7:
+  text: Du hast das \c[4]TV REMOTE\c[0] an ALL-AMERICAN GUY gegeben.
+message_8:
+  text: \n<ALL-AMERICAN GUY>Danke, Kinder!\! Hier, nimm etwas \c[3]ORANGE JOE\c[0] auf mich!
+message_9:
+  text: Du hast \c[3]ORANGE JOE\c[0]!
+message_10:
+  text: \n<ALL-AMERICAN GUY>Heya, Leute!\! Wie läuft's?\! <br>Es scheint, dass ich meine \c[4]TV REMOTE\c[0] wieder verloren habe!
+message_11:
+  text: \Ich erinnere mich, dass ich aufstand, um auf die Toilette zu gehen, <br>aber als ich zurückkam, war es weg...
+message_12:
+  text: \n<ALL-AMERICAN GUY>Könntest du dich im Haus danach umsehen?\! <br>Es muss hier irgendwo sein!
+message_13:
+  text: Du siehst ein \c[4]TV REMOTE\c[0] zwischen den Handtüchern. \! Hebst du es auf?
+message_14:
+  text: \n<ALL-AMERICAN GUY>Danke nochmal, Kiddos!\! Ich habe lange darüber<br>nachgedacht...\! und ich glaube, ich habe es aus Versehen mit ins Bad genommen<br>und vergessen, es zurückzubringen.
+message_15:
+  text: \n<ALL-AMERICAN GUY>Du hast mich davor bewahrt, aus dieser sehr bequemen<br>Couch herauszukommen.\! Ich kann dir nicht genug danken.\! Bitte, nimm noch eine Dose \c[3]ORANGE JOE!\c[0]\! Ihr habt es euch verdient!
+message_16:
+  text: \n<ALL-AMERICAN GUY>Heya, Leute!\! Wie läuft's? \! Ich weiß nicht, wie das immer wieder passiert, aber ich habe meine \c[4]TV REMOTE\c[0] schon wieder verloren!
+message_17:
+  text: \n<All-American GUY>Ich schwöre...\! Dieses Mal bin ich nur mit ihr in der Hand eingeschlafen, und als ich aufwachte, war sie weg!\! Wir müssen einen Geist in diesem Haus haben oder so...
+message_18:
+  text: \n<ALL-AMERICAN GUY>Wenn du es zufällig findest, könntest du es hier zurückgeben?\!<br>Danke nochmal, Kiddos!
+message_19:
+  text: Du siehst ein \c[4]TV REMOTE\c[0] in der Torte.\! Hebst du es auf?
+message_20:
+  text: \n<ALL-AMERICAN GUY>Hey, da ist es!
+message_21:
+  text: Du hast das \c[4]TV REMOTE\c[0] an ALL-AMERICAN GUY gegeben.
+message_22:
+  text: \n<ALL-AMERICAN GUY>Tja, ihr habt es schon wieder geschafft, Kiddos!\! Ihr wisst, was das bedeutet...\! Hier ist eine weitere süße Dose \c[3]ORANGE JOE!\c[0]
+message_23:
+  text: \n<ALL-AMERICAN GUY>Ihr wart in den letzten Tagen echte Champs.\! Ich kann euch nicht genug danken!\! Wenn ich jemals wieder meine \c[4]TV REMOTE\c[0] verliere, werde ich wissen, wen ich anrufen muss!
+message_30:
+  text: Du siehst ein \c[4]TV REMOTE\c[0] unter der Couch.
+message_31:
+  text: Du siehst ein \c[4]TV REMOTE\c[0] zwischen den Handtüchern.
+message_32:
+  text: Du siehst ein \c[4]TV REMOTE\c[0] im Kuchen.
+message_33:
+  text: Du hast immer noch die \c[4]TV REMOTE\c[0].\!<br> Du solltest das Haus nicht damit verlassen.
+message_50:
+  text: Du hast ein \c[4]TV REMOTE\c[0].
+message_51:
+  text: Du hast ein \c[4]TV REMOTE\c[0].\! Wie ist es überhaupt hier reingekommen?
