@@ -6,22 +6,22 @@
 #Leave Last Resort without party
 
 message_201:
-      text: B1
+      text: EG
 
 message_202:
-      text: 1F
+      text: 1. Stock
 
 message_203:
-      text: 2F
+      text: 2. Stock
 
 message_204:
-      text: 3F
+      text: 3. Stock
 
 message_205:
-      text: 4F
+      text: 4. Stock
 
 message_206:
-      text: 5F
+      text: 5. Stock
 
 message_207:
       text: MR. JAWSUM'S BÜRO
