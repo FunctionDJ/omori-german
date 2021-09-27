@@ -4,15 +4,25 @@
   "id": "omori-german",
   "name": "OMORI German",
   "description": "Deutsche Übersetzung für OMORI",
-  "version": "dev",
+  "version": "0.6.0",
   "files": {
-    "text": ["yml/"],
-    "plugins": ["js/"],
+    "text": [
+      "www-yml/"
+    ],
+    "plugins": [
+      "www-js/"
+    ],
     "assets": [
       "fonts/",
       "img/atlases/",
-      "img/characters/"
+      "img/characters/",
+      "img/pictures/",
+      "img/system/",
+      "img/animations/,"
+      "img/enemies/"
     ],
-    "data": ["data/"]
+    "data": [
+      "www-data/"
+    ]
   }
 }
