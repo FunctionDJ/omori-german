@@ -79,3 +79,33 @@ Window_OmoriFilePrompt.prototype.addCommand = function(name, symbol, enabled, ex
   }
   old_omoFP_addCommand.call(this, new_name, symbol, enabled, ext)
 };
+
+// OMORI SAVE LOAD PLUS COMPAT
+
+if (typeof Window_OmoriFileStats !== undefined) {
+  let old_SLP_createContents = Window_OmoriFileStats.prototype.createContents;
+  Window_OmoriFileStats.prototype.createContents = function() {
+    old_SLP_createContents.call(this)
+    this.contents.drawText = new Proxy(this.contents.drawText, {
+      apply: function(target, thisArg, argumentsList) {
+        let new_argsList = [...argumentsList]
+        switch (argumentsList[0]) {
+          case "PLAYTIME:":
+            new_argsList[0] = "GESAMTE SPIELZEIT:";
+            break;
+          case "LOCATION:":
+            new_argsList[0] = "ORT:";
+            break;
+          default:
+            let fIRE = /^FILE (\d+):$/;
+            let fIndexMatch = fIRE.exec(argumentsList[0])
+            if (fIndexMatch) {
+              new_argsList[0] = `DATEI ${fIndexMatch[1]}:`
+              //new_argsList[1] = 25
+            }
+        }
+        return target.call(thisArg, ...new_argsList);
+      }
+    });
+  }
+}
