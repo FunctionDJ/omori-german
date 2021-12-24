@@ -25,6 +25,8 @@ import { loadJson } from "./lib/json"
   const options = program.opts()
   const [destDir] = program.processedArgs
   
+  const noCompression = !options.compression
+  
   const tag = options.gitTag ?? await getNearestGitTag()
   
   const modObject = await loadJson("mod.json")
@@ -33,7 +35,7 @@ import { loadJson } from "./lib/json"
   
   // create dir
   
-  const destination = resolve(destDir, `${newModObject.id}-${tag}.zip`)
+  const destination = resolve(destDir, `${newModObject.id}-${tag}${noCompression ? "-unminified" : ""}.zip`)
   
   await makeDirIfNotExist(destDir)
   
@@ -50,8 +52,6 @@ import { loadJson } from "./lib/json"
   })
   
   archive.pipe(output)
-  
-  const noCompression = !options.compression
   
   if (noCompression) {
     console.warn("--no-compression passed")

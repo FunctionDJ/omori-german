@@ -31,11 +31,11 @@ message_122:
 #Player's Room
 
 message_123:
-      text: Körbe voller Babyspielzeug...! Ich bin noch nicht dazu gekommen, sie wegzuwerfen.
+      text: Körbe voller Babyspielzeug...\! Ich bin noch nicht dazu gekommen, sie wegzuwerfen.
 
 
 message_124:
-      text: Eine ganz normale Zimmerpflanze...\! Daran ist nichts Besonders.
+      text: Eine ganz normale Zimmerpflanze...\! Daran ist nichts besonders.
 
 
 message_125:
@@ -59,21 +59,21 @@ message_129:
 
 
 message_130:
-      text: MARI's Bett...\! Und meins auch, wenn ich Albträume hatte.
+      text: Maris Bett...\! Und meins auch, wenn ich Albträume hatte.
 
 
 message_444:
-      text: MARI's Kleidung. Sie riecht wie saubere Wäsche.
+      text: Maris Kleidung. Sie riecht wie saubere Wäsche.
 
 
 #piano Room
 
 message_131:
-      text: Eine von zwei alten Standuhren.\! Diese hier scheint immer vorwärts zu laufen.
+      text: Eine von zwei alten Standuhren.\! Diese hier scheint immer vorwärtszulaufen.
 
 
 message_132:
-      text: Eine von zwei alten Standuhren.\! Diese hier scheint immer hinterher zu laufen.
+      text: Eine von zwei alten Standuhren.\! Diese hier scheint immer hinterherzulaufen.
 
 
 message_134:
@@ -81,7 +81,7 @@ message_134:
 
 
 message_135:
-      text: MARI's Sammlung von Notenbüchern.<br><br><br>Obwohl MARI sonst überall organisiert ist, sind diese Notenbücher ein einziges Durcheinander.\! Auf fast jeder Seite sind hastig geschriebene Notizen zu finden.
+      text: Maris Sammlung von Notenbüchern.<br>Obwohl MARI sonst überall organisiert ist, sind diese Notenbücher ein einziges Durcheinander.\! Auf fast jeder Seite sind hastig geschriebene Notizen zu finden.
 
 
 message_136:
@@ -135,7 +135,7 @@ message_149:
       text: Ein Haufen Bücher...\! Es fühlt sich an, als wären sie einfach mit dem Haus gekommen.
 
 message_150:
-      text: Mamas Porzellanvasen.<br>Es gab noch mehr, aber ich habe eine davon kaputt gemacht.<br>MARI hat die Schuld dafür auf sich gezogen...
+      text: Mamas Porzellanvasen.<br>Es gab noch mehr, aber ich habe eine davon kaputtgemacht.<br>MARI hat die Schuld dafür auf sich gezogen...
 
 message_151:
       text: Familienfotos.\! Ich sehe einige meiner Verwandten mehr auf Fotos als im wirklichen Leben.
@@ -153,7 +153,7 @@ message_155:
       text: Ein schöner, großer Fernseher.\! Hier am Samstagmorgen Cartoons zu sehen, war das Beste.
 
 message_156:
-      text: Eine Stehlampe.\! KEL und ich haben die letzte aus Versehen umgestoßen.\! Mama war nicht sehr glücklich damit...
+      text: Eine Stehlampe.\! KEL und ich haben die Letzte aus Versehen umgestoßen.\! Mama war nicht sehr glücklich damit...
 
 message_157:
       text: Ein warmer Kamin.\!<br>Meine Babyfotos sind über dem Kaminsims.\! Ich lächle nicht gerne...\! nicht einmal auf Fotos.
@@ -162,7 +162,7 @@ message_158:
       text: Mamas persönliches Haustelefon.\! Es stand früher im Zimmer von Mama und Papa, aber jetzt nicht mehr.
 
 message_159:
-      text: \sinv[1]\}Puuuuuurrrr...\n<MEWO>
+      text: \sinv[1]\}Schnurrrrrrr...\n<MEWO>
 
 message_160:
       text: Gutes Kätzchen.
@@ -307,7 +307,7 @@ message_184:
       text: Ein Kalender...\! Das Datum der Aufführung ist vorbei.
 
 message_185:
-      text: Ein alter Fernseher.\! KEL brachte ihn hierher...\! ER war aber ziemlich deprimiert als er herausfand, dass er ihn nicht benutzen konnte.
+      text: Ein alter Fernseher.\! KEL brachte ihn hierher...\! Er war aber ziemlich deprimiert als er herausfand, dass er ihn nicht benutzen konnte.
 
 #Only when the tree is there as character set
 #The tree appears over the stump before you grab the broken violin, but disappears after
@@ -320,7 +320,7 @@ message_400:
       text: Pflanzen aus Papier.\! AUBREY und BASIL haben sie zusammen gemacht.
 
 message_401:
-      text: Ein Jo-Jo. Du wusstest nur, wie man den so gennanten "walk the dog" trick macht.
+      text: Ein Jo-Jo. Du wusstest nur, wie man den sogenannten "walk the dog" Trick macht.
 
 message_402:
       text: KELs alte Schuhe. Er hat seine Sachen oft bei dir zu Hause vergessen.
@@ -332,11 +332,11 @@ message_402:
 
 #Beach Memory:
 message_195:
-      text: MARI's Picknickkorb.\!<br>Heute ist er voll mit Käse und Crackern.
+      text: Maris Picknickkorb.\!<br>Heute ist er voll mit Käse und Crackern.
 
 #Rainy Memory:
 message_196:
-      text: Ein einzelner Plastikflamingo. \!Ihm scheint der Regen zu gefallen.
+      text: Ein einzelner Plastikflamingo.\! Ihm scheint der Regen zu gefallen.
 
 message_197:
       text: Ein weißer, eleganter Briefkasten.
@@ -346,7 +346,7 @@ message_198:
       text: Das Symbol von \c[11]WEITWEGSTADT\c[0] blickt auf den See.
 
 message_199:
-      text: MARI's Picknickkorb.\!<br>Heute ist er voll mit Erdnussbutter- und Marmeladen-Sandwiches.
+      text: Maris Picknickkorb.\!<br>Heute ist er voll mit Erdnussbutter- und Marmeladen-Sandwiches.
 
 message_200:
       text: Ein Haufen Spielzeug ist auf der Wiese verstreut.\!<br>Die Möglichkeiten sind endlos!
@@ -382,7 +382,7 @@ message_240:
       text: Ein Ölfass, das zu einem Mülleimer umfunktioniert wurde.
 
 message_241:
-      text: MARIs Strandtasche.\! Sie Passt zu der von HERO!
+      text: MARIs Strandtasche.\! Sie passt zu der von HERO!
 
 message_242:
       text: HEROs Strandtasche.\! Sie passt zu der von MARI!
@@ -397,7 +397,7 @@ message_245:
       text: BASILs Tragetasche.\! Sie ist ein bisschen klein, aber er mag sie!
 
 message_246:
-      text: Meine Plastiktüte.\! Sie ist funktional.
+      text: Meine Plastiktüte.\! Sie ist funktionstüchtig.
 
 message_247:
       text: Ein Rettungsschwimmerturm.\! Schätze, heute hat niemand Dienst.
@@ -470,7 +470,7 @@ message_15:
       text: Der Eingang ist mit Haaren bedeckt.
 
 message_60:
-      text: \n<MOM>Meine einzige Tochter...\| ist weg.\!<br>Und du...\| du bist mein einziger Sohn...\| Ich kann dich nicht auch noch verlieren.
+      text: \n<MOM>Meine einzige Tochter...\| ist weg.\!<br>Und du...\| du bist mein einziger Sohn...\| ich kann dich nicht auch noch verlieren.
 
 message_61:
       text: \n<MOM>Bitte sei ein guter Junge, \n[8]...\|<br>Bitte sei...\ ein guter Junge...
@@ -612,7 +612,7 @@ message_304:
 message_305:
       faceset: MainCharacter_Mari
       faceindex: 23
-      text: Du hast mir stundenlang beim Reden zugehört...! Ich konnte mich immer auf dich verlassen. \aub
+      text: Du hast mir stundenlang beim Reden zugehört...! Ich konnte mich immer auf dich verlassen.\aub
 
 message_306:
       faceset: MainCharacter_Mari
@@ -652,7 +652,7 @@ message_313:
 message_314:
       faceset: MainCharacter_Mari
       faceindex: 8
-      text: Es ist vielleicht einfacher deine Probleme zu ignorieren, aber es ist auch in Ordnung,über sie zu weinen.\her
+      text: Es ist vielleicht einfacher deine Probleme zu ignorieren, aber es ist auch in Ordnung, über sie zu weinen.\her
 
 message_315:
       faceset: MainCharacter_Mari
@@ -662,7 +662,7 @@ message_315:
 message_316:
       faceset: MainCharacters_Faraway
       faceindex: 0
-      text: Was auch immer als nächstes geschieht, ist Deine Entscheidung. \aub
+      text: Was auch immer als Nächstes geschieht, ist Deine Entscheidung.\aub
 
 message_317:
       faceset: MainCharacters_Faraway
@@ -692,7 +692,7 @@ message_321:
 message_322:
       faceset: MainCharacters_Faraway
       faceindex: 29
-      text: Behalte uns in deinen Gedanken. \! Wir werden dir ewige treue erweisen.\her
+      text: Behalte uns in deinen Gedanken.\! Wir werden dir ewige Treue erweisen.\her
 
 message_323:
       faceset: MainCharacters_Faraway

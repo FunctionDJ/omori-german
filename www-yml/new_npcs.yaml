@@ -1,6 +1,5 @@
-#### Translation: Demo-only
-
-#### Translated by: lugi
+#### Translation: Partial
+#### Translated by: lugi, schako
 
 # =========================================================================================
 # Dreamworld NPC dialogue
@@ -10,7 +9,7 @@
 #Shamboo
 #Location: Mr Jawsum's Concierge
 message_0:
-      text: \n<SHAMBOO>JAWSUM and I...\! We have many matters to discuss...\! Yes...\! Many, many things...
+      text: \n<SHAMBOO>JAWSUM und ich...\! Wir haben viele Dinge zu besprechen...\! Ja...\! Viele, viele Dinge...
 
 message_1:
       text:
@@ -18,9 +17,9 @@ message_1:
 #Nereene
 #Location: SW Library
 message_2:
-      text: \n<NEREENE>Well! It's been a while since I've seen you four.\! Up to no good again, I presume?
+      text: \n<NEREENE>Also! Es ist schon eine Weile her, seit ich euch vier gesehen habe.\! Mal wieder nichts Gutes vor, nehme ich an?
 message_3:
-      text: \n<NEREENE>Have you learned your lesson after venturing out of the tunnels?\! Next time you won't be so lucky!
+      text: \n<NEREENE>Habt ihr überhaupt eine Lektion gelernt, nachdem ihr in die Tunnel gegangen seid?\! Beim nächsten Mal werdet ihr nicht so viel Glück haben!
 
 message_4:
       text:
@@ -31,13 +30,13 @@ message_5:
       text: \n<GUAVA>Warten stört mich überhaupt nicht!\!<br>Warten ist einfach ein natürlicher Teil des Lebens.
 
 message_6:
-      text: \n<GUAVA>I was waiting for the train for so long...\! I can't even remember why I wanted to come here!
+      text: \n<GUAVA>Ich habe so lange auf den Zug gewartet...\! Ich kann mich nicht einmal erinnern, warum ich hierher kommen wollte!
 
 #Mimi
 #Orange Oasis
 
 message_7:
-      text: \n<MIMI>Wow... It's a big apple!
+      text: \n<MIMI>Wow... Ist das ein großer Apfel!
 
 message_8:
       text:
@@ -45,24 +44,24 @@ message_8:
 #Mira
 #takes places of AUBREY as secretary
 message_9:
-      text: \n<MIRA>Hi! I'm MIRA!\! I'm new here!
+      text: \n<MIRA>Hi! Ich bin MIRA!\! Ich bin neu hier!
 
 
 message_10:
-      text: \n<MIRA>Hi, boss!\! Everything's taken care of for today, so you can go ahead and relax!
+      text: \n<MIRA>Hallo Chef!\! Heute ist für alles gesorgt, damit Sie sich entspannen können!
 
 #Silker
 #Location: Last Resort Casino
 
 message_11:
-      text: \n<SILKER>Day in, day out. It's all the same.\!<br>Whatever...\! It's a job, I guess.\! At least... it would be if I ever got paid.
+      text: \n<SILKER>Tag ein Tag aus. Es ist alles das Gleiche.\!<br>Wie auch immer...\! Es ist ein Job, denke ich.\! Zumindest... wenn ich jemals bezahlt würde.
 
 message_12:
       text:
 #Jussie
 #Location: Last Resort Casino
 message_13:
-      text: \n<JUSSIE>Bro told me to wait here, but I dunno if he's comin' back anytime soon.\! You know anyone named MR. JAWSUM?\!<br>Bro says he gots some business with ‘im...
+      text: \n<JUSSIE>Bro hat mir gesagt, ich soll hier warten, aber ich weiß nicht, ob er bald wiederkommt.\! Kennt ihr jemanden namens MR. JAWSUM?\!<br>Bro sagt, er hat etwas mit ihm zu tun...
 
 message_14:
       text:
@@ -70,10 +69,10 @@ message_14:
 #Location: Last Resort Casino
 
 message_15:
-      text: \n<HAYES>Ah...\! It's nice to finally take a break.
+      text: \n<HAYES>Ah...\! Es ist schön, endlich eine Pause einzulegen.
 
 message_16:
-      text: \n<HAYES>Are you from the city too?\! You look like a couple of city kids.\! The food is good but the sewage is horrible, am I right?
+      text: \n<HAYES>Kommt ihr auch aus der Stadt?\! Ihr seht aus, wie ein paar Stadtkinder.\! Das Essen ist gut, aber das Abwasser ist schrecklich, habe ich recht?
 
 
 message_17:
@@ -83,7 +82,7 @@ message_17:
 #Location: Underwater Highway outside of Mustard Sub
 
 message_18:
-      text: \n<TURMOIL>Bah... Must've left my smoke sticks at home again...
+      text: \n<AUFRUHRL>Bah... Ich muss meine Rauchstöcke wieder zu Hause gelassen haben...
 
 message_19:
       text:
@@ -91,7 +90,7 @@ message_19:
 #Russell
 #Location: Last Resort Casino
 message_20:
-      text: \n<RUSSELL>Humma humma...\! If I'm counting this right...\! then...\!<br>Humma humma...
+      text: \n<RUSSELL>Humma humma...\! Wenn ich das richtig zähle...\! dann ...\!<br>Humma humma...
 
 message_21:
       text:
@@ -99,17 +98,17 @@ message_21:
 #Albacore
 #Location: Underwater Highway Cave
 message_22:
-      text: \n<ALBACORE>Are you here because you didn't want to pay the toll?\! You're the third group I've seen this week!
+      text: \n<ALBACORE>Seid ihr hier, weil ihr die Maut nicht bezahlen wollt?\! Ihr seid die dritte Gruppe, die ich diese Woche gesehen habe!
 
 message_23:
-      text: \n<ALBACORE>Going all this way is kinda inconvenient, but at least you get to hold onto those sweet, sweet CLAMS.\! You'll want to pay that last toll, though.\! Trust me!
+      text: \n<ALBACORE>Den ganzen Weg zu gehen ist ein bisschen unbequem, aber zumindest könnt ihr diese süßen, süßen MUSCHELN behalten.\! Ihr werdet jedoch die letzte Maut bezahlen wollen.\! Vertrau mir!
 
 message_24:
       text:
 #James
 #Location: Last Resort Casino
 message_25:
-      text: \n<JAMES>I love watching my hard-earned money go into this machine and never come out.\! Just watching...\! it all...\! disappear...
+      text: \n<JAMES>Ich liebe es, zuzusehen, wie mein hart verdientes Geld in diese Maschine fließt und nie wieder herauskommt.\! Zuschauen...\! wie alles...\! verschwindet...
 
 message_26:
       text:
@@ -117,24 +116,23 @@ message_26:
 #Honeydew
 #Location: Mr Jawsum's Concierge
 message_27:
-      text: \n<HONEYDEW>Boss called me up for an important meeting, but he's not available right now...\! I dunno...\! Should I wait here or keep working!?
-
+      text: \n<HONIGTAU>Boss hat mich zu einem wichtigen Meeting angerufen, aber er ist gerade nicht erreichbar...\! Ich weiß nicht...\! Soll ich hier warten oder weiterarbeiten!?
 message_28:
       text:
 #Crusher Blast
 #[UNPLACED]
 
 message_29:
-      text: \n<CRUSHER BLAST>Was sent to do handiwork.\! But management bad.\!<br>Predicting fall of empire.
+      text: \n<BRECHERSTRAHL>Wurde zum Basteln geschickt.\! Aber Management schlecht.\!<br>Vorhersage des Untergangs des Imperiums.
 
 message_30:
-      text: \n<CRUSHER BLAST>Ha. Ha.\! Management changed.\! Just as predicted.
+      text: \n<CRUSHER BLAST>Ha. Ha.\! Management geändert.\! Genau wie vorhergesagt.
 
 #Cipher
 #Location: Deeper Well Whirlpool
 
 message_31:
-      text: \n<CIPHER>The sun shined brighter...\| when she was here...
+      text: \n<Chiffre>Die Sonne schien heller...\| als sie noch hier war...
 
 message_32:
       text:
@@ -150,7 +148,7 @@ message_34:
 #Teacup Spirit
 #Location: SW Library
 message_35:
-      text:  \n<TEACUP SPIRIT>\sinv[1]Oohoooooo... I have a question for youuuuuuu!\sinv[0]\!<br>Do you think ghosts would be considered a gas?
+      text:  \n<UNTERTASSENGEIST>\sinv[1]Oohoooooo... Ich habe eine Frage an diiiiiiichhhhhh\sinv[0]\!<br>Glaubst du, Geister würden als Gas betrachtet?
 
 message_36:
       text:
@@ -159,7 +157,7 @@ message_36:
 #Location: Train Station
 
 message_37:
-      text: \n<CANOPY>Ich sehe was, was du nicht siehst, und das ist...\!<br>Ein Regenbogenschirm-Ding mit ganz vielen Beinen!
+      text: \n<ÜBERDACHUNG>Ich sehe was, was du nicht siehst, und das ist...\!<br>Ein Regenbogenschirm-Ding mit ganz vielen Beinen!
 
 #Breezy
 #[UNPLACED: Orange Oasis Club Sandwich]
@@ -176,10 +174,10 @@ message_42:
 #Child on Stilts
 #[UNPLACED]
 message_43:
-      text: \n<CHILD ON STILTS>I am stuck and cannot get down.
+      text: \n<KIND AUF STELZEN>Ich stecke fest und komme nicht runter.
 
 message_44:
-      text: \n<CHILD ON STILTS>I'm fine like this.
+      text: \n<KIND AUF STELZEN>Mir geht es so gut.
 
 #--------------------------------------------------------------------------------------------------
 #DW_NPC_19
@@ -187,16 +185,16 @@ message_44:
 #Barbracoa
 #Location: Last Resort Hallway
 message_45:
-      text: \n<BARBRACOA>\sinv[1]Oh! My sweet sons are all so hard at work...\!\sinv[0]<br>You better not be causing them any trouble...\! or else...
+      text: \n<BARBRACOA>\sinv[1]Oh! Meine süßen Söhne sind alle so fleißig...\!\sinv[0]<br>Ihr machr ihnen besser keinen Ärger...\! sonst...
 
 
 message_46:
-      text: \n<BARBRACOA>I'll \com[2]smack you all the way to tomorrow!
+      text: \n<BARBRACOA>werde ich \com[2]euch bis nach morgen klatschen!
 
 #Decay
 #Location: Deeper Well
 message_47:
-      text: \n<DECAY>Time will always move forward.\! Eventually, the truth will become clear...\! You know this well...\! don't you, DREAMER?
+      text: \n<ZERFALL>Die Zeit wird immer weiter voranschreiten.\! Irgendwann wird die Wahrheit an Licht kommen...\! Du weißt davon...\! nicht wahr, TRÄUMER?
 
 message_48:
       text:
@@ -204,7 +202,7 @@ message_48:
 #Dowon
 #SW GALLERY
 message_49:
-      text: \n<DOWON>DOWON thought DOWON understood art...\! But after coming here, DOWON is starting to second-guess himself.
+      text: \n<DOWON>DOWON dachte, DOWON verstünde Kunst...\! Aber nachdem er hierher gekommen ist, beginnt DOWON, sich selbst zu hinterfragen.
 
 message_50:
       text:
@@ -212,7 +210,7 @@ message_50:
 #Parsnip
 #[UNPLACED]
 message_51:
-      text: \n<PARSNIP>I am MARINA's eighth experiment...\! probably.\! She made me out of moss and bean sprouts when she was just a teenager.
+      text: \n<PASTINAK>Ich bin MARINAs achtes Experiment...\! wahrscheinlich.\! Sie hat mich als Teenager aus Moos und Sojasprossen gemacht.
 
 message_52:
       text: \n<PARSNIP>\sinv[1]Nyeeeeeeeehhh...
@@ -223,7 +221,7 @@ message_352:
 #Renbi
 #Location: Last Resort Entrance
 message_53:
-      text: \n<RENBI>Haha... Man, that is one good joke...\! ...\!<br>What a good...\! freakin'...\! joke...
+      text: \n<RENBI>Haha... Mann, das ist ein guter Witz...\! ...\!<br> Was für ein...\! verdammt guter...\! Witz...
 
 message_54:
       text:
@@ -231,18 +229,18 @@ message_54:
 #Burro
 #[UNPLACED]
 message_55:
-      text: \n<BURRO>I am MARINA's fifth experiment.\! She made me out of cardboard and \c[3]CANDY\c[0] when she was just a child.
+      text: \n<BURRO>Ich bin MARINAs fünftes Experiment.\! Sie hat mich aus Pappe und \c[3]SÜSSIGKEITEN\c[0] gemacht, als sie noch ein Kind war.
 
 message_350:
-      text: \n<BURRO>\com[2]Ooh!\! My candies!
+      text: \n<BURRO>\com[2]Ooh!\! Meine Bonbons!
 
 message_351:
-      text: \n<BURRO>It feels good to be acknowledged.
+      text: \n<BURRO>Es fühlt sich gut an, anerkannt zu werden.
 
 #Peeve
 #[UNPLACED]
 message_57:
-      text: \n<PEEVE>I am MARINA's sixth experiment.\! She made me out of balloons and magic when she was just a teenager.
+      text: \n<PEEVE>Ich bin MARINAs sechstes Experiment.\! Sie hat mich aus Ballons und Magie gemacht, als sie noch ein Teenager war.
 
 message_353:
       text:
@@ -791,7 +789,7 @@ message_174:
 
 #Location 2: Mr. Jawsum's Concierge
 message_175:
-      text: \n<WHATEVER>I am in need of fat stacks of cash.
+      text: \n<EGAL>Ich brauche fette Batzen Knete.
 
 message_176:
       text:
@@ -1394,90 +1392,90 @@ message_341:
 #Extras
 #Location: Slime Girls Lair
 message_500:
-      text: \n<HUMPHREY>Hey, come on.\! You gotta pick someone!\!<br>Help me out, would you?
+      text: \n<HUMPHREY>Hey komm schon.\! Du musst dir jemanden aussuchen!\!<br>Helft ihr mir, ja?
 
 
 #DEEPER Well/BLACK SPACE
 
 
 message_601:
-      text: \n<BLANK>Your memories are not free.\! To gain a memory, another must be shrouded.\! And yet...\! All memories will eventually fade.
+      text: \n<BLANK>Deine Erinnerungen sind nicht frei.\! Um eine Erinnerung zu erlangen, muss eine andere verhüllt werden.\! Und doch...\! Alle Erinnerungen werden irgendwann verblassen.
 
 message_615:
-      text: \n<BLANK>Perhaps you've already noticed...\! the curse of \c[11]DEEPER WELL\c[0].
+      text: \n<BLANK>Vielleicht hast du ihn schon bemerkt...\! den Fluch des \c[11]TIEFEREN BRUNNENS\c[0].
 #-
 
 message_602:
-      text: \n<EMPTY>With time, what is important will change.\! You must choose what you will keep and what you will cast away.
+      text: \n<LEER>Mit der Zeit wird sich das Wesentliche ändern.\! Du musst entscheiden, was du behälst und was du wegwirfst.
 
 message_613:
-      text: A creature mumbles gibberish.
+      text: Eine Kreatur murmelt Kauderwelsch.
 
 #-
 message_603:
-      text: \n<NULL>Humans are bounded creatures.\! Your limits are what define you.\! What makes you human?
+      text: \n<NULL>Der Mensch ist ein Wesen, welches an Grenzen gebunden ist.\! Deine Grenzen sind es, die dich definieren.\! Was macht dich menschlich?
 
 #-
 
 message_604:
-      text: \n<AUGHT>When trouble shows itself, there is always the choice to run.\! But one day, you may very well find yourself running alone.
+      text: \n<NICHTS>Wenn sich Schwierigkeiten zeigen, gibt es immer die Wahl wegzulaufen.\! Aber eines Tages kann es sein, dass du alleine wegläufst.
 
 #-
 
 message_607:
-      text: \n<PARVENU>What if it's up to you?\! What if it's only up to you?
+      text: \n<PARVENÜ>Was ist, wenn es an dir liegt?\! Was ist, wenn es nur an dir liegt?
 
 message_606:
-      text: \n<PARVENU>Carry on, DREAMER.\! You are the only one who can.
+      text: \n<PARVENÜ>Mach weiter, TRÄUMER.\! Du bist der einzige, der es kann.
 
 #-
 
 message_609:
-      text: \n<ABSENT>The universe is full of questions that you will never answer.\! Yet...\! there are also ones that only you can answer.<br>\!When the truth is revealed, what will you do?
+      text: \n<ABWESEND>Das Universum ist voller Fragen, die du nie beantworten wirst..\! Dennoch...\! gibt es auch solche, die nur du beantworten kannst.<br>\!Was wirst du tun, wenn die Wahrheit ans Licht kommt?
 
 #-
 
 message_610:
-      text: \n<MINUS>It is selfish to dream for so long when there are those who are expecting you.
+      text: \n<MINUS>Es ist egoistisch, so lange zu träumen, wenn es Welche gibt, die einen erwarten.
 
 #-
 
 
 
 message_608:
-      text: \n<MUTE>An unhallowed burden has been placed upon you.\! You have the power to change the future.\! What will you do, DREAMER?\! What will you do?
+      text: \n<STUMM>Dir wurde eine unheilige Last auferlegt.\! Du hast die Macht, die Zukunft zu verändern.\! Was wirst du tun, TRÄUMER?\! Was wirst du tun?
 
 #-
 
 message_611:
-      text: \n<HOLLOW>The last time you fell into deep water... \!Were you truly saved?\! Or were you cursed?
+      text: \n<HOHL>Das letzte Mal, wo du in tiefes Wasser gefallen bist... \!Wurdest du wirklich gerettet?\! Oder wurdest du verflucht?
 
 #-
 
 message_612:
-      text: \n<VOID>How far will you go to save a friend?
+      text: \n<LEERE>Wie weit wirst du gehen, um einen Freund zu retten?
 
 #-
 
 message_614:
-      text: \n<EMPTY>Not everyone has that choice.
+      text: \n<LEER>Diese Wahl hat nicht jeder.
 
 #-
 
 
 message_148:
-      text: \n<ROAMIN' COW>\sinv[1]Roamin'... roamin'... roamin'...
+      text: \n<WANDERNDE KUH>\sinv[1]wandern... wandern... wandern...
 
 #- Burpmo
 
 message_151:
-      text: \n<BURPMO>I'm BURPMO, and I wouldn't be anyone but me!
+      text: \n<BURPMO>Ich bin BURPMO, und ich wäre niemand anderes außer mir!
 
 message_313:
-      text: \n<BURPMO>I'm BURPMO, and I wouldn't have it any other way!
+      text: \n<BURPMO>Ich bin BURPMO, und ich möchte es nicht anders!
 
 #-- Abyss Skeletons
 
 
 message_444:
-      text: \n<AUBREY?>Sniff...\| Sniff...\| OMORI...
+      text: \n<AUBREY?>Schnief...\| Schnief...\| OMORI...

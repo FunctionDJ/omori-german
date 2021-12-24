@@ -16,6 +16,10 @@ export const checkJs = async (filepath: string, global: Global) => {
 
   validateBrokenChars(filepath, stringContent, global.bannedStringsInYaml)
 
+  if (global.noMetadataCheckFiles.includes(filepath)) {
+    return
+  }
+
   const metadata = getMetadata(stringContent, global, "// ")
 
   checkMetadata(metadata, global)

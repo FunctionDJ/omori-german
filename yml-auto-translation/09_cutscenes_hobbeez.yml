@@ -131,19 +131,19 @@ message_78:
 message_79:
   faceset: MainCharacters_Faraway
   faceindex: 14
-  text: Hey, SHOPKEEP! Wir würden dieses Kochbuch gerne kaufen!
+  text: Hey, LADENBESITZER! Wir würden gerne dieses Kochbuch kaufen!
 message_80:
   text: KEL! Wie ist es dir ergangen, Kumpel?<br>Es ist schon eine Weile her, dass du vorbeigekommen bist, nicht wahr?<br>
 message_81:
-  text: Ah, das ist PAPA CHIP'S CHIP-OFF-THE-OLD-BLOCK COOKBOOK!\!<br>Ich sehe, du hast guten Geschmack!\n<SHOPKEEP>
+  text: Ah, das ist PAPA CHIP'S CHIP-OFF-THE-OLD-BLOCK COOKBOOK!\!<br>Ich sehe, du hast guten Geschmack!\n<LADENBESITZER>
 message_82:
   faceset: MainCharacters_Faraway
   faceindex: 13
   text: Ja, mein Bruder hat immer nach seinen Rezepten gebacken!<br>Seine Kekse waren meine Lieblingskekse.<br>
 message_83:
-  text: Es ist selten, dass ich einen anderen Fan von PAPA CHIPs Arbeit sehe.<br>Das macht 20,00$, bitte!<br><SHOPKEEP>
+  text: Es ist selten, dass ich einen anderen Fan von PAPA CHIPs Arbeit sehe.<br>Das macht 20,00$, bitte!<br><LADENBESITZER>
 message_84:
-  text: Vielen Dank, liebe Leute! Bitte genießt es!\n<SHOPKEEP>
+  text: Vielen Dank, liebe Leute! Bitte genießt es!\n<LADENBESITZER>
 message_85:
   faceset: MainCharacters_Faraway
   faceindex: 14

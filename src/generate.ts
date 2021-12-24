@@ -10,7 +10,7 @@ import { Config } from "../config/types"
 loadEnv()
 
 const generateIndexSchema = async (contributorIds: string[]) => {
-  const schema = await loadJson("config/index-schema-template.json")
+  const schema = await loadJson<any>("config/index-schema-template.json")
   schema.$defs.contributors.items.enum = contributorIds
   writeJson("generated/index-schema.json", schema, true)
 }

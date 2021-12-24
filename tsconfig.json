@@ -5,9 +5,9 @@
     "files": true
   },
   "compilerOptions": {
-    "allowJs": false,
     "noEmit": true,
-    "skipLibCheck": false
+    "skipLibCheck": false,
+    "downlevelIteration": true
   },
   "exclude": [
     "node_modules",

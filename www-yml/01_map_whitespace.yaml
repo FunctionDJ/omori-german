@@ -2,7 +2,7 @@
 #### Editing: Finished
 
 #### Translated by: mewo
-# Corrections by: lugi
+#### Corrections by: lugi, haj
 
 # -----------------------------------------------
 # - THE WHITE DOOR
@@ -67,7 +67,7 @@ message_12:
 # - THE SKETCHBOOK
 # -----------------------------------------------
 message_13:
-    text: "Dein Skizzenbuch.\\!\\lb Reinschauen?"
+    text: "Dein Skizzenbuch.\\!\\lb Willst du reinschauen?"
 message_14:
     text: "JA"
 message_15:
@@ -83,7 +83,7 @@ message_16:
 # - THE LIGHTBULB
 # -----------------------------------------------
 message_17:
-    text: "Eine Glühbirne hängt von der Decke, wo auch immer sie ist.\\!\\lb<br>In die Glühbirne schauen?"
+    text: "Eine Glühbirne hängt von der Decke, wo auch immer sie ist.\\!\\lb<br>In die Glühbirne hineinschauen?"
 message_18:
     text: "Sie ist innen pechschwarz.\\! Du kannst gar nichts erkennen."
 
@@ -161,7 +161,7 @@ message_112:
 # - THE SKETCHBOOK
 # -----------------------------------------------
 message_113:
-    text: "Ein Skizzenbuch.\\!\\lb Reinschauen?"
+    text: "Ein Skizzenbuch.\\!\\lb Willst du reinschauen?"
 message_114:
     text: "JA"
 message_115:
@@ -177,9 +177,9 @@ message_116:
 # - THE LIGHTBULB
 # -----------------------------------------------
 message_117:
-    text: "Eine Glühbirne hängt von der Decke, wo auch immer sie ist.\\!\\lb<br>In die Glühbirne schauen?"
+    text: "Eine Glühbirne hängt von der Decke, wo auch immer sie ist.\\!\\lb<br>Willst du in die Glühbirne schauen?"
 message_118:
-    text: "Sie ist innen pechschwarz.\\! Du kannst gar nichts erkennen."
+    text: "Sie ist innen pechschwarz.\\! Du kannst garnichts erkennen."
 
 # -----------------------------------------------
 # - OMORI
@@ -193,7 +193,7 @@ message_121:
     text: "Eine Glühbirne hängt von der Decke.\\!\\lb<br>Möchtest du sie zerstören?"
 
 message_125:
-    text: Du erlernst \c[1]ROTE HÄNDE\c[0].
+    text: Du erlernst die Fähigkeit \c[1]ROTE HÄNDE\c[0].
 
 message_126:
     text: Du findest eine Karte.

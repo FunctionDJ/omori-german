@@ -30,11 +30,13 @@ runMain(async (report: (error: Error) => void) => {
     modPromise.then(mod => getAllModFiles(mod.files))
   ])
 
+  const actualAllModFiles = allModFiles.filter(filepath => !global.omitFiles.includes(filepath))
+
   const allAllowedFiles = [...originalGameFiles, ...global.extraFiles]
 
   console.info("Checking for unknown files...")
 
-  allModFiles.forEach(filepath => {
+  actualAllModFiles.forEach(filepath => {
     if (filepath.endsWith("_index.yaml")) {
       return
     }
@@ -49,7 +51,9 @@ runMain(async (report: (error: Error) => void) => {
       ? [patchDir, fileInfo.base].join("/")
       : filepath // "assets" / root / www
 
-    if (!allAllowedFiles.includes(patchLocation)) {
+    const actualPatchLocation = fileInfo.ext === ".jsond" ? patchLocation.replace(".jsond", ".json") : patchLocation
+
+    if (!allAllowedFiles.includes(actualPatchLocation)) {
       throw new Error(`Unknown or unallowed file: "${filepath}" (patched to "${patchLocation}")`)
     }
   })
@@ -57,9 +61,9 @@ runMain(async (report: (error: Error) => void) => {
   console.info("Checking files...")
 
   try {
-    await Promise.all(allModFiles.map(f => check(f, global)))
+    await Promise.all(actualAllModFiles.map(f => check(f, global)))
     validateIndex(global.indexStore, global.filesNeedIndex)
-  } catch (error) {
+  } catch (error: any) {
     report(error)
   }
 })

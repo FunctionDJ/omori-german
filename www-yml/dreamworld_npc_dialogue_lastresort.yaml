@@ -65,12 +65,12 @@ message_8:
       text: \n<LAMM>Wir wollten unsere Flitterwochen hier verbringen, weil sie einen kostenlosen Raum und einen luxuriösen Ferienort versprochen haben!
 
 message_9:
-      text: \n<LAMM>\Com[2]Von wegen Luxus!\! Diese Baracke ist so schäbig, wie es nur geht.\!<br>Ich kann sehen, wie die Farbe von den Wänden löst!
+      text: \n<LAMM>\Com[2]Von wegen Luxus!\! Diese Baracke ist so schäbig, wie es nur geht.\!<br>Ich kann sehen, wie die Farbe sich von den Wänden löst!
 
 #WOLF
 #Location: Last Resort
 message_10:
-      text: \n<WOLF>Um ehrlich zu sein finde ich diesen Ort okay.\!<br>Dafür, dass der Aufenthalt kostenlos ist...\! Sogar im Planschbecken draußen spukt es.
+      text: \n<WOLF>Um ehrlich zu sein finde ich diesen Ort okay.\!<br>Dafür, dass der Aufenthalt kostenlos ist...\! Selbst wenn es im Planschbecken draußen spuken sollte.
 
 #ELEANOR
 #Location: MUSTARD SUBMERSIBLE
@@ -298,7 +298,7 @@ message_95:
       text: \n<PAM>Ich habe den \c[11]LETZTEN HALT\c[0] verlassen, weil ich SADIE und ELEANOR vermisst habe...\! aber es sieht so aus, als wären mir allen anderen zuvorgekommen.
 
 message_96:
-      text: \n<PAM>Ich sollte mir wohl über MUSCHELN Gedanken machen, aber...\!<br>Ich bin einfach nur froh, dass wir wieder beisammen sind.\! Wir kriegen das schon irgendwie hin!
+      text: \n<PAM>Ich sollte mir wohl mehr über MUSCHELN Gedanken machen, aber...\!<br>Ich bin einfach nur froh, dass wir wieder beisammen sind.\! Wir kriegen das schon irgendwie hin!
 
 #SADIE
 #Location: Mustard Submersible
@@ -335,7 +335,7 @@ message_60:
 #Location: Mustard Submersible
 #KROKO-KERL is on his tiny phone.
 message_61:
-      text: \n<KROKO-KERL>\}Uh huh...\! Drei Bestellungen...\! Uh huh...\! Uh huh...\! Ich weiß nicht...\! Ich kann frage...\!<br>Okay, also willst du doch vier...
+      text: \n<KROKO-KERL>\}Uh huh...\! Drei Bestellungen...\! Uh huh...\! Uh huh...\! Ich weiß nicht...\! Ich kann fragen...\!<br>Okay, also willst du doch vier...
 
 #KROKO-KERL
 #Location: Last Resort
@@ -350,7 +350,7 @@ message_63:
 #Same as DAY 3.
 #After Cutscene: Feed Humphrey 1
 message_64:
-      text: \n<KROKO-KERL>In der kurzen Zeit, die HERO als neuer Boss übernommen hat, ist sich unser Bruttoeinkommen exponentiell gestiegen!
+      text: \n<KROKO-KERL>In der kurzen Zeit, wo HERO unser neuer Boss war, ist unser Bruttoeinkommen exponentiell gestiegen!
 
 message_65:
       text: \n<KROKO-KERL>Bei der Rate...\! kommen wir eines Tages vielleicht sogar aus dem Minus!
@@ -359,7 +359,7 @@ message_65:
 #After Cutscene: Feed Humphrey 1
 #Location: Last Resort
 message_66:
-      text: \n<KROKO-KERL>Dank HEROs ausgezeichneten Leitung ist unser Geschäftsmodell viel effizienter als jemals zuvor!\! Bald sind wir an der Spitze, Mann!
+      text: \n<KROKO-KERL>Dank HEROs ausgezeichneter Leitung ist unser Geschäftsmodell viel effizienter als jemals zuvor!\! Bald sind wir an der Spitze, Mann!
 
 #KROKO-KERL
 #After Cutscene: Feed Humphrey 1
@@ -566,7 +566,7 @@ message_225:
       text: \n<KROKO-KERL>Ich kann die Sonnenbrille nicht einfach abnehmen.\! Sie sind ein Teil von mir!
 
 message_226:
-      text: \n<KROKO-KERL>Mann... Mutti ist wieder zu Besuch da?\! Sie muss wohl sehr unter Empty-Nesting leiden.
+      text: \n<KROKO-KERL>Mann... Mutti ist wieder zu Besuch da?\! Sie muss wohl sehr drunter leiden, dass all ihre Kinder fort sind.
 
 message_227:
       text: \n<KROKO-KERL>Was? Mutti ist da?\! Ich muss ihr später noch Hallo sagen!

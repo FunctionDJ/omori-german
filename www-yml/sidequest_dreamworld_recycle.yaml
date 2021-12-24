@@ -1,5 +1,8 @@
 #### Translation: Finished
+#### Editing: Finished
+
 #### Translated by: lugi
+#### Edited by: haj
 
 # =========================================================================================
 # RECYCLE
@@ -8,31 +11,31 @@
 #COPY FROM DEMO
 
 message_1:
-    text: A RECYCLING MACHINE.\!<br>Would you like to insert something?
+    text: Eine RECYCLING-MASCHINE.\!<br>Willst du etwas einwerfen?
 
 message_2:
-    text: The RECYCLING MACHINE dispensed [X] CLAMS.\!<br>Thanks for doing your part in keeping the environment clean.
+    text: Die RECYCLING-MASCHINE hat [X] CLAMS abgeworfen.\!<br>Danke, dass du deinen Teil dazu beiträgst, die Umwelt sauber zu halten.
 
 message_3:
-    text: You don't have anything that is recyclable.
+    text: Du hast nichts, was recycelbar ist.
 
 message_4:
-    text: You put a [X] into the RECYCLING MACHINE.
+    text: Du steckst [X] in die RECYCLING MACHINE.
 
 message_20:
-    text: DOSE
+    text: eine DOSE
 
 message_21:
-    text: GLASFLASCHE
+    text: eine GLASFLASCHE
 
 message_22:
-    text: KARTON
+    text: ein KARTON
 
 message_23:
     text: LEERE BATTERIEN
 
 message_24:
-    text: COMPUTERTEIL
+    text: ein COMPUTERTEIL
 
 message_25:
     text: Ein RECYCLING-AUTOMAT.\!<br>Was möchtest du recyclen?
@@ -43,10 +46,10 @@ message_5:
     text: Du wirfst eine \c[5]DOSE\c[0] in den RECYCLING-AUTOMAT ein.
 
 message_6:
-    text: Der RECYCLING-AUTOMAT gibt 5 MUSCHELN aus.\!<br>Danke für deine Hilfe beim Sauberhalten der Umwelt.
+    text: Der RECYCLING-AUTOMAT gibt 5 NUSCHELN aus.\!<br>Danke für deine Hilfe beim Sauberhalten der Umwelt.
 
 message_15:
-    text: Du hast keine \c[5]DOSE\c[0] zu recyclen.
+    text: Du hast keine \c[5]DOSE\c[0] zum recyclen.
 
 #glass bottle
 
@@ -54,10 +57,10 @@ message_7:
     text: Du wirfst eine \c[5]GLASFLASCHE\c[0] in den RECYCLING-AUTOMAT ein.
 
 message_8:
-    text: Der RECYCLING-AUTOMAT gibt 10 MUSCHELN aus.\!<br>Danke für deine Hilfe beim Sauberhalten der Umwelt.
+    text: Der RECYCLING-AUTOMAT gibt 10 NUSCHELN aus.\!<br>Danke für deine Hilfe beim Sauberhalten der Umwelt.
 
 message_16:
-    text: Du hast keine \c[5]GLASFLASCHE\c[0] zu recyclen.
+    text: Du hast keine \c[5]GLASFLASCHE\c[0] zum recyclen.
 
 #cardboard
 
@@ -65,10 +68,10 @@ message_9:
     text: Du wirfst einen \c[5]KARTON\c[0] in den RECYCLING-AUTOMAT ein.
 
 message_10:
-    text: Der RECYCLING-AUTOMAT gibt 15 MUSCHELN aus.\!<br>Danke für deine Hilfe beim Sauberhalten der Umwelt.
+    text: Der RECYCLING-AUTOMAT gibt 15 NUSCHELN aus.\!<br>Danke für deine Hilfe beim Sauberhalten der Umwelt.
 
 message_17:
-    text: Du hast keinen \c[5]KARTON\c[0] zu recyclen.
+    text: Du hast keinen \c[5]KARTON\c[0] zum recyclen.
 
 #dead batteries
 
@@ -76,10 +79,10 @@ message_11:
     text: Du wirfst \c[5]LEERE BATTERIEN\c[0] in den RECYCLING-AUTOMAT ein.
 
 message_12:
-    text: Der RECYCLING-AUTOMAT gibt 20 MUSCHELN aus.\!<br>Danke für deine Hilfe beim Sauberhalten der Umwelt.
+    text: Der RECYCLING-AUTOMAT gibt 20 NUSCHELN aus.\!<br>Danke für deine Hilfe beim Sauberhalten der Umwelt.
 
 message_18:
-    text: Du hast keine \c[5]LEEREN BATTERIEN\c[0] zu recyclen.
+    text: Du hast keine \c[5]LEEREN BATTERIEN\c[0] zum recyclen.
 
 #computer parts
 
@@ -87,7 +90,7 @@ message_13:
     text: Du wirfst ein \c[5]COMPUTERTEIL\c[0] in den RECYCLING-AUTOMAT ein.
 
 message_14:
-    text: Der RECYCLING-AUTOMAT gibt 25 MUSCHELN aus.\!<br>Danke für deine Hilfe beim Sauberhalten der Umwelt.
+    text: Der RECYCLING-AUTOMAT gibt 25 NUSCHELN aus.\!<br>Danke für deine Hilfe beim Sauberhalten der Umwelt.
 
 message_19:
-    text: Du hast kein \c[5]COMPUTERTEIL\c[0] zu recyclen.
+    text: Du hast kein \c[5]COMPUTERTEIL\c[0] zum recyclen.

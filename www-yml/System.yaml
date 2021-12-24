@@ -102,7 +102,7 @@ terms:
         substitute: "%1 beschützt %2!"
         surprise: "%1 ist überrascht!"
         useItem: "%1 benutzt %2!"
-        victory: "%1 ist erfolgreich!"
+        victory: "%1 ist siegreich!"
 
     param:
         0: "Max HP"

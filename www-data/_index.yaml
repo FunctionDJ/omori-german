@@ -15,5 +15,14 @@ Armors.json:
   Credits: [jasu]
 
 States.json:
-  Status: Finished
+  Status: Partial
   Credits: [jasu]
+
+System.jsond:
+  Status: Partial
+  Credits: [function]
+  Comment: TODO brauchen wir diese datei überhaupt?
+
+Map092.jsond:
+  Status: Partial
+  Credits: [function]

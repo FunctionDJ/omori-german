@@ -51,7 +51,7 @@ export const validateIndex = (indexStore: Record<string, any>, filesNeedIndex: s
 
     if (keys.length > 0) {
       const files = keys.map(k => `"${k}"`).join(", ")
-      throw new Error(`Non-existant file(s) in _index.yaml: ${files}`)
+      throw new Error(`Non-existant file(s) in _index.yaml: ${files}`) // TODO log path of _index.yaml
     }
   })
 }

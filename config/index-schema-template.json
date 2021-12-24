@@ -16,7 +16,7 @@
   "minProperties": 1,
   "additionalProperties": false,
   "patternProperties": {
-    "^.+\\.(png|json)$": {
+    "^.+\\.(png|json|jsond)$": {
       "type": "object",
       "required": [
         "Status", "Credits"

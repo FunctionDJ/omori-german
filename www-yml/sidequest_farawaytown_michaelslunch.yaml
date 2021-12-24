@@ -1,0 +1,99 @@
+#### Translation: Finished
+#### Translated by: haj
+
+# =========================================================================================
+# Sidequest: Michael's Lunch
+# =========================================================================================
+
+#Talk to Joy's Dad
+
+message_1:
+      text: \n<DICKE AUGENBRAUEN>Hey, Kinder...\! Ich muss euch um einen Gefallen bitten.\!<br>Könnt ihr diese \c[4]LUNCHBOX\c[0] zu dem Jungen mit der Gitarre zur \c[11]TOWN PLAZA\c[0] bringen?
+
+message_40:
+      text: \n<DICKE AUGENBRAUEN>Seufz...\! Dieses Kind träumt viel zu viel...\! Das muss er von seiner Mutter haben.
+#yes/no
+
+message_50:
+      text: \n<DICKE AUGENBRAUEN>Oh...\! Hmm...\! Aber es ist so schwer, auf Wiedersehen zu sagen...
+
+#if yes
+message_2:
+      text: \n<DICKE AUGENBRAUEN>Danke...\! Ich weiß das zu schätzen.
+
+message_3:
+      text: Du bekommst eine \c[4]LUNCHBOX\c[0].
+
+#Talk to Michael
+
+message_4:
+      text: \n<GITARREN TYP>Heute ist der Tag...\! Ich verlasse endlich die Stadt, um ein Musiker zu werden...\! All die großen Worte, die ich darüber sagte, es als Star zu schaffen...
+
+message_5:
+      text: \n<GITARREN TYP>Ich werde das durchziehen und mein Bestes in der großen Stadt versuchen!\! Wünscht mir Glück!
+
+message_6:
+      text: Du hast die \c[4]LUNCHBOX\c[0] an GITARREN TYP gegeben.
+
+message_7:
+      text: \n<GITARREN TYP>Huh? W-Was ist das?! Das...\! Das sind Dads Makkaroni mit Käse!\!<br>Er hat das nicht mehr für mich gemacht, seit ich ein Kind war...
+
+message_8:
+      text: \n<GITARREN TYP>Schnief...\! Schnief...\! Danke, Dad...\! Ich werde eines Tages zurückkommen und dich stolz machen!\! Ich verspreche es!
+
+message_9:
+      text: \n<GITARREN TYP>Ah!\! Tut mir leid, es wurde ein wenig dramatisch...\! Eigentlich...\! Ich hatte einen Brief für meinen Vater geschrieben, aber ich bin zu feige, es ihm selbst zu geben.
+
+message_10:
+      text: \n<GITARREN TYP>Kannst du es bitte für mich liefern?
+
+#Yes/No
+
+#if yes
+
+message_11:
+      text: \n<GITARREN TYP>Danke...\! Ich weiß es zu schätzen.
+
+message_12:
+      text: Du bekommst einen \c[4]BRIEF FÜR PAPA\c[0].
+
+message_13:
+      text: \n<GITARREN TYP>Da ist eine \c[4]CD\c[0] von einem meiner Songs drin...\! <br>Eigentlich, kannst du auch eine Kopie haben!
+
+message_14:
+      text: Du bekommst eine \c[4]GEHEIMNISSVOLLE CD\c[0]!
+
+message_15:
+      text: \n<GITARREN TYP>Nochmals vielen Dank.\! Wenn du mich das nächste Mal siehst, dann auf der großen Leinwand!
+
+#if no
+
+message_16:
+      text: \n<GITARREN TYP>Oh...\! Aber es ist so schwer, auf Wiedersehen zu sagen...
+
+#Talk to Joy's DAD
+
+message_42:
+      text: \n<DICKE AUGENBRAUEN>Wie ich sehe, hast du die \c[4]LUNCHBOX\c[0] weggegeben.\! Na, und? Hat es ihm gefallen?
+
+message_41:
+      text: Du hast den \c[4]BRIEF FÜR PAPA\c[0] an DICKE AUGENBRAUEN.
+
+message_17:
+      text: \n<DICKE AUGENBRAUEN>Das...\! Diese Schrift ist von meinem Sohn...
+
+message_18:
+      text: \n<DICKE AUGENBRAUEN>Oh...\! Ich war so hart zu ihm in den letzten Jahren...\! Ich...
+
+message_19:
+      text: \n<DICKE AUGENBRAUEN>Ähm...\! Danke, dass du das für mich ablieferst.\! Ich...\! Ich hoffe, dass ich ihn eines Tages wiedersehen werde...\! Vielleicht sogar im Fernsehen! Haha!
+
+
+message_30:
+      text: \n<DICKE AUGENBRAUEN>Ich frage mich, wie es meinem Sohn im \c[11]STADTPLATZ\c[0] geht...\! Er spielt immer auf seiner alten Gitarre...
+
+message_31:
+      text: \n<GITARREN TYP>Dank all dieser Spenden kann ich morgen wohl endlich in die Stadt fahren!
+
+message_32:
+      text: \n<GITARREN TYP>Dank all dieser Spenden kann ich wohl übermorgen endlich in die Stadt fahren!

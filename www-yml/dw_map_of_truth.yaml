@@ -1,6 +1,8 @@
 #### Translation: Finished
+#### Editing: Finished
 
 #### Translated by: jasu
+#### Edited by: schako
 
 # =========================================================================================
 # ** TEMPLATE DIALOGUE
@@ -43,16 +45,16 @@ message_10:
     text: \whoAuch wenn sie immer wieder wiederbelebt werden, verbleiben die qualvollsten auf dieser Welt...\! auch wenn es sich nurnoch um Knochen handelt.
 
 message_11:
-    text: \whoDie lange Verschollenen sinken hierher...\! zum Grund des \c[11]TIEFEN BRUNNENS\c[0]...\! und werden zum Nichts.
+    text: \whoDie schon lange Verschollenen sinken hierher...\! zum Grund des \c[11]TIEFEN BRUNNENS\c[0]...\! und werden zu nichts.
 
 message_12:
-    text: \whoDu hast sie verlassen, und dennoch sehnen sie sich nach deiner Fürsorge.\! Ihre Seelen können nichts als nach Hilfe rufen.\! Bemitleidest du sie?
+    text: \whoDu hast sie verlassen, und dennoch sehnen sie sich nach deiner Fürsorge.\! Ihre Seelen können nichts weiteres, als nach Hilfe rufen.\! Bemitleidest du sie?
 
 message_13:
-    text: \whoDeine liebe Schwester MARI mit schlechtem Knie...\! Du kannst es nicht ertragen, dass sie nochmal stirbt, also gab man ihr die Sicherheit einer Picknick-Decke.
+    text: \whoDeine liebe Schwester MARI mit kaputtem Knie...\! Du kannst es nicht ertragen, dass sie nochmal stirbt, also gabst du ihr die Sicherheit einer Picknick-Decke.
 
 message_14:
-    text: \whoTrotzdem liegt es in ihrer Natur, zu gehen und zu beschützen.\! Wenn sie das tut, wird sie dich wieder verlassen und wiedergeboren...\! durch die unsterbliche Seele, mit der du sie verflucht hast.
+    text: \whoTrotzdem liegt es in ihrer Natur die Picknick-Decke zu verlassen, um dich zu beschützen.\! Wenn sie das tut, wird sie dich wieder verlassen und wiedergeboren...\! durch die unsterbliche Seele, mit der du sie verflucht hast.
 
 message_15:
     text: \whoDie Seelen, die deinen Freunden erteilt wurden...\! Sie sind fragil und müssen geschützt werden.\! Deshalb müssen sie schlafend bleiben.
@@ -101,10 +103,10 @@ message_30:
     text: \n<FREMDER>Du bist zurückgekehrt, TRÄUMER.\! Was ist der Anlass?\! Geht dir die Zeit aus?
 
 message_31:
-    text: \n<FREMDER>Die Wahrheit ist schwer für dich.\! Zuvor hat sie dich zu deiner zerstörerischen Form geleitet.<br><br>Deine jetzige Form überwältigt diese...\! und auch wenn sie zugleich böse ist...\! könnte sie die bessere der beiden sein.
+    text: \n<FREMDER>Die Wahrheit ist schwer für dich.\! Zuvor hat sie dich zu deiner zerstörerischen Form geleitet.<br><br>Deine jetzige Form überwältigt diese...\! und auch wenn sie zugleich böse ist...\! könnte sie die Bessere der beiden sein.
 
 message_32:
-    text: \n<FREMDER>Dieser Ort ist sehr anders seit letztem Mal.\! Wirst du den Weg zurück finden, oder wirst du dich endlich selbst verlieren?
+    text: \n<FREMDER>Dieser Ort hat sich sehr verändert seit dem letzten Mal.\! Wirst du den Weg zurück finden, oder wirst du dich endlich selbst verlieren?
 
 message_33:
     text: \n<FREMDER>Ohne unsere eigenen SCHLÜSSEL müssen wir auf ewig hier herumwandern.\! Diese Türen öffnen sich uns nicht.\! Wir haben nicht so viel Glück wie du.
@@ -116,7 +118,7 @@ message_35:
     text: \n<FREMDER>Wieso nimmst du diese verfluchte Form an?\! Sie mag stark sein und kann dich beschützen...\! aber wenn du dich zu sehr auf sie verlässt...\! was du dafür opferst, kann niemals wiedererlangt werden.
 
 message_36:
-    text: \n<FREMDER>Hat sich der Blumen-Junge verirrt?\! Here to save him again?\! Wie schön für ihn...
+    text: \n<FREMDER>Hat sich der Blumen-Junge verirrt?\! Hier um ihn wieder zu retten?\! Wie schön für ihn...
 
 message_37:
     text: \n<FREMDER>Hinter einer dieser Türen versteckt sich die Erlösung...\! aber in dieser Form wird sie sich dir nie öffnen.\! Du wirst einen anderen Weg finden müssen.
@@ -131,13 +133,13 @@ message_40:
     text: \n<FREMDER>Du bist zwar außer Kontrolle...\! aber gib nicht auf, TRÄUMER.\! Es gibt immernoch welche, die an dich glauben.
 
 message_41:
-    text: \n<FREMDER>Mit großer Macht kommen große Bürden...\! für dich selbst...\! und für die, die dir nahestehen.\! Wen beschützt du?\! Und... ist es das wert?
+    text: \n<FREMDER>Mit großer Macht, kommen große Bürden...\! für dich selbst...\! und für die, die dir nahestehen.\! Wen beschützt du?\! Und... ist es das wert?
 
 message_42:
     text: \n<FREMDER>Ich wünsche mir zutiefst, dass die Seele deines Freundes rein geboren wurde.\! Wir wissen nur zu gut, welches Schicksal ihn sonst heimsuchen wird.
 
 message_43:
-    text: \n<FREMDER>Bitte hab Erbarmen, TRÄUMER.\! Die Seelen, die hier geboren werden mögen nicht echt sein, aber ihre Schreie hallen durch den Boden wider.
+    text: \n<FREMDER>Bitte hab Erbarmen, TRÄUMER.\! Die Seelen, die hier geboren werden, können sich nicht materialisieren, aber ihre Schreie hallen durch den Boden wider.
 
 message_44:
     text: \n<FREMDER>Der Blumen-Junge, der am nähesten zur Wahrheit steht...\! dessen Augen unheimlich rot leuchten.\! Ich habe gesehen, was du ihm angetan hast...\! und hoffe, dass du ihn nie wieder findest.
@@ -173,4 +175,4 @@ message_54:
     text: Willst du diese Tür aufsperren?
 
 message_55:
-    text: Du hast nicht den richtigen SCHLÜSSEL, um dies aufzusperren.
+    text: Du hast nicht den richtigen SCHLÜSSEL, um diese Tür aufzusperren.

@@ -10,6 +10,8 @@ export interface Config {
   bannedStringsInYaml: Record<string, string>
   bundleModsInKit: string[]
   extraFiles: string[]
+  omitFiles: string[]
+  noMetadataCheckFiles: string[]
 }
 
 export type Index = Record<string, {

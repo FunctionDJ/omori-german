@@ -38,6 +38,15 @@ contributorsIndex:
 
 extraFiles:
   - languages/en/XX_BERLYMOD.yaml # no belry mod
+  - js/plugins/omori-german.js
+  - img/system/splash-omori-german.png
+
+omitFiles:
+  - img/system/splash-omori-german.psd
+
+noMetadataCheckFiles:
+  - www-js/omori-german.js
+  - img/system/splash-omori-german.png
 
 bundleModsInKit:
   - no belry

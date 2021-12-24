@@ -1,0 +1,61 @@
+#### Translation: Finished
+#### Translated by: jasu
+
+# =========================================================================================
+# Dreamworld Extras
+# =========================================================================================
+
+#Perfectheart and Sweetheart (Post-Game)
+
+#Sweetheart: sweeping with maid outfit
+message_0:
+      text: \swh\Com[2]Was schaut ihr vier so!?
+
+message_1:
+      text: \n<PERFECTHEART>Ich bringe SWEETHEART bei, wie man Hausarbeiten tätigt!\!<br>Sie lernt es...\! in ihrem eigenen Tempo...\! Aber sie ist ein echt niedliches Zimmermädchen, findet ihr nicht? Hoho!
+
+message_2:
+      text: UNUSED MESSAGE
+
+message_3:
+      text: \n<PERFECTHEART>Ja, ja! Ist sie nicht süß?
+
+message_4:
+      text:  \n<PERFECTHEART>Stimmt's, SWEEPHEART??\! OHOHOHO!
+
+message_5:
+      text: \n<SWEEPHEART>\Com[2]Hmph!
+
+#Talk again
+
+message_6:
+      text: \n<PERFECTHEART>Wie war das?\! Fordert ihr mich etwa heraus?\!<br>Oh...\! Ihr wollt das wirklich nicht...\! Seid ihr euch da sicher?
+
+#[Nod/Shake 1]
+
+#[nod 1]
+message_7:
+      text: \n<PERFECTHEART>Oh...\! Ich verstehe...\! Es ist nur fair, euch zu warnen, dass ihr diese Entscheidung bereuen würdet...\! Also...\! Frag ich nochmal...\!<br>Seid ihr euch sicher, dass ihr mich herausfordern wollt?
+
+#[Nod/Shake 2]
+
+#[nod 2]
+message_8:
+      text: \n<PERFECTHEART>Seid ihr euch wirklich, wirklich sicher?
+
+#Nod/Shake 3]
+message_9:
+      text: \n<PERFECTHEART>... \!<br>Also gut...\! Wenn ihr darauf besteht.\!<br>Ich werde mich nicht zurückhalten.
+
+#Shake
+message_10:
+      text: \n<PERFECTHEART>Ja...\! Das wäre die bessere Entscheidung.
+
+#Defeating Perfectheart
+message_11:
+      text: \n<IMPERFECTHEART>Hmmm...\! Glückwunsch.\! Ihr habt gewonnen.\! Ich schätze, das heißt, dass ich nicht mehr perfekt bin. \!Welch Schande.
+
+#Submersible Karaoke
+
+message_12:
+      text: \spxh\Com[2]An all euch verlorenen Liebhaber...\!<br>Diese Nummer...\! ist für euch.

@@ -1,0 +1,115 @@
+#### Translation: Finished
+#### Translated by: haj
+
+# =========================================================================================
+# Sidequest: Bring back Angel
+# =========================================================================================
+
+message_0:
+      text: \artHey, habt ihr meinen idiotischen kleinen Bruder ANGEL gesehen?\!<br> Ich habe ihm etwas Geld gegeben und ihn heute Morgen auf ein paar Besorgungen geschickt, aber er ist noch nicht zurückgekommen.
+
+message_1:
+      text: \artWie ich ihn kenne... Hat er es wahrscheinlich nur vergessen...\!<br>Wenn du ihn findest, kannst du dann nach ihm sehen?
+
+message_2:
+      text: \artSag ihm...\! seine Schwester...\! wird ungeduldig...
+
+#Talk to ANGEL
+
+message_3:
+      faceset: MainCharacters_Faraway
+      faceindex: 17
+      text: \kelHey, ANGEL! Deine Schwester sucht dich...\!<br>Sie hat gesagt, dass sie dich heute Morgen auf ein paar Besorgungen geschickt hat!
+
+message_4:
+      text: \angHmm...\! Besorgungen?\! Was für Besorgungen?
+
+message_5:
+      text: \ang\Com[2]Oh, verdammt!\! Ich habe vergessen, dass ich heute Morgen Kunstzubehör für sie kaufen sollte!
+
+message_6:
+      text: \angUh...\! Oh-oh...\! Deshalb hatte ich also das Geld in meiner Tasche...\!<br>...\! Oops...
+
+message_7:
+      text: \angHey, äh...\! Als du mit meiner Schwester geredet hast...\!<br>Hat...\! Hat sie wütend ausgesehen?
+
+#[yes/no]
+
+#[if yes]
+
+message_8:
+      text: \angS-Sie...\! hat?
+
+message_9:
+      text: \angHmm...\! Sollte ich mich bemühen, zurück nach Hause zu gehen?\!<br> Ist es das zu diesem Zeitpunkt überhaupt wert?
+
+message_10:
+      text: \ang\Com[2]Oh Gott!\! Nein, wenn ich weiter weglaufe, macht das alles nur noch schlimmer!\!<br>Komm schon, ANGEL! Du musst dich deinen Ängsten stellen!
+
+message_11:
+      text: \ang\{\Com[2]VORWÄRTS, ANGEL!\! \Com[2]DU KANNST DAS!!
+
+#ADD FWWAAAAAAAAA
+
+#ANGEL runs O.S. towards TOWN PLAZA.
+
+#[if no]
+
+message_12:
+      text: \angHeh...\! Ist das so...?\! Nun, man kann sich nie zu sicher sein, nicht wahr?
+
+message_13:
+      text: \angIch sollte jetzt wahrscheinlich zurückgehen...\! nur um sicher zu gehen...
+
+message_14:
+      text: \angIch melde mich später bei euch...
+
+message_15:
+      text: \angIch...\! äh...\! Ich muss los...
+
+#Fwaaaaa
+#ANGEL runs O.S. towards TOWN PLAZA.
+
+# =========================================================================================
+# Cutscene: Angel's Punishment
+# =========================================================================================
+
+message_20:
+      text: \art\{\{\COM[2]\QUAKE[1]ANGEL, KOMM ZURÜCK!!!!\QUAKE[0]
+
+message_21:
+      text: \ang\{\{\COM[2]\QUAKE[1]ES TUT MIR LEID, SCHWESTER!!!\QUAKE[0]
+
+message_22:
+      text: \ang\COM[2]\QUAKE[1]Bitte...\! Ich bitte dich...\!<br>\{\COM[2]NICHT DAS!!!\! \COM[2]ALLES ANDERE ALS DAS!!!!\QUAKE[0]
+
+#RIPPING NOISE
+
+message_23:
+      text: \ang\COM[2]\QUAKE[1]AHH\{HHHHH\{HHHH\{HHHHH\{HHHHHH!!!!\QUAKE[0]
+
+#TALK TO ARTIST
+
+
+message_24:
+      text: \artHuff...\! Oh, ihr seid es nur.\!<br>Danke, dass ihr meinen kleinen Bruder geholt habt...
+
+message_25:
+      text: \artEr ist...\! Er ist jetzt an einem besseren Ort...
+
+message_26:
+      text: \artNur ein Scherz...\! Er steht nur in der Ecke und macht eine Auszeit.\! Vielleicht überlegt er es sich das nächste Mal zweimal, bevor er mein ganzes Geld benutzt, um sich Sammelkarten zu kaufen!
+
+message_27:
+      text: \art\}Psst...\! Hier.\! Nimm das.
+
+message_100:
+      text: Du bekommst eine \c[4]SELTENE KARTE\c[0].
+
+#You got a RARE TRADING CARD.
+
+message_28:
+      text: \art\}Ich habe vorhin so getan, als würde ich eine seiner ultraseltenen Karten zerreißen, nur um ihn ein bisschen zu erschrecken...\! aber das hier ist die echte.
+
+message_29:
+      text: \art\}Behalte es einfach ein paar Tage oder so, bevor du es ihm zurückgibst.\! Ha ha...\! Das sollte ihm eine Lektion sein.

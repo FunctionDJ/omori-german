@@ -1,6 +1,8 @@
 #### Translation: Finished
+#### Editing: Finished
 
 #### Translated by: jasu
+#### Edited by: haj
 
 # =========================================================================================
 # PLUTO ON THE RUN
@@ -15,7 +17,7 @@ message_1:
 #PLUTO runs into snaley and knocks him away
 
 message_2:
-    text: \who\}Oh, nein...\! Meine riesigen, trainierten Arme und Beine geben den Geist auf.
+    text: \who\}Oh, nein...\! Meine riesigen trainierten Arme und Beine geben den Geist auf.
 
 message_52:
     text: \whoSo kann es nicht enden.<br>Ich muss ein Versteck finden!
@@ -83,7 +85,7 @@ message_51:
 #WELTRAUM-PIRATEN walk in
 
 message_10:
-    text: \n<WELTRAUM-PIRAT KUMPEL>\}Schnauf... Schnauf...\! Verdammt! Wir haben ihn aus den Augen verloren!
+    text: \n<WELTRAUM-PIRAT KUMPEL>\}Schnauf... Schnauf...\! Verdammt! Er ist weg!
 
 #WELTRAUM-PIRAT turns to party
 
@@ -110,7 +112,7 @@ message_15:
     text: \herN-Nein? Nicht das ich wüsste...
 
 message_16:
-    text: \n<WELTRAUM-PIRAT ALTER>Wirklich?\! ... ... ... \!Ach, da kann man wohl nichts machen!\!<br>Komm, Alter! Suchen wir weiter.\!<br>Irgendwann finden wir ihn schon!
+    text: \n<WELTRAUM-PIRAT ALTER>Wirklich?\! ... ... ... \!Ach, dann ist das halt so!\!<br>Komm, Alter! Suchen wir weiter.\!<br>Irgendwann finden wir ihn schon!
 
 #WELTRAUM-PIRATEN leave
 #KEL turns around
@@ -141,7 +143,7 @@ message_22:
     text: \whoIch verstehe! Wundervolle Namen für solch wunderbare junge Leute!
 
 message_23:
-    text: \pluMein Name ist PLUTO, und ich bin ein vagabundierender Planet...\!Ein Einzelgänger, sozusagen.\! Ich entschuldige mich<br>für die Unannehmlichkeiten.
+    text: \pluMein Name ist PLUTO, und ich bin ein vagabundierender Planet...\!<br>Ein Einzelgänger, sozusagen.\! Ich entschuldige mich<br>für die Unannehmlichkeiten.
 
 message_24:
     text: \pluAber...\! Ich denke, meine Bestimmung ist es nicht, lediglich als Dekoration zu dienen.
@@ -153,7 +155,7 @@ message_25:
     text: \pluIch sehne nach der Freiheit, durch die Lüfte zu ziehen, wie die Vögel und Sterne!
 
 message_26:
-    text: \pluWenn das mich einen vagabundierenden Planeten macht, so sei es.<br>\!Sie können mich nennen, was sie wollen,<br>solange ich meine Freiheit genießen kann!
+    text: \pluWenn das mich zu einem vagabundierenden Planeten macht, dann sei es so.<br>\!Ihr könnt mich so nennen, wie ihr wollt,<br>solange ich meine Freiheit genießen kann!
 
 #Background below turns to normal
 #PLUTO turns to party
@@ -190,15 +192,15 @@ message_32:
     text: \pluNun, endlich...\!<br>Endlich bin ich frei und kann meinen lebenslangen Traum erfüllen...\!<br>Meine eigene Transportations-Firma!
 
 message_33:
-    text: \pluIch nenne sie “PLUTOS WELTRAUMLINIE”!
+    text: \pluIch nenne sie “PLUTOS RAUMFAHRT”!
 
 #message 18
 
 message_34:
-    text: \pluDiese Erkenntnis hat mein inneres Feuer wieder erglühen lassen!\!Und da ihr mir so selbstlos geholfen habt, muss ich mich revanchieren!
+    text: \pluDiese Erkenntnis hat mein inneres Feuer wieder erglühen lassen!\!<br>Und da ihr mir so selbstlos geholfen habt, muss ich mich revanchieren!
 
 message_35:
-    text: \plu...\! Ähem!\! Ich bin nun PLUTO von "PLUTOS WELTRAUMLINIE".\!<br>Bitte tut so, als wärt ihr soeben an einer Transportstation angekommen.
+    text: \plu...\! Ähem!\! Ich bin nun PLUTO von "PLUTOS RAUMFAHRT".\!<br>Bitte tut so, als wärt ihr soeben an einer Transportstation angekommen.
 
 #PLUTO turns around
 
@@ -213,7 +215,7 @@ message_36:
 #message18
 
 message_37:
-    text: \plu\Com[2]\quake[1]\{ICH GRÜSSE EUCH VON \Com[2]PLUTOS WELTRAUMLINIE!!!\}
+    text: \plu\Com[2]\quake[1]\{ICH GRÜSSE EUCH VON \Com[2]PLUTOS RAUMFAHRT!!!\}
 
 message_38:
     text: \plu\Com[2]\{WOHIN \Com[2]WOLLT IHR \Com[2]HEUTE<br>REISEN,\Com[2] JUNGE \Com[2]REISENDE??
@@ -231,11 +233,11 @@ message_40:
 message_41:
     faceset: MainCharacters_DreamWorld
     faceindex: 47
-    text: \herNein, schon gut!<br>Bringe uns bitte einfach zurück zum Campingplatz!
+    text: \herNein, schon gut!<br>Wir möchten einfach nur zum Campingplatz zurück, bitte!
 
 
 message_43:
-    text: \pluIhr wollt also zum \c[11]OTHERWORLD\c[0] Campingplatz?\!<br>...\! Ah, mein erster Auftrag...\! \sinv[1]wie aufregend!
+    text: \pluIhr wollt also zum \c[11]OTHERWORLD\c[0] Campingplatz?\!<br>...\! Ah, mein erster Auftrag...\! \sinv[1]Wie aufregend!
 
 #PLUTO turn facing away
 #PLUTO shake
@@ -295,7 +297,7 @@ message_132:
     text: \pluDu hast das Potenzial dazu, sehr stark zu sein!\! Lass mich dir eine \c[1]FÄHIGKEIT\c[0] beibringen, die dir von Nutzen sein könnte.
 
 message_133:
-    text: \pluÄhem...\! Sprich mir nach.
+    text: \pluÄhm...\! Sprich mir nach.
 
 message_134:
     text: \plu\Com[2]\{\quake[1]DURCH'S \c[1]MUSKELSPIEL\c[0] KOMM' ICH ANS ZIEL!!\}
@@ -328,7 +330,7 @@ message_141:
     text: \pluLebt wohl, Kinder. Bis zum nächsten Mal!
 
 message_142:
-    text: KEL erlernt \c[1]MUSKELSPIEL\c[0]!
+    text: KEL erlernt das \c[1]MUSKELSPIEL\c[0]!
 
 # =========================================================================================
 # AFTER SBF
@@ -345,7 +347,7 @@ message_142:
 # =========================================================================================
 
 message_47:
-    text: \pluHerzlich Willkommen bei PLUTOS WELTRAUMLINIE!<br>Wohin verleitet euch euer Abenteuer heute?
+    text: \pluHerzlich Willkommen bei PLUTOS RAUMFAHRT!<br>Wohin verleitet euch euer Abenteuer heute?
 
 message_48:
     text: \pluVerstanden.\! Nun... Lehnt euch zurück, entspannt euch und genießt den Flug.
@@ -375,7 +377,7 @@ message_101:
 
 #SFX DING DONG OR SOMETHING
 message_120:
-  text: Herzlich Willkommen bei PLUTOS WELTRAUMLINIE!<br><br>Willst du auf PLUTO warten?
+  text: Herzlich Willkommen bei PLUTOS RAUMFAHRT!<br><br>Willst du auf PLUTO warten?
 
 #BEFORE CUTSCENE
 message_121:

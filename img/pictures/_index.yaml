@@ -1,5 +1,5 @@
 area_logos.png:
-  Status: Demo-only
+  Status: Partial
   Credits: [jasu]
 
 ws_laptop_journal.png:
@@ -23,42 +23,136 @@ before_white_space_1.png:
   Credits: [haj]
 
 00_Intro.png:
-  Status: Partial
+  Status: Finished
   Credits: [haj]
-  Comment: ist aber noch nicht ganz entschieden
 
 BJ-BUST.png:
-  Status: Finished
+  Status: Verified
+  Verified by: [haj]
   Credits: [lugi]
 
 BJ-LOSE.png:
-  Status: Finished
+  Status: Verified
   Credits: [lugi]
+  Verified by: [haj]
 
 BJ-WIN.png:
-  Status: Finished
+  Status: Verified
   Credits: [lugi]
+  Verified by: [haj]
 
 BJ-TIE.png:
-  Status: Finished
+  Status: Verified
   Credits: [lugi]
+  Verified by: [haj]
 
 BJ-HIT.png:
-  Status: Finished
+  Status: Verified
   Credits: [lugi]
+  Verified by: [haj]
 
 BJ-STAY.png:
-  Status: Finished
+  Status: Verified
   Credits: [lugi]
+  Verified by: [haj]
 
 INVADER-Prompt.png:
-  Status: Finished
+  Status: Verified
   Credits: [lugi]
+  Verified by: [haj]
 
 INVADER-Text.png:
-  Status: Finished
+  Status: Verified
   Credits: [lugi]
+  Verified by: [haj]
 
 INVADER-Title.png:
   Status: Finished
   Credits: [lugi]
+
+treehouse_photo_flip.png:
+  Status: Finished
+  Credits: [haj]
+
+black_key.png:
+  Status: Finished
+  Credits: [haj]
+
+SW_BachelorSign.png:
+  Status: Finished
+  Credits: [haj]
+
+SW_BachelorSign[2x1].png:
+  Status: Finished
+  Credits: [haj]
+
+dw_free_jobs.png:
+  Status: Finished
+  Credits: [haj]
+
+HouseMapBrent.png:
+  Status: Verified
+  Credits: [jasu]
+  Verified by: [haj]
+
+HouseMapJoy.png:
+  Status: Verified
+  Credits: [jasu]
+  Verified by: [haj]
+
+GO_Retry.png:
+  Status: Finished
+  Credits: [jasu]
+
+you_died.png:
+  Status: Finished
+  Credits: [jasu]
+
+GO_Continue.png:
+  Status: Finished
+  Credits: [jasu]
+
+ending_slide.png:
+  Status: Finished
+  Credits: [haj]
+
+DW_pluto_wanted.png:
+  Status: Finished
+  Credits: [haj]
+
+DW_sw_quest_for_hearts.png:
+  Status: Finished
+  Credits: [haj]
+
+ws_laptop_piano.png:
+  Status: Partial
+  Credits: [haj]
+  Comment: können wir vielleicht 00:00 machen? - function
+
+ws_laptop.png:
+  Status: Finished
+  Credits: [haj]
+
+bs_laptop.png:
+  Status: Finished
+  Credits: [haj]
+
+ROCK-Background.png:
+  Status: Finished
+  Credits: [haj]
+
+SNAKE-ScoreText.png:
+  Status: Finished
+  Credits: [haj]
+
+SNAKE-Lose.png:
+  Status: Finished
+  Credits: [haj]
+
+SNAKE-Prompt.png:
+  Status: Finished
+  Credits: [haj]
+
+pictures_fa_extra.png:
+  Status: Finished
+  Credits: [haj]

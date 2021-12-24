@@ -3,7 +3,7 @@ import fs from "fs/promises"
 export const exists = async (pathlike: string) => {
   try {
     await fs.access(pathlike)
-  } catch (error) {
+  } catch (error: any) {
     if (error.code !== "ENOENT") {
       throw error
     }
@@ -15,7 +15,7 @@ export const exists = async (pathlike: string) => {
 export const makeDirIfNotExist = async (dir: string) => {
   try {
     await fs.access(dir)
-  } catch (error) {
+  } catch (error: any) {
     if (error.code === "ENOENT") {
       await fs.mkdir(dir)
     } else {
@@ -27,7 +27,7 @@ export const makeDirIfNotExist = async (dir: string) => {
 export const rmSafe = async (pathlike: string) => {
   try {
     await fs.rm(pathlike)
-  } catch (error) {
+  } catch (error: any) {
     if (error.code !== "ENOENT") {
       throw error
     }

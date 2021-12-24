@@ -29,7 +29,7 @@ export const fillArchive = async (
 
   const global = await getGlobal()
 
-  for (const filepath of includes) {
+  for (const filepath of includes.filter(filepath => !global.omitFiles.includes(filepath))) {
     if (noCompression) {
       archive.file(filepath, { name: filepath })
       continue

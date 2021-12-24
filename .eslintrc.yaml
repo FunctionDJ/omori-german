@@ -12,3 +12,10 @@ rules:
   quotes: [error, double]
 ignorePatterns:
   - www-js/**/*.js
+  - src/mod/supported-mods/**/*.js
+  - src/mod/vanilla-patches/**/*.js
+  - pbr.js
+overrides:
+  - files: "src/mod/**/*.[tj]s"
+    rules:
+      no-undef: 0

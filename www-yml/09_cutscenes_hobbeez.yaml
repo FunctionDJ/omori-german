@@ -196,7 +196,7 @@ message_70:
 message_71:
       faceset: MainCharacters_Faraway
       faceindex: 17
-      text: Wow, das ist ja ein Happen.\kel
+      text: Wow, das ist ja ein Zungenbrecher.\kel
 
 message_72:
       faceset: MainCharacters_Faraway
@@ -239,12 +239,12 @@ message_79:
       text: Hey, LADENBESITZER! Wir würden gerne, dass Buch hier kaufen, bitte!\kel
 
 message_80:
-      text: KEL! Wie ist es dir ergangen Kumpel?\!<br> Es ist schon eine Weile her, dass du hier warst, oder?\n<SHOPKEEP>
+      text: KEL! Wie ist es dir ergangen Kumpel?\!<br> Es ist schon eine Weile her, dass du hier warst, oder?\n<LADENBESITZER>
 
 #Pedro hair flip
 
 message_81:
-      text: Ohh, das ist ja PAPA CHIP'S CHIP-OFF-THE-OLD-BLOCK KOCHBUCH!\!<br>Wie ich sehe, hast du guten Geschmack!\n<SHOPKEEP>
+      text: Ohh, das ist ja PAPA CHIP'S CHIP-OFF-THE-OLD-BLOCK KOCHBUCH!\!<br>Wie ich sehe, hast du guten Geschmack!\n<LADENBESITZER>
 
 message_82:
       faceset: MainCharacters_Faraway
@@ -252,11 +252,11 @@ message_82:
       text: Ja, mein Bruder ist seinen Rezepten immer gefolgt!\!<br>Und seine Kekse waren immer meine Favoriten.\kel
 
 message_83:
-      text: Es ist selten, dass es einen Fan von PAPA Chip's Arbeit zu Gesicht bekomme.\!<br>Das macht dann 20.00$!\n<SHOPKEEP>
+      text: Es ist selten, dass es einen Fan von PAPA Chip's Arbeit zu Gesicht bekomme.\!<br>Das macht dann 20.00$!\n<LADENBESITZER>
 
 #Currency noise
 message_84:
-      text: Danke, ihr netten Herren!\! Genießt es!\n<SHOPKEEP>
+      text: Danke, ihr netten Herren!\! Genießt es!\n<LADENBESITZER>
 
 message_85:
       faceset: MainCharacters_Faraway

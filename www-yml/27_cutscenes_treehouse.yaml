@@ -1,0 +1,531 @@
+#### Translation: Finished
+#### Translated by: haj
+
+# =========================================================================================
+# Cutscene: Hooligan Friends
+# =========================================================================================
+
+#Trigger: Exit Aubrey's House.
+
+message_0:
+      text: He, AUBREY! Geht es dir gut?\kim
+
+message_1:
+      faceset: MainCharacters_Faraway
+      faceindex: 0
+      text: Hey, KIM... Mir geht's gut...\! Danke, dass du alle hierher gebracht hast.\aub
+
+message_2:
+      text: \Com[2]\{HEY, LEUTE! LEUTE!!\! AUBREY IST HIER!!\kim
+
+#HOOLIGANS run to AUBREY.
+
+message_3:
+      text: Yo, AUBREY. Geht's dir besser? Wir haben sogar ein Toffee für dich.\van
+
+message_4:
+      text: Was ist da drinnen passiert!? Dein Gesicht ist ganz rot...\!<br>\Com[2]Brauchst du mich, um jemandem eine Lektion zu erteilen!?\mav
+
+message_5:
+      faceset: MainCharacters_Faraway
+      faceindex: 27
+      text: Macht euch keine Sorgen um mich, Leute...\!<br>Entschuldigt, dass ich euch alle vorhin ignoriert habe.\aub
+
+#ANGEL jumps.
+
+message_6:
+      text: Eh, das ist keine große Sache! Wir sind nur froh, dass es dir gut geht.<br>\!Richtig, CHARLIE?\ang
+
+message_7:
+      text: \}...\! Ja, ja.\{\cha
+
+#ANGEL turns to AUBREY.
+
+message_8:
+      text: AUBREY, AUBREY! Komm, wir gehen in den Park!\! Ich möchte euch ein paar selbstausgedachte Moves zeigen!\! Ich war die ganze Nacht auf und habe geübt.\ang
+
+message_9:
+      faceset: MainCharacters_Faraway
+      faceindex: 1
+      text: Haha... Das klingt lustig, aber...\!<br>Vielleicht später.\! Ich muss mich erst um einige Dinge kümmern.\aub
+
+message_10:
+      faceset: MainCharacters_Faraway
+      faceindex: 1
+      text: Wir werden morgen alle zusammen abhängen, ich verspreche es.\aub
+
+message_11:
+      text: Aww... Okay...\! Wir sehen uns dann später.\ang
+
+#KIM walks to AUBREY.
+
+message_12:
+      text: AUBREY... Lass uns nicht zu lange warten!\kim
+
+#AUBREY turns to KIM.
+
+message_13:
+      faceset: MainCharacters_Faraway
+      faceindex: 11
+      text: Du weißt, dass ich das nicht tue, Kim.\! Ich werde zurück sein, bevor du es merkst.\aub
+
+# =========================================================================================
+# Cutscene: Basil is Not Home
+# =========================================================================================
+
+#Trigger: Examine Basil's Door.
+
+message_30:
+      faceset: MainCharacters_Faraway
+      faceindex: 29
+      text: Hey, POLLY! Wie geht's BASIL?\! <br>Wir haben uns gefragt, ob wir heute mit ihm rumhängen können!\her
+
+message_31:
+      text: Oh, hallo zusammen!\!<br>Ich fürchte, BASIL ist im Moment nicht zu Hause.\! <br>Er ist...\! im Krankenhaus.\n<POLLY>
+
+#Everyone is surprised.
+
+message_32:
+      faceset: MainCharacters_Faraway
+      faceindex: 19
+      text: \Com[2]Was!?\! Was ist passiert?\kel
+
+#POLLY is confused, then has an idea.
+
+message_33:
+      text: Oh, tut mir leid! \! Lass mich das klarstellen...\n<POLLY>
+
+message_34:
+      text: BASIL ist im Krankenhaus und besucht seine OMA...\! <br>Sie wurde gestern Abend auf die Intensivstation gebracht.\n<POLLY>
+
+message_36:
+      faceset: MainCharacters_Faraway
+      faceindex: 32
+      text: Oh, nein...\! Es tut mir wirklich leid, das zu hören.\her
+
+message_37:
+      faceset: MainCharacters_Faraway
+      faceindex: 19
+      text: Weißt du, wann er zurückkommt?\kel
+
+message_38:
+      text: Ich bin mir nicht ganz sicher...\! Vielleicht irgendwann am Nachmittag.\! ...\! Tut mir leid...\n<POLLY>
+
+message_39:
+      faceset: MainCharacters_Faraway
+      faceindex: 32
+      text: Macht es euch was aus, wenn wir später noch mal herkommen?<br> Wir machen uns alle große Sorgen um ihn.\her
+
+message_40:
+      text: Das stört mich überhaupt nicht.\! Bitte kommt vorbei und besucht mich.\n<POLLY>
+
+message_41:
+      text: Ich glaube, BASIL würde sich freuen, wenn er ein paar Freunde zu Besuch hätte.\n<POLLY>
+
+message_42:
+      text: Ich bin froh zu wissen, dass BASIL Freunde hat, die sich so sehr um ihn sorgen.\n<POLLY>
+
+message_43:
+      faceset: MainCharacters_Faraway
+      faceindex: 15
+      text: Oh, es ist nichts.\!<br>Freunde...\! sollten füreinander da sein...\!<br>nicht wahr, AUBREY?\kel
+
+message_44:
+      faceset: MainCharacters_Faraway
+      faceindex: 0
+      text: Ja, genau...\! Sicher...\aub
+
+message_45:
+      faceset: MainCharacters_Faraway
+      faceindex: 14
+      text: Wie auch immer, wir kommen später wieder.\! Bis dann, POLLY!\kel
+
+message_46:
+      text: Okay, bis dann!\n<POLLY>
+
+#POLLY shuts door.
+
+message_47:
+      faceset: MainCharacters_Faraway
+      faceindex: 28
+      text: Nun, ich schätze, wir müssen warten, bis er zurückkommt...\! <br>Gibt es irgendetwas, was ihr bis dahin machen wollt?\her
+
+message_48:
+      faceset: MainCharacters_Faraway
+      faceindex: 0
+      text: Ich habe kein Problem damit, einfach abzuhängen und irgendetwas zu tun.\aub
+
+message_49:
+      faceset: MainCharacters_Faraway
+      faceindex: 17
+      text: Dann wähle ich einen Platz drinnen!\! Heute ist es viel zu heiß.\kel
+
+message_50:
+      faceset: MainCharacters_Faraway
+      faceindex: 29
+      text: Klar, vielleicht können wir ein bisschen bei uns zu Hause abhängen...\! Und später, wenn es abgekühlt ist, können wir uns alle das Baumhaus ansehen!\her
+
+message_51:
+      faceset: MainCharacters_Faraway
+      faceindex: 14
+      text: Oh ja! Das sollten wir tun!\!<br>Vor allem, weil AUBREY jetzt auch dabei ist.\kel
+
+message_52:
+      faceset: MainCharacters_Faraway
+      faceindex: 2
+      text: Unser altes Baumhaus, hm?\! Ich war schon so lange nicht mehr dort...\aub
+
+message_53:
+      faceset: MainCharacters_Faraway
+      faceindex: 12
+      text: Ja, wir auch noch nicht!\! Wir wollten ihn uns gestern ansehen, aber es war zu dunkel draußen.\kel
+
+message_54:
+      faceset: MainCharacters_Faraway
+      faceindex: 30
+      text: Was ist mit dir, \n[8]?\! Was wolltest du heute machen?\! Es ist dein letzter Tag, also solltest du das Sagen haben!\her
+
+message_55:
+      faceset: MainCharacters_Faraway
+      faceindex: 13
+      text: Genau!\! Du solltest entscheiden, wie du deinen letzten Tag in \c[11]WEITWEGSTADT\c[0] verbringen willst.\! Zeig mir den Weg, \n[8].\kel
+
+# =========================================================================================
+# Cutscene: Mari's Tree
+# =========================================================================================
+
+#Trigger: Examine: Tree Stump.
+
+message_70:
+      faceset: MainCharacters_Faraway
+      faceindex: 18
+      text: ...\! Das ist der Ort, an dem MARI-\kel
+
+message_71:
+      faceset: MainCharacters_Faraway
+      faceindex: 34
+      text: Ja...\! So ist es.\her
+
+message_72:
+      faceset: MainCharacters_Faraway
+      faceindex: 0
+      text: ...\aub
+
+message_73:
+      faceset: MainCharacters_Faraway
+      faceindex: 2
+      text: Es kommt mir wie eine Ewigkeit vor...\!<br>aber ich kann mich noch genau an diesen Tag erinnern.\aub
+
+#HERO walks a step.
+
+message_74:
+      faceset: MainCharacters_Faraway
+      faceindex: 34
+      text: Das...\! An diesem Tag war wirklich viel los.\! Morgens bin ich mit Mama losgezogen, um ein paar schöne Kleider und Schuhe zu kaufen.\! Wir verbrachten den ganzen Tag mit Einkaufen und kamen erst am Nachmittag nach Hause.\her
+
+message_75:
+      faceset: MainCharacters_Faraway
+      faceindex: 18
+      text: Ich erinnere mich auch an diesen Tag...\!<br>Ich ging mit Papa zum Haareschneiden.\kel
+
+#KEL turns to AUBREY.
+
+message_76:
+      faceset: MainCharacters_Faraway
+      faceindex: 17
+      text: Oh, ja! Du warst auch mit deinem Vater da, AUBREY! <br>Wir haben uns auf etwas vorbereitet, stimmt's?\kel
+
+message_77:
+      faceset: MainCharacters_Faraway
+      faceindex: 27
+      text: Ja, das waren wir.\!<br>Wir wollten uns das Musikkonzert von MARI und \n[8] ansehen...\aub
+
+message_78:
+      faceset: MainCharacters_Faraway
+      faceindex: 0
+      text: Es sollte an diesem Abend sein...\! aber...\! als wir abends nach Hause kamen...\aub
+
+message_79:
+      faceset: MainCharacters_Faraway
+      faceindex: 2
+      text: ... ... ...\aub
+
+#Party turns to tree.
+
+message_80:
+      faceset: MainCharacters_Faraway
+      faceindex: 20
+      text: Selbst nach all dieser Zeit...\!<br>Ich verstehe immer noch nicht, warum sie das tun würde.\kel
+
+message_81:
+      faceset: MainCharacters_Faraway
+      faceindex: 0
+      text: I...\! Ich glaube nicht, dass einer von uns das jemals wird.\aub
+
+message_82:
+      faceset: MainCharacters_Faraway
+      faceindex: 40
+      text: ...\! Hey, Leute...\! Lasst uns...\! Lasst uns weitermachen.\her
+
+#STUMP
+
+message_83:
+      text: ...
+
+# =========================================================================================
+# Cutscene: Memories in the Treehouse
+# =========================================================================================
+
+#Trigger: Enter Treehouse.
+
+
+message_100:
+      faceset: MainCharacters_Faraway
+      faceindex: 42
+      text: Wow... Dieser Ort hat schon bessere Tage erlebt...\! aber es sieht so aus, als ob alles genau da ist, wo wir es verlassen haben.\her
+
+message_101:
+      faceset: MainCharacters_Faraway
+      faceindex: 14
+      text: \Com[2]Alle unsere alten Sachen sind noch da!\kel
+
+#KEL walks to scattered cards.
+
+message_102:
+      faceset: MainCharacters_Faraway
+      faceindex: 13
+      text: Hey, schaut mal! Hier sind unsere Spielkarten!\! <br>Ich war der Beste bei Kartenspielen, nicht wahr, Leute?\kel
+
+#AUBREY walks up to stuffed toy.
+
+message_103:
+      faceset: MainCharacters_Faraway
+      faceindex: 27
+      text: MR. GINAUBER...\! Oh, du bist so schmutzig...\aub
+
+message_104:
+      faceset: MainCharacters_Faraway
+      faceindex: 28
+      text: Sieh dir all diese alten Bücher an...\!<br>Hier sind also all meine Kochbücher hingekommen!\her
+
+message_105:
+      faceset: MainCharacters_Faraway
+      faceindex: 16
+      text: \Com[2]Oh nein! Ich glaube, ich bin gerade auf einen Wagenheber getreten!\kel
+
+message_106:
+      faceset: MainCharacters_Faraway
+      faceindex: 13
+      text: Ah, Mann... Was für schöne Zeiten.\kel
+
+#HERO walks to toaster.
+
+message_107:
+      faceset: MainCharacters_Faraway
+      faceindex: 34
+      text: Hmm...\! Warum hatten wir einen Toaster hier drin?\her
+
+#PLAYER needs to examine Photo.
+#Slide: Treehouse Photo.
+#PLAYER needs to flip it to read the back, then exit out.
+
+message_144:
+      text: Du steckst den \c[4]SPIELZEUGKISTEN SCHLÜSSEL\c[0] in deine Tasche.
+
+message_108:
+      faceset: MainCharacters_Faraway
+      faceindex: 0
+      text: Hey... schau...\! \n[8] hat ein Foto von uns gefunden.\aub
+
+#Slide: Treehouse Photo
+
+message_109:
+      faceset: MainCharacters_Faraway
+      faceindex: 27
+      text: Wir sehen alle... so glücklich aus...\aub
+
+message_110:
+      faceset: MainCharacters_Faraway
+      faceindex: 12
+      text: Fehlte da nicht ein Foto im \c[4]FOTO ALBUM\c[0]?\!<br>Das muss es sein!\kel
+
+message_111:
+      faceset: MainCharacters_Faraway
+      faceindex: 38
+      text: Hey, du hast Recht, KEL!\! Hol dein \c[4]FOTOALBUM\c[0] raus, \n[8].<br>Wir sollten es wieder reinpacken!\her
+
+#Slide: Basil's PHOTO ALBUM (Faraway) - Sorting
+
+message_112:
+      faceset: MainCharacters_Faraway
+      faceindex: 1
+      text: So...\! Jetzt ist das \c[4]FOTOALBUM\c[0] wieder vollständig.\aub
+
+message_113:
+      faceset: MainCharacters_Faraway
+      faceindex: 29
+      text: Wisst ihr... Das ist wahrscheinlich das letzte Mal, dass wir alle hier in diesem Baumhaus zusammen sind.\! Jetzt, wo das \c[4]FOTOALBUM\c[0] vollständig ist...\! Wir sollten uns es ein letztes Mal anschauen.\her
+
+message_114:
+      faceset: MainCharacters_Faraway
+      faceindex: 14
+      text: Gute Idee, HERO!\! Das \c[4]FOTOALBUM\c[0] ist schon draußen, also können wir genauso gut... richtig, \n[8]?\! Fangen wir noch mal von vorne an.\kel
+
+#Slide: Basil's PHOTO ALBUM (Faraway) - Viewing
+
+message_115:
+      faceset: MainCharacters_Faraway
+      faceindex: 32
+      text: ...\! Oh, MARI...\! Ich vermisse sie so sehr.\her
+
+message_116:
+      faceset: MainCharacters_Faraway
+      faceindex: 27
+      text: ...\! Ich...\aub
+
+message_117:
+      faceset: MainCharacters_Faraway
+      faceindex: 8
+      text: Ich vermisse sie auch...\aub
+
+#KEL is surprised.
+
+message_118:
+      faceset: MainCharacters_Faraway
+      faceindex: 17
+      text: Hey... Kommt schon, Leute! Warum die langen Gesichter?\kel
+
+message_119:
+      faceset: MainCharacters_Faraway
+      faceindex: 13
+      text: Schaut uns alle wieder zusammen an...<br>\!MARI würde sich so für uns freuen!\kel
+
+message_120:
+      faceset: MainCharacters_Faraway
+      faceindex: 35
+      text: Ja, du hast recht... Sie wäre es.\her
+
+message_121:
+      faceset: MainCharacters_Faraway
+      faceindex: 32
+      text: Seufz...\! Wenn BASIL doch auch hier sein könnte.\her
+
+message_122:
+      faceset: MainCharacters_Faraway
+      faceindex: 0
+      text: ...\aub
+
+#AUBREY turns away and leaves
+
+message_123:
+      faceset: MainCharacters_Faraway
+      faceindex: 19
+      text: Huh?\! Hey, AUBREY! Wie geht's?\kel
+
+#KEL follows AUBREY
+
+#HERO question mark and leaves
+
+#-------------------------------------------------------------------
+#UPON WALKING INTO PLAYER'S HOUSE WITH AUBREY FOR THE FIRST TIME
+#-------------------------------------------------------------------
+message_125:
+      faceset: MainCharacters_Faraway
+      faceindex: 28
+      text: Es sieht so aus, als würde die Sonne gleich untergehen.\!<br>Willst du jetzt das Baumhaus sehen, \n[8]?\her
+
+#-------------------------------------------------------------------
+#UPON WALKING INTO PLAYER'S HOUSE WITH AUBREY FOR THE FIRST TIME
+#-------------------------------------------------------------------
+
+#everyone walks in one by one
+#aubrey examines her surroundings then turns to player
+
+message_130:
+      faceset: MainCharacters_Faraway
+      faceindex: 27
+      text: \aubWow...\! Ich schätze, du ziehst wirklich weg, hm \n[8]?
+
+message_131:
+      faceset: MainCharacters_Faraway
+      faceindex: 2
+      text: \aubWenn ich dieses leere Haus sehe, fühlt sich alles so plötzlich an.\! Aber für dich...\! muss der Umzug schon lange geplant gewesen sein.
+
+message_132:
+      faceset: MainCharacters_Faraway
+      faceindex: 0
+      text: \aubIch hoffe, du kannst da draußen etwas Frieden finden...\! oder du weißt schon...\! etwas Glück.
+
+#HERO walks to the sliding door.
+#*pause*
+#HERO turns to party.
+
+message_133:
+      faceset: MainCharacters_Faraway
+      faceindex: 31
+      text: \herEs gab viele Dinge, die in den letzten Jahren ungesagt blieben...\! und schmerzhafte Erinnerungen, die wir für uns behalten haben.
+
+message_134:
+      faceset: MainCharacters_Faraway
+      faceindex: 42
+      text: \herAber trotz alledem...\! bin ich erleichtert, dass wir trotzdem in der Lage waren, wieder Freunde zu werden.\! Ich bin froh, dass wir alle hier sind...\! damit wir das gemeinsam durchstehen können.
+
+#*pause*
+#HERO turns to the sliding door.
+#*pause*
+
+message_135:
+      faceset: MainCharacters_Faraway
+      faceindex: 40
+      text: \her...
+
+#*pause*
+#KEL walks to HERO.
+
+message_136:
+      faceset: MainCharacters_Faraway
+      faceindex: 18
+      text: \kelIst schon gut, HERO.\! Ich fange an.
+
+#HERO moves out of the way for KEL.
+#KEL walks outside.
+#*pause*
+#HERO walks outside right after him.
+
+#AUBREY walks to PLAYER.
+
+message_137:
+      faceset: MainCharacters_Faraway
+      faceindex: 0
+      text: \aubHey, \n[8]...\! Wenn du wegziehst...\! Denkst du, es wäre zu viel Aufwand, wenn du-
+
+#from outside
+#AUBREYs face the door
+message_138:
+      text: \kel\com[2]AUBREY!\! \n[8]!\! Kommt ihr?
+
+#*pause*
+
+message_139:
+      faceset: MainCharacters_Faraway
+      faceindex: 27
+      text: \aub...\! Ei-Eigentlich, vergiss es...\! Egal.
+
+#AUBREY walks to door and walks outside.
+#*pause*
+#PLAYER walks slowly in front of door and stops in front of it.
+#screen tints white
+#when you go outside, all 4 party members will already be in your party
+
+
+#---- if you try to exit the ALBUM
+
+message_140:
+      faceset: MainCharacters_Faraway
+      faceindex: 31
+      text: \herDieses Foto muss schon eine Weile hier draußen im Baumhaus gelegen haben.\! Die Farben sind ziemlich verblasst.
+
+message_141:
+      faceset: MainCharacters_Faraway
+      faceindex: 17
+      text: \kelJa...\! Ich frage mich, wie es hierher gekommen ist.\! Wann hast du dich das letzte Mal mit BASIL getroffen, \n[8]?

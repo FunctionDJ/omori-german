@@ -13,7 +13,12 @@
       "img/atlases/",
       "img/characters/",
       "img/pictures/",
-      "img/system/"
+      "img/system/",
+      "img/animations/",
+      "img/enemies/",
+      "img/slotmachine/",
+      "img/sv_actors/",
+      "img/tilesets/"
     ],
     "data": ["www-data/"]
   }

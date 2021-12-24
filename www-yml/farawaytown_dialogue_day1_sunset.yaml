@@ -1,0 +1,299 @@
+#### Translation: Finished
+#### Translated by: jasu
+
+# =========================================================================================
+# Farawaytown extras daily dialogue
+# =========================================================================================
+
+#=========================================================================================
+# DAY 1 - SUNSET
+#=========================================================================================
+
+
+#========================== BASIL================================
+
+#Location: Basil's House (Cutscene: Polly)
+#BASIL's eyes follow \n[8].
+
+message_0:
+      faceset: MainCharacter_Basil
+      faceindex: 33
+      text: \n<BASIL>O-Oh...\! Hi...\! \n[8]...
+
+message_1:
+      faceset: MainCharacter_Basil
+      faceindex: 33
+      text: \n<BASIL>Schön, dich mal wieder zu sehen...\! Haha...
+
+message_2:
+      faceset: MainCharacter_Basil
+      faceindex: 35
+      text: \n<BASIL>W-Was... starrst du mich so an?
+
+message_4:
+      faceset: MainCharacter_Basil
+      faceindex: 36
+      text: \n<BASIL>Ä-Ähm...\! \n[8]?\! Ist...\! Ist alles in Ordnung?
+
+#========================== ANGEL================================
+
+#Location: Hobbeez looking at comics (Pet Rock Fight)
+
+message_10:
+      text: \n<ANGEL>\Com[2]Was schaust du so!?\! Nur dass du's weißt, ich bin hier ein Stammgast! Ich muss die neusten Comics lesen, bevor die Schule wieder anfängt!
+
+#========================== CHARLIE (CHARLENE)================================
+
+#Location: Hardware store looking at flowers
+
+message_20:
+      text: \n<CHARLIE>...
+
+#========================== DER EINZELGÄNGER================================
+
+#Location: FARAWAY PARK running in place in an open area
+
+message_30:
+      text: \n<DER EINZELGÄNGER>\Com[2]Ah!\! Wenn das nicht KEL und \n[8] sind!
+
+message_31:
+      text: \n<DER EINZELGÄNGER>Ihr mögt vorher meine Blamage miterlebt haben...\! aber es ist nun Zeit, dass ich, \Com[2]DER EINZELGÄNGER, meine Ehre zurückerlange!
+
+message_32:
+      faceset: MainCharacters_Faraway
+      faceindex: 17
+      text: \kelHuh? Was ist es dieses Mal, MIKHAEL?
+
+message_33:
+      text: \n<DER EINZELGÄNGER>Grr...\! Du mit deiner Frechheit!
+
+message_34:
+      text: \n<DER EINZELGÄNGER>\Com[2]\{KEL!\!\Com[2] ICH FORDERE DICH ZU EINEM RENNEN HERAUS!\}
+
+message_35:
+      faceset: MainCharacters_Faraway
+      faceindex: 22
+      text: \kel...Wirklich?\! Ein Rennen?
+
+message_36:
+      faceset: MainCharacters_Faraway
+      faceindex: 24
+      text: \kelIch weiß ja nicht...\! Ich bin ziemlich schnell...
+
+message_37:
+      text: \n<DER EINZELGÄNGER>\Com[2]Hah!\! Das sagst du jetzt noch!\! Wart's bloß ab, bis ich dir die Resultate meines Tranings demonstriere!
+
+message_38:
+      faceset: MainCharacters_Faraway
+      faceindex: 22
+      text: \kelIch mein's ernst, MIKHAEL.\! Ich wollte dich nur vorwarnen...\!<br>Ich bin schnell.\! Ich meine, \SINV[1]WIRKLICH\SINV[0] schnell.
+
+message_39:
+      faceset: MainCharacters_Faraway
+      faceindex: 14
+      text: \kelHey, ich hab's!\! Um es etwas fairer zu machen, kannst du deinen Roller benutzen, wenn du willst!
+
+message_40:
+      text: \n<DER EINZELGÄNGER>\{\Com[2]VERSPOTTE MICH JA NICHT!!\}
+
+message_41:
+      text: \n<DER EINZELGÄNGER>Komm schon, KEL!\!<br>Du kannst viel reden, aber kannst du auch Gas geben!?\!<br>\Com[2]Zeig mir doch, was du drauf hast!
+
+message_42:
+      faceset: MainCharacters_Faraway
+      faceindex: 25
+      text: \kelSeufz...\! Muss ich mir das wirklich antun?
+
+message_43:
+      faceset: MainCharacters_Faraway
+      faceindex: 17
+      text: \kelEntschuldige, \n[8].\! Das wird echt nicht lange dauern.
+
+#PLAYER is at the finish line.
+#CAMERA pans to KEL and DER EINZELGÄNGER who are on the other side of the track.
+
+
+message_44:
+      text: \n<DER EINZELGÄNGER>\Com[2]\{\SINV[1]AAAAAUF DIE PLÄTZE!!\SINV[0]
+
+message_45:
+      faceset: MainCharacters_Faraway
+      faceindex: 17
+      text: \kelFertig...
+
+message_46:
+      text: \n<DER EINZELGÄNGER and KEL>\Com[2]\SINV[1]LO\{OO\{OOO\{OOO\{OOOOS!!\SINV[0]
+
+#KEL runs quickly, and the camera follows
+#After a few seconds,DER EINZELGÄNGER slowly walks into the screen from off CAMERA
+
+message_47:
+      text: \n<DER EINZELGÄNGER>Keuch...\! keuch...\! keuch...\! keuch...\! Wait...\!<br>I...\! keuch...\! Ich will eine Revanche...
+
+message_48:
+      faceset: MainCharacters_Faraway
+      faceindex: 22
+      text: \kelIch denke nicht, MIKHAEL...\!<br>Ich meine... Es wird etwas spät, oder?
+
+message_49:
+      text: \n<DER EINZELGÄNGER>Keuch...\! keuch...\! keuch...\! keuch...\! keuch...\! keuch...\! keuch...\! keuch...
+
+#DER EINZELGÄNGER's wig falls off and he picks it up and puts it back on.
+
+message_50:
+      text: \n<DER EINZELGÄNGER>Keuch...\! keuch...\! keuch...\! keuch...\! keuch...\! keuch...\! keuch...\! keuch...\!<br>Bitte...
+
+message_51:
+      text: \n<DER EINZELGÄNGER>Keuch...\! Ich...\! keuch...\! muss...\! keuch...\! meine Ehre...\! verteidigen...\! keuch...
+
+message_52:
+      faceset: MainCharacters_Faraway
+      faceindex: 17
+      text: \kelVielleicht ein andermal...\! Ich und \n[8] gehen jetzt mal...\! Man sieht sich, MIKHAEL!
+
+#cutscene ends
+
+message_53:
+      text: \n<DER EINZELGÄNGER>Keuch...\! keuch...\! keuch...\! keuch...\! keuch...\! keuch...\!<br>Verflucht seist du, KEL...\! Keuch...
+
+message_54:
+      text: \n<DER EINZELGÄNGER>Das ist nicht das Ende...\! \Com[2]vom EINZELGÄNGER... keuch...
+
+#========================== SHORT HAIR GIRL================================
+
+#Location: FARAWAY PARK running in place in an open area
+
+message_60:
+      text: \n<KURZES HAAR MÄDEL>Ich glaube, ich habe heute die Liebe meines Lebens gefunden...\!<br>Ich hoffe, er bemerkt mich!
+
+#========================== FASHIONABLE MOM================================
+
+#Location: Candy Shop
+
+message_70:
+      text: \n<MODISCHE MUTTER>Schokolade ist der bester Freund von Mädchen!<br>Jedoch...\! sind Diamanten auch ziemlich weit oben...
+
+#========================== STRANGE MAN================================
+
+#Location: FARAWAY PARK
+
+message_80:
+      text: \n<KOMISCHER MANN>Der Schmutz auf diesem Planeten...\! Da wird mir schlecht...\!<br>Ich wünschte, ich könnte ihn...\! einfach auslöschen.
+
+#========================== ALTER BÄRTIGER===============================
+
+#Location: Graveyard
+
+message_90:
+      text: \n<ALTER BÄRTIGER>Hier ist es ziemlich still, was?\! Man kann den Lärm der Straßen garnicht hören...
+
+message_91:
+      text: \n<ALTER BÄRTIGER>Heh...\! Hier gibt es nur umherwandernde Seelen...\!<br>Oh, und mich natürlich!
+
+message_92:
+      text: \n<ALTER BÄRTIGER>Was schaut ihr so?\!<br>\{\Com[2]ICH BIN NOCH NICHT TOT!
+
+message_93:
+      text: \n<ALTER BÄRTIGER>\SINV[2]\Com[2]GWA\{HAH\{AHA\{HAHA\{HAHA!!\SINV[0]
+
+#========================== DAPHNE & BOWEN===============================
+
+#Location: Church
+
+message_100:
+      text: \n<EIN ZWILLING>\SINV[1]Unsere Familie geht einmal pro Woche zur \c[11]KIRCHE\c[0]...\SINV[0]
+
+message_101:
+      text: \n<DER ANDERE ZWILLING>\SINV[1]Manchmal zweimal...\SINV[0]
+
+message_102:
+      text: \n<EIN ZWILLING>\SINV[1]Manchmal dreimal...\SINV[0]
+
+
+#========================== POLLY===============================
+
+#Location: Basil's House
+
+#After cutscene: Polly
+message_110:
+      text: \n<POLLY>Abendessen ist bald fertig.\!<br>Fühl dich hier wie zuhause!
+
+#After cutscene: Awkward Dinner
+message_111:
+      text: \n<POLLY>Du fragst dich wahrscheinlich, wer ich bin, stimmt's?\!<br>Ich bin... nur eine Pflegerin, die sich um BASILs Großmutter kümmert.
+
+message_112:
+      text: \n<POLLY>Vor einigen Monaten haben BASILs Eltern mich als BASILs Betreuerin eingestellt, da sie oft aus dem Land reisen.
+
+message_113:
+      text: \n<POLLY>Ich gebe mein Bestes, so viel wie möglich für BASIL zu tun, während ich hier bin, aber...
+
+message_114:
+      text: \n<POLLY>Seit ich hier bin, habe ich das Gefühl, dass BASIL versucht, mich zu vermeiden...
+
+message_115:
+      text: \n<POLLY>Ich frage mich, ob ich etwas falsch mache...
+
+#==========================Preacher===============================
+
+#Location: Church
+
+message_120:
+      text: \n<PREDIGER>Hmm...\! Ich würde Kämpfe mitten während einer Predigt normalerweise nicht zulassen...\! aber das schien sehr wichtig zu sein.
+
+message_121:
+      text: \n<PREDIGER>Für die letzten paar Jahre ist dieses Mädchen AUBREY jede Woche hierher gekommen, aber nie hat sie mit irgendjemandem geredet.
+
+message_122:
+      text: \n<PREDIGER>Ich habe es einige Male versucht, mit ihr zu reden...<br>aber sie nennt mich immer...\! ähm...\! schlechte Dinge...
+
+message_123:
+      text: \n<PREDIGER>Sie scheint, sehr bekümmert zu sein.\! Vielleicht könnte sie Freunde gebrauchen.
+
+#==========================Sarah===============================
+
+#Location: Sarah's House
+
+message_130:
+      text: \n<PFERDESCHWANZ MÄDEL>Oh, hi!\! Ich habe Aufruhr aus der Küche gehört.\!<br>Ist Papas \c[4]EHERING\c[0] wieder in das Waschbecken gefallen?\! Das passiert ihm oft...
+
+message_131:
+      text: \n<PFERDESCHWANZ MÄDEL>Er weiß aber nicht, dass ich es weiß... Hehe...
+
+message_132:
+      text: \n<PFERDESCHWANZ MÄDEL>Wie auch immer, hi! Ich bin SARAH!\! Schön, euch kennenzulernen!
+
+#Talk to SARAH again
+
+message_133:
+      text: \n<PFERDESCHWANZ MÄDEL>Seit Mama in ihrem Gesundheitswahn ist, haben wir keine Chips oder Snacks mehr im Haus...\! aber...
+
+message_134:
+      text: \n<PFERDESCHWANZ MÄDEL>Ich schätze, Karotten und Sellerie schmecken auch gut...\! wenn man sie in Ranch-Dressing eintunkt...
+
+#==========================Sarah's Dad===============================
+
+#Location: Sarah's House (Ring in the sink quest)
+
+message_140:
+      text: \n<TOLLPATSCHIGER TYP>Hmm...\! Hey Kinder, habt ihr eine große Chipstüte irgendwo rumliegen sehen?\! Ich könnte schwören, ich habe letztens erst eine riesige Tüte gekauft...
+
+#==========================Sarah's Mom===============================
+
+#Location: Sarah's House (Ring in the sink quest)
+
+message_150:
+      text: \n<PFERDESCHWANZ FRAU>Meine Familie und ich sollten diese Woche eigentlich anfangen, gesund zu essen, aber der Geruch von \c[11]GINO'S PIZZA\c[0] ist so verlockend...
+
+message_151:
+      text: \n<PFERDESCHWANZ FRAU>Seufz...\! Vielleicht ist ab und zu etwas Fettiges doch in Ordnung...
+
+#==========================DER EINZELGÄNGER's Dad===============================
+
+#Location: Church
+
+message_160:
+      text: \n<SCHICKE DAME>Oh, meine Güte...\! Schnief...\!<br>Sieht so aus, als wäre unser jüngster Sohn wieder nicht zur \c[11]KIRCHE\c[0] gegangen...
+
+message_161:
+      text: \n<SCHICKER HERR>Seufz...\! MIKHAEL...\! Wo bist du nur?\!<br>Warum musst du deiner Mutter nur solche Sorgen bereiten?

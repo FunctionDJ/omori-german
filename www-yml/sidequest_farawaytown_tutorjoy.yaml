@@ -1,0 +1,148 @@
+#### Translation: Finished
+#### Translated by: haj
+
+# =========================================================================================
+# Sidequest: Tutoring Joy
+# =========================================================================================
+
+#Examine and take language Tutor Flyer:
+
+message_0:
+      text: Es gibt eine Jobausschreibung an der Wand.\! Lesen?
+
+#Yes/No
+
+#Yes
+
+message_1:
+      text: \"NACHHILFELEHRER GESUCHT! Suche für meine Tochter JOY einen Nachhilfelehrer für die Sprache Deutsch! $20.00 pro Tag!\! Bitte bringen Sie diesen Flyer zu mir nach Hause für ein kurzes Gespräch!”
+
+message_2:
+      text: Den \c[4]BLAUEN FLYER\c[0] von der Wand nehmen?
+
+#Yes/No
+
+#Yes
+message_3:
+      text: Auf der Rückseite befindet sich eine Karte zum Haus.
+#Show map
+
+#Examine Joy's House Door
+
+message_4:
+      text: \n<DICKE AUGENBRAUEN>Hallo da!\! Was kann ich für euch tun?
+
+message_100:
+      text: Du hast DICKE AUGENBRAUEN den \c[4]BLAUEN FLYER\c[0] gegeben.
+
+message_101:
+      text: \n<DICKE AUGENBRAUEN>Ah, ihr müsst die neuen Nachhilfelehrer von JOY sein!
+
+message_5:
+      text: \n<DICKE AUGENBRAUEN>Hmm...\! Ein Vorstellungsgespräch ist zu viel Mühe!\! <br>Du solltest Deutsch der 2. Klasse beherrschen, richtig?
+
+message_7:
+      text: \n<DICKE AUGENBRAUEN>Beeil dich und komm rein!\! Meine Tochter JOY wartet in ihrem Zimmer auf dich!
+
+#Talk to Joy
+
+message_8:
+      text: \n<KLEINES MÄDCHEN>H-Hallo... Ich bin JOY. Freut mich, dich kennenzulernen!\!<br>Ihr müsst meine neuen Nachhilfelehrer sein.\! Sollen wir jetzt anfangen?
+
+message_9:
+      text: \n<KLEINES MÄDCHEN>Das ist das Arbeitsblatt, bei dem ich nicht weiterkomme...
+
+#Language worksheet
+
+message_10:
+      text: \n<KLEINES MÄDCHEN>Diese Frage bereitet mir ein wenig Schwierigkeiten...
+
+message_11:
+      text: Mein Bleistift ist __ dem Tisch.
+
+message_12:
+      text: A) in
+
+message_13:
+      text: B) an
+
+message_14:
+      text: C) auf
+
+message_15:
+      text: \n<KLEINES MÄDCHEN>Wie wäre es mit dem hier?
+
+message_16:
+      text: In dem Satz "Lies dein Buch ruhig durch" ist "ruhig" was für ein Wort?
+
+message_17:
+      text: A) Adjektiv
+
+message_18:
+      text: B) Adverb
+
+message_19:
+      text: C) Präposition
+
+message_20:
+      text: \n<KLEINES MÄDCHEN>Das hier ist das Schwierigste...
+
+message_21:
+      text: Welcher dieser Sätze ist richtig geschrieben?
+
+message_22:
+      text: A) "Auberginen schmecken besser, wenn sie gekocht sind."
+
+message_23:
+      text: B) "Es ist auf jeden Fall Leckeres als Tofu."
+
+message_24:
+      text: C) "Ich glaube, Auberginen sind das besser schmeckende Weichgemüse."
+
+#Correct choice:
+
+message_25:
+      text: \n<KLEINES MÄDCHEN>Oh, okay!\! Jetzt verstehe ich...
+
+#Incorrect choice:
+
+message_26:
+      text: \n<KLEINES MÄDCHEN>Moment...\! Ich dachte die richtige Antwort wäre "A"?
+
+message_27:
+      text: \n<KLEINES MÄDCHEN>Hmm...\! Aber...\! Ist die richtige Antwort nicht "B"?
+
+message_28:
+      text: \n<KLEINES MÄDCHEN>Hmm...\! Warte...\! Ist die richtige Antwort nicht "C"?
+
+message_29:
+      text: \n<KLEINES MÄDCHEN>Oh, ich verstehe!\! Du willst mich wohl testen...
+
+message_30:
+      text: \n<KLEINES MÄDCHEN>Tut mir leid, ich hatte noch nie einen Nachhilfelehrer, ich weiß also nicht, wie das funktioniert!
+
+#After Completing Language Worksheet:
+
+message_31:
+      text: \n<KLEINES MÄDCHEN>Danke!\! Ich glaube, ich verstehe es jetzt ein bisschen besser...\! Hehe...
+
+message_32:
+      text: \n<DICKE AUGENBRAUEN>Hallo! Hallo!\! JOY! Wie geht's dir?\! <br>Sind diese Nachhilfelehrer überhaupt eine Hilfe für dich?
+
+message_33:
+      text: \n<DICKE AUGENBRAUEN>Ah!\! Wie ich sehe, hast du dein Arbeitsblatt schon ausgefüllt...
+
+message_34:
+      text: \n<DICKE AUGENBRAUEN>Tolle Arbeit!\! Du solltest in Zukunft Vollzeit Nachhilfe geben!\! <br>Hier ist eure Bezahlung!
+
+message_35:
+      text: \n<DICKE AUGENBRAUEN>Bitte kommt morgen wieder!
+
+message_36:
+      text: \n<DICKE AUGENBRAUEN>Hallo! Bist du wegen des Nachhilfe-Posters hier?\! Nein? Oh...
+
+message_37:
+      text: \n<DICKE AUGENBRAUEN>JOY sollte in diesem Moment in ihrem Zimmer sein.\! Danke für eure Hilfe!
+
+message_1000:
+      text: Ugh...\! Sprache...

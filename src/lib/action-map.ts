@@ -73,7 +73,7 @@ const getEntry = (filepath: string): ActionMapping => {
 const runAndAttachFilePathToError = async (fn: Function, filepath: string, ...args: any[]) => {
   try {
     return await fn(filepath, ...args)
-  } catch (error) {
+  } catch (error: any) {
     console.error(`Error: ${error.message}\nFile: ${filepath}`)
     process.exit(1)
   }
@@ -93,7 +93,7 @@ export const buildAndAttach = async (archive: Archiver, filepath: string, global
 export const check = (filepath: string, global: Global): Promise<any>|void => {
   const entry = getEntry(filepath)
 
-  if (entry.needExternalIndex) {
+  if (entry.needExternalIndex && !global.noMetadataCheckFiles.includes(filepath)) {
     global.filesNeedIndex.push(filepath)
   }
 

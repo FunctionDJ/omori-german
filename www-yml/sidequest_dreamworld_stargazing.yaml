@@ -1,6 +1,8 @@
 #### Translation: Finished
+#### Editing: Finished
 
 #### Translated by: lugi
+#### Checked by: haj
 
 # =========================================================================================
 # STARGAZING
@@ -12,7 +14,7 @@ message_1:
     text: \kelWow, Miss. Sie sind echt groß...
 
 message_2:
-    text: \n<POH>Danke, Kleiner!\!<br>Meistens ist es eher umständlich... <br>aber dafür kann ich die Sterne besser betrachten.
+    text: \n<POH>Danke, Kleiner!\!<br>Meistens ist es eher umständlich...<br>aber dafür kann ich die Sterne besser betrachten.
 
 message_3:
     faceset: MainCharacters_DreamWorld

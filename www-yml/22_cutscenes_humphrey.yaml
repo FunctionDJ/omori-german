@@ -1,0 +1,247 @@
+#### Translation: Finished
+#### Translated by: schako
+
+# =========================================================================================
+# Cutscene: Sweetheart's Last Resort
+# =========================================================================================
+
+#Trigger: Enter proximity of Sweetheart.
+
+message_0:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 11
+      text: Hey...\! Ist das nicht...\! SWEETHEART?\aub
+
+#KEL jumps.
+
+message_1:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 18
+      text: \{HEY, SWEETHEART!! ERINNERST DU DICH AN UNS!?\!\} <br>Wir sind die Kinder, die deine Hochzeit fast ruiniert haben!\kel
+
+#SWEETHEART looks at party.
+#SWEETHEART is surprised, then frustrated.
+
+message_2:
+      text: \Com[2]Was? Ihr vier schon wieder!?\! Warum taucht ihr immer wieder auf?\swh
+
+message_3:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 19
+      text: Also...\! Wie ist das Eheleben so?\kel
+
+message_4:
+      text: Ha!\! Das Eheleben ist ein Witz!\! Ich habe die Beziehungen mit diesem erbärmlichem KAPITÄN vor langer Zeit beendet!\swh
+
+message_5:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 29
+      text: Aber...\! eure Hochzeit war buchstäblich gestern.\kel
+
+#AUBREY is worried.
+
+message_6:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 4
+      text: Ach nein...\! Bedeutet das, dass du und SPACE EHEMANN...\aub
+
+message_7:
+      text: Hmph!\! Für mich ist er jetzt SPACE EX-EHEMANN!\swh
+
+message_8:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 27
+      text: \}Autsch... Der arme Kerl...\kel
+
+#SWEETHEART looks away.
+
+message_9:
+      text: Ach! Meine Reise hat sich im Kreis geschlossen.\!<br>Es ist mir jetzt klarer denn je, dass es meinen perfekten Verehrer nicht gibt!\swh
+
+message_10:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 39
+      text: Sag das nicht, SWEETHEART! <br>Ich bin sicher, dein Seelenverwandter ist irgendwo da draußen!\her
+
+#SWEETHEART turns to HERO.
+
+message_11:
+      text: \sinv[1]Oh, mein süßer HERO! \!Wie habe ich mich nach deiner Stimme gesehnt!\swh
+
+message_12:
+      text: Aber nein... ich muss es unterlassen.\! Ich habe meinen Weg bereits entschieden.\! <br>Die Suche nach einem Verehrer ist mir viel zu altmodisch...\swh
+
+message_13:
+      text: \sinv[1]Also habe ich beschlossen, dass ich mir einfach einen machen werde!\swh
+
+message_14:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 46
+      text: W-Was?\! E-einen Verehrer machen?\! Ist das überhaupt möglich!?\her
+
+message_15:
+      text: Mit Mitteln von Normalbürgern eher nicht!\! Aber ein wohlhabender Mensch wie ich hält sich nicht an solche Regeln!\swh
+
+message_16:
+      text: Ich gehe an einen Ort, den sich nur stinkreiche Leute wie ich leisten können...\! Zu einer Familie von Meereshexen, die sich auf Kunden mit...\! besonderen Bedürfnissen spezialisiert haben.\swh
+
+message_17:
+      text: Tschüssi, ihr Bauern!\! Ich komme zu spät zu meinem Termin!\swh
+
+#SWEETHEART leaves O.S.
+
+message_18:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 28
+      text: Also...\! sollten wir ihr folgen...\! oder was?\kel
+
+message_19:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 11
+      text: Ich habe das Gefühl, dass jedes Mal, wenn SWEETHEART auftaucht, etwas Schlimmes passiert.\aub
+
+message_20:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 39
+      text: Ja...\! Wenn es um Katastrophen geht...\!<br>spielt sie in einer eigenen Liga.\her
+
+# =========================================================================================
+# Cutscene: Humphrey
+# =========================================================================================
+
+#Trigger: Enter Humphrey's Cave.
+
+
+#[Trigger: Enter proximity of Humphrey]
+
+#Humphrey speaking:
+message_42:
+      text: Na Hallo meine Freunde\! Ich bin HUMPHREY.\! Was führt dich hierher in meine bescheidene kleine Höhle?\who
+
+message_43:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 1
+      text: Oh, hallo HUMPHREY! Wir suchen nur jemanden.\! Tut mir leid, wenn wir dich stören.\aub
+
+message_44:
+      text: Oh nein, überhaupt nicht, Kinder! Ich liebe Besucher.\n<HUMPHREY>
+
+message_45:
+      text: Tatsächlich seid ihr die zweite Gruppe, die mich heute besucht!\!<br>Das erste war nur ein Mädchen... Ein sehr lautes Mädchen mit einer großen roten Schleife.\n<HUMPHREY>
+
+message_46:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 26
+      text: Klingt das nicht wie jemand, den wir kennen?\kel
+
+#HERO is surprised and begins to look around frantically.
+
+message_47:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 46
+      text: Hä? Ist SWEETHEART hier?\! Wo ist sie?\her
+
+message_48:
+      text: Hmm...\! Wo ist sie? Wo ist sie?\!<br>Es liegt mir auf der Zunge...\! ...\! \quake[1]Nyak, nyak!\quake[0]\!<br>Das ist ein Witz, das ist es!\! Sie ist...\! in mir, siehst du?\n<HUMPHREY>
+
+message_49:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 4
+      text: S-Sie ist... in dir?\aub
+
+message_50:
+      text: Warum ja!\! Sie besucht meine Gäste, denn ich bin auch die Heimat einer Meerhexenfamilie!\n<HUMPHREY>
+
+message_51:
+      text: Wir verbringen unsere Zeit miteinander, plaudern und kichern.\!<br>Es macht so viel Spaß, von ihren täglichen Eskapaden zu hören.\! Manchmal sind sie sogar so nett, mir meine Mahlzeiten zu bringen!\n<HUMPHREY>
+
+message_52:
+      text: Für sie ist es viel einfacher, denn sie sind meinem Bauch näher als ich.\! Ich bin sicher, sie würden sich über noch mehr Besucher freuen!\!\n<HUMPHREY>
+
+message_55:
+      text: Hier!\! Lasst mich die Brücke für euch absenken.\n<HUMPHREY>
+#HUMPHREY's mouth opens.
+
+message_53:
+      text: \quake[1]Mle\{hh\{hhhh...\quake[0]\n<HUMPHREY>
+
+#HUMPHREY's tongue creates pathway.
+#HUMPHREY burps.
+
+message_54:
+      text: Entschuldigung...\!<br>Der erste Gast scheint Verdauungsbeschwerden zu verursachen.\n<HUMPHREY>
+
+# =========================================================================================
+# Cutscene: Where do we start?
+# =========================================================================================
+
+#Trigger: Enter Humphrey.
+
+message_70:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 18
+      text: Whoa, HUMPHREYs Bauch ist riesig!\kel
+
+message_71:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 4
+      text: Es sieht sicher leicht aus, sich hier zu verirren...\aub
+
+message_72:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 19
+      text: Ich wette, wenn ich schreie, würde das ein \sinv[1]ECHO\{OOOO! machen\kel
+
+#HUMPHREY appears as a lump in front of party.
+
+message_73:
+      text: \sinv[1]ECH\{OOO\{OOOO...\}echo...\}echo...\}echo...!\n<HUMPHREY>
+
+message_74:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 31
+      text: \Com[2]Ahhh!\! Woher kommst du?\kel
+
+
+message_75:
+      text: Walkommen\! Seid ihr überrascht, mich zu sehen?<br>\!Ich bin immer hier.\! Ich bin in mir und überall um dich herum!\n<HUMPHREY>
+
+#HUMPHREY lumps appear all around.
+
+message_76:
+      text: Ich bin überall!\n<HUMPHREY>
+
+#HUMPHREY lumps disappear and one HUMPHREY lump appears in front KEL.
+
+message_77:
+      text: Oder ich bin einfach hier!\n<HUMPHREY>
+
+message_78:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 18
+      text: Wow, das ist so cool, HUMPHREY! <br>\!Ich wünschte ich könnte das machen.\kel
+
+message_79:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 11
+      text: Es ist irgendwie eklig, wenn du mich fragst.\aub
+
+#HUMPHREY appears in front of AUBREY.
+
+message_80:
+      text: Wow...\! So unhöflich...\n<HUMPHREY>
+
+#HERO walks toward the center of the map and looks around.
+
+message_81:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 39
+      text: Hmm...\! Es gibt viele Wege...\!<br>Wo sollen wir überhaupt anfangen?\her
+
+#HUMPHREY appears in front of HERO.
+
+message_82:
+      text: Links...\! Rechts...\! Oben...\! Drumherum...\! <br>Ist das überhaupt wichtig?\! Es ist alles gerade vor euch, nicht wahr?\! <br>Wählt einfach einen Weg aus! So einfach ist das!\n<HUMPHREY>
+
+message_83:
+      text: \n<HUMPHREY>\{\sinv[1]YOOOOO-HOOOOOOOOOO~!!

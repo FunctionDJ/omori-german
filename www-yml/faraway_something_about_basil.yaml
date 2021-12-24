@@ -1,56 +1,267 @@
 #### Translation: Finished
-#### Editing: Partial
+#### Editing: Finished
 
 #### Translated by: percivical
-#### Read by: panaxyn
-#### Corrections by: mewo
+#### Checked by: panaxyn
+#### Corrections by: mewo, jasu
 
-message_1: \aubWisst ihr...\! nachdem wir uns alle auseinander gelebt haben...\! Fühlte ich mich so allein.
-message_2: \aubAber jetzt wird mir klar, dass ich diejenige war, die alle weggestoßen hat.
-message_3: \aubIn den ersten Monaten nach MARI's Tod...<br>hat sich alles so schnell verändert.<br><br>\n[8] und BASIL haben sich immer mehr abgeschottet...\! KEL schloss ein paar Freundschaften beim Sport....\! und HERO schien immer mit dem Lernen beschäftigt zu sein.
-message_4: \aubIch war so wütend darauf, wie das Leben immer weiterging.
-message_5: \aubIch fühlte mich so, als ob mich jeder verlassen hatte...<br>und MARI ebenfalls...
-message_6: \aubAber ich konnte nicht sehen, dass jeder auf seine eigene Art mit dem Schmerz umging.
-message_7: \aubAls \n[8] aufhörte, zur Schule zu gehen...\! Hatte ich gesehen, wie BASIL immer alleine in der Pause war...\! also fragte ich ihn, ob er gemeinsam mit mir bei ihm zuhause lernen wollte...
-message_8: \aubEr schien am Anfang irgendwie unruhig deswegen zu sein...\! aber nachdem ich ihn angebettelt hatte, stimmte er zu.
-message_30: \aubDer Weg dorthin war wirklich still...\!<br>BASIL schaute mich nicht einmal an.
-message_9: \aubUnd als wir in seinem Zimmer angekommen waren, hatte ich versucht, mit ihm zu sprechen...\!<br>aber er sagte, er müsse ins Badezimmer, und rannte davon.
-message_50: \aubDas war der Moment, in dem ich sein altes \c[4]FOTO ALBUM\c[0] auf seinem Bücherregal bemerkte.\! Ich wollte mir nur die Fotos anschauen, weil...\! naja...\! Ich denke, ich wollte einfach nur alle wieder glücklich sehen.
-message_10: \aubAber...\! als ich es öffnete...
-message_11: \aubHatte BASIL all die Fotos mit einem schwarzen Stift bekritzelt!
-message_12: \aubIch konnte es nicht glauben...\! Er hatte sogar MARI's Gesicht bekritzelt...
-message_13: \aubAll unsere Erinnerungen zusammen...\!<br>Es fühlte sich so an, als ob er sie zerstört hatte!
-message_14: \aubIch war so verwirrt...\! und wütend...\!<br>Ich dachte, er wäre verrückt.
-message_15: \aubUnd...\! anstatt zu versuchen, ihn zu verstehen...\! Stahl ich sein \c[4]FOTO ALBUM\c[0] und fing an, ihn Spinner zu nennen und solche Dinge halt.
-message_16: \aubUnd irgendwann...\! War ich nicht die Einzige, die ihn beleidigte.
-message_17: \aub...
-message_18: \aubIch fühle mich jetzt wie Abschaum deswegen.
-message_19: \aubAber, wisst ihr was...
-message_20: \aubDas einzige was ich seitdem tat war zu versuchen, mich von jedem zu trennen.
-message_21: \aubIrgendwie ist's schon lustig.\! Was ich alles tat ist schlimmer als das, was BASIL tat, und trotzdem bin ich diejenige, die sauer auf ihn ist...
-message_22: \aubSchnief...\! Ich bin so ein Idiot.
-message_23: \herHey...\! Ist schon okay, AUBREY.\! Wir alle haben Fehler gemacht.
-message_24: \kelZu der Zeit hatte ich nicht wirklich verstanden, was passierte...\! Ich hatte Angst davor, dass ich alles irgendwie noch schlimmer machen würde...\! also beschloss ich, mich aus all dem rauszuhalten.
-message_25: \kelEs tut mir wirklich leid, AUBREY...\! und es tut mir auch leid \n[8].\!<br>Ich war ein ziemlich schlechter Freund.
-message_26: \herDu warst damals noch ziemlich jung, KEL, aber ich bin der Älteste...\!<br>so Ich hätte wissen sollen, mich um alle zu kümmern.
-message_27: \herIch...\! Ich habe...
-message_28: \aubAh...\! Nein, ist schon okay.
-message_29: \aubAlle sind jetzt wieder hier...\! also ist's okay.
-message_31: \aubSchnief...\! Ich verdiene...
-message_32: \aubIch verdiene Freunde wie euch nicht.
-message_33: \herSei nicht albern, AUBREY.\! Natürlich verdienst du uns.
-message_34: \herWährend all dieser Zeit war es ziemlich offensichtlich, dass wir dir noch wichtig waren...
-message_35: \herIch meine...\! schau' dir nur all die Fotos im \c[4]FOTO ALBUM\c[0] an!\!<br>Es gibt nirgendwo Spuren der schwarzen Markierungen, von denen du gesprochen hast!\! Man kann unsere Gesichter perfekt erkennen!
-message_36: \herIch denke, sie haben sich nicht einfach selbst gesäubert, oder?
-message_37: \aub...
-message_38: \kelIst schon in Ordnung, AUBREY...\!<br>Ich verspreche dir, von nun an werde ich immer für dich da sein!
-message_39: \herJa... Ich versprech's auch...\! Wir sollten alle füreinander da sein!
-message_40: \her...
-message_41: \herHey, wisst ihr was?\!<br>Ich denke, dies wäre der perfekte Moment für eine große Gruppenumarmung!
-message_42: \kel\sinv[1]\{\{\Com[2]GRUPPENUMARMUNG!?
-message_43: \kel\{\{\sinv[1]AWWW, YEAH! ICH MACH' MIT!!
-message_44: \aubW-Wartet doch mal 'ne Sekunde!
-message_45: \her\sinv[1]\{BEREIT ODER NICHT, WIR KOMMEN!
-message_47: \aub...
-message_48: \aubWir sollten heute später nachschauen, ob BASIL wieder zuhause ist.
-message_49: \aubIch muss mich bei ihm entschuldigen...\! und...\! Ich denke jetzt sofort...\!<br>Er ist derjenige, der uns jetzt wahrscheinlich am meisten braucht.
+# =========================================================================================
+# Farawaytown: Something about Basil
+# =========================================================================================
+
+
+#=========================Something about Basil==============================
+
+#AUBREY walks back after sticking a pinwheel on the stump.
+
+message_1:
+      faceset: MainCharacters_Faraway
+      faceindex: 2
+      text: \aubWisst ihr...\! nachdem wir alle auseinander getrieben sind...\! Habe ich mich so allein gefühlt.
+
+message_2:
+      faceset: MainCharacters_Faraway
+      faceindex: 27
+      text: \aubAber jetzt wird mir erst klar, dass ich diejenige war, die alle abgestoßen hat.
+
+message_3:
+      faceset: MainCharacters_Faraway
+      faceindex: 0
+      text: \aubDie ersten Monaten nach MARIs Tod...<br>hat sich alles so schnell verändert.<br><br>\n[8] und BASIL hat sich immer mehr abgeschottet...\! KEL hat Freunde beim Sport gefunden....\! und HERO schien immer mit Lernen beschäftigt zu sein.
+
+message_4:
+      faceset: MainCharacters_Faraway
+      faceindex: 7
+      text: \aubIch war so wütend darüber, wie das Leben immer weiterging.
+
+message_5:
+      faceset: MainCharacters_Faraway
+      faceindex: 4
+      text: \aubIch fühlte mich so, als ob mich jeder verlassen hätte...<br>und MARI...
+
+message_6:
+      faceset: MainCharacters_Faraway
+      faceindex: 2
+      text: \aubAber ich habe nicht verstanden, dass jeder auf seine eigene Art mit dem Schmerz umging.
+
+message_7:
+      faceset: MainCharacters_Faraway
+      faceindex: 0
+      text: \aubAls \n[8] nicht mehr zur Schule ging...\! Hab ich gesehen, wie BASIL in der Pause immer allein war...\! also fragte ich ihn, ob er gemeinsam mit mir bei ihm zuhause lernen wollte...
+
+message_8:
+      faceset: MainCharacters_Faraway
+      faceindex: 27
+      text: \auEr schien am Anfang unsicher zu sein...\! aber nachdem ich ihn angebettelt hatte, hat er ja gesagt.
+
+message_30:
+      faceset: MainCharacters_Faraway
+      faceindex: 0
+      text: \aubDer Weg zu ihm war sehr still...\!<br>BASIL hat mich nicht einmal angeschaut.
+
+message_9:
+      faceset: MainCharacters_Faraway
+      faceindex: 0
+      text: \aubUnd als wir in seinem Zimmer angekommen sind, habe ich versucht, mit ihm zu sprechen...\!<br>aber er sagte, er müsse ins Badezimmer, und rannte davon.
+
+message_50:
+      faceset: MainCharacters_Faraway
+      faceindex: 27
+      text: \aubDas war der Moment, in dem ich sein altes \c[4]FOTOALBUM\c[0] auf dem Bücherregal bemerkte.\! Ich wollte mir nur die Fotos anschauen, weil...\! naja...\! Ich schätze, ich wollte alle wieder glücklich sehen.
+
+message_10:
+      faceset: MainCharacters_Faraway
+      faceindex: 2
+      text: \aubAber...\! als ich es öffnete...
+
+message_11:
+      faceset: MainCharacters_Faraway
+      faceindex: 4
+      text: \aubHat BASIL alle Fotos mit schwarzem Marker bekritzelt!
+
+message_12:
+      faceset: MainCharacters_Faraway
+      faceindex: 6
+      text: \aubIch konnte es nicht fassen...\! Er hat sogar MARIs Gesicht bekritzelt...
+
+message_13:
+      faceset: MainCharacters_Faraway
+      faceindex: 7
+      text: \aubAll unsere Erinnerungen zusammen...\!<br>Es hat sich so angefühlt, als hätte er sie zerstört!
+
+message_14:
+      faceset: MainCharacters_Faraway
+      faceindex: 7
+      text: \aubIch war so verwirrt...\! und wütend...\!<br>Ich dachte, er wäre verrückt.
+
+message_15:
+      faceset: MainCharacters_Faraway
+      faceindex: 2
+      text: \aubUnd...\! anstatt zu versuchen, ihn zu verstehen...\! hab ich sein \c[4]FOTOALBUM\c[0] gestohlen und habe angefangen, ihn sowas wie Ekel zu nennen.
+
+message_16:
+      faceset: MainCharacters_Faraway
+      faceindex: 0
+      text: \aubUnd irgendwann...\! War ich nicht die Einzige, die ihn beleidigte.
+
+message_17:
+      faceset: MainCharacters_Faraway
+      faceindex: 27
+      text: \aub...
+
+message_18:
+      faceset: MainCharacters_Faraway
+      faceindex: 7
+      text: \aubJetzt fühle ich mich deswegen wie Abschaum.
+
+message_19:
+      faceset: MainCharacters_Faraway
+      faceindex: 0
+      text: \aubAber, wisst ihr was...
+
+message_20:
+      faceset: MainCharacters_Faraway
+      faceindex: 2
+      text: \aubDas einzige was ich seitdem tat war zu versuchen, mich von jedem zu distanzieren.
+
+message_21:
+      faceset: MainCharacters_Faraway
+      faceindex: 8
+      text: \aubIrgendwie ist es lustig.\! Was ich getan habe ist schlimmer als was er getan hat, und trotzdem bin ich diejenige, die sauer auf ihn ist...
+
+message_22:
+      faceset: MainCharacters_Faraway
+      faceindex: 9
+      text: \aubSchnief...\! Ich bin so ein Idiot.
+
+#Aubrey starts crying
+#(HERO and KEL walk up to comfort AUBREY.)
+
+message_23:
+      faceset: MainCharacters_Faraway
+      faceindex: 32
+      text: \herHey...\! Schon okay, AUBREY.\! Wir alle haben Fehler gemacht.
+
+message_24:
+      faceset: MainCharacters_Faraway
+      faceindex: 19
+      text: \kelZu der Zeit hab ich nicht wirklich verstanden, was passiert ist...\! Ich hatte Angst davor, dass ich alles irgendwie noch schlimmer machen würde...\! also hab ich beschlossen, mich aus allem rauszuhalten.
+
+message_25:
+      faceset: MainCharacters_Faraway
+      faceindex: 20
+      text: \kelEs tut mir wirklich leid, AUBREY...\! und es tut mir auch leid, \n[8].\!<br>Ich war ein ziemlich schlechter Freund.
+
+message_26:
+      faceset: MainCharacters_Faraway
+      faceindex: 32
+      text: \herDu warst damals noch ziemlich jung, KEL, aber ich bin der Älteste...\!<br>Ich hätte daran denken sollen, mich um alle zu kümmern.
+
+message_27:
+      faceset: MainCharacters_Faraway
+      faceindex: 40
+      text: \herIch...\! Ich habe...
+
+message_28:
+      faceset: MainCharacters_Faraway
+      faceindex: 27
+      text: \aubAh...\! Nein, schon gut.
+
+message_29:
+      faceset: MainCharacters_Faraway
+      faceindex: 8
+      text: \aubJetzt sind alle wieder hier...\! also nichts für ungut.
+
+#AUBREY shakes
+
+message_31:
+      faceset: MainCharacters_Faraway
+      faceindex: 9
+      text: \aubSchnief...\! Ich...
+
+message_32:
+      faceset: MainCharacters_Faraway
+      faceindex: 9
+      text: \aubIch verdiene Freunde wie euch nicht.
+
+message_33:
+      faceset: MainCharacters_Faraway
+      faceindex: 29
+      text: \herSei nicht albern, AUBREY.\! Natürlich tust du das.
+
+message_34:
+      faceset: MainCharacters_Faraway
+      faceindex: 38
+      text: \herWährend all dieser Zeit war es ziemlich offensichtlich, dass wir dir noch wichtig waren...
+
+message_35:
+      faceset: MainCharacters_Faraway
+      faceindex: 28
+      text: \herIch meine...\! schau dir all die Fotos im \c[4]FOTOALBUM\c[0] an!\!<br>Es sind nirgends Markerspuren zu sehen, von denen du gesprochen hast!\! Man kann unsere Gesichter perfekt erkennen!
+
+message_36:
+      faceset: MainCharacters_Faraway
+      faceindex: 29
+      text: \herSie haben sich doch nicht einfach selbst gesäubert, oder?
+
+message_37:
+      faceset: MainCharacters_Faraway
+      faceindex: 27
+      text: \aub...
+
+message_38:
+      faceset: MainCharacters_Faraway
+      faceindex: 14
+      text: \kelIst schon in Ordnung, AUBREY...\!<br>Ich verspreche dir, von nun an immer für dich da sein!
+
+message_39:
+      faceset: MainCharacters_Faraway
+      faceindex: 30
+      text: \herJa... Ich versprech's auch...\! Wir sollten alle füreinander da sein!
+
+message_40:
+      faceset: MainCharacters_Faraway
+      faceindex: 28
+      text: \her...
+
+message_41:
+      faceset: MainCharacters_Faraway
+      faceindex: 29
+      text: \herHey, wisst ihr was?\!<br>Ich denke, jetzt wäre der perfekte Moment für eine große Gruppenumarmung!
+
+message_42:
+      faceset: MainCharacters_Faraway
+      faceindex: 14
+      text: \kel\sinv[1]\{\{\Com[2]GRUPPENUMARMUNG!?
+
+message_43:
+      faceset: MainCharacters_Faraway
+      faceindex: 14
+      text: \kel\{\{\sinv[1]AWWW, YEAH! ICH MACH' MIT!!
+
+message_44:
+      faceset: MainCharacters_Faraway
+      faceindex: 5
+      text: \aubM-Moment mal!
+
+message_45:
+      faceset: MainCharacters_Faraway
+      faceindex: 29
+      text: \her\sinv[1]\{BEREIT ODER NICHT, WIR KOMMEN!
+
+#[Group Hug Slide]
+
+message_47:
+      faceset: MainCharacters_Faraway
+      faceindex: 0
+      text: \aub...
+
+message_48:
+      faceset: MainCharacters_Faraway
+      faceindex: 27
+      text: \aubWir sollten später schauen, ob BASIL wieder zuhause ist.
+
+message_49:
+      faceset: MainCharacters_Faraway
+      faceindex: 2
+      text: \aubIch muss mich bei ihm entschuldigen...\! und...\! ich denke...\!<br>Er ist gerade wahrscheinlich derjenige, der uns am meisten braucht.

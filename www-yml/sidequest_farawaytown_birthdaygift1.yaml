@@ -73,10 +73,10 @@ message_19:
       text: \n<WRINKLY FOREHEAD>Sieht klasse aus, oder?
 
 message_30:
-      text: \n<SHOPKEEP>Ah...\! \c[4]SUPER ULTRA SPROUT MOLE EATER\c[0] <br>\c[4]REVENGE OF THE MOLES III\c[0]...\! Eine gute Wahl!\! Hier, bitte sehr!
+      text: \n<LADENBESITZER>Ah...\! \c[4]SUPER ULTRA SPROUT MOLE EATER\c[0] <br>\c[4]REVENGE OF THE MOLES III\c[0]...\! Eine gute Wahl!\! Hier, bitte sehr!
 
 message_31:
-      text: \n<SHOPKEEP>Warte, du kannst nicht einfach gehen, ohne für das Spiel zu bezahlen!
+      text: \n<LADENBESITZER>Warte, du kannst nicht einfach gehen, ohne für das Spiel zu bezahlen!
 
 #home
 

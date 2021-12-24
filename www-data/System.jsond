@@ -1,0 +1,17 @@
+[
+  {
+      "op": "replace",
+      "path": "/terms/commands/19",
+      "value": "Fortfahren"
+  },
+  {
+      "op": "replace",
+      "path": "/terms/commands/18",
+      "value": "Neues Spiel"
+  },
+  {
+      "op": "replace",
+      "path": "/terms/commands/11",
+      "value": "Optionen"
+  }
+]

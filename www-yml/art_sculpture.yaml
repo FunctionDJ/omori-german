@@ -1,0 +1,455 @@
+#### Translation: Finished
+#### Translated by: jasu
+
+# =========================================================================================
+# ** ROCOCO INTRODUCTION
+# =========================================================================================
+#THE ARTIST ROCOCO:
+
+#After defeating Jawsum/Pluto in Last Resort, if you backtrack to Sweetheart's Castle - Fanmail Graveyard, you will notice a hole in the wall.
+
+#ROCOCO is an artist who is an elf.
+
+message_0:
+    text: \n<???>\sinv[1]Le gasp!\sinv[0]\! K-Kann es sein!?
+
+message_1:
+    text: \n<???>Ah, endlich...\! Etwas Gesellschaft...
+
+#*charm pose spinning*
+
+message_2:
+    text: \n<???>\sinv[2]Hyohehyohehyohehyo!
+
+message_3:
+    text: \n<???>Ich war so lange einsam...\! aber nach gefühlt einer Ewigkeit...\! Endlich...\! habe ich...\! ein Publikum!
+
+#*charm pose spinning*
+
+message_4:
+    text: \n<???>\sinv[2]Hyohehyohehyohehyo!
+
+message_5:
+    text: \n<???>Wer bin, fragt ihr?
+
+message_6:
+    text: \n<ROCOCO>Nun...\! Ich bin der großartige aufstrebende Künstler, ROCOCO!
+
+
+message_7:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 28
+    text: \kelDieser Typ ist...\! irgendwie komisch.\! Gehen wir.
+
+#*ROCOCO runs to block exit*
+
+message_8:
+    text: \n<ROCOCO>\com[2]Wartet, verlasst mich nicht!\! Bitte hört meiner Geschichte zu!
+
+message_9:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 27
+    text: \kelEntschuldige...\! uns.
+
+message_10:
+    text: \n<ROCOCO>\{\com[2]\quake[1]HÖRT BITTE ZU! ICH BIN SO EINSAM!!
+
+#*pause*
+
+message_11:
+    text: \n<ROCOCO>Ähem...\! genau.\! Wo soll ich nur anfangen?
+
+message_12:
+      text: \n<ROCOCO>Am Anfang habe ich...\! in einer Kapsel mitten im Weltall geweint...\! und sah mit meinen eigenen Augen, wie mein Heimatplanet explodiert ist.
+
+message_13:
+    text: \n<ROCOCO>Ich kann mich noch so klar daran erinnern...\!<br>Feuer...\| Feuer...\| überall...\| und dann Finsternis.
+
+message_14:
+    text: \n<ROCOCO>Als ich aufgewacht bin, habe ich mich mitten in einer Wüste wiedergefunden...\! umgeben von einem See aus braunem Zucker, in einem seltsamen Land, das man die \c[11]ORANGENOASE\c[0] nennt.
+
+message_15:
+    text: \n<ROCOCO>Sogar als ein Baby wusste ich, dass ich der einzige Überlebende meiner Art war...\! der letzte Elf des ganzen Universums.
+
+#*Party members gather and sit*
+
+message_16:
+    text: \n<ROCOCO>\"So wird es also enden..."\, dachte ich mir.
+
+message_17:
+      text: \n<ROCOCO>Aber...\! Ich hatte Glück und wurde von niemand anderes als ein junger \c[3]DONUT\c[0] namens SWEETHEART gefunden.\! Sie brachte mich zu ihrer Familie und sie haben mich aufgenommen.
+
+message_18:
+    text: \n<ROCOCO>SWEETHEART und I...\! Wir sind zusammen aufgewachsen.
+
+message_19:
+    text: \n<ROCOCO>Es war eine harte Kindheit.\! Wir haben oft gekämpft, aber sie hat immer gewonnen...\! Wenn ich zurückkämpfen würde...\! Nunja...\! ...
+
+message_20:
+    text: \n<ROCOCO>Jedenfalls! Ich habe gelernt, zu rennen!\! Und ich ich war ziemlich gut darin...\!<br>Aber...\! man kann nur so weit laufen.
+
+message_21:
+    text: \n<ROCOCO>Ja, es war eine harte Zeit.\! Aber trotz des ganzen Leids blieb ich unerschütterlich.
+
+
+message_22:
+      text: \n<ROCOCO>Denn bereits damals wusste ich, dass alles seinen Sinn hat.\! Ich wurde auf diesen Planeten geschickt und überlebte aus einem einzigen Grund...\! um meine Art neu zu bevölkern.
+
+#*pause*
+
+message_23:
+    text: \n<ROCOCO>In meinem Gedächtnis gibt es danach eine große Lücke, also gehe ich ein paar Jahre weiter.
+
+message_24:
+    text: \n<ROCOCO>Eines Tages...\! haben SWEETHEART und ich uns verliebt, uns verlobt und sind in dieses riesige Schloss gezogen!
+
+message_25:
+    text: \n<ROCOCO>Wir waren unzertrennlich, sie und ich... und wir liebten uns sehr!\! Ich habe alles für sie getan, und ich meine wirklich alles!
+
+message_26:
+    text: \n<ROCOCO>Ich war bereit, den Rest unseres Lebens miteinander zu verbringen...\! alt zu werden...\! und hunderte von Kindern aufzuziehen!
+
+message_27:
+      text: \n<ROCOCO>Hmm... Jetzt wo ich so darüber nachdenke, frage ich mich, ob ich ihr das deutlich gemacht habe.
+
+message_28:
+    text: \n<ROCOCO>Jedenfalls, weiter in der Geschichte...
+
+message_29:
+    text: \n<ROCOCO>Leider finden gute Zeiten auch ihr Ende.\! Als SWEETHEARTs Fanclub größer und größer wurde, haben sich unsere Wege getrennt.
+
+message_30:
+    text: \n<ROCOCO>Sie erhielt Geschenke und Briefe von Verehrern aus dem ganzen Universum...\! die nach einer Chance fragten, ihre Liebe zu zeigen.
+
+
+message_31:
+    text: \n<ROCOCO>Als ihre eine wahre Liebe war ich stark gegen diesen Gedanken! Aber sie war es nicht!
+
+message_32:
+      text: \n<ROCOCO>“SWEETHEART ist zu teilen!”, sagte sie!
+
+message_33:
+    text: \n<ROCOCO>...
+
+message_34:
+    text: \n<ROCOCO>Also...\! eines Nachts, als ich schlief...\! haben SWEETHEART und ihre Diener mich gefesselt und in die Wände ihres Schlosses verbannt.
+
+message_35:
+    text: \n<ROCOCO>Seitdem bin ich ziellos in der Dunkelheit in diesen Wänden umhergelaufen...\! und hielt mich mit altem TOAST und \c[3]TOFU\c[0] über Wasser.
+
+
+message_37:
+      text: \n<ROCOCO>Einige Jahre später, hier sind wir!
+
+message_38:
+    text: \n<ROCOCO>Jawohl...\! Ihr vier seid die ersten lebenden Wesen, die ich seit diesem schicksalshaften Tag gesehen habe.
+
+message_39:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 47
+    text: \herWow, Sir.\! Das ist eine wirklich... ähm...\| schockierende Geschichte.
+
+#ROCOCO shakes.
+
+message_40:
+    text: \n<ROCOCO>\sinv[1]Schnief... Oh... SWEETHEART...\! Wieso hast du das nur getan?<br>\!War ich dir nicht gut genug?
+
+message_41:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 4
+    text: \aubNun...\! Tut uns wirklich leid...\! Wir gehen dann mal.
+
+#party gets up
+
+message_42:
+    text: \n<ROCOCO>\com[2]\quake[1]\{WARTET, ICH BIN NOCH NICHT FERTIG!
+
+message_43:
+      text: \n<ROCOCO>Ich komme gerade erst zum Punkt!
+
+message_44:
+    text: \n<ROCOCO>\sinv[1]Seufz...\sinv[0]\! Die letzten paar Jahre hatte ich viel Zeit, um nachzudenken.
+
+message_45:
+    text: \n<ROCOCO>Ich habe meine Träume und so aufgegeben...\!<br>Es scheint alles einfach so weit und sinnlos...
+
+message_46:
+    text: \n<ROCOCO>Also...\! habe ich beschlossen, alles hinter mich zu lassen und stattdessen Künstler zu werden!
+
+#ROCOCO walks to his canvas.
+
+message_47:
+    text: \n<ROCOCO>\sinv[1]Seufz...\sinv[0]\! Und da ich erst anfange, kann ich euch wohl einen Rabatt gewähren.
+
+#*ROCOCO CHARM stay in pose*
+
+message_48:
+      text: \n<ROCOCO>Für mein allererstes Meisterwerk...\! verlange ich nur 1000 MUSCHELN!
+
+#*stop pose*
+
+message_49:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 39
+    text: \herHmm...\! Was denkt ihr?\! 1000 MUSCHELN sind etwas viel, oder?
+
+message_50:
+    text: \n<ROCOCO>\{\com[2]\quake[1]BITTE BEAUFTRAGT MICH!
+
+message_51:
+    faceset: MainCharacters_DreamWorld
+    faceindex: 47
+    text: \herWir...\! Wir denken darüber nach.
+
+message_52:
+    text: \n<ROCOCO>Ah! Ja... Ja, natürlich! Lasst euch Zeit!
+
+message_999:
+    text: \n<ROCOCO>Bis dahin werde ich genau hier stehenbleiben!
+
+message_53:
+    text: \$\n<ROCOCO>Für mein allererstes Meisterwerk verlange ich nur 1000 MUSCHELN!\! Habt ihr euch entschlossen, mich bei meinem Weg zur Selbstfindung zu unterstützen?
+
+#[YES/NO]
+
+
+#[YES]
+#*chaching*
+
+message_54:
+    text: \n<ROCOCO>\{\{\sinv[1]LE FORMIDABEL!!
+
+message_55:
+      text: \n<ROCOCO>Bitte kommt nach einiger Zeit wieder!\!<br>Schließlich braucht Großartigkeit seine Zeit!
+
+#[NO]
+
+message_56:
+    text: \n<ROCOCO>Oh...\! Das ist in Ordnung...\! \sinv[1]Seufz...\sinv[0]\!<br>Ich bin mir sicher...\! dass jemand anderes einen wahren Künstler anerkennen wird.
+
+#If you try to leave after not paying for COMMISSION:
+
+message_57:
+    text: \n<ROCOCO>\sinv[1]\com[2]\{LASST MICH NICHT IM STICH!!
+
+#If you try to leave after paying for COMMISSION:
+
+message_58:
+    text: \n<ROCOCO>\sinv[1]\com[2]\{ICH WERDE EUCH NICHT ENTTÄUSCHEN!!
+
+#Upon returning once painting is complete:
+
+message_59:
+    text: \n<ROCOCO>\sinv[1]Le gasp!\sinv[0]\! Ihr seid zurückgekehrt!
+
+message_60:
+      text: \n<ROCOCO>Bitte bewundert mein neuestes Meisterwerk.\! Es ist bereits in der Galerie hinten eingerahmt.
+
+#After checking out the painting:
+
+message_61:
+    text: \n<ROCOCO>Und? Seid ihr zufrieden mit meinem Meisterwerk?
+
+message_62:
+    text: \n<ROCOCO>Nur dass ihr es wisst...\! Je mehr mein Können wächst, desto teurer werden die Kunstwerke!
+
+message_63:
+    text: \$\n<ROCOCO>Das nächste Meisterwerk wird euch \v[1000] MUSCHELN kosten!\! Werdet ihr mich bei meinem Weg zur Selbstfindung weiterhin unterstützen?
+
+#After completing all paintings:
+
+message_64:
+    text: \n<ROCOCO>Ich danke euch, lebende Wesen.\! Durch diese paar Aufträge...\! fühle ich mich so, als hatte ich große Fortschritte in meiner Selbstfindung gemacht.\! Ich bin jetzt außerdem sehr reich.
+
+message_65:
+      text: \n<ROCOCO>Ich kann für euch nichts Weiteres mehr tun!\! Ich fühle mich wahrlich vollkommen!
+
+#How to Commission Art:
+#ROCOCO will make a total of 6 pieces for you.
+#To commission art from ROCOCO, just talk to him and pay him the amount he asks for. His price will increase with each piece you commission.
+#After you pay ROCOCO, the art will be ready as soon as you exit Sprout Mole Village.
+#When you come back, ROCOCO will tell you that your new art is done and hanging in the gallery. After you check the painting, you can talk to him again. He will ask if you want to commission him for his next piece.
+
+#1st piece: Kid's Drawing
+#Cost: 1000 MUSCHELN
+
+message_70:
+    text: \"KEIN TITEL\"<br>\!- Vom großartigen Künstler ROCOCO
+
+message_71:
+    text: \n<KOMMENTAR VOM KÜNSTLER>\"Hey ich habe gerade erst angefangen, okay? Haltet mal die Luft an.\"
+
+#2nd piece: Gesture (WIP)
+#Cost: 5000 MUSCHELN
+message_72:
+    text: \"LEUTE MIT FRUCHT\"<br>\!- Vom großartigen Künstler ROCOCO
+
+message_73:
+    text: \n<KOMMENTAR VOM KÜNSTLER>"Erblickt meine Verbesserung!\! Jedoch ist es klar, dass ich noch ein Schüler bin.\! Für mein nächstes Werk muss ich diese Neulings-Energie abschütteln."
+
+#3rd piece: Cubist
+#Cost: 10000 MUSCHELN
+message_74:
+    text: \"LA FIESTA DE CUATRO\"<br>\!- Vom großartigen Künstler ROCOCO
+
+message_75:
+    text: \n<KOMMENTAR VOM KÜNSTLER>"Wie all die großen Künster sagen... Realismus ist langweilig is boring!\! Das ist bisher mein gefühlvollstes Werk!\! Könnt ihr meine Gefühle spüren?"
+
+#4th piece: Manga Cover (WIP)
+#Cost: 15000 MUSCHELN
+
+message_76:
+    text: \"OMORI'S UNUSUAL ESCAPADES\"<br>\!- Vom großartigen Künstler ROCOCO
+
+message_77:
+    text: \n<KOMMENTAR VOM KÜNSTLER>"Was!? Seid ihr überrascht?\! Was meint ihr? Kann ein Künstler denn seinen Stil nicht ändern!?"
+
+#5th piece: Renaissance (WIP)
+#Cost: 25000 MUSCHELN
+
+message_78:
+    text: \"DIE LETZTE ENTHÜLLUNG\"<br>\!- Vom großartigen Künstler ROCOCO
+
+message_79:
+    text: \n<KOMMENTAR VOM KÜNSTLER>"Ich muss zugeben.\! Mit diesem Werk hatte ich einige Probleme, aber ich denke es wurde okay.\! Mein nächstes Werk wird besser sein!"
+
+#6th piece: Pixel Art (WIP)
+#Cost: 50000 MUSCHELN
+
+message_80:
+    text: \"OMORI, AUBREY, KEL UND HERO\"<br>\!- Vom großartigen Künstler ROCOCO
+
+message_81:
+    text: \n<KOMMENTAR VOM KÜNSTLER>"Meine Kunst ist mit diesem Meisterwerk wahrlich aufgestiegen.\! Ich habe euch endlich in eurem wahren Wesen erfasst.\! Ich kann für euch nichts Weiteres mehr tun."
+
+
+#NOT HAVING ENOUGH MUSCHELN
+
+message_1000:
+    text: \n<ROCOCO>Ah...\! Ich sehe, dass euch die MUSCHELN fehlen.\! Tut mir leid, aber meine Preise sind fest...\! und ich arbeite nicht für nichts!
+
+#THE SCULPTOR KROKO-KERL:
+#In the construction area in LAST RESORT above MARI's picnic, there will be a sculptor working on a HERO statue. He will remain here until Epilogue after Hero becomes Boss of Last Resort.
+
+#Before HERO is in party:
+message_90:
+      text: \n<KROKO-KERL>Puh...\! Ich bin so gut wie fertig mit unserer Tribute an unseren Arbeiter des Jahrhunderts.<br><br>Seht mich an, wie ich Statuen mache und so...\! Hätte nie gedacht, dass ich sowas könnte, aber der Boss hat immer an mich geglaubt!
+
+#After HERO is in party:
+message_91:
+    text: \n<KROKO-KERL>Hey, HERO! Ich poliere hier nur Ihre Statue nach Anweisungen vom Boss.\! Ziemlich schick sind Sie übrigens...
+
+#After Hero becomes the Boss, the Gator Guy will move to his work station.
+#Since Hero is the Boss, the KROKO-KERL will offer to make a statue of OMORI, AUBREY or KEL (since Hero will already be completed.)
+
+message_92:
+    text: \n<KROKO-KERL>Hey, neuer Boss!\! Dachte mir schon, dass Sie eines Tages übernehmen werden.\! Ich hoffe, dass alles gut läuft.
+
+message_93:
+    text: \n<KROKO-KERL>Ihr vier scheint eine sehr enge Gruppe zu sein, aber Ihre Statue ist etwas einsam, finden Sie nicht, HERO?
+
+message_94:
+    text: \n<KROKO-KERL>Wenn ihr wollt, dass ich euch eine Statue anfertige, gerne...\! Aber ich bin bloß ein bescheidener Skulpteur... Krieg' nicht so viel Kohle wie ihr.
+
+message_95:
+      text: \n<KROKO-KERL>Dennoch, schulde ich dem alten Boss noch was.\! Wenn ihr wollt, dass ich arbeite, müsstet ihr für die Materialkosten zahlen...\! jeweils etwa 3000 MUSCHELN.
+
+message_96:
+    text: \n<KROKO-KERL>Also wollt ihr, dass ich eine Statue von einem von euch mach'?
+
+#[YES/NO]
+message_97:
+    text: \n<KROKO-KERL>Von wem soll ich eine Statue anfertigen?
+
+#[OMORI/AUBREY/KEL]
+#
+message_98:
+    text: \n<KROKO-KERL>Klingt gut, Boss!\! Macht ihr mal euer Ding und schaut später nochmal vorbei!\! Ich mache Ihnen bald genug einen Kumpel, Boss.
+
+#[NO/NEVERMIND]
+
+message_99:
+      text: \n<KROKO-KERL>Also gut! Wenn Sie meinen, Boss...\! aber wenn Sie mich fragen, könnte Ihre Statue etwas Gesellschaft gebrauchen.
+
+message_1002:
+      text: \n<KROKO-KERL>Also gut...\! Wenn Sie meinen, Boss...
+
+#Once you pay for your statue, it will be completed as soon as you exit the Last Resort building to Last Resort Entrance.
+
+#After you come back when the statue is complete:
+message_100:
+    text: \n<KROKO-KERL>Was halten Sie davon, Boss?\! Ich seh' schon, dass Ihre Statue jetzt etwas weniger einsam aussieht.
+message_101:
+    text: \n<KROKO-KERL>Wollt ihr, dass ich noch eine Statue von jemandem mache?\!<br>Es kostet euch 3000 MUSCHELN.
+
+#After OMORI, AUBREY, and KEL statues are complete:
+
+message_102:
+      text: \n<KROKO-KERL>Was halten Sie davon, Boss?\! Ich seh' schon, dass Ihre Statue jetzt etwas weniger einsam aussieht.
+
+message_103:
+    text: \n<KROKO-KERL>Wisst ihr... Ich hab mit euren Freunden beim Picknick geredet und ich denke, dass sie auch zur Statuenparty eingeladen werden sollten!
+
+message_104:
+    text: \n<KROKO-KERL>Wollt ihr, dass ich noch eine Statue von jemandem mache?\!<br>Es kostet euch 3000 MUSCHELN.
+
+message_105:
+      text: \n<KROKO-KERL>Von wem soll ich eine Statue anfertigen?
+#[MARI/BASIL]
+
+#After completing MARI/BASIL statues:
+message_106:
+    text: \n<KROKO-KERL>Was halten Sie davon, Boss?\! Ich seh' schon, dass Ihre Statue jetzt etwas weniger einsam aussieht.
+
+#*KROKO-KERL looks at statues*
+
+message_107:
+    text: \n<KROKO-KERL>Mann... Jetzt bin ich derjenige, der sich einsam fühlt...\! Wenn das nicht zu viel verlangt ist, Boss, könnte ich zu Ihrer Statuenparty vielleicht auch dazustoßen?
+
+#After completing KROKO-KERL statue:
+
+message_108:
+      text: \n<KROKO-KERL>So, fertig.\! Die Party ist offiziell vollständig!
+
+#*KROKO-KERL looks at statues*
+
+message_109:
+      text: \n<KROKO-KERL>Es gibt nichts Besseres als die riesigen Gesichter von all seinen Freunden anzusehen.
+
+message_110:
+    text: \n<KROKO-KERL>Danke, dass ich Teil der Gruppe sein darf, auch wenn nur als Statue.\! Ihr seid die Besten.
+
+message_111:
+    text: \n<KROKO-KERL>Hier ist meine Nummer, Boss.\! Rufen Sie mich einfach an, wenn ihr etwas Hilfe braucht.
+
+message_112:
+    text: HERO erlernt \c[1]KROKO-KRAFT\c[0]!
+#Skill Get common event
+
+#not enough MUSCHELN
+
+message_1001:
+    text: \n<KROKO-KERL>Sie haben nicht genug MUSCHELN, Boss!\! Keine Sorge, ich kann warten.\! Die kriegen Sie sicher schnell zusammen.
+
+#Statues
+
+message_1010:
+    text: Eine beeindruckende Statue von dir.\!<br>Es ist komisch, dein Gesicht in so groß zu sehen.
+
+message_1011:
+    text: Eine beeindruckende Statue von AUBREY.\!<br>Ihre muntere Anwesenheit erhellt die Gegend.
+
+message_1012:
+    text: Eine beeindruckende Statue von KEL.\!<br>Sie erfasst sein Wesen perfekt.
+
+message_1013:
+    text: Eine beeindruckende Statue von HERO.\! Wow...
+
+message_1014:
+    text: Eine beeindruckende Statue von MARI.\!<br>Du weißt nie, was hinter ihrem schelmischen Lächeln steckt.
+
+message_1015:
+    text: Eine beeindruckende Statue von BASIL.\!<br>Sogar als eine Statue versteckt er sein Gesicht hinter einer Kamera.
+
+message_1016:
+    text: Eine beeindruckende Statue von KROKO-KERL.\!<br>Sieht gut aus...

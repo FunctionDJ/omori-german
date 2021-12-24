@@ -1,0 +1,11 @@
+{
+	"YAML Credits": {
+		"scope": "yaml",
+		"prefix": "++",
+		"body": [
+			"#### Translation: ${2|Finished,Partial,Demo-only,Unknown|}",
+			"#### Translated by: ${1|haj,jasu,schako,mewo,meta,lugi,dagobert|}",
+			""
+		]
+	}
+}

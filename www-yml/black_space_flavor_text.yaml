@@ -1,6 +1,8 @@
 #### Translation: Finished
+#### Editing: Finished
 
 #### Translated by: meta
+#### Edited by: schako
 
 # =========================================================================================
 # BASIL SHOE INTERIOR: 98
@@ -9,7 +11,7 @@
 #Door
 
 message_500:
-      text: Bist du dir sicher das du gehen willst?
+      text: Bist du dir sicher, dass du gehen willst?
 
 # =========================================================================================
 # BLACKSPACE ENTRANCE: 264
@@ -57,7 +59,7 @@ message_553:
       text: Du fühlst ein kalte Briese.
 
 message_554:
-      text: Du fühlst wie jemand deine Hand hält.
+      text: Du fühlst, wie jemand deine Hand hält.
 
 message_555:
       text: Da ist ein Loch.\! Willst du in das Loch hineinsehen?
@@ -84,49 +86,49 @@ message_571:
 # POND
 
 message_0:
-      text: Du siehst einen Jungen der etwas glänzendes in eine Truhe legt.
+      text: Du siehst einen Jungen, der etwas glänzendes in eine Truhe legt.
 
 message_1:
-      text: Du siehst einen Jungen der in der Ecke seines Zimmers sitzt und weint.
+      text: Du siehst einen Jungen, der in der Ecke seines Zimmers sitzt und weint.
 
 message_2:
-      text: Du siehst einen Jungen der sich die Knöchel kratzt.
+      text: Du siehst einen Jungen, der sich die Knöchel kratzt.
 
 message_3:
-      text: Du siehst einen Jungen der aus seinem Fenster schaut.
+      text: Du siehst einen Jungen, der aus seinem Fenster schaut.
 
 message_4:
-      text: Du siehst zwei Jungen die draußen mit ihrem Hund spielen.
+      text: Du siehst zwei Jungen, die draußen mit ihrem Hund spielen.
 
 message_5:
-      text: Du siehst einen Jungen der seine Tür verschließt.
+      text: Du siehst einen Jungen, der seine Tür verschließt.
 
 message_6:
-      text: Du siehst einen Jungen der die Wand anstarrt.
+      text: Du siehst einen Jungen, der die Wand anstarrt.
 
 message_7:
-      text: Du siehst einen Jungen der Stifte in seinen Schreibtisch rammt.
+      text: Du siehst einen Jungen, der Stifte in seinen Schreibtisch rammt.
 
 message_8:
-      text: Du siehst einen Jungen der etwas im Gras vergräbt.
+      text: Du siehst einen Jungen, der etwas im Gras vergräbt.
 
 message_9:
-      text: Du siehst einen Jungen der in einem dunklen Zimmer sitzt.\!<br>Der Junge lügt immer, und immer wieder.
+      text: Du siehst einen Jungen, der in einem dunklen Zimmer sitzt.\!<br>Der Junge lügt immer, und immer wieder.
 
 message_10:
-      text: Du siehst einen Jungen am Klavier sitzen.\!<br>Der Junge spielt ein Paar Tön, bevor er etwas vor sich hin murmelt.
+      text: Du siehst einen Jungen am Klavier sitzen.\!<br>Der Junge spielt ein Paar Töne, bevor er etwas vor sich hin murmelt.
 
 message_11:
-      text: Du siehst einen Jungen der sein Bettlaken umdreht.
+      text: Du siehst einen Jungen, der sein Bettlaken umdreht.
 
 message_12:
-      text: Du siehst einen Jungen der seine Finger anstarrt.\! <br>Er wimmert vor Schmerzen.
+      text: Du siehst einen Jungen, der seine Finger anstarrt.\! <br>Er wimmert vor Schmerzen.
 
 message_13:
-      text: Du siehst einen Mann der seine Autotür schließt und weg fährt.
+      text: Du siehst einen Mann, der seine Autotür schließt und wegfährt.
 
 message_14:
-      text: Du siehst einen Mann der verzweifelt versucht den Baum im Hintergarten zu pfällen.
+      text: Du siehst einen Mann, der verzweifelt versucht den Baum im Hinterhof zu fällen.
 
 
 # =========================================================================================
@@ -145,7 +147,7 @@ message_22:
       text: Du hörst deine MUTTER weinen.\! <br>\"Wo...\! Wo ist deine Violine?\"
 
 message_23:
-      text: Du hörst eine Stimme aus dem Inneren des Kartons murmeln<.
+      text: Du hörst eine Stimme aus dem Inneren des Kartons murmeln.
 
 message_24:
       text: \fn<OMORI_GAME>Es war ein Unfall. Es war ein Unfall. Es war ein Unfall <br>Es war ein Unfall. Es war ein Unfall. Es war ein Unfall. <br>Es war ein Unfall. Es war ein Unfall. \quake[1]Es war ein Unfall.\quake[0]
@@ -190,10 +192,10 @@ message_34:
       text: Willst du aufhören zu schwimmen?
 
 message_36:
-      text: \n<LITTLE ONE>\}Hilf mir...
+      text: \n<KLEINES>\}Hilf mir...
 
 message_37:
-      text: \n<LITTLE ONE>\}OMORI... Ich bin traurig...
+      text: \n<KLEINES>\}OMORI... Ich bin traurig...
 
 message_38:
       text: Etwas war hier.
@@ -226,12 +228,12 @@ message_47:
 #Desks
 
 message_45:
-      text: Ein SPROUT MOLE wurde auf diesen Tisch gekratzt.
+      text: Ein SPROSSWURF wurde auf diesen Tisch gekratzt.
 
 #Doors
 
 message_46:
-      text: Diese Tür ist mit der 'SCHLÜSSEL' ZUTAT worden.
+      text: Diese Tür ist mit der 'SCHLÜSSEL' ZUTAT zugeschlossen worden.
 
 message_48:
       text: Du hast die Tür aufgeschlossen.
@@ -253,7 +255,7 @@ message_101:
 #Deer skull
 
 message_102:
-      text: \n<DEER HEAD>Kannst du dich noch an dein Zuhause erinnern?
+      text: \n<REHKOPF>Kannst du dich noch an dein Zuhause erinnern?
 
 #Beach
 
@@ -264,7 +266,7 @@ message_104:
       text: Es ist wirklich heiß.
 
 message_105:
-      text: \n<CRAB>Ich freu mich schon auf meine Bräunung!
+      text: \n<KRABBE>Ich freu mich schon auf meine Bräunung!
 
 message_106:
       text: Die KRABBE stirbt.
@@ -277,20 +279,20 @@ message_107:
 # ========================================================================================
 
 message_110:
-      text: Der Wetterhahn zeigt nach Westen.
+      text: Die Wetterfahne zeigt nach Westen.
 
 message_111:
-      text: Der Wetterhahn zeigt nach Norden.
+      text: Die Wetterfahne zeigt nach Norden.
 
 message_112:
-      text: Der Wetterhahn zeigt nach Osten.
+      text: Die Wetterfahne zeigt nach Osten.
 
 # =========================================================================================
 # Looping Forest: 270
 # ========================================================================================
 
 message_120:
-      text: Du isst das STEAK.
+      text: Du hast das STEAK gegessen.
 
 message_121:
       text: Ein fliegender Spiegel.\! Du bist ganz alleine.\!<br>Willst du Verstecken spielen?
@@ -344,7 +346,7 @@ message_133:
       text: Du hast keine ZWANZIG DOLLAR.
 
 message_134:
-      text: \n<OMOLI>\}Vieln Dank...
+      text: \n<OMOLI>\}Vieln Damk...
 
 message_135:
       text: \n<GROßE TASCHE>Ich hab Lust zu Tanzen!
@@ -356,22 +358,22 @@ message_137:
       text: Du weißt nicht wie man tanzt.
 
 message_138:
-      text: PLUTO sieht nicht wie er selbst aus.\!<br>Vielleicht ist es besser wenn du ihn etwas in Ruhe lässt.
+      text: PLUTO sieht nicht wie er selbst aus.\!<br>Vielleicht ist es besser, wenn du ihn etwas in Ruhe lässt.
 
 message_139:
-      text: \n<LOOMY>Oh! Nah, wenn das nicht mein alter Freund ist!\! Ich hab die Fähigkeit zwischen vielen verschiedenen Orten hin und her zureisen in dem ich die Toiletten benutze!
+      text: \n<LOOMY>Oh! Nah, wenn das nicht mein alter Freund ist!\! Ich hab die Fähigkeit zwischen vielen verschiedenen Orten hin und her zureisen, indem ich die Toiletten benutze!
 
 message_140:
-      text: \n<LOOMY>PASS zu mir und ich zeig's dir, OMORI!
+      text: \n<LOOMY>TAG mich und ich zeig's dir, OMORI!
 
 message_141:
       text: Du kennst diese Person nicht.
 
 message_142:
-      text: \n<LOOMY>PASS zu mir, OMORI!
+      text: \n<LOOMY>TAG mich, OMORI!
 
 message_143:
-      text: \n<LOOMY>Hey, PASS zu mir!
+      text: \n<LOOMY>Hey, TAG mich!
 
 message_144:
       text: Du fühlst dich als würdest du deine Freunde sehen.
@@ -391,14 +393,14 @@ message_150:
       text: Du bekommst ZWANZIG DOLLAR!
 
 message_151:
-      text: Wilkommen im GELD RAUM.\!<br>Hier hat nur KEL Zutritt.
+      text: Wilkommen im GELDRAUM.\!<br>Hier hat nur KEL Zutritt.
 
 # =========================================================================================
 # Hideous Creature: 288
 # ========================================================================================
 
 message_155:
-      text: Bruder...\! Ich bin so froh das du da bist...
+      text: Bruder...\! Ich bin so froh, dass du da bist...
 
 # =========================================================================================
 # Hell: 274
@@ -416,7 +418,7 @@ message_160:
 #Daddy longlegs
 
 message_165:
-      text: \n<OPA LANGBEIN>Ah...\! Du hast einen langen Weg hinter dir.\!<br>Aber jetzt wo du noch die Chance hast, solltest du wirklich umkehren.
+      text: \n<HERR WEBERKNECHT>Ah...\! Du hast einen langen Weg hinter dir.\!<br>Aber jetzt wo du noch die Chance hast, solltest du wirklich umkehren.
 
 # =========================================================================================
 # Player Room with Hell Mari: 296
@@ -426,7 +428,7 @@ message_170:
       text: \n<HERO>Hey, OMORI!\! Hast du Hunger?
 
 message_171:
-      text: \n<HERO>Ich wollte gerade mit dem Kochen anfangen aber mir fehlen ein Paar Zutaten.\! Könntest du nicht losgehen und mir welche suchen?
+      text: \n<HERO>Ich wollte gerade mit dem Kochen anfangen, aber mir fehlen ein paar Zutaten.\! Könntest du nicht losgehen und mir welche suchen?
 
 message_172:
       text: \n<HERO>Hast du etwas zum Kochen für mich gefunden?\!<br>In einer Minute bin ich Fertig!
@@ -482,7 +484,7 @@ message_187:
 message_188:
       faceset: MainCharacters_DreamWorld
       faceindex: 2
-      text: OMORI...\! I-\aub
+      text: OMORI...\! Ich-\aub
 
 message_189:
       faceset: MainCharacters_DreamWorld
@@ -517,12 +519,12 @@ message_194:
 message_195:
       faceset: MainCharacters_DreamWorld
       faceindex: 6
-      text: Huff...\! huff...\! huff...\aub
+      text: Schnauf...\! schnauf...\! schnauf...\aub
 
 message_196:
       faceset: MainCharacters_DreamWorld
       faceindex: 5
-      text: Huff...\! huff...\! huff...\aub
+      text: schnauf...\! schnauf...\! schnauf...\aub
 
 message_197:
       faceset: MainCharacters_DreamWorld
@@ -532,7 +534,7 @@ message_197:
 message_198:
       faceset: MainCharacters_DreamWorld
       faceindex: 6
-      text: Du bist garnicht mal so schlecht...\! Uh...\aub
+      text: Du bist auch garnicht mal so schlecht...\! Uh...\aub
 
 message_199:
       faceset: MainCharacters_DreamWorld
@@ -688,29 +690,29 @@ message_311:
       text: \aubHey, OMORI...\! Ich glaube deine Schwester ignoriert uns.\! Vielleicht solltest du mal mit ihr reden.
 
 message_312:
-      text: \kelWir können kein Picnic ohne MARI haben!
+      text: \kelWir können kein Picknic ohne MARI haben!
 
 message_313:
-      text: \herMARI war eine längere Zeit nicht mehr zuhause...\! Ich glaube sie braucht nur etwas Zeit für sich.
+      text: \herMARI war eine längere Zeit nicht mehr zuhause...\! Ich glaube, sie braucht nur etwas Zeit für sich.
 
 # =========================================================================================
 # DREAM: 504
 # ========================================================================================
 
 message_315:
-      text: \n<GEMÜSE KIND>Mein lieblings KISSEN ist wieder verschwunden!\!<br>Ich kann ohne mein KISSEN nicht einschlafen...
+      text: \n<GEMÜSLEIN>Mein LIEBLINGSKISSEN ist wieder verschwunden!\!<br>Ich kann ohne mein KISSEN nicht einschlafen...
 
 message_316:
-      text: \n<GEMÜSE KIND>Hast du es schon wiedergefunden?
+      text: \n<GEMÜSLEIN>Hast du es schon wiedergefunden?
 
 message_317:
       text: Du hast ein KISSEN gefunden.
 
 message_318:
-      text: \n<GEMÜSE KIND>Das ist nicht mein KISSEN...\! Aber trotzdem danke!
+      text: \n<GEMÜSLEIN>Das ist nicht mein KISSEN...\! Aber trotzdem danke!
 
 message_319:
-      text: \n<KISSEN VERSTECKER>Man nennt mich den KISSEN VERSTECKER! Ich bin ein Meister darin KISSEN zuverstecken.
+      text: \n<KISSENVERSTECKER>Man nennt mich den KISSENVERSTECKER! Ich bin ein Meister darin KISSEN zuverstecken.
 
 message_320:
       text: \n<SPROSSWURF>Oh, du hast es gefunden.\! Vergess das KISSEN VERSTECKER Ding... Ich verstecke lieber andere Dinge.

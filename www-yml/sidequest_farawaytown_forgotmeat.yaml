@@ -1,0 +1,80 @@
+#### Translation: Finished
+#### Translated by: haj
+
+# =========================================================================================
+# Sidequest: Forgot Meat
+# =========================================================================================
+
+#Talk to Kels dad
+
+message_1:
+      text: \n<KELs PAPA>\Com[2]Och, Hundekacke!\! KEL, dein alter Herr ist so ein Trottel!\!<br>Wir sind bei einem schönen Picknick, aber ich habe die wichtigste Zutat vergessen...\! \c[4]FLEISCH\c[0]!
+
+message_2:
+      text: \n<KELs PAPA>Könntest du etwas Zeit haben und mir etwas von dem guten alten Billigzeug im \c[11]ANDERENMART\c[0] kaufen?
+
+message_3:
+      text: \n<KELs PAPA>Hier ist etwas Geld...\! Sprich einfach mit dem MEAT MAN im Hinterzimmer. Er wird dir sofort etwas geben!
+
+message_4:
+      text: Du bekommst $20,00.
+
+#Buy Meat / Talk to OTHERMART LADY:
+
+message_5:
+      text: \n<OTHERMART LADY>HELLO!\! 你是要 Fleisch 吗? 是 $18.00!
+
+#[yes / no]
+
+#if yes
+
+message_6:
+      text: \n<OTHERMART LADY>OK!\! \}\}谢谢, 孩子!
+
+message_7:
+      text: Du hast \c[4]FLEISCH\c[0].
+
+#Talk to Kels dad
+
+message_20:
+      text: Du hast das \c[4]FLEISCH\c[0] an KELs Vater gegeben.
+
+message_8:
+      text: \n<KELs PAPA>Danke, Kumpel! Das ist genau das, wonach ich gesucht habe!\!<br>Das werden ein paar leckere \c[3]HAMBURGERS\c[0]...
+
+message_9:
+      text: \n<KELs PAPA>Du solltest später am Abend vorbeikommen.\!<br>Du wirst auf jeden Fall etwas von dieser Köstlichkeit probieren wollen!
+
+message_10:
+      text: \n<KELs PAPA>Aber jetzt geht und amüsiert euch erst einmal.\!<br>Das Wetter ist heute großartig!
+
+#Talk to KELs PAPA during Sunset
+
+message_11:
+      text: \n<KELs PAPA>Hey, Jungs!\! Hier ist ein Burger für jeden von euch, wie versprochen!
+
+message_12:
+      text: Du bekommst 4 \c[3]HAMBURGERS\c[0].\! Wow...
+
+message_13:
+      text: \n<KELs PAPA>Es ist schon lange her, dass ich euch alle zusammen gesehen habe.\!<br>Das erinnert mich an die Zeit, als ihr alle noch Kinder wart, haha...
+
+message_14:
+      text: \n<KELs PAPA>\n[8]!\!<br>Viel Glück beim morgigen Umzug!
+
+message_15:
+      text: \n<KELs PAPA>Vergiss nicht, ab und zu mal vorbeizuschauen... <br>\!Ich weiß, dass KEL ohne dich einsam sein wird!
+
+message_16:
+      faceset: MainCharacters_Faraway
+      faceindex: 19 #insert number here
+      text: \kelOch, Papa...\! Hör auf damit... Du bringst mich in Verlegenheit...
+
+message_17:
+      text: \n<KELs PAPA>\{\Com[2]\SINV[2]GAH\{AHAHA\{HAHAHA!!\}\SINV[0]
+
+message_18:
+      text: \n<KELs PAPA>Hier ist eine Lektion von deinem alten Herrn.\! Wenn du älter wirst, wird es immer schwieriger, Freunde zu finden...
+
+message_19:
+      text: \n<KELs PAPA>Wenn du also glaubst, dass du einen guten Freund hast, dann ist es wichtig, ihn zu schätzen.\! Freunde kann man ein Leben lang haben, weißt du!
